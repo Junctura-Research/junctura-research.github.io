@@ -11,13 +11,15 @@ Drafts are written and validated in the private research repository. Only docume
 | `index.qmd` | Home page and the list of publications (built automatically from `research/`) |
 | `about.qmd` | How the research is produced and directed |
 | `corrections.qmd` | Every published error, the date found, and the fix |
+| `_disclaimer.md` | The disclaimer text, kept in one place. Used by the Disclaimer page and appended to the end of every PDF. Change it only with the attorney's approval |
+| `disclaimer.qmd` | The Disclaimer page, linked from the footer of every page |
 | `research/<slug>.qmd` | One published document. Renders to `/research/<slug>.html` and `/research/<slug>.pdf` |
 | `research/_metadata.yml` | Settings for every document: HTML and PDF output, the type and as-of line |
 | `data/<slug>/` | The document's frozen data appendix, served as plain files at `/data/<slug>/` |
-| `filters/doc-meta.lua` | Adds "Research Note · Evidence as of …" and the PDF link to each document; adds the Google Scholar PDF tag |
+| `filters/doc-meta.lua` | Adds "Research Note · Evidence as of …" and the PDF link to each document; appends the full disclaimer to every PDF; adds the Google Scholar PDF tag |
 | `scripts/data_index.py` | Runs after each render; writes a file-listing page into every folder under `_site/data/` so folder links work |
 | `scripts/check_links.py` | Fails the build if any internal link (including `https://juncturaresearch.com/...` links) points to a missing file |
-| `_quarto.yml` | Site settings: navigation, footer disclaimer, search, sitemap |
+| `_quarto.yml` | Site settings: navigation, footer (disclaimer link and review statement), search, sitemap |
 | `.github/workflows/publish.yml` | Build on every pull request; build and publish on `main` |
 
 ## Publishing an approved document

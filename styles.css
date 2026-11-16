@@ -24,11 +24,11 @@ body {
 .doc-item .doc-description { margin-bottom: 0.4rem; }
 .doc-item .doc-links { font-size: 0.9rem; margin: 0; }
 
-/* Footer: disclaimer on every page */
+/* Footer: disclaimer link and review statement on every page */
 .nav-footer { font-size: 0.8rem; }
 .nav-footer .nav-footer-left, .nav-footer .nav-footer-right { flex: 0 1 0; }
 .nav-footer .nav-footer-center { flex: 1 1 auto; max-width: 52rem; text-align: left; }
-.site-disclaimer, .site-direction { margin: 0.4rem 0; color: #555; }
+.site-direction { margin: 0.4rem 0; color: #555; }
 
 /* Tables in documents */
 table { font-size: 0.92rem; }

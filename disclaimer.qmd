@@ -1,0 +1,9 @@
+---
+title: "Disclaimer"
+description: "Junctura Research is independent research, not investment advice."
+toc: false
+---
+
+{{< include _disclaimer.md >}}
+
+A human reviewer chooses the research topics, approves the direction of each investigation, and approves every document before it is published. See [About](about.qmd) for how the research is produced and [Corrections](corrections.qmd) for every published error.

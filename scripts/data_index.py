@@ -11,14 +11,6 @@ import os
 import sys
 from pathlib import Path
 
-DISCLAIMER = (
-    "This is independent research produced with AI tools under human review. "
-    "The authors are not financial professionals, and nothing here is investment "
-    "advice or a recommendation to buy or sell any security. AI analysis can be "
-    "wrong; check every claim against its cited source. The authors may hold "
-    "positions in companies discussed and do not trade in any company discussed "
-    "before the related research is public."
-)
 DIRECTION = (
     "A human reviewer chooses the research topics and approves the direction of "
     "each investigation."
@@ -62,8 +54,7 @@ footer {{ margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #ddd; fon
 </tbody>
 </table>
 <footer>
-<p>{DISCLAIMER}</p>
-<p>{DIRECTION} <a href="/about.html">About</a> · <a href="/corrections.html">Corrections</a></p>
+<p><a href="/disclaimer.html">Disclaimer: research, not investment advice</a> · {DIRECTION} · <a href="/about.html">About</a> · <a href="/corrections.html">Corrections</a></p>
 </footer>
 </body>
 </html>
