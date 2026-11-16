@@ -1,5 +1,6 @@
 -- Adds a document-type and "as of" line to the top of every research document
--- (HTML and PDF), and, for HTML pages with google-scholar: true, a
+-- (HTML and PDF); appends the full disclaimer (from _disclaimer.md) to the end
+-- of every PDF; and, for HTML pages with google-scholar: true, adds a
 -- citation_pdf_url meta tag pointing at the PDF version.
 
 local TYPE_LABELS = {
@@ -55,6 +56,20 @@ function Pandoc(doc)
       table.insert(inlines, pandoc.Link(url, url))
     end
     table.insert(doc.blocks, 1, pandoc.Div({ pandoc.Para(inlines) }, pandoc.Attr("", { "doc-meta" })))
+  end
+
+  -- Printable copies end with the full disclaimer. On web pages it is a link
+  -- in the site footer instead.
+  if not quarto.doc.is_format("html") then
+    local dir = quarto.project.directory or "."
+    local f = io.open(dir .. "/_disclaimer.md", "r")
+    if not f then error("doc-meta.lua: _disclaimer.md not found in " .. dir) end
+    local text = f:read("a")
+    f:close()
+    local body = pandoc.read(text, "markdown").blocks
+    table.insert(body, 1, pandoc.Para({ pandoc.Strong(pandoc.Str("Disclaimer")) }))
+    doc.blocks:insert(pandoc.HorizontalRule())
+    doc.blocks:insert(pandoc.Div(body, pandoc.Attr("", { "pdf-disclaimer" })))
   end
 
   if quarto.doc.is_format("html") and meta["google-scholar"] and slug then
