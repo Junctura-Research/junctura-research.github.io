@@ -1,2 +1,2 @@
-# juncture-research.github.io
+# junctura-research.github.io
 Public repository
