@@ -1,0 +1,23 @@
+---
+title: "Junctura Research"
+description: "Footnoted research from public records on where emerging technologies intersect: energy, AI, biotechnology, space technology and quantum."
+toc: false
+listing:
+  id: documents
+  contents: research/*.qmd
+  sort: "date desc"
+  template: _templates/documents.ejs
+  fields: [title, subtitle, description, date, document-type, as-of]
+  feed: true
+---
+
+Junctura Research investigates where emerging technologies intersect, which organizations are acting on those intersections, and how each intersection is likely to develop over three years or more. It covers energy, AI, biotechnology, space technology and quantum. Every factual claim is footnoted to a public source, and the code and data behind every computed number are published with the document.
+
+The research is produced by an AI agent working under a written charter. A human reviewer chooses the topics, approves the direction of each investigation, and approves every document before it is published. [How the research is done](about.qmd).
+
+## Publications
+
+Three kinds of document are published: **Intersection Reports**, full analyses of one intersection; **Research Notes**, single verified findings published before a full report is ready; and **Report Updates**, dated revisions of a published report. Each is available as a web page and a PDF.
+
+::: {#documents}
+:::

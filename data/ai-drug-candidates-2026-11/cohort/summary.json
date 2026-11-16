@@ -1,0 +1,159 @@
+{
+ "as_of": "2026-11-16",
+ "rows": 27,
+ "by_tier": {
+  "headline": 18,
+  "AI-identified target": 1,
+  "borderline (target)": 2,
+  "retro-AI": 1,
+  "indication": 3,
+  "computational": 1,
+  "no 2019-2023 source opened": 1
+ },
+ "headline_n": 18,
+ "headline_companies": [
+  "BenevolentAI",
+  "Bristol Myers Squibb (designed by Exscientia)",
+  "Evaxion",
+  "Exscientia (now Recursion)",
+  "Exscientia / GT Apeiron (now Recursion)",
+  "Generate Biomedicines",
+  "Insilico Medicine",
+  "Monte Rosa",
+  "Nurix",
+  "Recursion",
+  "Schrodinger",
+  "Sumitomo Pharma (designed with Exscientia)"
+ ],
+ "headline_by_claim": {
+  "explicit": 8,
+  "platform": 10
+ },
+ "headline_by_outcome": {
+  "discontinued": 5,
+  "active": 11,
+  "unknown": 1,
+  "superseded": 1
+ },
+ "strict_attrition": "5/18 = 28%",
+ "broad_attrition": "7/18 = 39%",
+ "discontinued": [
+  [
+   "EXS21546",
+   "Phase 1/2",
+   "not sufficiently promising (company); therapeutic index (registry)",
+   "2023"
+  ],
+  [
+   "DSP-1181",
+   "Phase 1",
+   "not stated by the company",
+   "2022-01"
+  ],
+  [
+   "REC-3964",
+   "Phase 2",
+   "strategic / portfolio",
+   "2025-05"
+  ],
+  [
+   "BEN-2293",
+   "Phase 1/2",
+   "efficacy",
+   "2023-05"
+  ],
+  [
+   "GB-0669",
+   "Phase 1",
+   "strategic / commercial",
+   "2026-02-23"
+  ]
+ ],
+ "discontinued_by_phase": {
+  "Phase 1/2": 2,
+  "Phase 1": 2,
+  "Phase 2": 1
+ },
+ "discontinued_by_reason": {
+  "not sufficiently promising (company); therapeutic index (registry)": 1,
+  "not stated by the company": 1,
+  "strategic / portfolio": 1,
+  "efficacy": 1,
+  "strategic / commercial": 1
+ },
+ "headline_by_highest_phase": {
+  "Early Phase 1": 0,
+  "Phase 1": 8,
+  "Phase 1/2": 4,
+  "Phase 2": 3,
+  "Phase 2/3": 0,
+  "Phase 3": 3,
+  "Phase 4": 0,
+  "none found": 0
+ },
+ "headline_reached_phase3": [
+  "NX-5948 (bexobrutideg)",
+  "ISM001-055 (rentosertib)",
+  "GB-0895"
+ ],
+ "explicit_only": {
+  "n": 8,
+  "discontinued": 2
+ },
+ "other_tiers": [
+  [
+   "BEN-8744",
+   "AI-identified target",
+   "unknown",
+   "Phase 1"
+  ],
+  [
+   "COM701",
+   "borderline (target)",
+   "active",
+   "Phase 1/2"
+  ],
+  [
+   "COM902",
+   "borderline (target)",
+   "active",
+   "Phase 1"
+  ],
+  [
+   "FOG-001 (zolucatetide)",
+   "retro-AI",
+   "active",
+   "Phase 1/2"
+  ],
+  [
+   "REC-994",
+   "indication",
+   "discontinued",
+   "Phase 2"
+  ],
+  [
+   "REC-2282",
+   "indication",
+   "discontinued",
+   "Phase 2/3"
+  ],
+  [
+   "REC-4881",
+   "indication",
+   "active",
+   "Phase 2"
+  ],
+  [
+   "SGR-2921",
+   "computational",
+   "discontinued",
+   "Phase 1"
+  ],
+  [
+   "ISM5411",
+   "no 2019-2023 source opened",
+   "active",
+   "Phase 2"
+  ]
+ ]
+}

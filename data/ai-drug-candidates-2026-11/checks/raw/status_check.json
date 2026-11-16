@@ -1,0 +1,124 @@
+{
+ "retrieved": "2026-11-16",
+ "trials": {
+  "NCT07687459": {
+   "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+   "status": "RECRUITING",
+   "start": {
+    "date": "2026-09-09",
+    "type": "ACTUAL"
+   },
+   "primary_completion": {
+    "date": "2029-10-30",
+    "type": "ESTIMATED"
+   },
+   "phases": [
+    "PHASE3"
+   ],
+   "sponsor": "InSilico Medicine Hong Kong Limited"
+  },
+  "NCT07516093": {
+   "title": "Study of NX-5948 Versus Pirtobrutinib in R/R CLL/SLL",
+   "status": "RECRUITING",
+   "start": {
+    "date": "2026-08-03",
+    "type": "ACTUAL"
+   },
+   "primary_completion": {
+    "date": "2029-10",
+    "type": "ESTIMATED"
+   },
+   "phases": [
+    "PHASE3"
+   ],
+   "sponsor": "Nurix Therapeutics, Inc."
+  },
+  "NCT07276724": {
+   "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)",
+   "status": "RECRUITING",
+   "start": {
+    "date": "2025-12-03",
+    "type": "ACTUAL"
+   },
+   "primary_completion": {
+    "date": "2028-12",
+    "type": "ESTIMATED"
+   },
+   "phases": [
+    "PHASE3"
+   ],
+   "sponsor": "Generate Biomedicines"
+  },
+  "NCT07359846": {
+   "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-2)",
+   "status": "RECRUITING",
+   "start": {
+    "date": "2026-01-20",
+    "type": "ACTUAL"
+   },
+   "primary_completion": {
+    "date": "2029-01",
+    "type": "ESTIMATED"
+   },
+   "phases": [
+    "PHASE3"
+   ],
+   "sponsor": "Generate Biomedicines"
+  }
+ },
+ "fda": {
+  "rentosertib": {
+   "http": 404,
+   "n": 0
+  },
+  "bexobrutideg": {
+   "http": 404,
+   "n": 0
+  },
+  "GB-0895": {
+   "http": 404,
+   "n": 0
+  }
+ },
+ "alphafold2": {
+  "title": "Highly accurate protein structure prediction with AlphaFold.",
+  "doi": "10.1038/s41586-021-03819-2",
+  "pmcid": "PMC8371605",
+  "firstPublicationDate": "2021-07-15",
+  "journalTitle": null,
+  "journal": "Nature"
+ },
+ "borderline_phase3": {
+  "RLY-2608": [
+   {
+    "nct": "NCT06982521",
+    "status": "RECRUITING",
+    "start": "2025-08-26"
+   }
+  ],
+  "aleniglipron": [
+   {
+    "nct": "NCT07654361",
+    "status": "RECRUITING",
+    "start": "2026-07-13"
+   },
+   {
+    "nct": "NCT07654374",
+    "status": "RECRUITING",
+    "start": "2026-07-17"
+   }
+  ]
+ },
+ "zasocitinib": {
+  "url": "https://www.takeda.com/newsroom/newsreleases/2026/fda-priority-review-zasocitinib-psoriasis/",
+  "pdufa_sentence_found": true,
+  "sentence": "The Prescription Drug User Fee Act (PDUFA) target action date is in the first quarter of calendar year 2027"
+ },
+ "jayatunga2024_abstract": {
+  "title": "How successful are AI-discovered drugs in clinical trials? A first analysis and emerging lessons.",
+  "doi": "10.1016/j.drudis.2024.104009",
+  "firstPublicationDate": "2024-04-30",
+  "isOpenAccess": "N",
+  "abstractText": "AI techniques are making inroads into the field of drug discovery. As a result, a growing number of drugs and vaccines have been discovered using AI. However, questions remain about the success of these molecules in clinical trials. To address these questions, we conducted a first analysis of the clinical pipelines of AI-native Biotech companies. In Phase I we find AI-discovered molecules have an 80-90% success rate, substantially higher than historic industry averages. This suggests, we argue, that AI is highly capable of designing or identifying molecules with drug-like properties. In Phase II the success rate is \u223c40%, albeit on a limited sample size, comparable to historic industry averages. Our findings highlight early signs of the clinical potential of AI-discovered molecules."
+ }
+}

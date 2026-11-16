@@ -1,0 +1,802 @@
+{
+ "retrieved": "2026-11-16",
+ "cutoff_start_date": "2023-12-31",
+ "companies": {
+  "Recursion": [
+   {
+    "nct": "NCT05085561",
+    "title": "The Symptomatic Cerebral Cavernous Malformation Trial of REC-994",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2022-03-17",
+    "last_update": "2026-10-22",
+    "sponsor": "Recursion Pharmaceuticals Inc.",
+    "interventions": [
+     "REC-994",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05130866",
+    "title": "Efficacy and Safety of REC-2282 in Patients With Progressive Neurofibromatosis Type 2 (NF2) Mutated Meningiomas",
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns with REC-2282.",
+    "start": "2022-06-20",
+    "last_update": "2026-08-17",
+    "sponsor": "Recursion Pharmaceuticals Inc.",
+    "interventions": [
+     "REC-2282",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05985655",
+    "title": "Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-07-06",
+    "last_update": "2026-08-13",
+    "sponsor": "Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",
+    "interventions": [
+     "GTAEXS617",
+     "SoC"
+    ]
+   },
+   {
+    "nct": "NCT05552755",
+    "title": "Evaluate REC-4881 in Participants With Familial Adenomatous Polyposis (FAP)",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-07-10",
+    "last_update": "2026-06-05",
+    "sponsor": "Recursion Pharmaceuticals Inc.",
+    "interventions": [
+     "REC-4881",
+     "Placebo"
+    ]
+   }
+  ],
+  "Exscientia": [
+   {
+    "nct": "NCT04727138",
+    "title": "3-part Study to Assess Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of EXS21546",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2020-12-08",
+    "last_update": "2022-05-16",
+    "sponsor": "Exscientia AI Limited",
+    "interventions": [
+     "EXS21546 Powder for Oral Suspension",
+     "EXS21546 Granule in Capsule",
+     "Midazolam",
+     "Food Effect",
+     "Placebo Powder for Oral Suspension"
+    ]
+   },
+   {
+    "nct": "NCT05920408",
+    "title": "Study to Assess EXS21546 in Combination in Patients With Advanced Solid Tumours",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Emerging data demonstrates challenge for EXS21546 to reach suitable therapeutic index.",
+    "start": "2023-04-11",
+    "last_update": "2023-11-08",
+    "sponsor": "Exscientia AI Limited",
+    "interventions": [
+     "EXS21546"
+    ]
+   },
+   {
+    "nct": "NCT06068738",
+    "title": "Association of Ex Vivo Drug Response (EVDR) and Clinical Outcome in Ovarian Cancer",
+    "phases": [],
+    "status": "TERMINATED",
+    "why_stopped": "Study was terminated due to a strategic re-evaluation of the company's overall business and clinical development strategy.",
+    "start": "2023-04-14",
+    "last_update": "2024-09-26",
+    "sponsor": "Exscientia AI Limited",
+    "interventions": [
+     "Biological sample collection"
+    ]
+   },
+   {
+    "nct": "NCT05985655",
+    "title": "Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-07-06",
+    "last_update": "2026-08-13",
+    "sponsor": "Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",
+    "interventions": [
+     "GTAEXS617",
+     "SoC"
+    ]
+   }
+  ],
+  "Schrodinger": [
+   {
+    "nct": "NCT05544019",
+    "title": "Study of SGR-1505 in Mature B-Cell Neoplasms",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-04-10",
+    "last_update": "2026-02-13",
+    "sponsor": "Schr\u00f6dinger, Inc.",
+    "interventions": [
+     "SGR-1505"
+    ]
+   },
+   {
+    "nct": "NCT05961839",
+    "title": "Study of SGR-2921 in Relapsed/Refractory Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Company decision",
+    "start": "2023-09-27",
+    "last_update": "2025-09-22",
+    "sponsor": "Schr\u00f6dinger, Inc.",
+    "interventions": [
+     "SGR-2921"
+    ]
+   }
+  ],
+  "Absci": [],
+  "Evaxion": [
+   {
+    "nct": "NCT04455503",
+    "title": "Study of Adjuvant Immunotherapy With EVX-02 and Anti-PD-1",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Based on the promising interim results of study part 1, it was decided to further accelerate the development of the 2nd generation DNA plasmid immunotherapy. Therefore enrolment of patients was completed after study part 1",
+    "start": "2020-07-13",
+    "last_update": "2024-02-21",
+    "sponsor": "Evaxion Biotech A/S",
+    "interventions": [
+     "EVX-02A",
+     "EVX-02B",
+     "EVX-02A OR EVX-02B"
+    ]
+   },
+   {
+    "nct": "NCT05309421",
+    "title": "A Single Arm Trial Evaluating the Efficacy and Safety of EVX-01 in Combination With Pembrolizumab in Adults With Unresectable or Metastatic Melanoma",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2022-09-19",
+    "last_update": "2026-11-04",
+    "sponsor": "Evaxion Biotech A/S",
+    "interventions": [
+     "EVX-01",
+     "Pembrolizumab 25 MG/ML"
+    ]
+   }
+  ],
+  "Nurix": [
+   {
+    "nct": "NCT04830137",
+    "title": "A Study of NX-2127 in Adults With Relapsed/Refractory B-cell Malignancies",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2021-05-05",
+    "last_update": "2026-03-20",
+    "sponsor": "Nurix Therapeutics, Inc.",
+    "interventions": [
+     "NX-2127"
+    ]
+   },
+   {
+    "nct": "NCT05107674",
+    "title": "A Study of NX-1607 in Adults With Advanced Malignancies",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2021-09-29",
+    "last_update": "2025-09-09",
+    "sponsor": "Nurix Therapeutics, Inc.",
+    "interventions": [
+     "NX-1607",
+     "Paclitaxel"
+    ]
+   },
+   {
+    "nct": "NCT05107739",
+    "title": "A Study of DeTIL-0255 in Adults With Advanced Malignancies",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Sponsor Decision",
+    "start": "2021-12-22",
+    "last_update": "2024-05-03",
+    "sponsor": "Nurix Therapeutics, Inc.",
+    "interventions": [
+     "Drug Product De-TIL-0255"
+    ]
+   },
+   {
+    "nct": "NCT05131022",
+    "title": "A Study of NX-5948 in Adults With Relapsed/Refractory B-cell Malignancies",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2022-04-13",
+    "last_update": "2026-07-02",
+    "sponsor": "Nurix Therapeutics, Inc.",
+    "interventions": [
+     "NX-5948"
+    ]
+   }
+  ],
+  "Compugen": [
+   {
+    "nct": "NCT03667716",
+    "title": "COM701 (an Inhibitor of PVRIG) in Subjects With Advanced Solid Tumors.",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2018-09-06",
+    "last_update": "2025-01-17",
+    "sponsor": "Compugen Ltd",
+    "interventions": [
+     "COM701",
+     "COM701 with Opdivo (Nivolumab)."
+    ]
+   },
+   {
+    "nct": "NCT04354246",
+    "title": "COM902 (A TIGIT Inhibitor) in Subjects With Advanced Malignancies",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2020-03-31",
+    "last_update": "2026-08-12",
+    "sponsor": "Compugen Ltd",
+    "interventions": [
+     "Dose escalation: COM902 monotherapy.",
+     "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)",
+     "Cohort expansion: COM902 (RDFE) monotherapy.",
+     "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+     "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab."
+    ]
+   },
+   {
+    "nct": "NCT04570839",
+    "title": "COM701 in Combination With BMS-986207 and Nivolumab in Subjects With Advanced Solid Tumors.",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2020-08-31",
+    "last_update": "2024-07-18",
+    "sponsor": "Compugen Ltd",
+    "interventions": [
+     "COM701 in combination with BMS-986207 and nivolumab."
+    ]
+   }
+  ],
+  "iBio": [
+   {
+    "nct": "NCT04842370",
+    "title": "Evaluation of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of PHI 101 for the Treatment of AML",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2020-06-08",
+    "last_update": "2021-04-20",
+    "sponsor": "Seoul National University Hospital",
+    "interventions": [
+     "PHI-101"
+    ]
+   },
+   {
+    "nct": "NCT04678102",
+    "title": "Chk2 Inhibitor for Recurrent EpitheliAl periToneal, fallopIan or oVarian cancEr (CREATIVE Phase IA Trial)",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2020-12-17",
+    "last_update": "2023-06-26",
+    "sponsor": "Seoul National University Hospital",
+    "interventions": [
+     "PHI-101 administration"
+    ]
+   }
+  ],
+  "Monte Rosa": [
+   {
+    "nct": "NCT05546268",
+    "title": "Study of Oral MRT-2359 in Selected Cancer Patients",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "why_stopped": null,
+    "start": "2022-10-12",
+    "last_update": "2026-11-06",
+    "sponsor": "Monte Rosa Therapeutics, Inc",
+    "interventions": [
+     "Oral MRT-2359",
+     "Oral MRT-2359",
+     "Oral MRT-2359",
+     "Oral MRT-2359",
+     "Oral MRT-2359",
+     "Oral MRT-2359"
+    ]
+   }
+  ],
+  "Iambic": [],
+  "Generate": [
+   {
+    "nct": "NCT07050511",
+    "title": "Study to Investigate the Safety, Tolerability, and Pharmacokinetics of GB-0669 in Healthy Adult Participants",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-07-18",
+    "last_update": "2025-07-03",
+    "sponsor": "Generate Biomedicines",
+    "interventions": [
+     "GB-0669",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT07116889",
+    "title": "A Study to Investigate GB-0895 in Adults With Mild to Moderate Asthma or COPD",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "why_stopped": null,
+    "start": "2023-12-12",
+    "last_update": "2025-11-05",
+    "sponsor": "Generate Biomedicines",
+    "interventions": [
+     "GB-0895 (SC)",
+     "GB-0895 (SC)",
+     "Placebo (SC)",
+     "Placebo (SC)"
+    ]
+   }
+  ],
+  "Eikon": [
+   {
+    "nct": "NCT03486301",
+    "title": "BDB001-101: Clinical Study of BDB001 as a Mono-therapy or in Combination With Pembrolizumab",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2018-02-15",
+    "last_update": "2025-11-12",
+    "sponsor": "Eikon Therapeutics",
+    "interventions": [
+     "BDB001 (EIK1001)",
+     "Pembrolizumab"
+    ]
+   },
+   {
+    "nct": "NCT04196530",
+    "title": "BDB001-102: Open Label Dose Escalation of BDB001 in Combination w Atezolizumab",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2019-11-21",
+    "last_update": "2025-11-12",
+    "sponsor": "Eikon Therapeutics",
+    "interventions": [
+     "BDB001 (EIK1001)",
+     "Atezolizumab"
+    ]
+   },
+   {
+    "nct": "NCT03915678",
+    "title": "Atezolizumab Combined With BDB001 AnD Immunogenic Radiotherapy in Patients With Advanced Solid Tumors",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "why_stopped": null,
+    "start": "2021-03-31",
+    "last_update": "2026-07-24",
+    "sponsor": "Institut Bergoni\u00e9",
+    "interventions": [
+     "Association atezolizumab + BDB001 + RT",
+     "Association atezolizumab + BDB001+ RT",
+     "Association atezolizumab + BDB001+ RT",
+     "Association atezolizumab + BDB001 + RT",
+     "Association atezolizumab + BDB001 + RT",
+     "Association atezolizumab + BDB001 + RT"
+    ]
+   },
+   {
+    "nct": "NCT04840394",
+    "title": "Clinical Study of BDB018: Monotherapy and in Combination With Pembrolizumab in Subjects With Advanced Solid Tumors",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2021-06-22",
+    "last_update": "2025-11-12",
+    "sponsor": "Eikon Therapeutics",
+    "interventions": [
+     "BDB018",
+     "Pembrolizumab"
+    ]
+   },
+   {
+    "nct": "NCT04819373",
+    "title": "BDB001-201: A Clinical Study of BDB001 in Patients With PD-(L)1 Refractory Solid Tumors",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2021-08-30",
+    "last_update": "2025-11-12",
+    "sponsor": "Eikon Therapeutics",
+    "interventions": [
+     "BDB001"
+    ]
+   },
+   {
+    "nct": "NCT06253130",
+    "title": "A First-in-human Study of PARP1 Selective Inhibitor, IMP1734, in Participants With Advanced Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-12-11",
+    "last_update": "2026-06-15",
+    "sponsor": "Eikon Therapeutics",
+    "interventions": [
+     "IMP1734"
+    ]
+   }
+  ],
+  "Odyssey": [],
+  "Parabilis": [
+   {
+    "nct": "NCT05919264",
+    "title": "FOG-001 in Locally Advanced or Metastatic Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2023-05-23",
+    "last_update": "2026-10-07",
+    "sponsor": "Parabilis Medicines, Inc.",
+    "interventions": [
+     "FOG-001",
+     "mFOLFOX-6",
+     "Nivolumab",
+     "Trifluridine/tipiracil",
+     "Bevacizumab",
+     "FOG-001"
+    ]
+   }
+  ],
+  "Insilico Medicine": [
+   {
+    "nct": "NCT05154240",
+    "title": "A Phase 1, Evaluate the Safety, Tolerability, and Pharmacokinetics of INS018_055 in Healthy Subjects",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2022-02-21",
+    "last_update": "2023-06-29",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05938920",
+    "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis (IPF)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-06-19",
+    "last_update": "2025-12-11",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT06012578",
+    "title": "Study Evaluating ISM5411 Administered Orally to Healthy Volunteers",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-11-08",
+    "last_update": "2024-11-07",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM5411",
+     "Placebo"
+    ]
+   }
+  ],
+  "BenevolentAI": [
+   {
+    "nct": "NCT00571038",
+    "title": "Working With Veterans Organizations to Improve Blood Pressure",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2008-02",
+    "last_update": "2015-04-24",
+    "sponsor": "US Department of Veterans Affairs",
+    "interventions": [
+     "Peer Led",
+     "Seminar"
+    ]
+   },
+   {
+    "nct": "NCT02179424",
+    "title": "Promoting Tobacco Control and Smoking Cessation in Workplaces [Phase I]",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2012-12",
+    "last_update": "2016-12-23",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Workshop",
+     "Face-to-face counseling",
+     "Phone counseling",
+     "Health talk",
+     "Booklet",
+     "SMS"
+    ]
+   },
+   {
+    "nct": "NCT02497339",
+    "title": "Mindfulness Training for Smoking Cessation in Women in Workplaces",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2015-01",
+    "last_update": "2016-05-12",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Mindfulness training"
+    ]
+   },
+   {
+    "nct": "NCT02659774",
+    "title": "Smoking Cessation in Workplaces in Hong Kong [Phase II]",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2015-01",
+    "last_update": "2016-11-03",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "workshop (Motivational intervention)",
+     "Health talk",
+     "Face to Face counseling",
+     "Phone counseling",
+     "SMS",
+     "Booklet"
+    ]
+   },
+   {
+    "nct": "NCT03142555",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase III)",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-05-11",
+    "last_update": "2021-09-21",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Health talk plus intensive social media intervention",
+     "Health talk plus less intensive social media intervention"
+    ]
+   },
+   {
+    "nct": "NCT03194217",
+    "title": "BEN-2001 in Parkinson Disease Patients With Excessive Daytime Sleepiness",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-11-10",
+    "last_update": "2025-03-10",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN-2001",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT03785951",
+    "title": "Impact of Whey and Leucine on Glycaemia in Adults Without Diabetes",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2018-12",
+    "last_update": "2018-12-24",
+    "sponsor": "University of Reading",
+    "interventions": [
+     "Whey Protein Isolate",
+     "Wheat Protein",
+     "Wheat Protein with Leucine"
+    ]
+   },
+   {
+    "nct": "NCT03870906",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase IV)",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2019-03-01",
+    "last_update": "2023-05-22",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Occupational-specific health talk",
+     "WhatsApp interaction",
+     "Phone follow-up/counselling service",
+     "Text message"
+    ]
+   },
+   {
+    "nct": "NCT04737304",
+    "title": "A First-in-Human PoC Study With BEN2293 in Patients With Mild to Moderate Atopic Dermatitis",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2020-10-14",
+    "last_update": "2023-06-18",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN2293 (0.25% or 1.0% w/w) or matching placebo"
+    ]
+   },
+   {
+    "nct": "NCT04763369",
+    "title": "Investigation of Therapeutic Efficacy and Safety of UMSCs for the Management of Retinitis Pigmentosa (RP)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2021-02",
+    "last_update": "2021-02-21",
+    "sponsor": "Jinnah Burn and Reconstructive Surgery Centre, Lahore",
+    "interventions": [
+     "Injection of stem cells in sub-tenon space of eye for the management of retinitis pigmentosa",
+     "Injection of stem cells in suprachoroidal space of eye for the management of Retinitis Pigmentosa"
+    ]
+   },
+   {
+    "nct": "NCT04772521",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase \u2164)",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2021-04-15",
+    "last_update": "2023-12-08",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "General health talk",
+     "Personalized chat-based interactions",
+     "Text message",
+     "Phone follow-up/counselling service",
+     "Mailed nicotine replacement therapy (NRT)"
+    ]
+   },
+   {
+    "nct": "NCT06118385",
+    "title": "Study Investigating the Safety, Tolerability, PK and Food Effect of BEN8744.",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-08-30",
+    "last_update": "2025-05-07",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN8744",
+     "Matching Placebo"
+    ]
+   }
+  ],
+  "Enveda": []
+ }
+}

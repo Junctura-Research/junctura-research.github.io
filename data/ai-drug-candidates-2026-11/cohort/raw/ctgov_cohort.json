@@ -1,0 +1,1066 @@
+{
+ "retrieved": "2026-11-16",
+ "candidates": {
+  "EXS21546": {
+   "terms": [
+    "EXS21546",
+    "EXS-21546"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "first_start": "2020-12-08",
+   "statuses": [
+    "COMPLETED",
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04727138",
+     "title": "3-part Study to Assess Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of EXS21546",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-12-08",
+     "last_update": "2022-05-16",
+     "sponsor": "Exscientia AI Limited",
+     "interventions": [
+      "EXS21546 Powder for Oral Suspension",
+      "EXS21546 Granule in Capsule",
+      "Midazolam",
+      "Food Effect",
+      "Placebo Powder for Oral Suspension"
+     ]
+    },
+    {
+     "nct": "NCT05920408",
+     "title": "Study to Assess EXS21546 in Combination in Patients With Advanced Solid Tumours",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Emerging data demonstrates challenge for EXS21546 to reach suitable therapeutic index.",
+     "start": "2023-04-11",
+     "last_update": "2023-11-08",
+     "sponsor": "Exscientia AI Limited",
+     "interventions": [
+      "EXS21546"
+     ]
+    }
+   ]
+  },
+  "DSP-1181": {
+   "terms": [
+    "DSP-1181"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "first_start": null,
+   "statuses": [],
+   "trials": []
+  },
+  "DSP-0038": {
+   "terms": [
+    "DSP-0038"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "first_start": null,
+   "statuses": [],
+   "trials": []
+  },
+  "DSP-2342": {
+   "terms": [
+    "DSP-2342"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2027-01-01",
+   "statuses": [
+    "NOT_YET_RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07850102",
+     "title": "Brain Imaging of DSP-2342",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2027-01-01",
+     "last_update": "2026-09-30",
+     "sponsor": "Johns Hopkins University",
+     "interventions": [
+      "DSP-2342"
+     ]
+    }
+   ]
+  },
+  "EXS4318": {
+   "terms": [
+    "EXS4318",
+    "EXS-4318"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "first_start": null,
+   "statuses": [],
+   "trials": []
+  },
+  "GTAEXS617 (REC-617)": {
+   "terms": [
+    "GTAEXS617",
+    "REC-617"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "first_start": "2023-07-06",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05985655",
+     "title": "Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-06",
+     "last_update": "2026-08-13",
+     "sponsor": "Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",
+     "interventions": [
+      "GTAEXS617",
+      "SoC"
+     ]
+    },
+    {
+     "nct": "NCT07633756",
+     "title": "A Phase 1b, Open-Label Study Of REC-617, A Selective CDK7 Inhibitor, In Patients With Metastatic Or Unresectable RB1-Negative Leiomyosarcoma After Prior Systemic Therapy",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10-19",
+     "last_update": "2026-07-31",
+     "sponsor": "M.D. Anderson Cancer Center",
+     "interventions": [
+      "REC617"
+     ]
+    }
+   ]
+  },
+  "REC-3964": {
+   "terms": [
+    "REC-3964"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2024-10-14",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06536465",
+     "title": "The Clostridioides Difficile Trial of REC-3964",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns.",
+     "start": "2024-10-14",
+     "last_update": "2025-11-17",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-3964"
+     ]
+    }
+   ]
+  },
+  "SGR-1505": {
+   "terms": [
+    "SGR-1505"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2023-04-10",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05544019",
+     "title": "Study of SGR-1505 in Mature B-Cell Neoplasms",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-04-10",
+     "last_update": "2026-02-13",
+     "sponsor": "Schr\u00f6dinger, Inc.",
+     "interventions": [
+      "SGR-1505"
+     ]
+    }
+   ]
+  },
+  "MRT-2359": {
+   "terms": [
+    "MRT-2359"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "first_start": "2022-10-12",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07745361",
+     "title": "Study of Oral MRT-2359 With Apalutamide in Prostate Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-08-18",
+     "last_update": "2026-11-05",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "Oral MRT-2359",
+      "Apalutamide"
+     ]
+    },
+    {
+     "nct": "NCT05546268",
+     "title": "Study of Oral MRT-2359 in Selected Cancer Patients",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2022-10-12",
+     "last_update": "2026-11-06",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359"
+     ]
+    }
+   ]
+  },
+  "NX-2127 (zelebrudomide)": {
+   "terms": [
+    "NX-2127",
+    "zelebrudomide"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2021-05-05",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04830137",
+     "title": "A Study of NX-2127 in Adults With Relapsed/Refractory B-cell Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-05-05",
+     "last_update": "2026-03-20",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-2127"
+     ]
+    }
+   ]
+  },
+  "NX-1607": {
+   "terms": [
+    "NX-1607"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2021-09-29",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05107674",
+     "title": "A Study of NX-1607 in Adults With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-09-29",
+     "last_update": "2025-09-09",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-1607",
+      "Paclitaxel"
+     ]
+    }
+   ]
+  },
+  "NX-5948 (bexobrutideg)": {
+   "terms": [
+    "NX-5948",
+    "bexobrutideg"
+   ],
+   "n_trials": 6,
+   "top_phase": "PHASE3",
+   "first_start": "2022-04-13",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06691828",
+     "title": "Absolute Bioavailability, Absorption, Metabolism, Excretion, and Mass Balance Study of [14C] NX-5948",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-11-01",
+     "last_update": "2025-03-12",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT06717269",
+     "title": "A Single and Multiple Ascending Doses, Relative Bioavailability, Food Effect, and Drug-Drug Interaction Study of NX-5948 in Healthy Volunteers",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-11-30",
+     "last_update": "2026-07-28",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "Esomeprazole",
+      "Placebo",
+      "Famotidine",
+      "Midazolam",
+      "Digoxin",
+      "Rosuvastatin",
+      "Quinidine",
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT05131022",
+     "title": "A Study of NX-5948 in Adults With Relapsed/Refractory B-cell Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2022-04-13",
+     "last_update": "2026-07-02",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT07520006",
+     "title": "Study of NX-5948 in Combination With Other Agents in Adults With B-cell Malignancies",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-09-30",
+     "last_update": "2026-11-03",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "venetoclax",
+      "rituximab",
+      "obinutuzumab"
+     ]
+    },
+    {
+     "nct": "NCT07221500",
+     "title": "A Study of NX-5948 in Adults With CLL/SLL Previously Treated With a Bruton's Tyrosine Kinase Inhibitor and a B-cell Lymphoma-2 Inhibitor (DAYBreak CLL-201)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-10-15",
+     "last_update": "2026-11-03",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT07516093",
+     "title": "Study of NX-5948 Versus Pirtobrutinib in R/R CLL/SLL",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-08-03",
+     "last_update": "2026-08-31",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "Pirtobrutinib"
+     ]
+    }
+   ]
+  },
+  "EVX-01": {
+   "terms": [
+    "EVX-01"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2022-09-19",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05309421",
+     "title": "A Single Arm Trial Evaluating the Efficacy and Safety of EVX-01 in Combination With Pembrolizumab in Adults With Unresectable or Metastatic Melanoma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-09-19",
+     "last_update": "2026-11-04",
+     "sponsor": "Evaxion Biotech A/S",
+     "interventions": [
+      "EVX-01",
+      "Pembrolizumab 25 MG/ML"
+     ]
+    }
+   ]
+  },
+  "EVX-02": {
+   "terms": [
+    "EVX-02"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2020-07-13",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04455503",
+     "title": "Study of Adjuvant Immunotherapy With EVX-02 and Anti-PD-1",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Based on the promising interim results of study part 1, it was decided to further accelerate the development of the 2nd generation DNA plasmid immunotherapy. Therefore enrolment of patients was completed after study part 1",
+     "start": "2020-07-13",
+     "last_update": "2024-02-21",
+     "sponsor": "Evaxion Biotech A/S",
+     "interventions": [
+      "EVX-02A",
+      "EVX-02B",
+      "EVX-02A OR EVX-02B"
+     ]
+    }
+   ]
+  },
+  "ISM001-055 (rentosertib)": {
+   "terms": [
+    "INS018_055",
+    "ISM001-055",
+    "rentosertib"
+   ],
+   "n_trials": 4,
+   "top_phase": "PHASE3",
+   "first_start": "2022-02-21",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07687459",
+     "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-09-09",
+     "last_update": "2026-10-13",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055 tablets",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05975983",
+     "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-02-08",
+     "last_update": "2025-11-12",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05154240",
+     "title": "A Phase 1, Evaluate the Safety, Tolerability, and Pharmacokinetics of INS018_055 in Healthy Subjects",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-02-21",
+     "last_update": "2023-06-29",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05938920",
+     "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis (IPF)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-06-19",
+     "last_update": "2025-12-11",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "BEN-2293": {
+   "terms": [
+    "BEN2293",
+    "BEN-2293"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2020-10-14",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04737304",
+     "title": "A First-in-Human PoC Study With BEN2293 in Patients With Mild to Moderate Atopic Dermatitis",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-10-14",
+     "last_update": "2023-06-18",
+     "sponsor": "BenevolentAI Bio",
+     "interventions": [
+      "BEN2293 (0.25% or 1.0% w/w) or matching placebo"
+     ]
+    }
+   ]
+  },
+  "GB-0669": {
+   "terms": [
+    "GB-0669"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2023-07-18",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07050511",
+     "title": "Study to Investigate the Safety, Tolerability, and Pharmacokinetics of GB-0669 in Healthy Adult Participants",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-07-18",
+     "last_update": "2025-07-03",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0669",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "GB-0895": {
+   "terms": [
+    "GB-0895"
+   ],
+   "n_trials": 3,
+   "top_phase": "PHASE3",
+   "first_start": "2023-12-12",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07359846",
+     "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-2)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-01-20",
+     "last_update": "2026-11-03",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07276724",
+     "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-03",
+     "last_update": "2026-11-13",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07116889",
+     "title": "A Study to Investigate GB-0895 in Adults With Mild to Moderate Asthma or COPD",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2023-12-12",
+     "last_update": "2025-11-05",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895 (SC)",
+      "GB-0895 (SC)",
+      "Placebo (SC)",
+      "Placebo (SC)"
+     ]
+    }
+   ]
+  },
+  "BEN-8744": {
+   "terms": [
+    "BEN8744",
+    "BEN-8744"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2023-08-30",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06118385",
+     "title": "Study Investigating the Safety, Tolerability, PK and Food Effect of BEN8744.",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-08-30",
+     "last_update": "2025-05-07",
+     "sponsor": "BenevolentAI Bio",
+     "interventions": [
+      "BEN8744",
+      "Matching Placebo"
+     ]
+    }
+   ]
+  },
+  "COM701": {
+   "terms": [
+    "COM701"
+   ],
+   "n_trials": 4,
+   "top_phase": "PHASE2",
+   "first_start": "2018-09-06",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06888921",
+     "title": "A Clinical Trial to Evaluate the Safety and Efficacy of COM701 in Relapsed Platinum Sensitive Ovarian Cancer",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2025-07-21",
+     "last_update": "2026-10-06",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701",
+      "Normal Saline"
+     ]
+    },
+    {
+     "nct": "NCT04354246",
+     "title": "COM902 (A TIGIT Inhibitor) in Subjects With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-03-31",
+     "last_update": "2026-08-12",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "Dose escalation: COM902 monotherapy.",
+      "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)",
+      "Cohort expansion: COM902 (RDFE) monotherapy.",
+      "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+      "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab."
+     ]
+    },
+    {
+     "nct": "NCT03667716",
+     "title": "COM701 (an Inhibitor of PVRIG) in Subjects With Advanced Solid Tumors.",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2018-09-06",
+     "last_update": "2025-01-17",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701",
+      "COM701 with Opdivo (Nivolumab)."
+     ]
+    },
+    {
+     "nct": "NCT04570839",
+     "title": "COM701 in Combination With BMS-986207 and Nivolumab in Subjects With Advanced Solid Tumors.",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-08-31",
+     "last_update": "2024-07-18",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701 in combination with BMS-986207 and nivolumab."
+     ]
+    }
+   ]
+  },
+  "COM902": {
+   "terms": [
+    "COM902"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2020-03-31",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04354246",
+     "title": "COM902 (A TIGIT Inhibitor) in Subjects With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-03-31",
+     "last_update": "2026-08-12",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "Dose escalation: COM902 monotherapy.",
+      "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)",
+      "Cohort expansion: COM902 (RDFE) monotherapy.",
+      "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+      "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab."
+     ]
+    }
+   ]
+  },
+  "FOG-001 (zolucatetide)": {
+   "terms": [
+    "FOG-001",
+    "zolucatetide"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2023-05-23",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05919264",
+     "title": "FOG-001 in Locally Advanced or Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-05-23",
+     "last_update": "2026-10-07",
+     "sponsor": "Parabilis Medicines, Inc.",
+     "interventions": [
+      "FOG-001",
+      "mFOLFOX-6",
+      "Nivolumab",
+      "Trifluridine/tipiracil",
+      "Bevacizumab",
+      "FOG-001"
+     ]
+    }
+   ]
+  },
+  "REC-994": {
+   "terms": [
+    "REC-994"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "first_start": "2022-03-17",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05085561",
+     "title": "The Symptomatic Cerebral Cavernous Malformation Trial of REC-994",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-03-17",
+     "last_update": "2026-10-22",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-994",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "REC-2282": {
+   "terms": [
+    "REC-2282"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE3",
+   "first_start": "2022-06-20",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05130866",
+     "title": "Efficacy and Safety of REC-2282 in Patients With Progressive Neurofibromatosis Type 2 (NF2) Mutated Meningiomas",
+     "phases": [
+      "PHASE2",
+      "PHASE3"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns with REC-2282.",
+     "start": "2022-06-20",
+     "last_update": "2026-08-17",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-2282",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "REC-4881": {
+   "terms": [
+    "REC-4881"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "first_start": "2023-07-10",
+   "statuses": [
+    "RECRUITING",
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06005974",
+     "title": "A Study of REC-4881 in Participants With Cancers Which Have an AXIN1 or APC Mutation",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns.",
+     "start": "2024-01-15",
+     "last_update": "2026-02-23",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-4881"
+     ]
+    },
+    {
+     "nct": "NCT05552755",
+     "title": "Evaluate REC-4881 in Participants With Familial Adenomatous Polyposis (FAP)",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-10",
+     "last_update": "2026-06-05",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-4881",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "SGR-2921": {
+   "terms": [
+    "SGR-2921"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "first_start": "2023-09-27",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05961839",
+     "title": "Study of SGR-2921 in Relapsed/Refractory Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Company decision",
+     "start": "2023-09-27",
+     "last_update": "2025-09-22",
+     "sponsor": "Schr\u00f6dinger, Inc.",
+     "interventions": [
+      "SGR-2921"
+     ]
+    }
+   ]
+  },
+  "ISM5411": {
+   "terms": [
+    "ISM5411"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "first_start": "2023-11-08",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06012578",
+     "title": "Study Evaluating ISM5411 Administered Orally to Healthy Volunteers",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-11-08",
+     "last_update": "2024-11-07",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM5411",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07265570",
+     "title": "Study Evaluating ISM5411 Administered Orally to Subjects With Active Ulcerative Colitis (BETHESDA)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-10",
+     "last_update": "2026-10-29",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM5411 tablets",
+      "ISM5411 tablets",
+      "ISM5411 tablets",
+      "Placebo"
+     ]
+    }
+   ]
+  }
+ }
+}

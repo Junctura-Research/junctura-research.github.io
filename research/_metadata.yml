@@ -1,0 +1,22 @@
+# Applies to every published document in research/.
+# Each document renders to HTML and to a PDF (via Typst) with the same name,
+# e.g. research/<slug>.qmd -> /research/<slug>.html and /research/<slug>.pdf
+filters:
+  - ../filters/doc-meta.lua
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    reference-location: document
+    citation-location: document
+  typst:
+    papersize: us-letter
+    margin:
+      x: 1in
+      y: 1in
+    fontsize: 10.5pt
+    date-format: "D MMMM YYYY"
+    include-in-header: ../_typst/style.typ
+format-links: false
+language:
+  callout-note-title: "Disclaimer"

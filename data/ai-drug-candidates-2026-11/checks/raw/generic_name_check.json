@@ -1,0 +1,1148 @@
+{
+ "REC-617 (GTAEXS617)": {
+  "claim": "explicit",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "REC-3565": {
+  "claim": "explicit",
+  "current_list_top": null,
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "REC-4539 (EXS74539)": {
+  "claim": "explicit",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "REC-1245": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "REC-4881": {
+  "claim": "indication",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "EXS4318": {
+  "claim": "platform",
+  "current_list_top": null,
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "DSP-0038": {
+  "claim": "platform",
+  "current_list_top": null,
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "SGR-1505": {
+  "claim": "explicit",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "SGR-2921": {
+  "claim": "computational",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "SGR-3515": {
+  "claim": "computational",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "IAM1363": {
+  "claim": "explicit",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "GB-0895": {
+  "claim": "platform",
+  "current_list_top": "PHASE3",
+  "extra_names": [
+   "GB-0895 (SC)"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "GB-4362": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "GB-5267": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "GB-5267 - IV only",
+   "GB-5267 -Combined IV and IP Infusion"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "ABS-101": {
+  "claim": "platform",
+  "current_list_top": null,
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ABS-201": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [
+   "ABS-201 SC Multiple Doses"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "EVX-01": {
+  "claim": "explicit",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "bexobrutideg (NX-5948)": {
+  "claim": "platform",
+  "current_list_top": "PHASE3",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "zelebrudomide (NX-2127)": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "NX-1607": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "Cbl-b Inhibitor"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {
+   "NCT05662397": {
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "via": "Cbl-b Inhibitor"
+   }
+  }
+ },
+ "COM701": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [
+   "COM701 in combination with BMS-986207 and nivolumab.",
+   "COM701 with Opdivo (Nivolumab).",
+   "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+   "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab.",
+   "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "COM902": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "Cohort expansion: COM902 (RDFE) monotherapy.",
+   "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+   "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab.",
+   "Dose escalation: COM902 monotherapy.",
+   "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "rilvegostomig": {
+  "claim": "computational",
+  "current_list_top": "PHASE3",
+  "extra_names": [
+   "AZD8205 and AZD2936 (Rilvegostomig)",
+   "AZD8205 and AZD5305 (saruparib) and AZD2936 (rilvegostomig)",
+   "AZD8205 in combination with AZD9574 plus rilvegostomig (AZD2936)",
+   "AZD9592 + Rilvegostomig",
+   "CISGEM + Rilvegostomig",
+   "Gemcitabine/Cisplatin/Nab-Paclitaxel and Rilvegostomig",
+   "IV Rilvegostomig",
+   "Other Name: AZD2936",
+   "Rilvegostomig + TDXd",
+   "SC Rilvegostomig",
+   "SC rilvegostomig + rHu"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "GS-0321 (COM503)": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "IBIO-600": {
+  "claim": "explicit",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "OD-001": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "[14C]OD-001"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "EIK1006": {
+  "claim": "explicit",
+  "current_list_top": null,
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "MRT-2359": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [
+   "Oral MRT-2359"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "MRT-6160": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "MRT-8102": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "zolucatetide (FOG-001)": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "BXCL501 (dexmedetomidine)": {
+  "claim": "indication",
+  "current_list_top": "PHASE4",
+  "extra_names": [
+   "BXCL501 (180 micrograms)",
+   "BXCL501 (240 micrograms)",
+   "BXCL501 (dexmedetomidine HCl)",
+   "BXCL501 120 Micrograms",
+   "BXCL501 40\u00b5g",
+   "BXCL501 60 Micrograms",
+   "BXCL501 80 Micrograms",
+   "BXCL501 80\u00b5g",
+   "BXCL501 Sublingual Film",
+   "Dexmedetomidine",
+   "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 40\u00b5g",
+   "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 80\u00b5g",
+   "Sublingual film containing BXCL501 (Dexmedetomidine)",
+   "Sublingual film containing Dexmedetomidine (BXCL501)",
+   "Sublingual film containing dexmedetomidine (BXCL501)"
+  ],
+  "extra_top": "PHASE4",
+  "new_trials": {
+   "NCT05626998": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05829148": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07644663": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06737458": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03346226": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03384563": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03600506": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01050699": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01739933": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07034300": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06502262": {
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02801188": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03600727": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06684197": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07767383": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06953570": {
+    "phases": [],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03265470": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05857410": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01378741": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04169685": {
+    "phases": [],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04443517": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07607990": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01895348": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07657715": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05324891": {
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02325882": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07064720": {
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01545297": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07289620": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT00691886": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "WITHDRAWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06304324": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06493396": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07901023": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06712186": {
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07806188": {
+    "phases": [],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05849779": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02385435": {
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT00226785": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03770130": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05246371": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01362205": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "TERMINATED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04445636": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06410365": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03624595": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07426081": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06208956": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05705128": {
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "ENROLLING_BY_INVITATION",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02097407": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03370562": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07292324": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06331182": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05691088": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06752629": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07527039": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06480539": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02365857": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01463332": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03323593": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07108764": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06366412": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02019121": {
+    "phases": [],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07105839": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03596775": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01152021": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05299021": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06896721": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04866433": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01076816": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05672225": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04791059": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03760809": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04234906": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07523438": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04454515": {
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07088900": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07739641": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06203405": {
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03806777": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "UNKNOWN",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03996148": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06555458": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT02016391": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07832214": {
+    "phases": [
+     "NA"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07482540": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04648540": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06566482": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06970626": {
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06970574": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT06587620": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07231926": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05911776": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07074262": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07485127": {
+    "phases": [
+     "EARLY_PHASE1"
+    ],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03436472": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03285165": {
+    "phases": [
+     "PHASE2",
+     "PHASE3"
+    ],
+    "status": "SUSPENDED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07263165": {
+    "phases": [
+     "NA"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "via": "Dexmedetomidine"
+   },
+   "NCT07386600": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT05342844": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT04675372": {
+    "phases": [
+     "PHASE4"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT01879865": {
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "via": "Dexmedetomidine"
+   },
+   "NCT03406533": {
+    "phases": [
+     "NA"
+    ],
+    "status": "TERMINATED",
+    "via": "Dexmedetomidine"
+   }
+  }
+ },
+ "BXCL502 (latrepirdine)": {
+  "claim": "indication",
+  "current_list_top": "PHASE3",
+  "extra_names": [
+   "DMB-I (INN: Latrepirdine)",
+   "Dimebon (latrepirdine)",
+   "Latrepirdine, Dimebon\u00ae"
+  ],
+  "extra_top": "PHASE3",
+  "new_trials": {
+   "NCT00988624": {
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dimebon (latrepirdine)"
+   },
+   "NCT00990613": {
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dimebon (latrepirdine)"
+   },
+   "NCT01152216": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "via": "Dimebon (latrepirdine)"
+   },
+   "NCT00975481": {
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "via": "Dimebon (latrepirdine)"
+   },
+   "NCT01066546": {
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "via": "Dimebon (latrepirdine)"
+   }
+  }
+ },
+ "RLY-2608": {
+  "claim": "borderline",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "aleniglipron (GSBR-1290)": {
+  "claim": "borderline",
+  "current_list_top": "PHASE3",
+  "extra_names": [
+   "Aleniglipron or Placebo",
+   "GSBR-1001290",
+   "GSBR-1290 (Capsule/Tablet)",
+   "aleniglipron or placebo"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "KT-621": {
+  "claim": "borderline",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "KRRO-110": {
+  "claim": "borderline",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "rentosertib (ISM001-055)": {
+  "claim": "explicit",
+  "current_list_top": "PHASE3",
+  "extra_names": [
+   "INS018_055 tablets"
+  ],
+  "extra_top": "PHASE3",
+  "new_trials": {}
+ },
+ "ISM6331": {
+  "claim": "explicit",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ISM3412": {
+  "claim": "explicit",
+  "current_list_top": "PHASE2",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ISM5411": {
+  "claim": "explicit",
+  "current_list_top": "PHASE2",
+  "extra_names": [
+   "Garutadustat",
+   "ISM5411 tablets"
+  ],
+  "extra_top": "PHASE2",
+  "new_trials": {}
+ },
+ "ISM8207": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ISM5939": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ISM9528": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "ISM9528 capsules"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "ISM8969": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [
+   "ISM8969 tablets or placebo"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ },
+ "BEN-8744": {
+  "claim": "platform",
+  "current_list_top": "PHASE1",
+  "extra_names": [],
+  "extra_top": null,
+  "new_trials": {}
+ },
+ "ENV-294": {
+  "claim": "platform",
+  "current_list_top": "PHASE2",
+  "extra_names": [
+   "ENV-294 Capsule"
+  ],
+  "extra_top": "PHASE1",
+  "new_trials": {}
+ }
+}

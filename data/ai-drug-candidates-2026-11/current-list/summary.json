@@ -1,0 +1,104 @@
+{
+ "rows": 47,
+ "by_claim": {
+  "explicit": 12,
+  "platform": 25,
+  "indication": 3,
+  "computational": 3,
+  "borderline": 4
+ },
+ "ai_candidates": 37,
+ "ai_with_registered_trial": 32,
+ "ai_by_channel": {
+  "A": 27,
+  "B": 10
+ },
+ "ai_with_trial_by_channel": {
+  "A": 22,
+  "B": 10
+ },
+ "ai_companies": [
+  "Absci",
+  "BenevolentAI",
+  "Compugen",
+  "Eikon Therapeutics",
+  "Enveda",
+  "Evaxion",
+  "Exscientia",
+  "Generate Biomedicines",
+  "Iambic Therapeutics",
+  "Insilico Medicine",
+  "Monte Rosa",
+  "Nurix",
+  "Odyssey Therapeutics",
+  "Parabilis Medicines",
+  "Recursion",
+  "Schrodinger",
+  "iBio"
+ ],
+ "ai_by_phase": {
+  "Early Phase 1": 0,
+  "Phase 1": 18,
+  "Phase 1/2": 7,
+  "Phase 2": 4,
+  "Phase 2/3": 0,
+  "Phase 3": 3,
+  "Phase 4": 0,
+  "none found": 5
+ },
+ "ai_by_phase_explicit": {
+  "Early Phase 1": 0,
+  "Phase 1": 4,
+  "Phase 1/2": 3,
+  "Phase 2": 2,
+  "Phase 2/3": 0,
+  "Phase 3": 1,
+  "Phase 4": 0,
+  "none found": 2
+ },
+ "ai_by_step": {
+  "molecule": 30,
+  "target": 5,
+  "antigen": 1,
+  "target+molecule": 1
+ },
+ "ai_with_stopped_trial": [],
+ "phase3": [
+  [
+   "GB-0895",
+   "platform",
+   "molecule"
+  ],
+  [
+   "bexobrutideg (NX-5948)",
+   "platform",
+   "molecule"
+  ],
+  [
+   "rilvegostomig",
+   "computational",
+   "target"
+  ],
+  [
+   "BXCL501 (dexmedetomidine)",
+   "indication",
+   "indication"
+  ],
+  [
+   "BXCL502 (latrepirdine)",
+   "indication",
+   "indication"
+  ],
+  [
+   "aleniglipron (GSBR-1290)",
+   "borderline",
+   "molecule"
+  ],
+  [
+   "rentosertib (ISM001-055)",
+   "explicit",
+   "target+molecule"
+  ]
+ ],
+ "ai_companies_n": 17
+}

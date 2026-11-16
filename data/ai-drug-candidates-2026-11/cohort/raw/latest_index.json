@@ -1,0 +1,59 @@
+{
+ "retrieved": "2026-11-16",
+ "companies": {
+  "Recursion": {
+   "form": "10-K",
+   "date": "2026-02-25",
+   "accession": "0001601830-26-000039",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000039/rxrx-20251231.htm"
+  },
+  "Schrodinger": {
+   "form": "10-K",
+   "date": "2026-02-25",
+   "accession": "0001490978-26-000010",
+   "url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097826000010/sdgr-20251231.htm"
+  },
+  "Evaxion": {
+   "form": "20-F",
+   "date": "2026-03-05",
+   "accession": "0001171843-26-001346",
+   "url": "https://www.sec.gov/Archives/edgar/data/1828253/000117184326001346/evax20251231_20f.htm"
+  },
+  "Nurix": {
+   "form": "10-K",
+   "date": "2026-01-28",
+   "accession": "0001549595-26-000016",
+   "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000016/nrix-20251130.htm"
+  },
+  "Compugen": {
+   "form": "20-F",
+   "date": "2026-03-02",
+   "accession": "0001178913-26-000663",
+   "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891326000663/zk2634416.htm"
+  },
+  "Monte Rosa": {
+   "form": "10-K",
+   "date": "2026-03-17",
+   "accession": "0001193125-26-109360",
+   "url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526109360/glue-20251231.htm"
+  },
+  "Generate": {
+   "form": "S-1/A",
+   "date": "2026-02-23",
+   "accession": "0001193125-26-062362",
+   "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526062362/ck0002100782-20260223.htm"
+  },
+  "Parabilis": {
+   "form": "S-1/A",
+   "date": "2026-06-09",
+   "accession": "0001193125-26-262880",
+   "url": "https://www.sec.gov/Archives/edgar/data/1657677/000119312526262880/ck0001657677-20260609.htm"
+  },
+  "Eikon": {
+   "form": "10-K",
+   "date": "2026-03-30",
+   "accession": "0001193125-26-130395",
+   "url": "https://www.sec.gov/Archives/edgar/data/1861123/000119312526130395/eikn_form_10-k_2025.htm"
+  }
+ }
+}

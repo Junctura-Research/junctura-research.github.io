@@ -1,0 +1,779 @@
+{
+ "retrieved": "2026-11-16",
+ "api": "https://clinicaltrials.gov/api/v2/studies",
+ "companies": {
+  "Insilico Medicine": [
+   {
+    "nct": "NCT07687459",
+    "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-09-09",
+    "last_update": "2026-10-13",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055 tablets",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05975983",
+    "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2024-02-08",
+    "last_update": "2025-11-12",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT06566079",
+    "title": "Study of ISM6331 in Participants With Advanced/Metastatic Mesothelioma or Other Advanced Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2024-12-27",
+    "last_update": "2026-09-16",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM6331"
+    ]
+   },
+   {
+    "nct": "NCT06012578",
+    "title": "Study Evaluating ISM5411 Administered Orally to Healthy Volunteers",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-11-08",
+    "last_update": "2024-11-07",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM5411",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05154240",
+    "title": "A Phase 1, Evaluate the Safety, Tolerability, and Pharmacokinetics of INS018_055 in Healthy Subjects",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2022-02-21",
+    "last_update": "2023-06-29",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT06445517",
+    "title": "Study Evaluating ISM8207 in Participants With Advanced Solid Tumors and Relapsed/Refractory B-Cell Lymphoma",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2024-04-25",
+    "last_update": "2026-07-24",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM8207"
+    ]
+   },
+   {
+    "nct": "NCT06724042",
+    "title": "Study of ISM5939 in Patients With Advanced and/or Metastatic Solid Tumors",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "NOT_YET_RECRUITING",
+    "why_stopped": null,
+    "start": "2026-12-30",
+    "last_update": "2026-07-23",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM5939",
+     "Cisplatin",
+     "Docetaxel",
+     "Pembrolizumab"
+    ]
+   },
+   {
+    "nct": "NCT05938920",
+    "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis (IPF)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-06-19",
+    "last_update": "2025-12-11",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "INS018_055",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT07265570",
+    "title": "Study Evaluating ISM5411 Administered Orally to Subjects With Active Ulcerative Colitis (BETHESDA)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-12-10",
+    "last_update": "2026-10-29",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM5411 tablets",
+     "ISM5411 tablets",
+     "ISM5411 tablets",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT06414460",
+    "title": "Study of ISM3412 in Participants With Locally Advanced/Metastatic Solid Tumors",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-04-25",
+    "last_update": "2026-09-01",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM3412"
+    ]
+   },
+   {
+    "nct": "NCT07932041",
+    "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM9528",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-10-29",
+    "last_update": "2026-11-12",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM9528 capsules"
+    ]
+   },
+   {
+    "nct": "NCT07581431",
+    "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM8969",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-06-15",
+    "last_update": "2026-06-22",
+    "sponsor": "InSilico Medicine Hong Kong Limited",
+    "interventions": [
+     "ISM8969 tablets or placebo",
+     "ISM8969 tablets or placebo",
+     "ISM8969 tablets or placebo"
+    ]
+   }
+  ],
+  "Atomwise": [],
+  "BenevolentAI": [
+   {
+    "nct": "NCT06118385",
+    "title": "Study Investigating the Safety, Tolerability, PK and Food Effect of BEN8744.",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2023-08-30",
+    "last_update": "2025-05-07",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN8744",
+     "Matching Placebo"
+    ]
+   },
+   {
+    "nct": "NCT03194217",
+    "title": "BEN-2001 in Parkinson Disease Patients With Excessive Daytime Sleepiness",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-11-10",
+    "last_update": "2025-03-10",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN-2001",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT04737304",
+    "title": "A First-in-Human PoC Study With BEN2293 in Patients With Mild to Moderate Atopic Dermatitis",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2020-10-14",
+    "last_update": "2023-06-18",
+    "sponsor": "BenevolentAI Bio",
+    "interventions": [
+     "BEN2293 (0.25% or 1.0% w/w) or matching placebo"
+    ]
+   },
+   {
+    "nct": "NCT00571038",
+    "title": "Working With Veterans Organizations to Improve Blood Pressure",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2008-02",
+    "last_update": "2015-04-24",
+    "sponsor": "US Department of Veterans Affairs",
+    "interventions": [
+     "Peer Led",
+     "Seminar"
+    ]
+   },
+   {
+    "nct": "NCT02497339",
+    "title": "Mindfulness Training for Smoking Cessation in Women in Workplaces",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2015-01",
+    "last_update": "2016-05-12",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Mindfulness training"
+    ]
+   },
+   {
+    "nct": "NCT06273761",
+    "title": "Evaluation of Medication Management Service",
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2024-02-06",
+    "last_update": "2024-02-23",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Medication Management Service (MMS)"
+    ]
+   },
+   {
+    "nct": "NCT04763369",
+    "title": "Investigation of Therapeutic Efficacy and Safety of UMSCs for the Management of Retinitis Pigmentosa (RP)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2021-02",
+    "last_update": "2021-02-21",
+    "sponsor": "Jinnah Burn and Reconstructive Surgery Centre, Lahore",
+    "interventions": [
+     "Injection of stem cells in sub-tenon space of eye for the management of retinitis pigmentosa",
+     "Injection of stem cells in suprachoroidal space of eye for the management of Retinitis Pigmentosa"
+    ]
+   },
+   {
+    "nct": "NCT04772521",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase \u2164)",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2021-04-15",
+    "last_update": "2023-12-08",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "General health talk",
+     "Personalized chat-based interactions",
+     "Text message",
+     "Phone follow-up/counselling service",
+     "Mailed nicotine replacement therapy (NRT)"
+    ]
+   },
+   {
+    "nct": "NCT02659774",
+    "title": "Smoking Cessation in Workplaces in Hong Kong [Phase II]",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2015-01",
+    "last_update": "2016-11-03",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "workshop (Motivational intervention)",
+     "Health talk",
+     "Face to Face counseling",
+     "Phone counseling",
+     "SMS",
+     "Booklet"
+    ]
+   },
+   {
+    "nct": "NCT03870906",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase IV)",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2019-03-01",
+    "last_update": "2023-05-22",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Occupational-specific health talk",
+     "WhatsApp interaction",
+     "Phone follow-up/counselling service",
+     "Text message"
+    ]
+   },
+   {
+    "nct": "NCT06932718",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase \u2164II)",
+    "phases": [
+     "NA"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-03-18",
+    "last_update": "2025-04-17",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "General health talk",
+     "Personalized chat-based interactions",
+     "Phone follow-up/counselling service",
+     "Mailed nicotine replacement therapy (NRT)",
+     "Text message",
+     "Small incentive"
+    ]
+   },
+   {
+    "nct": "NCT03142555",
+    "title": "Smoking Cessation Programme in Workplaces in Hong Kong (Phase III)",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-05-11",
+    "last_update": "2021-09-21",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Health talk plus intensive social media intervention",
+     "Health talk plus less intensive social media intervention"
+    ]
+   },
+   {
+    "nct": "NCT02179424",
+    "title": "Promoting Tobacco Control and Smoking Cessation in Workplaces [Phase I]",
+    "phases": [
+     "NA"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2012-12",
+    "last_update": "2016-12-23",
+    "sponsor": "The University of Hong Kong",
+    "interventions": [
+     "Workshop",
+     "Face-to-face counseling",
+     "Phone counseling",
+     "Health talk",
+     "Booklet",
+     "SMS"
+    ]
+   },
+   {
+    "nct": "NCT03785951",
+    "title": "Impact of Whey and Leucine on Glycaemia in Adults Without Diabetes",
+    "phases": [
+     "NA"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2018-12",
+    "last_update": "2018-12-24",
+    "sponsor": "University of Reading",
+    "interventions": [
+     "Whey Protein Isolate",
+     "Wheat Protein",
+     "Wheat Protein with Leucine"
+    ]
+   }
+  ],
+  "Isomorphic Labs": [],
+  "Xaira Therapeutics": [],
+  "XtalPi": [],
+  "insitro": [],
+  "Owkin": [
+   {
+    "nct": "NCT06625203",
+    "title": "A Non-interventional, International, Multicentre Clinical Research Study to Build the Largest Collection of Multimodal Data (Including Clinical Data, Imaging Data and Omics Data) in Oncology",
+    "phases": [],
+    "status": "ACTIVE_NOT_RECRUITING",
+    "why_stopped": null,
+    "start": "2023-05-08",
+    "last_update": "2026-09-28",
+    "sponsor": "OWKIN",
+    "interventions": []
+   }
+  ],
+  "Pathos AI": [
+   {
+    "nct": "NCT06785636",
+    "title": "A Phase 1b/2a Study of Pocenbrodib as Monotherapy and in Combination With Darolutamide in Participants With mCRPC",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-02-07",
+    "last_update": "2026-08-20",
+    "sponsor": "Pathos AI, Inc.",
+    "interventions": [
+     "Pocenbrodib",
+     "Pocenbrodib and Darolutamide"
+    ]
+   }
+  ],
+  "Healx": [
+   {
+    "nct": "NCT07725380",
+    "title": "Domatinostat With Sirolimus for Relapsed, Refractory Sarcoma and Osteosarcoma",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-07-15",
+    "last_update": "2026-09-03",
+    "sponsor": "H. Lee Moffitt Cancer Center and Research Institute",
+    "interventions": [
+     "Domatinostat",
+     "Sirolimus"
+    ]
+   },
+   {
+    "nct": "NCT06334419",
+    "title": "Placebo-Controlled, Single-Dose Challenge Study of Gaboxadol in Adult Males With Fragile X Syndrome (FXS)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2024-01-29",
+    "last_update": "2026-09-30",
+    "sponsor": "Craig Erickson",
+    "interventions": [
+     "Gaboxadol",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT04823052",
+    "title": "Investigation of Sulindac (HLX-0201) and Gaboxadol (HLX-0206) in Male Fragile X Syndrome Patients Aged 13-40",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "WITHDRAWN",
+    "why_stopped": "Healx has experienced delays to the site activation of the study and this has had an adverse impact on the recruitment timeline which is delaying the progress of other projects in our FXS programme.",
+    "start": "2022-05-25",
+    "last_update": "2022-12-08",
+    "sponsor": "Healx Limited",
+    "interventions": [
+     "Sulindac (HLX-0201), dose strength 1",
+     "Sulindac (HLX-0201), dose strength 2",
+     "Placebo",
+     "Gaboxadol (HLX-0206)"
+    ]
+   },
+   {
+    "nct": "NCT03882918",
+    "title": "An Open-Label Study to Evaluate the Long-Term Safety, Tolerability, and Efficacy of OV101 in Individuals With Angelman Syndrome",
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "TERMINATED",
+    "why_stopped": "Company decision",
+    "start": "2019-01-31",
+    "last_update": "2025-07-18",
+    "sponsor": "Healx AI",
+    "interventions": [
+     "OV101"
+    ]
+   },
+   {
+    "nct": "NCT03697161",
+    "title": "A Study of OV101 in Individuals With Fragile X Syndrome",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2018-09-17",
+    "last_update": "2024-01-23",
+    "sponsor": "Ovid Therapeutics Inc.",
+    "interventions": [
+     "OV101 (gaboxadol)"
+    ]
+   },
+   {
+    "nct": "NCT04106557",
+    "title": "A Study of OV101 in Individuals With Angelman Syndrome (AS)",
+    "phases": [
+     "PHASE3"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2019-09-09",
+    "last_update": "2024-01-08",
+    "sponsor": "Ovid Therapeutics Inc.",
+    "interventions": [
+     "Gaboxadol",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT03650452",
+    "title": "A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-935 (OV935) as an Adjunctive Therapy in Pediatric Participants With Developmental and/or Epileptic Encephalopathies",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2018-08-08",
+    "last_update": "2026-09-14",
+    "sponsor": "Takeda",
+    "interventions": [
+     "TAK-935",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT02996305",
+    "title": "A Study in Adults and Adolescents With Angelman Syndrome (STARS)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2016-01",
+    "last_update": "2025-08-03",
+    "sponsor": "Healx AI",
+    "interventions": [
+     "OV101 Regimen 1",
+     "OV101 regimen 2",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT03166215",
+    "title": "Study of TAK-935 as an Adjunctive Therapy in Participants With Developmental and/or Epileptic Encephalopathies",
+    "phases": [
+     "PHASE1",
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-08-17",
+    "last_update": "2026-09-14",
+    "sponsor": "Takeda",
+    "interventions": [
+     "TAK-935",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT03694275",
+    "title": "A Multicenter, Open-label, Pilot Study of Soticlestat (TAK-935/OV935) in Participants With 15Q Duplication Syndrome (Dup 15q) or Cyclin-Dependent Kinase-Like 5 (CDKL5) Deficiency Disorder (ARCADE STUDY)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2018-09-10",
+    "last_update": "2026-09-10",
+    "sponsor": "Takeda",
+    "interventions": [
+     "Soticlestat"
+    ]
+   },
+   {
+    "nct": "NCT03109756",
+    "title": "Single Dose Pharmacokinetic (PK) Study",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2017-04-03",
+    "last_update": "2017-11-30",
+    "sponsor": "Ovid Therapeutics Inc.",
+    "interventions": [
+     "OV101"
+    ]
+   },
+   {
+    "nct": "NCT06541847",
+    "title": "A Phase 2, Open-Label Study to Evaluate the Safety and Effects of HLX-1502 in Patients With Neurofibromatosis Type 1",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-02-10",
+    "last_update": "2026-07-29",
+    "sponsor": "Healx Limited",
+    "interventions": [
+     "HLX-1502"
+    ]
+   }
+  ],
+  "Enveda": [
+   {
+    "nct": "NCT07301255",
+    "title": "ENV-294 for Moderate-to-Severe Asthma: A 12-Week Study in Adults",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-01-09",
+    "last_update": "2026-09-24",
+    "sponsor": "Enveda Therapeutics",
+    "interventions": [
+     "ENV-294",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT07336940",
+    "title": "Study of ENV-294 in Healthy Adults and in Adults With Moderate-to-Severe Atopic Dermatitis",
+    "phases": [
+     "PHASE1"
+    ],
+    "status": "COMPLETED",
+    "why_stopped": null,
+    "start": "2025-09-10",
+    "last_update": "2026-04-01",
+    "sponsor": "Enveda Therapeutics",
+    "interventions": [
+     "ENV-294 Capsule"
+    ]
+   },
+   {
+    "nct": "NCT07643766",
+    "title": "A Phase 2b Dose-Ranging Study to Evaluate the Efficacy and Safety of ENV-294 in Adults With Moderate-to-Severe Atopic Dermatitis",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2026-06-29",
+    "last_update": "2026-08-06",
+    "sponsor": "Enveda Therapeutics",
+    "interventions": [
+     "ENV-294",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT07298395",
+    "title": "Study of ENV-294 in Adults With Moderate-to-Severe Atopic Dermatitis",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "RECRUITING",
+    "why_stopped": null,
+    "start": "2025-12-22",
+    "last_update": "2026-09-25",
+    "sponsor": "Enveda Therapeutics",
+    "interventions": [
+     "ENV-294",
+     "Placebo"
+    ]
+   }
+  ],
+  "Cradle": [],
+  "Valo Health": [
+   {
+    "nct": "NCT05327855",
+    "title": "Efficacy and Safety of OPL-0301 Compared to Placebo in Adults With Post-Myocardial Infarction (MI)",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "WITHDRAWN",
+    "why_stopped": "Withdrawn based on business decision, no participants enrolled",
+    "start": "2022-09",
+    "last_update": "2023-02-21",
+    "sponsor": "Valo Health, Inc.",
+    "interventions": [
+     "OPL-0301 Dose 1",
+     "OPL-0301 Dose 2",
+     "Placebo"
+    ]
+   },
+   {
+    "nct": "NCT05393284",
+    "title": "Phase 2 Spectra Study to Evaluate the Safety and Efficacy of OPL-0401 in Patients With Diabetic Retinopathy",
+    "phases": [
+     "PHASE2"
+    ],
+    "status": "UNKNOWN",
+    "why_stopped": null,
+    "start": "2022-08-16",
+    "last_update": "2024-06-17",
+    "sponsor": "Valo Health, Inc.",
+    "interventions": [
+     "OPL-0401 Dose 1",
+     "Placebo"
+    ]
+   }
+  ],
+  "Chai Discovery": [],
+  "Iktos": []
+ }
+}

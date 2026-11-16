@@ -1,0 +1,420 @@
+{
+ "retrieved": "2026-11-16",
+ "window": [
+  "2020-01-01",
+  "2024-04-30"
+ ],
+ "companies": {
+  "Recursion": {
+   "cik": 1601830,
+   "entity": "RECURSION PHARMACEUTICALS, INC.",
+   "sic": "2836",
+   "filings": [
+    {
+     "form": "10-K",
+     "date": "2024-02-29",
+     "accession": "0001601830-24-000019",
+     "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183024000019/rxrx-20231231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-02-27",
+     "accession": "0001601830-23-000010",
+     "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183023000010/rxrx-20221231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-03-23",
+     "accession": "0001601830-22-000012",
+     "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183022000012/rxrx-20211231.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2021-03-22",
+     "accession": "0001193125-21-089610",
+     "url": "https://www.sec.gov/Archives/edgar/data/1601830/000119312521089610/d89478ds1.htm"
+    }
+   ]
+  },
+  "Exscientia": {
+   "cik": 1865408,
+   "entity": "Exscientia plc",
+   "sic": "2836",
+   "filings": [
+    {
+     "form": "20-F",
+     "date": "2024-03-21",
+     "accession": "0001865408-24-000018",
+     "url": "https://www.sec.gov/Archives/edgar/data/1865408/000186540824000018/exai-20231231.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2023-03-23",
+     "accession": "0001865408-23-000011",
+     "url": "https://www.sec.gov/Archives/edgar/data/1865408/000186540823000011/exai-20221231.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2022-03-23",
+     "accession": "0001865408-22-000005",
+     "url": "https://www.sec.gov/Archives/edgar/data/1865408/000186540822000005/exai-20211231.htm"
+    },
+    {
+     "form": "F-1",
+     "date": "2021-09-10",
+     "accession": "0001104659-21-114491",
+     "url": "https://www.sec.gov/Archives/edgar/data/1865408/000110465921114491/tm2119783-5_f1.htm"
+    }
+   ]
+  },
+  "Schrodinger": {
+   "cik": 1490978,
+   "entity": "Schrodinger, Inc.",
+   "sic": "2834",
+   "filings": [
+    {
+     "form": "10-K",
+     "date": "2024-02-28",
+     "accession": "0001490978-24-000018",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097824000018/sdgr-20231231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-02-28",
+     "accession": "0001490978-23-000024",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097823000024/sdgr-20221231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-02-24",
+     "accession": "0001564590-22-006713",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000156459022006713/sdgr-10k_20211231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2021-03-04",
+     "accession": "0001564590-21-010727",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000156459021010727/sdgr-10k_20201231.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2020-08-10",
+     "accession": "0001193125-20-214928",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000119312520214928/d944446ds1.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2020-03-16",
+     "accession": "0001564590-20-011182",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000156459020011182/sdgr-10k_20191231.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2020-01-10",
+     "accession": "0001193125-20-005504",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490978/000119312520005504/d766269ds1.htm"
+    }
+   ]
+  },
+  "Absci": {
+   "cik": 1672688,
+   "entity": "Absci Corp",
+   "sic": "8731",
+   "filings": [
+    {
+     "form": "10-K",
+     "date": "2024-03-21",
+     "accession": "0001628280-24-012366",
+     "url": "https://www.sec.gov/Archives/edgar/data/1672688/000162828024012366/absi-20231231.htm"
+    },
+    {
+     "form": "10-K/A",
+     "date": "2023-05-30",
+     "accession": "0001628280-23-020162",
+     "url": "https://www.sec.gov/Archives/edgar/data/1672688/000162828023020162/absi-20221231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-03-30",
+     "accession": "0001628280-23-009908",
+     "url": "https://www.sec.gov/Archives/edgar/data/1672688/000162828023009908/absi-20221231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-03-22",
+     "accession": "0001628280-22-006925",
+     "url": "https://www.sec.gov/Archives/edgar/data/1672688/000162828022006925/absi-20211231.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2021-06-30",
+     "accession": "0001628280-21-013214",
+     "url": "https://www.sec.gov/Archives/edgar/data/1672688/000162828021013214/abscis-1.htm"
+    }
+   ]
+  },
+  "Evaxion": {
+   "cik": 1828253,
+   "entity": "Evaxion A/S",
+   "sic": "2836",
+   "filings": [
+    {
+     "form": "20-F",
+     "date": "2024-03-26",
+     "accession": "0001104659-24-039004",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465924039004/evax-20231231x20f.htm"
+    },
+    {
+     "form": "F-1",
+     "date": "2024-01-12",
+     "accession": "0001104659-24-003760",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465924003760/evax-20230930xf1.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2023-04-28",
+     "accession": "0001104659-23-051798",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465923051798/evax-20221231x20f.htm"
+    },
+    {
+     "form": "F-1",
+     "date": "2022-07-07",
+     "accession": "0001104659-22-078077",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465922078077/tm2220308-1_f1.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2022-03-31",
+     "accession": "0001104659-22-041054",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465922041054/evax-20211231x20f.htm"
+    },
+    {
+     "form": "F-1",
+     "date": "2021-10-26",
+     "accession": "0001104659-21-129737",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465921129737/evax-20211026xf1.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2021-04-07",
+     "accession": "0001558370-21-004050",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000155837021004050/evax-20201231x20f.htm"
+    },
+    {
+     "form": "F-1",
+     "date": "2021-01-08",
+     "accession": "0001104659-21-002525",
+     "url": "https://www.sec.gov/Archives/edgar/data/1828253/000110465921002525/tm2031352-11_f1.htm"
+    }
+   ]
+  },
+  "Nurix": {
+   "cik": 1549595,
+   "entity": "Nurix Therapeutics, Inc.",
+   "sic": "2834",
+   "filings": [
+    {
+     "form": "10-K",
+     "date": "2024-02-15",
+     "accession": "0001549595-24-000025",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959524000025/nrix-20231130.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-02-09",
+     "accession": "0001549595-23-000021",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959523000021/nrix-20221130.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-01-28",
+     "accession": "0001564590-22-003007",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000156459022003007/nrix-10k_20211130.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2021-03-02",
+     "accession": "0001193125-21-065468",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000119312521065468/d97958ds1.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2021-02-16",
+     "accession": "0001564590-21-006071",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000156459021006071/nrix-10k_20201130.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2020-07-02",
+     "accession": "0001193125-20-186809",
+     "url": "https://www.sec.gov/Archives/edgar/data/1549595/000119312520186809/d903927ds1.htm"
+    }
+   ]
+  },
+  "Compugen": {
+   "cik": 1119774,
+   "entity": "COMPUGEN LTD",
+   "sic": "2836",
+   "filings": [
+    {
+     "form": "20-F",
+     "date": "2024-03-05",
+     "accession": "0001178913-24-000818",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891324000818/zk2431047.htm"
+    },
+    {
+     "form": "20-F/A",
+     "date": "2023-08-23",
+     "accession": "0001178913-23-002970",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891323002970/zk2330202.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2023-02-28",
+     "accession": "0001178913-23-000772",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891323000772/zk2329266.htm"
+    },
+    {
+     "form": "20-F/A",
+     "date": "2022-02-28",
+     "accession": "0001178913-22-000863",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891322000863/zk2227383.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2022-02-28",
+     "accession": "0001178913-22-000846",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891322000846/zk2227209.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2021-02-25",
+     "accession": "0001178913-21-000791",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891321000791/cgen20f1220.htm"
+    },
+    {
+     "form": "20-F/A",
+     "date": "2020-02-27",
+     "accession": "0001178913-20-000674",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891320000674/zk2024101.htm"
+    },
+    {
+     "form": "20-F",
+     "date": "2020-02-24",
+     "accession": "0001178913-20-000625",
+     "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891320000625/zk2024019.htm"
+    }
+   ]
+  },
+  "iBio": {
+   "cik": 1420720,
+   "entity": "iBio, Inc.",
+   "sic": "2834",
+   "filings": [
+    {
+     "form": "S-1",
+     "date": "2023-10-27",
+     "accession": "0001104659-23-112190",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000110465923112190/tm2327279d2_s1.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-09-27",
+     "accession": "0001420720-23-000045",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072023000045/ibio-20230630x10k.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2023-08-07",
+     "accession": "0001104659-23-087930",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000110465923087930/tm2322856d1_s1.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-10-11",
+     "accession": "0001420720-22-000064",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072022000064/ibio-20220630x10k.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2021-09-28",
+     "accession": "0001558370-21-012819",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000155837021012819/ibio-20210630x10k.htm"
+    },
+    {
+     "form": "10-K/A",
+     "date": "2020-10-27",
+     "accession": "0001104659-20-118585",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000110465920118585/tm2034206d1_10ka.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2020-10-13",
+     "accession": "0001104659-20-114567",
+     "url": "https://www.sec.gov/Archives/edgar/data/1420720/000110465920114567/tm2024769d1_10k.htm"
+    }
+   ]
+  },
+  "Monte Rosa": {
+   "cik": 1826457,
+   "entity": "Monte Rosa Therapeutics, Inc.",
+   "sic": "2836",
+   "filings": [
+    {
+     "form": "10-K",
+     "date": "2024-03-14",
+     "accession": "0000950170-24-031150",
+     "url": "https://www.sec.gov/Archives/edgar/data/1826457/000095017024031150/glue-20231231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2023-03-16",
+     "accession": "0000950170-23-008440",
+     "url": "https://www.sec.gov/Archives/edgar/data/1826457/000095017023008440/glue-20221231.htm"
+    },
+    {
+     "form": "10-K",
+     "date": "2022-03-29",
+     "accession": "0000950170-22-004927",
+     "url": "https://www.sec.gov/Archives/edgar/data/1826457/000095017022004927/glue-20211231.htm"
+    },
+    {
+     "form": "S-1",
+     "date": "2021-06-04",
+     "accession": "0001193125-21-182268",
+     "url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312521182268/d47776ds1.htm"
+    }
+   ]
+  },
+  "Iambic": {
+   "cik": 1997038,
+   "entity": "Iambic Therapeutics, Inc.",
+   "sic": "2836",
+   "filings": []
+  },
+  "Generate": {
+   "cik": 2100782,
+   "entity": "Generate Biomedicines, Inc.",
+   "sic": "2834",
+   "filings": []
+  },
+  "Eikon": {
+   "cik": 1861123,
+   "entity": "Eikon Therapeutics, Inc.",
+   "sic": "2836",
+   "filings": []
+  },
+  "Odyssey": {
+   "cik": 1882782,
+   "entity": "Odyssey Therapeutics, Inc.",
+   "sic": "2836",
+   "filings": []
+  },
+  "Parabilis": {
+   "cik": 1657677,
+   "entity": "Parabilis Medicines, Inc.",
+   "sic": "2834",
+   "filings": []
+  }
+ }
+}

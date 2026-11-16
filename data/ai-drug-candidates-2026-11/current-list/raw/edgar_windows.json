@@ -1,0 +1,1606 @@
+{
+ "0001651625": {
+  "name": "AC Immune SA  (ACIU)  (CIK 0001651625)",
+  "form": "20-F",
+  "date": "2026-03-13",
+  "url": "https://www.sec.gov/Archives/edgar/data/1651625/000110465926027342/aciu-20251231x20f.htm",
+  "codes": {
+   "TDP-43": {
+    "n": 5,
+    "window": " Neurodegenerative diseases; (2) Alzheimer\u2019s disease; (3) Gustavsson et al. Alzheimer\u2019s and Dement. 2023 19:658-670. https://doi.org/10.1002/alz.12694; (4) Monoclonal antibody; (5) alpha-synuclein; (6) TAR DNA-binding protein 43; (7) Amyotrophic lateral sclerosis; (8) Limbic-predominant age-related TDP-43 encephalopathy Diagnosis typically takes the form of observation of cognitive, functional and behavioral impairment and other symptoms of the diseases, which are generally only apparent after irreversible neuronal damage has already occurred. In the United States, through Q1 2026, there were only t"
+   },
+   "ACI-24": {
+    "n": 4,
+    "window": "mmunotherapies for Alzheimer\u2019s and Parkinson\u2019s disease \u200b Consistent with this approach, we are progressing our active immunotherapies targeting the hallmark proteins driving neurodegenerative diseases such as Abeta, Tau, and alpha-synuclein (a-syn). Our clinical stage active immunotherapy programs, ACI-24.060 (anti-Abeta active immunotherapy), ACI-35.030 (anti-pTau active immunotherapy), and ACI-7104.056 (anti-a-syn active immunotherapy) have been shown to stimulate a patient\u2019s own immune system to produce antibodies directed specifically against the pathological species of these target proteins. \u200b "
+   },
+   "ACI-35": {
+    "n": 7,
+    "window": " disease \u200b Consistent with this approach, we are progressing our active immunotherapies targeting the hallmark proteins driving neurodegenerative diseases such as Abeta, Tau, and alpha-synuclein (a-syn). Our clinical stage active immunotherapy programs, ACI-24.060 (anti-Abeta active immunotherapy), ACI-35.030 (anti-pTau active immunotherapy), and ACI-7104.056 (anti-a-syn active immunotherapy) have been shown to stimulate a patient\u2019s own immune system to produce antibodies directed specifically against the pathological species of these target proteins. \u200b We believe that these antibodies will modify t"
+   },
+   "ACI-7104": {
+    "n": 1,
+    "window": "progressing our active immunotherapies targeting the hallmark proteins driving neurodegenerative diseases such as Abeta, Tau, and alpha-synuclein (a-syn). Our clinical stage active immunotherapy programs, ACI-24.060 (anti-Abeta active immunotherapy), ACI-35.030 (anti-pTau active immunotherapy), and ACI-7104.056 (anti-a-syn active immunotherapy) have been shown to stimulate a patient\u2019s own immune system to produce antibodies directed specifically against the pathological species of these target proteins. \u200b We believe that these antibodies will modify the course of disease by supporting clearance of tox"
+   },
+   "ACI-12589": {
+    "n": 7,
+    "window": "g moved PI-2620 into a pivotal Phase 3 histopathology trial called ADvance in AD (NCT05641688) and made a milestone payment to AC Immune. In August 2024, Life Molecular Imaging received FDA Fast Track Designation for the diagnostic PI-2620, in three neurodegenerative conditions: AD, PSP, and CBD. \u25cf ACI-12589 and ACI-15916. Our Morphomer platform has delivered the first clinically validated a-syn-PET tracer, ACI-12589, which now can support the differential diagnosis of multiple system atrophy (MSA) from other neurodegenerative diseases. Compared to ACI-12589, ACI-15916 our next generation a-syn PET tra"
+   },
+   "ACI-15916": {
+    "n": 4,
+    "window": "0 into a pivotal Phase 3 histopathology trial called ADvance in AD (NCT05641688) and made a milestone payment to AC Immune. In August 2024, Life Molecular Imaging received FDA Fast Track Designation for the diagnostic PI-2620, in three neurodegenerative conditions: AD, PSP, and CBD. \u25cf ACI-12589 and ACI-15916. Our Morphomer platform has delivered the first clinically validated a-syn-PET tracer, ACI-12589, which now can support the differential diagnosis of multiple system atrophy (MSA) from other neurodegenerative diseases. Compared to ACI-12589, ACI-15916 our next generation a-syn PET tracer, shows sig"
+   },
+   "ACI-19626": {
+    "n": 1,
+    "window": "this study is expected in H1 2026. \u25cf ACI-19626, TDP-43 imaging FIH study. Our Morphomer platform has delivered the first-in-class TDP-43 PET tracer, 18 F-ACI-19626 currently being evaluated in an FIH study in healthy volunteers as well as in patients with different TDP-43 proteinopathies. In vitro, ACI-19626 shows optimal binding potential in frontotemporal lobar degeneration (FTLD)-TDP brain tissue with no binding to physiological TDP-43, excellent selectivity over other aggregated proteins commonly present in neurodegenerative diseases and aging brain, and an excellent brain PET-ligand pharmacokineti"
+   },
+   "ADPD 2024": {
+    "n": 2,
+    "window": "is is meaningful as Tau hyper-phosphorylation is considered an early event in the development of Tau pathology, occurring even decades before the onset of cognitive impairment. 78 Table of Contents Figure 15: pTau-specific IgG titers in Non-Human Primates (NHP) induced by ACI-35.030 Ref: Vukicevic, ADPD 2024 \u25cf Sera from rhesus monkeys immunized with ACI-35.030 binds specifically to pathological Tau in brain sections from patients with AD as compared to healthy human brain tissue (Kosco-Vilbois, KOL event \u2018Untangling\u2019 Tau Pathology to Treat Alzheimer\u2019s and Neurodegenerative Diseases NYC, Nov 2019). \u25cf Im"
+   },
+   "VENT-02": {
+    "n": 1,
+    "window": "ith elevated cardiovascular risk (the company was acquired by Eli Lilly in January 2026); (ii) NT-0796 (NodThera) completed a Phase 1b/2a trial in early PD and a Phase 1b/2a trial in obesity with elevated cardiovascular risk; (iii) selnoflast (Roche) has completed a Phase 1b trial in early PD; (iv) VENT-02 (Ventus) development in a Phase 1b in PD was terminated; (v) ZYIL1 (Zydus) has completed a Phase 1a trial in ALS and is expected to undergo a trial in PD. Multiple other NLRP3 inhibitors are being or have been evaluated for non-neurodegenerative indications, such as dapansutrile (Olatec), DFV890 (N"
+   },
+   "DFV890": {
+    "n": 1,
+    "window": ") VENT-02 (Ventus) development in a Phase 1b in PD was terminated; (v) ZYIL1 (Zydus) has completed a Phase 1a trial in ALS and is expected to undergo a trial in PD. Multiple other NLRP3 inhibitors are being or have been evaluated for non-neurodegenerative indications, such as dapansutrile (Olatec), DFV890 (Novartis), RRx-01 (EpicentRx), and new entrants (e.g. BGE-102 from BioAge) are emerging frequently. Morphomer Tau. We are researching and developing small molecule Tau aggregation inhibitors with plans to evaluate candidates in AD and potentially other tauopathies. Continued candidate characteriza"
+   },
+   "BGE-102": {
+    "n": 1,
+    "window": "ted; (v) ZYIL1 (Zydus) has completed a Phase 1a trial in ALS and is expected to undergo a trial in PD. Multiple other NLRP3 inhibitors are being or have been evaluated for non-neurodegenerative indications, such as dapansutrile (Olatec), DFV890 (Novartis), RRx-01 (EpicentRx), and new entrants (e.g. BGE-102 from BioAge) are emerging frequently. Morphomer Tau. We are researching and developing small molecule Tau aggregation inhibitors with plans to evaluate candidates in AD and potentially other tauopathies. Continued candidate characterization across the research program also identified new and highly"
+   },
+   "ACI 35": {
+    "n": 1,
+    "window": "the development, manufacture and commercialization of anti-Tau active immunotherapies, which covers ACI 35.030. We expect to capitalize on Johnson & Johnson\u2019s extensive regulatory expertise and experience in developing, manufacturing and, if approved, commercializing active immunotherapies to bring ACI 35.030 to market. We entered into a license agreement with Lilly in December 2018 (as amended in September 2019 and March 2020) to research and develop Morphomer Tau small molecules for the treatment of AD and other neurodegenerative diseases. Under the terms of this agreement, we have completed a Pha"
+   },
+   "ACI-3024": {
+    "n": 2,
+    "window": "d into a license agreement with Lilly in December 2018 (as amended in September 2019 and March 2020) to research and develop Morphomer Tau small molecules for the treatment of AD and other neurodegenerative diseases. Under the terms of this agreement, we have completed a Phase 1 clinical study with ACI-3024. Lilly is responsible for leading and funding further clinical development for small molecule Tau aggregation inhibitors with plans to evaluate candidates in AD and NeuroOrphan tauopathies. Lilly will also retain global commercialization rights for all indications. In May 2024, we entered into an e"
+   },
+   "COBIT 2019": {
+    "n": 1,
+    "window": "-wide cybersecurity strategy, policy, standards, architecture and processes. The Company\u2019s EVP Artificial Intelligence and Information Systems and his team possess expertise with cybersecurity, as demonstrated by prior work experience. The Company has designed its cybersecurity program based on the COBIT 2019 framework (and other certain industry standards) with the aim of protecting our networks, applications and systems and the confidentiality of sensitive information maintained as part of our business operations as well as securing our resources against cybersecurity threats. A breach, compromise or "
+   }
+  }
+ },
+ "0001802369": {
+  "name": "ADARx Pharmaceuticals, Inc.  (CIK 0001802369)",
+  "form": "S-1/A",
+  "date": "2026-09-21",
+  "url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526396007/d903461ds1a.htm",
+  "codes": {
+   "ADX-077": {
+    "n": 6,
+    "window": "DX-077. We have initiated IND-enabling studies and plan to initiate a Phase 1 clinical trial in 2027, subject to receipt of regulatory clearance. Initial clinical data from this planned Phase 1 clinical trial are anticipated in 2028. For additional details on the results observed in NHPs dosed with ADX-077, see the section titled \u201cADX-077\u2014siRNA preclinical therapeutic candidate for obesity via a novel undisclosed target in adipose tissue.\u201d ADX-199\u2014siRNA preclinical therapeutic candidate for selectively silencing and degrading APP mRNA in neurons for neurodegenerative diseases Our neuron-targeted prog"
+   },
+   "ADX-199": {
+    "n": 15,
+    "window": ". Initial clinical data from this planned Phase 1 clinical trial are anticipated in 2028. For additional details on the results observed in NHPs dosed with ADX-077, see the section titled \u201cADX-077\u2014siRNA preclinical therapeutic candidate for obesity via a novel undisclosed target in adipose tissue.\u201d ADX-199\u2014siRNA preclinical therapeutic candidate for selectively silencing and degrading APP mRNA in neurons for neurodegenerative diseases Our neuron-targeted program, ADX-199, is designed to selectively silence and degrade APP mRNA in neurons. APP is genetically linked to Alzheimer\u2019s disease, as pathogeni"
+   }
+  }
+ },
+ "0001655759": {
+  "name": "ARVINAS, INC.  (ARVN)  (CIK 0001655759)",
+  "form": "10-K",
+  "date": "2026-02-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026011226/arvn-20251231.htm",
+  "codes": {
+   "ARV-102": {
+    "n": 10,
+    "window": " degraders are particularly well positioned to be evaluated in neurodegenerative diseases where there are currently no disease modifying therapies available, including Parkinson's disease (\"PD\") and progressive supranuclear palsy (\"PSP\"); 2 \u2022 our belief that the data from our preclinical studies of ARV-102 further support the potential of PROTAC-induced LRRK2 degradation as a treatment for patients with neurodegenerative disease; \u2022 our belief that ARV-806 has the potential to address high unmet need in solid tumors, such as pancreatic, colorectal and non-small cell lung cancer (\"NSCLC\"), with KRAS G1"
+   },
+   "ARV-806": {
+    "n": 6,
+    "window": "able, including Parkinson's disease (\"PD\") and progressive supranuclear palsy (\"PSP\"); 2 \u2022 our belief that the data from our preclinical studies of ARV-102 further support the potential of PROTAC-induced LRRK2 degradation as a treatment for patients with neurodegenerative disease; \u2022 our belief that ARV-806 has the potential to address high unmet need in solid tumors, such as pancreatic, colorectal and non-small cell lung cancer (\"NSCLC\"), with KRAS G12D mutation; \u2022 our belief that ARV-806 has the potential to be developed as a monotherapy and in combination with chemotherapy in pancreatic ductal aden"
+   },
+   "ARV-393": {
+    "n": 8,
+    "window": "for the treatment of neurodegenerative diseases, including Parkinson's disease, or PD, and progressive supranuclear palsy, or PSP; \u2022 ARV-806, targeting Kirsten rat sarcoma, or KRAS, -G12D protein for cancers with the G12D mutation, including pancreatic, colorectal and non-small cell lung cancer ; \u2022 ARV-393, targeting the B-cell lymphoma 6, or BCL6, protein for the treatment of relapsed/refractory non-Hodgkin lymphoma, or NHL; \u2022 ARV-027, targeting the polyglutamine-expanded androgen receptor, or polyQ-AR, in skeletal muscle; and \u2022 vepdegestrant, targeting the estrogen receptor, or ER, for the treatmen"
+   },
+   "ARV-027": {
+    "n": 2,
+    "window": "r terminate our research or product development programs or future commercialization efforts. We expect to continue to incur significant expenses in connection with our ongoing activities, particularly as we continue our ongoing and initiate our planned clinical trials of ARV-102, ARV-806, ARV-393, ARV-027 and vepdegestrant, advance our other oncology programs and neurodegenerative programs and other preclinical programs, including ARV-6723 and our pan-KRAS degrader program, continue research and development and initiate additional clinical trials of and potentially seek marketing approval for our le"
+   },
+   "ARV-6723": {
+    "n": 1,
+    "window": " expenses in connection with our ongoing activities, particularly as we continue our ongoing and initiate our planned clinical trials of ARV-102, ARV-806, ARV-393, ARV-027 and vepdegestrant, advance our other oncology programs and neurodegenerative programs and other preclinical programs, including ARV-6723 and our pan-KRAS degrader program, continue research and development and initiate additional clinical trials of and potentially seek marketing approval for our lead programs and our other product candidates and decide to commercialize such products ourselves. In the third quarter of 2025, we announ"
+   }
+  }
+ },
+ "0001672688": {
+  "name": "Absci Corp  (ABSI)  (CIK 0001672688)",
+  "form": "10-K",
+  "date": "2026-03-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672688/000167268826000068/absi-20251231.htm",
+  "codes": {
+   "ABBV-701": {
+    "n": 2,
+    "window": "-based clinical trials focused on non-hormonal pain treatments. \u2022 ABS-101: There are several companies with product candidates targeting TL1A in clinical development for the treatment of IBD, including Merck\u2019s MK-7240, Roche/Roivant\u2019s RVT-3101, Sanofi/Teva\u2019s TEV-48574 TL1A, Spyre\u2019s SPY002, AbbVie\u2019s ABBV-701, and Xencor\u2019s XmAb942. Beyond the competitors for IBD, there will be additional competitors for the indications outside of IBD that we or a potential partner may explore. Integrated Drug Creation platform Our Integrated Drug Creation platform comprises, in part, cutting edge generative AI models ai"
+   }
+  }
+ },
+ "0001781174": {
+  "name": "Acrivon Therapeutics, Inc.  (ACRV)  (CIK 0001781174)",
+  "form": "10-K",
+  "date": "2026-03-19",
+  "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526115123/acrv-20251231.htm",
+  "codes": {
+   "ACR-368": {
+    "n": 2,
+    "window": "ous EC subjects with up to two pLoT without the need for pre-treatment tumor biopsy or biomarker stratification (\u201ca serous all comer\u201d), and utilizes ultra-low dose gemcitabine, or ULDG, as a sensitizer. Arm 4 will investigate the same \u201cserous all comer\u201d subject group but without ULDG sensitization (ACR-368 monotherapy). We are also leveraging our proprietary Generative Phosphoproteomics AP3 precision medicine platform for streamlined drug discovery through AP3-based drug optimization in intact cells and co-crystallography and to develop our internally-discovered pipeline programs. These include ACR-2"
+   },
+   "ACR-2316": {
+    "n": 2,
+    "window": "R-368 monotherapy). We are also leveraging our proprietary Generative Phosphoproteomics AP3 precision medicine platform for streamlined drug discovery through AP3-based drug optimization in intact cells and co-crystallography and to develop our internally-discovered pipeline programs. These include ACR-2316, our second clinical-stage asset, which is a novel, selective, dual WEE1/PKMYT1 inhibitor designed specifically for enhanced therapeutic index by achieving superior single-agent activity through strong activation of not only CDK1 and CDK2 but also of PLK1 to drive pro-apoptotic cell death, as obser"
+   }
+  }
+ },
+ "0002020932": {
+  "name": "Agomab Therapeutics NV  (AGMB)  (CIK 0002020932)",
+  "form": "20-F",
+  "date": "2026-04-23",
+  "url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926047872/agmb-20251231x20f.htm",
+  "codes": {
+   "AGMB-101": {
+    "n": 14,
+    "window": "our planned Phase 2 trial in IPF patients. We are on track to initiate a Phase 2 proof-of-concept study with AGMB-447 in IPF patients in the second half of 2026. \u25cf Discovery and preclinical portfolio: We have a robust discovery pipeline including several programs in the early stages of development. AGMB-101, our most advanced preclinical asset, is a hepatocyte growth factor-, or HGF-, mimetic monoclonal antibody that acts through agonism, or stimulation, of the MET receptor and has demonstrated both antifibrotic and regenerative activity in preclinical models. We have concluded IND-enabling studies fo"
+   },
+   "AGMB-447": {
+    "n": 3,
+    "window": "ression of COL1A1 was decreased in a dose-dependent manner in hPCLs from non-IPF and IPF patients \u25cf Similar effects were observed for other profibrotic genes such as SERPINE-1 (coding for PAI-1), fibronectin (FN1) and integrin beta 6 (ITGB6) Toxicology studies No cardiac valve lesions observed with AGMB-447 \u200b \u25cf No cardiac valve lesions have been observed in GLP toxicology studies, including chronic toxicology studies of AGMB-447 in rodents and toxicology studies in non-rodents \u200b 120 Table of Contents AGMB-447 resulted in high exposure to the lung with fast hydrolysis in plasma AGMB-447 was designed to"
+   }
+  }
+ },
+ "0001341235": {
+  "name": "Aldeyra Therapeutics, Inc.  (ALDX)  (CIK 0001341235)",
+  "form": "10-K",
+  "date": "2026-02-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1341235/000119312526083012/aldx-20251231.htm",
+  "codes": {
+   "ADX-246": {
+    "n": 1,
+    "window": "dependently reduced nociceptive behavior, suggesting that reproxalap down-regulates pain signaling in inflammation. (Data presented at The 2016 International Conference on Pain Research and Management) \u2022 In a mouse model of macular degenerative disease, intravitreal injections of the RASP modulator ADX-246 reduced the levels of a toxic metabolite implicated in hte dry form of age-related macular degeneration. \u2022 In a mouse model of atopic dermatitis, relative to vehicle (placebo) treatment, treatment with the RASP modulator ADX\u2011248 resulted in decreased ear thickness, spleen weight, epidermal thicknes"
+   }
+  }
+ },
+ "0001653087": {
+  "name": "Alector, Inc.  (ALEC)  (CIK 0001653087)",
+  "form": "10-K",
+  "date": "2026-02-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526071593/alec-20251231.htm",
+  "codes": {
+   "AL101": {
+    "n": 1,
+    "window": "\u2019s disease (PD) and Lewy body dementia (LBD). We are also advancing brain-penetrant siRNA programs targeting tau for Alzheimer\u2019s disease, \u03b1-synuclein for Parkinson\u2019s disease, and NLRP3, with potential applications across multiple neurodegenerative conditions. Clinical Pipeline Nivisnebart (formerly AL101/GSK4527226) Nivisnebart is an investigational human recombinant monoclonal antibody designed to elevate PGRN levels in the brain. Its pharmacokinetic and pharmacodynamic properties may be suitable for treating prevalent neurodegenerative diseases. We and GSK are co-developing nivisnebart for the po"
+   },
+   "AL064": {
+    "n": 4,
+    "window": "auopathies, which aims to prevent the synthesis of the tau mRNA and protein, with the goal of removing toxic tau, suppressing tau protein expression, and slowing cognitive decline in AD. We have selected AL064 as a lead candidate and are advancing the program to IND-enabling studies. In addition to AL064, we are advancing additional early-stage siRNA programs toward lead candidate selection, 4 including ADP062-ABC, an alpha-synuclein siRNA for PD, and ADP065-ABC, an NLRP3 siRNA for multiple neurodegenerative conditions, reflecting the broad applicability of the ABC platform across disease mechanism"
+   },
+   "ADP062": {
+    "n": 2,
+    "window": "c tau, suppressing tau protein expression, and slowing cognitive decline in AD. We have selected AL064 as a lead candidate and are advancing the program to IND-enabling studies. In addition to AL064, we are advancing additional early-stage siRNA programs toward lead candidate selection, 4 including ADP062-ABC, an alpha-synuclein siRNA for PD, and ADP065-ABC, an NLRP3 siRNA for multiple neurodegenerative conditions, reflecting the broad applicability of the ABC platform across disease mechanisms. We continue to evolve our research and development plans and timing for our ABC-enabled siRNA programs in"
+   },
+   "ADP065": {
+    "n": 2,
+    "window": "owing cognitive decline in AD. We have selected AL064 as a lead candidate and are advancing the program to IND-enabling studies. In addition to AL064, we are advancing additional early-stage siRNA programs toward lead candidate selection, 4 including ADP062-ABC, an alpha-synuclein siRNA for PD, and ADP065-ABC, an NLRP3 siRNA for multiple neurodegenerative conditions, reflecting the broad applicability of the ABC platform across disease mechanisms. We continue to evolve our research and development plans and timing for our ABC-enabled siRNA programs including AL064. Our Strategy Our goal is to develo"
+   },
+   "TDP-43": {
+    "n": 1,
+    "window": "ncreased PGRN levels have been demonstrated to be protective for these diseases in animal models. PGRN deficiency disrupts neuronal homeostasis and lysosomal function, leading to the buildup of cellular debris and dysfunction in neuronal cells. This disruption is associated with the accumulation of TDP-43, a protein that forms pathological inclusions in neurons and is a hallmark of neurodegenerative disorders, as well as with the accumulation of other misfolded proteins. Excess aggregation of misfolded proteins in brain cells is thought to lead to neuronal cell death. Moreover, the lack of PGRN prom"
+   },
+   "AL137": {
+    "n": 2,
+    "window": "cs that need to cross the BBB to achieve optimal efficacy. To address this issue, we have developed Alector Brain Carrier, our proprietary and versatile technology platform designed to enhance brain penetration of therapeutic molecules. ABC fuels our preclinical and research pipeline, including our AL137, AL050, AL064, ADP062-ABC, and ADP065-ABC programs, to address diseases such as Alzheimer\u2019s disease, Parkinson\u2019s disease, and Lewy body dementia. We believe ABC positions us at the forefront of advancing therapeutics for neurodegenerative diseases and overcoming the hurdle of drug delivery to the b"
+   },
+   "AL050": {
+    "n": 2,
+    "window": " need to cross the BBB to achieve optimal efficacy. To address this issue, we have developed Alector Brain Carrier, our proprietary and versatile technology platform designed to enhance brain penetration of therapeutic molecules. ABC fuels our preclinical and research pipeline, including our AL137, AL050, AL064, ADP062-ABC, and ADP065-ABC programs, to address diseases such as Alzheimer\u2019s disease, Parkinson\u2019s disease, and Lewy body dementia. We believe ABC positions us at the forefront of advancing therapeutics for neurodegenerative diseases and overcoming the hurdle of drug delivery to the brain. A"
+   }
+  }
+ },
+ "0001658551": {
+  "name": "Amylyx Pharmaceuticals, Inc.  (AMLX)  (CIK 0001658551)",
+  "form": "10-K",
+  "date": "2026-03-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/1658551/000119312526086645/amlx-20251231.htm",
+  "codes": {
+   "AMX0035": {
+    "n": 17,
+    "window": "y engaging in discussions with the broader Congenital HI community to develop a path forward. In addition to avexitide, we are advancing AMX0035, an oral, fixed-dose combination of sodium phenylbutyrate and taurursodiol in Wolfram syndrome, AMX0114 in ALS and AMX0318 in PBH and other rare diseases. AMX0035 is designed to mitigate neurodegeneration by targeting endoplasmic reticulum, or ER, stress and mitochondrial dysfunction, two cellular processes central to neuronal cell death and neurodegeneration. We are investigating 4 AMX0035 in Wolfram syndrome, a neurodegenerative disease where ER stress and"
+   },
+   "AMX0114": {
+    "n": 4,
+    "window": "ficantly harm our business, results of operations and prospects. There is no assurance that the endpoints and trial designs used for the approval of currently approved drugs for the treatment of neurodegenerative diseases will be acceptable for future approvals, 40 including for avexitide, AMX0035, AMX0114, AMX0318 and any current or future product candidates. Similarly, there is no assurance that the endpoints and trial designs for avexitide will be acceptable for its future approval. The FDA and other comparable foreign authorities have substantial discretion in the approval process and determining"
+   },
+   "AMX0318": {
+    "n": 3,
+    "window": "harm our business, results of operations and prospects. There is no assurance that the endpoints and trial designs used for the approval of currently approved drugs for the treatment of neurodegenerative diseases will be acceptable for future approvals, 40 including for avexitide, AMX0035, AMX0114, AMX0318 and any current or future product candidates. Similarly, there is no assurance that the endpoints and trial designs for avexitide will be acceptable for its future approval. The FDA and other comparable foreign authorities have substantial discretion in the approval process and determining when or "
+   }
+  }
+ },
+ "0001974640": {
+  "name": "Apogee Therapeutics, Inc.  (APGE)  (CIK 0001974640)",
+  "form": "10-K",
+  "date": "2026-03-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1974640/000197464026000002/apge-20251231.htm",
+  "codes": {
+   "APG273": {
+    "n": 2,
+    "window": "art and APG990. We plan to advance the development of APG279 in future studies as a coformulation. The PK data for APG990, when considered together with APG279 coformulation data, provides the potential for dosing the combination two to four times per year with a single 2 mL coformulated injection. APG273 \u2013 Combination of zumilokibart (APG777) and APG333 - anti-TSLP antibody We are developing zumilokibart and APG333 together as APG273, a potential quarterly or less frequently dosed co-formulation for the treatment of asthma and COPD. APG333 is a fully-human mAb against TSLP, an epithelial cell-deriv"
+   },
+   "APG777": {
+    "n": 1,
+    "window": " development of APG279 in future studies as a coformulation. The PK data for APG990, when considered together with APG279 coformulation data, provides the potential for dosing the combination two to four times per year with a single 2 mL coformulated injection. APG273 \u2013 Combination of zumilokibart (APG777) and APG333 - anti-TSLP antibody We are developing zumilokibart and APG333 together as APG273, a potential quarterly or less frequently dosed co-formulation for the treatment of asthma and COPD. APG333 is a fully-human mAb against TSLP, an epithelial cell-derived cytokine that has emerged as an att"
+   },
+   "APG333": {
+    "n": 3,
+    "window": " of APG279 in future studies as a coformulation. The PK data for APG990, when considered together with APG279 coformulation data, provides the potential for dosing the combination two to four times per year with a single 2 mL coformulated injection. APG273 \u2013 Combination of zumilokibart (APG777) and APG333 - anti-TSLP antibody We are developing zumilokibart and APG333 together as APG273, a potential quarterly or less frequently dosed co-formulation for the treatment of asthma and COPD. APG333 is a fully-human mAb against TSLP, an epithelial cell-derived cytokine that has emerged as an attractive vali"
+   }
+  }
+ },
+ "0001786205": {
+  "name": "Arcellx, Inc.  (ACLX)  (CIK 0001786205)",
+  "form": "10-K",
+  "date": "2026-02-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1786205/000119312526076876/aclx-20251231.htm",
+  "codes": {
+   "ACLX-002": {
+    "n": 1,
+    "window": " the likelihood that such product candidates will receive marketing approval. We have or may pursue Fast Track, orphan drug, and Regenerative Medicine Advanced Therapy (RMAT) designations from the FDA for one or more of our product candidates, such as those which have been granted for anito-cel and ACLX-002. Fast Track designation is designed to facilitate the development and expedite the review of therapies for serious conditions with an unmet medical need. Programs with Fast Track designation may benefit from early and frequent communications with the FDA, potential priority review and the ability t"
+   }
+  }
+ },
+ "0002124080": {
+  "name": "Aspen Neuroscience, Inc.  (CIK 0002124080)",
+  "form": "S-1/A",
+  "date": "2026-10-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526431023/na-20261026.htm",
+  "codes": {
+   "ANPD001": {
+    "n": 1,
+    "window": "ion, the final cell concentration is 6.7 x 10 6 cells/mL filled at 1.5 mL in a 2mL cryovial whereas for the thaw-and-inject formulation, the final cell concentration is 1.0 x 10 8 cells/mL filled at 0.5mL in a 2mL CellSeal vial. 136 Table of Contents The thaw\u2011and\u2011inject formulation of sasineprocel (ANPD001 Suspension) was evaluated in a series of nonclinical studies designed to assess location, engraftment, and safety following direct intracerebral administration. In rodents, a non\u2011GLP engraftment study and a pivotal single\u2011dose GLP toxicity study demonstrated that ANPD001 Suspension was well tolerat"
+   }
+  }
+ },
+ "0001593899": {
+  "name": "Atea Pharmaceuticals, Inc.  (AVIR)  (CIK 0001593899)",
+  "form": "10-K",
+  "date": "2026-03-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1593899/000119312526094159/avir-20251231.htm",
+  "codes": {
+   "SVR12": {
+    "n": 2,
+    "window": "ects) or cirrhosis status, with HCV RNA reductions of 4.4 - 4.6 log 10 IU/mL with 7-day dosing. In the first Phase 2 treatment study of bemnifosbuvir with a first-generation NS5A inhibitor (daclatasvir), similar potent viral kinetics were observed with eight of nine GT-1-infected subjects achieving SVR12 after eight weeks of treatment. For ruzasvir, results from a Phase 1b proof-of-concept (\"POC\") study in HCV-infected subjects (GT-1, -2 and -3) conducted by Merck showed HCV viral load reductions greater than 3 log 10 . High SVR12 rates were 7 subsequently observed in Phase 2 studies conducted by M"
+   }
+  }
+ },
+ "0000014272": {
+  "name": "BRISTOL MYERS SQUIBB CO  (BMY, BMYMP, CELG-RI)  (CIK 0000014272)",
+  "form": "10-K",
+  "date": "2026-02-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/bmy-20251231.htm",
+  "codes": {
+   "BMS-986495": {
+    "n": 1,
+    "window": "oke Risk Reduction in Non-Valvular Atrial Fibrillation --Treatment of Venous Thromboembolism and Risk Reduction after Initial Therapy --Prophylaxis of Deep Vein Thrombosis after Hip or Knee Replacement Surgery 12 NEUROSCIENCE PHASE I PHASE II PHASE III APPROVED INDICATIONS Investigational Compounds BMS-986495 \u00aa -- Neurodegenerative Diseases# BMS-986521 --Neuropsychiatric Disorders eIF2B Activator --Alzheimer's Disease KarXT Long-Acting Injectable --Schizophrenia TRPC4/5 Inhibitor --Mood and Anxiety Disorders zola-cel (CD19-targeted NEX-T) --Multiple Sclerosis --Myasthenia Gravis Investigational Compound"
+   },
+   "BMS-986521": {
+    "n": 1,
+    "window": "brillation --Treatment of Venous Thromboembolism and Risk Reduction after Initial Therapy --Prophylaxis of Deep Vein Thrombosis after Hip or Knee Replacement Surgery 12 NEUROSCIENCE PHASE I PHASE II PHASE III APPROVED INDICATIONS Investigational Compounds BMS-986495 \u00aa -- Neurodegenerative Diseases# BMS-986521 --Neuropsychiatric Disorders eIF2B Activator --Alzheimer's Disease KarXT Long-Acting Injectable --Schizophrenia TRPC4/5 Inhibitor --Mood and Anxiety Disorders zola-cel (CD19-targeted NEX-T) --Multiple Sclerosis --Myasthenia Gravis Investigational Compounds Anti-MTBR Tau --Alzheimer's Disease FAAH/M"
+   }
+  }
+ },
+ "0001828185": {
+  "name": "Barinthus Biotherapeutics plc.  (BRNS)  (CIK 0001828185)",
+  "form": "10-K",
+  "date": "2026-03-13",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828185/000182818526000012/brns-20251231.htm",
+  "codes": {
+   "VTP-1000": {
+    "n": 1,
+    "window": "omprises multiple gluten antigens (representing the key antigens linked to celiac disease) and an immunomodulator co-delivered in nanoparticles of precise size and composition that are optimized to target the appropriate immune cells that promote tolerance. The immunomodulator is a key component of VTP-1000 and is intended to drive regulatory T cell expansion and prevent pro-inflammatory responses. Clinical Development AVALON - Currently enrolling, ongoing Phase 1 The AVALON clinical trial is designed to evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of VTP-1000. The trial ai"
+   }
+  }
+ },
+ "0001720893": {
+  "name": "BioXcel Therapeutics, Inc.  (BTAI)  (CIK 0001720893)",
+  "form": "10-K",
+  "date": "2026-03-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926036214/btai-20251231x10k.htm",
+  "codes": {
+   "BXCL501": {
+    "n": 7,
+    "window": "dard-of-care treatment for agitation despite often producing unwanted side effects such as excessive sedation or extra pyramidal motor effects. Managing patient agitation in neuropsychiatric and neurodegenerative disorders represents a significant challenge for physicians and caregivers. We believe BXCL501 has the potential to address these challenges and, if approved for the respective indications, has the potential to become the standard of care for the acute treatment of agitation associated with these disorders. In addition, based on its mechanism of action, we believe BXCL501 has the potential t"
+   },
+   "BXCL502": {
+    "n": 4,
+    "window": "olled trial is expected to enroll 100 patients experiencing ASD resulting from motor vehicle collisions, beginning in the first half of 2025. Patient screening and enrollment has begun, with the first patient expected to be dosed in the first half of 2026. We intend to supply BXCL501 for the trial. BXCL502 Development We identified a second neuropsychiatric drug candidate, BXCL502 \u2212 Latrepirdine (Dimebon) \u2212 through our AI-based platform. We plan to evaluate BXCL502 initially as a monotherapy and possibly in combination with BXCL501 for the chronic treatment of agitation in patients with dementia and "
+   }
+  }
+ },
+ "0001839970": {
+  "name": "BlossomHill Therapeutics, Inc.  (BLSM)  (CIK 0001839970)",
+  "form": "S-1/A",
+  "date": "2026-08-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526329416/d98958ds1a.htm",
+  "codes": {
+   "EC 90": {
+    "n": 6,
+    "window": "e levels in dose escalation and backfill cohorts. Systemic exposure (C m ax and AUC) increased with dose across the evaluated range. At steady state, the geometric mean plasma trough concentration (C 12 ) at 40 mg BID was 205 ng/mL, exceeding the total human plasma exposure of 67 ng/mL required for EC 90 against phosphorylation of EGFR L858R/C797S/T790M mutation derived from a free EC 90 of 1.79 nM (0.93 ng/mL) in a mouse PK/PD study. The plasma exposures of BH-30643 at \u2265 40 mg BID 150 Table of Contents exceeded the steady-state plasma exposures of osimertinib and other contemporary EGFR TKIs at th"
+   },
+   "BH-30643": {
+    "n": 3,
+    "window": " mean plasma trough concentration (C 12 ) at 40 mg BID was 205 ng/mL, exceeding the total human plasma exposure of 67 ng/mL required for EC 90 against phosphorylation of EGFR L858R/C797S/T790M mutation derived from a free EC 90 of 1.79 nM (0.93 ng/mL) in a mouse PK/PD study. The plasma exposures of BH-30643 at \u2265 40 mg BID 150 Table of Contents exceeded the steady-state plasma exposures of osimertinib and other contemporary EGFR TKIs at their respective clinical doses (Figure 16). The elimination half-life of BH-30643 was approximately 12 hours at steady state. Figure 15. BH-30643 median plasma profile"
+   },
+   "BID 150": {
+    "n": 1,
+    "window": "concentration (C 12 ) at 40 mg BID was 205 ng/mL, exceeding the total human plasma exposure of 67 ng/mL required for EC 90 against phosphorylation of EGFR L858R/C797S/T790M mutation derived from a free EC 90 of 1.79 nM (0.93 ng/mL) in a mouse PK/PD study. The plasma exposures of BH-30643 at \u2265 40 mg BID 150 Table of Contents exceeded the steady-state plasma exposures of osimertinib and other contemporary EGFR TKIs at their respective clinical doses (Figure 16). The elimination half-life of BH-30643 was approximately 12 hours at steady state. Figure 15. BH-30643 median plasma profile at steady state (C"
+   }
+  }
+ },
+ "0001610820": {
+  "name": "BriaCell Therapeutics Corp.  (BCTX, BCTXW)  (CIK 0001610820)",
+  "form": "10-K",
+  "date": "2026-10-28",
+  "url": "https://www.sec.gov/Archives/edgar/data/1610820/000149315226049041/form10-k.htm",
+  "codes": {
+   "BP-80": {
+    "n": 1,
+    "window": "eveloping binding agents and proteins with the intention to boost the ability of the body\u2019s own cancer-fighting cells to destroy cancerous tumors. Using artificial intelligence (\u201cAI\u201d) with Receptor AI, BriaPro will identify drug candidates. The lead drug discovery candidates for BriaPro includes: \u25cf BP-80 (soluble CD80) - Immunotherapy for Cancer. \u25cf B7H3/Bria-TILsRx\u2122: Multi-Specific Binding Reagents \u2013 Targeted Immunotherapy for Cancer. \u25cf Small Molecule Program: Protein Kinase C delta (PKC\u03b4) Inhibitors being developed with Receptor AI. The power of AI in drug candidate selection has been hailed by ex"
+   }
+  }
+ },
+ "0001743881": {
+  "name": "BridgeBio Pharma, Inc.  (BBIO)  (CIK 0001743881)",
+  "form": "10-K",
+  "date": "2026-02-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000009/bbio-20251231.htm",
+  "codes": {
+   "BBP-812": {
+    "n": 4,
+    "window": "roof-of-concept results expected in the second half of 2026. Based on the positive PROPEL 3 study topline data for oral infigratinib for achondroplasia, we plan to accelerate the development of oral infigratinib in hypochondroplasia, and are enrolling the observational run-in for the Phase 3 trial. BBP-812 for the treatment of Canavan disease Canavan disease (\u201cCD\u201d) is an ultra-rare neurodegenerative disease with approximately 1,000 patients across the US and EU. CD is usually fatal within the first two decades of life, and more than 25% of patients die by the age of 10 years. Children with CD exhibit"
+   }
+  }
+ },
+ "0001829247": {
+  "name": "BullFrog AI Holdings, Inc.  (BFRG, BFRGW)  (CIK 0001829247)",
+  "form": "10-K",
+  "date": "2026-03-19",
+  "url": "https://www.sec.gov/Archives/edgar/data/1829247/000149315226011644/form10-k.htm",
+  "codes": {
+   "OF 1934": {
+    "n": 1,
+    "window": "ATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) \u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended: December 31 , 2025 \u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from [ ] to [ ] Commission file number 001-41600 BULLFROG AI HOLDINGS, INC. (Exact name of registrant as specified in its charter) Nevada 84-4786155 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 325 Ellington Blvd. , Un"
+   },
+   "MD 20878": {
+    "n": 1,
+    "window": "riod from [ ] to [ ] Commission file number 001-41600 BULLFROG AI HOLDINGS, INC. (Exact name of registrant as specified in its charter) Nevada 84-4786155 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 325 Ellington Blvd. , Unit 317 Gaithersburg , MD 20878 (Address of principal executive offices) Registrant\u2019s telephone number: ( 240 ) 658-6710 Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, par value $0.00001 per share BFRG The Nasdaq Stock Marke"
+   },
+   "BF-223": {
+    "n": 2,
+    "window": "e in other territories. In September 2023, the Company announced results from a preclinical study demonstrating the effectiveness of BF-223, a compound chosen from this class, in an animal model for glioblastoma. The Company is currently formulating a strategy for initiating IND-enabling studies on BF-223 and is conducting outreach to identify partners that may want to license or partner in the development of BF-223. Our bfLEAP\u2122 Analytics Platform We are able to pursue our drug rescue business by leveraging bfLEAP\u2122, our powerful and proven AI/ML platform derived from technology developed at JHU-APL."
+   }
+  }
+ },
+ "0001870404": {
+  "name": "CERO THERAPEUTICS HOLDINGS, INC.  (CERO, CEROW)  (CIK 0001870404)",
+  "form": "S-1",
+  "date": "2025-12-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1870404/000121390025118817/ea0267089-s1_cero.htm",
+  "codes": {
+   "TP53": {
+    "n": 2,
+    "window": "ML\u201d). The first-in-human, multi-center, open label, Phase 1/1b study is designed to evaluate the safety and preliminary efficacy of CER-1236 in patients with acute myeloid leukemia that is either relapsed/refractory, or in remission with measurable residual disease, or newly diagnosed patients with TP53 mutated MDS/AML or AML. The two-part study has begun with dose escalation to determine highest tolerated dose and recommended dose for Phase 2, followed by an expansion phase to evaluate safety and efficacy. Primary outcome measures include incidence of adverse events and serious adverse events, in"
+   }
+  }
+ },
+ "0001455365": {
+  "name": "COGNITION THERAPEUTICS INC  (CGTX)  (CIK 0001455365)",
+  "form": "10-K",
+  "date": "2026-03-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1455365/000110465926034880/cgtx-20251231x10k.htm",
+  "codes": {
+   "CT1812": {
+    "n": 3,
+    "window": "d States, Russia, China, and other countries, social unrest, political instability, terrorism, or other acts of war could ultimately impact our business, including our ongoing and future clinical trials, preclinical studies and development activities; \u25cf our dependence on the success of zervimesine (CT1812), our lead product candidate; \u25cf the novelty of our approach to targeting the \u03c3-2 (sigma-2) receptor (\u201cS2R\u201d) complex to treat age-related degenerative diseases and disorders, and the challenges we will face due to the novel nature of such approach; \u25cf the success of competing therapies that are or be"
+   },
+   "MMSE 22": {
+    "n": 1,
+    "window": "ive decline at week 26 as measured by ADAS-Cog 11 relative to placebo-treated participants. Importantly, this treatment response was observed in participants with below-median p-tau217 levels regardless of their MMSE scores. Zervimesine was shown to slow cognitive deterioration in people with mild (MMSE 22-26) or moderate (MMSE 18-21) Alzheimer\u2019s disease by 129% and 91%, respectively. We believe p-tau217 is an important biomarker that has shown the ability to distinguish Alzheimer\u2019s disease from other neurodegenerative disorders with a high degree of accuracy compared to other available biomarkers. I"
+   },
+   "MMSE 18": {
+    "n": 1,
+    "window": " measured by ADAS-Cog 11 relative to placebo-treated participants. Importantly, this treatment response was observed in participants with below-median p-tau217 levels regardless of their MMSE scores. Zervimesine was shown to slow cognitive deterioration in people with mild (MMSE 22-26) or moderate (MMSE 18-21) Alzheimer\u2019s disease by 129% and 91%, respectively. We believe p-tau217 is an important biomarker that has shown the ability to distinguish Alzheimer\u2019s disease from other neurodegenerative disorders with a high degree of accuracy compared to other available biomarkers. In the overall modified in"
+   }
+  }
+ },
+ "0001119774": {
+  "name": "COMPUGEN LTD  (CGEN)  (CIK 0001119774)",
+  "form": "20-F",
+  "date": "2026-03-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891326000663/zk2634416.htm",
+  "codes": {
+   "COM701": {
+    "n": 6,
+    "window": "age therapeutic discovery and development company utilizing Unigen\u2122, our AI/ML powered computational discovery platform, to identify novel drug targets and to develop therapeutics in the field of cancer immunotherapy. Our innovative immuno-oncology pipeline consists of four clinical-stage programs: COM701, COM902, rilvegostomig and GS-0321 (previously COM503). COM701, a potential first-in-class anti-PVRIG antibody, and COM902, a potential best-in-class therapeutic anti-TIGIT antibody, have been evaluated for the treatment of solid tumors as monotherapy and in combinations of dual (PVRIG/PD-1, PVRIG/"
+   },
+   "COM902": {
+    "n": 3,
+    "window": "apeutic discovery and development company utilizing Unigen\u2122, our AI/ML powered computational discovery platform, to identify novel drug targets and to develop therapeutics in the field of cancer immunotherapy. Our innovative immuno-oncology pipeline consists of four clinical-stage programs: COM701, COM902, rilvegostomig and GS-0321 (previously COM503). COM701, a potential first-in-class anti-PVRIG antibody, and COM902, a potential best-in-class therapeutic anti-TIGIT antibody, have been evaluated for the treatment of solid tumors as monotherapy and in combinations of dual (PVRIG/PD-1, PVRIG/TIGIT) a"
+   },
+   "GS-0321": {
+    "n": 3,
+    "window": "lopment company utilizing Unigen\u2122, our AI/ML powered computational discovery platform, to identify novel drug targets and to develop therapeutics in the field of cancer immunotherapy. Our innovative immuno-oncology pipeline consists of four clinical-stage programs: COM701, COM902, rilvegostomig and GS-0321 (previously COM503). COM701, a potential first-in-class anti-PVRIG antibody, and COM902, a potential best-in-class therapeutic anti-TIGIT antibody, have been evaluated for the treatment of solid tumors as monotherapy and in combinations of dual (PVRIG/PD-1, PVRIG/TIGIT) and triple (PVRIG/PD-1/TIGIT"
+   },
+   "COM503": {
+    "n": 3,
+    "window": "izing Unigen\u2122, our AI/ML powered computational discovery platform, to identify novel drug targets and to develop therapeutics in the field of cancer immunotherapy. Our innovative immuno-oncology pipeline consists of four clinical-stage programs: COM701, COM902, rilvegostomig and GS-0321 (previously COM503). COM701, a potential first-in-class anti-PVRIG antibody, and COM902, a potential best-in-class therapeutic anti-TIGIT antibody, have been evaluated for the treatment of solid tumors as monotherapy and in combinations of dual (PVRIG/PD-1, PVRIG/TIGIT) and triple (PVRIG/PD-1/TIGIT) blockade. The las"
+   }
+  }
+ },
+ "0001187953": {
+  "name": "CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)",
+  "form": "S-1/A",
+  "date": "2026-06-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1187953/000147793226004044/celz_s1a.htm",
+  "codes": {
+   "CELZ-100": {
+    "n": 1,
+    "window": "clinical derived line is part of our iPSCelz\u00ae program. The program is designed to utilize the predictive capabilities of AI to identify damage to patients exposed to biological or chemical weapons and, based on a clinical diagnosis supported by that assessment, use our validated iPSCelz\u00ae, ImmCelz\u2122 (CELZ-100) and/or AlloStem\u2122 (CELZ-201-DDT) to develop optimized therapeutic options. In January, 2025 we announced promising initial data from the first cohort of the CELZ-201 ADAPT clinical trial. The first cohort of 10 participants (8 receiving CELZ-201-DDT and 2 receiving placebo) completed the study phas"
+   },
+   "CELZ-201": {
+    "n": 5,
+    "window": "t of our iPSCelz\u00ae program. The program is designed to utilize the predictive capabilities of AI to identify damage to patients exposed to biological or chemical weapons and, based on a clinical diagnosis supported by that assessment, use our validated iPSCelz\u00ae, ImmCelz\u2122 (CELZ-100) and/or AlloStem\u2122 (CELZ-201-DDT) to develop optimized therapeutic options. In January, 2025 we announced promising initial data from the first cohort of the CELZ-201 ADAPT clinical trial. The first cohort of 10 participants (8 receiving CELZ-201-DDT and 2 receiving placebo) completed the study phase without any dose-limiting "
+   }
+  }
+ },
+ "0001674416": {
+  "name": "CRISPR Therapeutics AG  (CRSP)  (CIK 0001674416)",
+  "form": "10-K",
+  "date": "2026-02-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526048957/crsp-20251231.htm",
+  "codes": {
+   "CTX213": {
+    "n": 4,
+    "window": "latform enables us to innovate continuously by incorporating incremental edits into next-generation products. We are advancing several additional investigational CAR T programs. Regenerative Medicine We continue to advance our regenerative medicine portfolio, including in diabetes. We are advancing CTX213, a deviceless beta cell replacement product candidate consisting of unencapsulated precursor islet cells derived from induced pluripotent stem cells for the treatment of T1D. To date, CTX213 has demonstrated preclinical efficacy data via direct administration. In addition, we have granted a non-exc"
+   },
+   "CTX611": {
+    "n": 1,
+    "window": "ng plasma AAT levels, there are currently no approved pharmacotherapies to treat AATD-associated liver disease. In Vivo Approaches - siRNA-based Programs Our siRNA-based portfolio includes clinical-stage programs in cardiovascular and thromboembolic diseases, developed in collaboration with Sirius. CTX611 is a novel double-stranded siRNA designed to target the human coagulation factor XI, or FXI, messenger RNA and inhibit FXI protein expression. Through modulation of the intrinsic coagulation pathway, CTX611 is intended to provide anticoagulant and antithrombotic effects. By targeting FXI, CTX611 ai"
+   }
+  }
+ },
+ "0001619856": {
+  "name": "Caribou Biosciences, Inc.  (CRBU)  (CIK 0001619856)",
+  "form": "10-K",
+  "date": "2025-03-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1619856/000161985625000015/crbu-20241231.htm",
+  "codes": {
+   "CB-012": {
+    "n": 1,
+    "window": "tients with lupus nephritis (\u201cLN\u201d) and in patients with extrarenal lupus (\u201cERL\u201d) in our GALLOP phase 1 clinical trial \u2022 CB-011: an allogeneic anti-BCMA CAR-T cell therapy, being evaluated in patients with relapsed or refractory multiple myeloma (\u201cr/r MM\u201d) in our CaMMouflage phase 1 clinical trial \u2022 CB-012: an allogeneic anti-CLL-1 CAR-T cell therapy, being evaluated in patients with relapsed or refractory acute myeloid leukemia (\u201cr/r AML\u201d) in our AMpLify phase 1 clinical trial CB-010 has received regenerative medicine advanced therapy (\u201cRMAT\u201d) designation for relapsed or refractory large B cell lymp"
+   },
+   "CB-010": {
+    "n": 1,
+    "window": "uated in patients with relapsed or refractory multiple myeloma (\u201cr/r MM\u201d) in our CaMMouflage phase 1 clinical trial \u2022 CB-012: an allogeneic anti-CLL-1 CAR-T cell therapy, being evaluated in patients with relapsed or refractory acute myeloid leukemia (\u201cr/r AML\u201d) in our AMpLify phase 1 clinical trial CB-010 has received regenerative medicine advanced therapy (\u201cRMAT\u201d) designation for relapsed or refractory large B cell lymphoma (\u201cr/r LBCL\u201d) as well as fast track designations for r/r B-NHL and refractory systemic lupus erythematosus (\u201cSLE\u201d) from the U.S. Food and Drug Administration (\u201cFDA\u201d); CB-011 has "
+   },
+   "CB-011": {
+    "n": 1,
+    "window": "rial CB-010 has received regenerative medicine advanced therapy (\u201cRMAT\u201d) designation for relapsed or refractory large B cell lymphoma (\u201cr/r LBCL\u201d) as well as fast track designations for r/r B-NHL and refractory systemic lupus erythematosus (\u201cSLE\u201d) from the U.S. Food and Drug Administration (\u201cFDA\u201d); CB-011 has received fast track designation for r/r MM from the FDA; and CB-012 has received fast track designation for r/r AML from the FDA. Allogeneic CAR-T Cell Therapies Allogeneic, or off-the-shelf, CAR-T cell therapies offer several advantages over commercially available autologous CAR-T cell therapi"
+   }
+  }
+ },
+ "0001847903": {
+  "name": "Centessa Pharmaceuticals plc  (CNTA)  (CIK 0001847903)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1847903/000184790326000025/cnta-20251231.htm",
+  "codes": {
+   "ORX142": {
+    "n": 1,
+    "window": " has best-in-class potential across all three indications, and first-in-class potential in NT2 and IH. Supported by differentiated pharmacology, strong orexin biology, compelling translational and clinical rationale, and insights from the clinical development of cleminorexton, we are also advancing ORX142 and ORX489, our follow-up OX2R agonist candidates, for broader neuroscience indications within neurodegenerative and neuropsychiatric disorders. Our earlier stage pipeline consists of additional OX2R agonists and research efforts on differentiated pharmacology associated with activation of the orex"
+   },
+   "ORX489": {
+    "n": 1,
+    "window": "n-class potential across all three indications, and first-in-class potential in NT2 and IH. Supported by differentiated pharmacology, strong orexin biology, compelling translational and clinical rationale, and insights from the clinical development of cleminorexton, we are also advancing ORX142 and ORX489, our follow-up OX2R agonist candidates, for broader neuroscience indications within neurodegenerative and neuropsychiatric disorders. Our earlier stage pipeline consists of additional OX2R agonists and research efforts on differentiated pharmacology associated with activation of the orexin pathway."
+   }
+  }
+ },
+ "0001805387": {
+  "name": "Cerevel Therapeutics Holdings, Inc.  (CIK 0001805387)",
+  "form": "10-K",
+  "date": "2024-02-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1805387/000095017024021078/cere-20231231.htm",
+  "codes": {
+   "CVL-871": {
+    "n": 2,
+    "window": "n-directed Phase 3 program for tavapadon beginning in January 2020, which includes two trials as monotherapy in early-stage Parkinson\u2019s, known as TEMPO-1 and TEMPO-2, one trial as adjunctive therapy in late-stage Parkinson\u2019s, known as TEMPO-3, and an open-label extension trial, known as TEMPO-4. 4. CVL-871 is a selective dopamine D1/D5 receptor partial agonist specifically designed to achieve a modest level of partial agonism, which we believe may be useful in modulating the complex neural networks that govern cognition, motivation and apathy behaviors in neurodegenerative diseases. In the second qua"
+   }
+  }
+ },
+ "0001835268": {
+  "name": "Connect Biopharma Holdings Ltd  (CNTB)  (CIK 0001835268)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835268/000183526826000013/cntb-20251231.htm",
+  "codes": {
+   "WW002": {
+    "n": 1,
+    "window": "ect on bronchodilation. Mean FEV 1 improvements of ~200 - 400 mL were maintained through Day 29 in asthma and COPD patients. Rademikibart was generally well-tolerated in asthma and COPD patients. Our current development plan is supported by the results from the completed global asthma trial CBP-201-WW002 (see the Asthma Global Phase 2b Trial Results section below for further details on this trial ) . Although no head-to-head trials have been conducted, and data from unrelated clinical trials cannot reliably be compared due to differences in trial designs, site locations, subject characteristics and"
+   }
+  }
+ },
+ "0001714899": {
+  "name": "Denali Therapeutics Inc.  (DNLI)  (CIK 0001714899)",
+  "form": "10-K",
+  "date": "2026-02-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000021/dnli-20251231.htm",
+  "codes": {
+   "DNL628": {
+    "n": 3,
+    "window": "er indications over time. In parallel, we are advancing TV-enabled programs for common neurodegenerative diseases, such as Alzheimer\u2019s disease and Parkinson's disease, which afflict over 40 million individuals worldwide and have a market potential of over $5 billion per indication. We have advanced DNL628 (OTV:MAPT) targeting tau into a Phase 1b clinical study for Alzheimer\u2019s disease, and we plan to submit a regulatory application in the first half of 2026 to begin clinical testing of DNL921 (ATV:Abeta) targeting amyloid plaques. Amyloid plaques and tau tangles are pathological hallmarks of Alzheime"
+   },
+   "DNL310": {
+    "n": 2,
+    "window": " products targeting rare lysosomal storage diseases as a strategic foundation for expansion into common neurodegenerative conditions and other serious diseases, while building integrated capabilities for long-term growth and profitability. Ou r clinical programs are as follows: \u2022 Tividenofusp alfa (DNL310, ETV:IDS), composed of IDS fused to TV, is designed to deliver IDS into cells and tissues throughout the body, including the brain by crossing the BBB, with the goal of addressing the behavioral, cognitive, and physical manifestations of MPS II (Hunter syndrome) ; \u2022 DNL126 (ETV:SGSH), composed of S"
+   }
+  }
+ },
+ "0001807120": {
+  "name": "Design Therapeutics, Inc.  (DSGN)  (CIK 0001807120)",
+  "form": "10-K",
+  "date": "2026-03-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/1807120/000119312526098491/dsgn-20251231.htm",
+  "codes": {
+   "DT-818": {
+    "n": 1,
+    "window": "nts with FECD. We anticipate reporting data from the Phase 2 biomarker trial in the second half of 2026. \u2022 Advance our DM1 Program Through Clinical Development to Offer Meaningful Patient Benefit. DM1 is a serious monogenic degenerative disease for which there are currently no available treatments. DT-818 is our DM1 GeneTAC \u00ae small molecule designed to reduce the formation of repeat RNA hairpin structures that trap splicing factors and form pathogenic nuclear foci that cause DM1. Blocking the formation of pathogenic nuclear foci has demonstrated phenotypic benefit in DM1 patients. In the fourth quar"
+   }
+  }
+ },
+ "0001861123": {
+  "name": "Eikon Therapeutics, Inc.  (EIKN)  (CIK 0001861123)",
+  "form": "10-K",
+  "date": "2026-03-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1861123/000119312526130395/eikn_form_10-k_2025.htm",
+  "codes": {
+   "EIK1006": {
+    "n": 2,
+    "window": "signaling that is otherwise stimulated by androgens. Use of our technology platform has permitted us to apply ML and computational chemistry to develop novel molecules that target both the wild-type AR, referred to as the normal form, as well as several predominant, clinically-observed AR variants. EIK1006 EIK1006 is our second internally derived clinical candidate and is being investigated as a potential next- generation AR antagonist with activity against multiple clinically emergent variants of AR. We believe EIK1006 has the potential to bind to the LBD of AR and block its nuclear translocation, t"
+   }
+  }
+ },
+ "0001828253": {
+  "name": "Evaxion Biotech A/S  (EVAX)  (CIK 0001828253)",
+  "form": "20-F",
+  "date": "2026-03-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828253/000117184326001346/evax20251231_20f.htm",
+  "codes": {
+   "EVX-01": {
+    "n": 7,
+    "window": "ties of AI-Immunology\u2122 and to ensure we will retain a differentiated position going forward. Figure 1: The unique architecture of AI-Immunology \u2122 Cancer Vaccines AI-Immunology\u2122 allows for development of different types of novel cancer vaccines targeting the disease with multiple approaches. vaccine EVX-01 is our most advanced cancer vaccine, currently being evaluated as a treatment for advanced melanoma (skin cancer). EVX-01 targets so-called neoantigens most likely to generate a strong T-cell response and anti-tumor effect. Combining these neoantigens in vaccines activates the immune system to spec"
+   },
+   "EVX-03": {
+    "n": 1,
+    "window": "r similar vaccine candidates. 52 AI-Immunology\u2122 also enables us to design precision cancer vaccines relevant also for patients not responding to conventional immunotherapies. We have developed new vaccine concepts targeting ERV (endogenous retrovirus) tumor antigens as our cancer vaccine candidates EVX-03 and EVX-04 both utilize ERVs. ERVs are traces of ancient viruses embedded in our genome \u2013 viruses that infected our ancestors and incorporated themselves into our genome. This happened long ago (100K to millions of years). In normal cells, these traces of viruses lay dormant in the genome. Cancer c"
+   },
+   "EVX-04": {
+    "n": 7,
+    "window": "accine candidates. 52 AI-Immunology\u2122 also enables us to design precision cancer vaccines relevant also for patients not responding to conventional immunotherapies. We have developed new vaccine concepts targeting ERV (endogenous retrovirus) tumor antigens as our cancer vaccine candidates EVX-03 and EVX-04 both utilize ERVs. ERVs are traces of ancient viruses embedded in our genome \u2013 viruses that infected our ancestors and incorporated themselves into our genome. This happened long ago (100K to millions of years). In normal cells, these traces of viruses lay dormant in the genome. Cancer cells, on th"
+   }
+  }
+ },
+ "0002044725": {
+  "name": "Evommune, Inc.  (CIK 0002044725)",
+  "form": "10-K",
+  "date": "2026-03-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526093932/evmn-20251231.htm",
+  "codes": {
+   "EVO756": {
+    "n": 4,
+    "window": "harmacologically relevant model for a diseased patient. In addition, in our PK research, we have observed high human PK interstitial fluid concentrations (\u201cISF\u201d), with average ISF compared to plasma PK concentrations ranging from approximately 55\u201370% over a 24-hour period following a 200 mg dose of EVO756, supporting robust exposure at target site. Further, EVO756 showed dose-dependent response at 100 \u00b5g/mL of icatibant, which we believe is a supraphysiological concentration. Figure 19: PK Modeling of EVO756 Based on Clinical Data Generated to Date Notes: IC 90 Primary Mast Cells = 180 ng/mL. 21 Tab"
+   },
+   "IC 90": {
+    "n": 2,
+    "window": "our period following a 200 mg dose of EVO756, supporting robust exposure at target site. Further, EVO756 showed dose-dependent response at 100 \u00b5g/mL of icatibant, which we believe is a supraphysiological concentration. Figure 19: PK Modeling of EVO756 Based on Clinical Data Generated to Date Notes: IC 90 Primary Mast Cells = 180 ng/mL. 21 Table of Contents Based on the PK profile generated in this study, we were able to create a model that predicts various once- and twice-daily doses that maintain serum concentrations above the IC 90 , as illustrated in Figure 19 above. Additionally, mass spectrome"
+   }
+  }
+ },
+ "0001865408": {
+  "name": "Exscientia plc  (EXAI)  (CIK 0001865408)",
+  "form": "20-F",
+  "date": "2024-03-21",
+  "url": "https://www.sec.gov/Archives/edgar/data/1865408/000186540824000018/exai-20231231.htm",
+  "codes": {
+   "GTAEXS617": {
+    "n": 1,
+    "window": "lar dynamics models to define pocket, find key interactions and drive generative algorithms ADMET = Absorption, Distribution, Metabolism, Excretion and Toxicity; CNS = Central Nervous System; PK = Pharmacokinetics; PD = Pharmacodynamics; UGT1A1 = UDP-glucuronosyltransferase 1-1 96 Table of Contents GTAEXS617 (CDK7 Inhibitor): Phase 1/2; 50% ownership with GTA Unmet need/problem: The importance of cell cycle inhibitors has been established with CDK4/6 inhibitors, which generated approximately $9.0 billion in sales in 2022. Aberrant CDK7 overexpression is common in many cancer indications and associated "
+   },
+   "EXS74539": {
+    "n": 1,
+    "window": "or SCLC, given that approximately 50% of patients with SCLC develop brain metastases. To date, other LSD1 inhibitors in development have failed to achieve the combination of appropriate pharmacokinetics, good brain penetrance and a reversible mechanism of action. 100 Table of Contents Our solution: EXS74539 (\u2018539) is the first potent, selective, reversible and brain-penetrant LSD1 inhibitor. We used machine learning models to optimise multiple parameters including CNS penetrance, potency and ADMET properties. \u2018539 achieves a design objective of suitable CNS penetration to target brain metastases, whic"
+   }
+  }
+ },
+ "0001434316": {
+  "name": "FATE THERAPEUTICS INC  (FATE)  (CIK 0001434316)",
+  "form": "10-K",
+  "date": "2026-02-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1434316/000119312526073699/fate-20251231.htm",
+  "codes": {
+   "OR 15": {
+    "n": 1,
+    "window": "tEightOneNineMember fate:CaliforniaInstituteForRegenerativeMedicineMember 2025-12-31 iso4217:USD xbrli:shares xbrli:pure utr:sqft xbrli:shares fate:Segment iso4217:USD UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) \u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31 , 2025 \u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to . Commission file number 001-36076 FATE THERAPEUTICS, INC. (Exact name of registrant as"
+   },
+   "OF 1934": {
+    "n": 1,
+    "window": "tuteForRegenerativeMedicineMember 2025-12-31 iso4217:USD xbrli:shares xbrli:pure utr:sqft xbrli:shares fate:Segment iso4217:USD UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) \u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31 , 2025 \u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to . Commission file number 001-36076 FATE THERAPEUTICS, INC. (Exact name of registrant as specified in its charter) Delaware 65-131"
+   },
+   "FT819": {
+    "n": 13,
+    "window": "ed to undergo apheresis, are treated with a less intense flu-free conditioning regimen and receive FT819 on-demand without discontinuing their current treatment, which increases patient accessibility and reach. In addition, our Phase 1 clinical trial includes the opportunity for patients to receive FT819 as an add-on to current maintenance therapy in the absence of conditioning chemotherapy, an approach that combines the potency of a CAR T cell with the availability and accessibility of traditional medicine. In April 2025, we were granted regenerative medicine advanced therapy (RMAT) designation by"
+   }
+  }
+ },
+ "0001819411": {
+  "name": "Gain Therapeutics, Inc.  (GANX)  (CIK 0001819411)",
+  "form": "10-K",
+  "date": "2026-03-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1819411/000110465926035188/ganx-20251231x10k.htm",
+  "codes": {
+   "GT-02287": {
+    "n": 3,
+    "window": "s initiating a disease cascade including lysosomal and mitochondrial dysfunction and accumulation of aggregated proteins associated with neurodegenerative diseases such as alpha synuclein and phospho-tau leading to neuroinflammation and neuronal cell death. Our clinical-stage lead product candidate GT-02287 has been shown to restore enzymatic function of GCase in the lysosome, which may be useful as a treatment for Parkinson\u2019s disease, or PD, Gaucher disease, or GD, an LSD, and other neurodegenerative diseases, including dementia with Lewy bodies and Alzheimer\u2019s disease. Overview of GBA1 Parkinson\u2019s D"
+   }
+  }
+ },
+ "0002100782": {
+  "name": "Generate Biomedicines, Inc.  (CIK 0002100782)",
+  "form": "S-1/A",
+  "date": "2026-02-23",
+  "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526062362/ck0002100782-20260223.htm",
+  "codes": {
+   "VL56": {
+    "n": 4,
+    "window": "ce across multiple therapeutic areas and in fields such as biologic engineering, biochemistry, biomedical engineering, biophysics, biostatistics, chemistry, physics, computer science and PK/PD. Our Beginnings: Generate and Flagship Pioneering Flagship Pioneering founded Generate in 2018 as Flagship VL56, Inc., working together with Dr. Gevorg Grigoryan, Ph.D., our founding Chief Technology Officer. In 2019, Flagship VL56, Inc. was combined with complementary generative biology explorations from another Flagship company, Flagship VL57, Inc. Flagship Pioneering invents and builds platform companies,"
+   },
+   "VL57": {
+    "n": 2,
+    "window": "neering Flagship Pioneering founded Generate in 2018 as Flagship VL56, Inc., working together with Dr. Gevorg Grigoryan, Ph.D., our founding Chief Technology Officer. In 2019, Flagship VL56, Inc. was combined with complementary generative biology explorations from another Flagship company, Flagship VL57, Inc. Flagship Pioneering invents and builds platform companies, each with the potential for multiple products that transform human health, sustainability and beyond. Generate's founding team is the Flagship Pioneering origination team led by co-founders Dr. Noubar B. Afeyan, Ph.D., Founder and Chi"
+   },
+   "MUC16": {
+    "n": 1,
+    "window": " under the same conditions. Cytokine secretion (pg/mL) by GB-5267 As shown in the figure below, in co-culture assays, GB-5267 induced IL-2, IFN-\u03b3, and TNF-\u03b1 secretion, proliferation, and cytotoxicity only in MUC16-positive OVCAR3 tumor cells, and we observed no activation or killing across multiple MUC16-negative epithelial or tumor cell lines. 159 In vitro cytokine production, proliferation, specificity and tumor killing for high potential leads, including GB-5267 across cell lines As shown in the figure below, GB-5267 showed optimized expression parameters across density with high CAR count per c"
+   }
+  }
+ },
+ "0001438569": {
+  "name": "Grifols SA  (GRFS, GIFLF, GIFOF, GIKLY)  (CIK 0001438569)",
+  "form": "20-F",
+  "date": "2026-04-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1438569/000110465926044901/grfs-20251231x20f.htm",
+  "codes": {
+   "DIF 50": {
+    "n": 1,
+    "window": "cientific or technical innovations; or \u25cf for which the granting of a Community marketing authorization would be in the interests of European Union public health. Our blood derivative products are not subject to compulsory Community authorization, but it is an option for our new products. Flebogamma DIF 50 mg/ml and 100 mg/ml, VeraSeal solutions for sealant and Tavlesse (fostamatinib) were approved through the Community authorization procedure. Applications through the Community authorization procedure are submitted directly to the EMA. Evaluation by the EMA\u2019s relevant scientific committee takes up t"
+   }
+  }
+ },
+ "0001828673": {
+  "name": "HCW Biologics Inc.  (HCWB)  (CIK 0001828673)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828673/000119312526134934/hcwb-20251231.htm",
+  "codes": {
+   "HCW9302": {
+    "n": 8,
+    "window": "refully selected indications in Phase 2. \u2022 The Company will refine potential additional indications for Phase 2 clinical studies during Phase 1, based on the results of further preclinical research with support from Phase 1 clinical data from ancillary studies as well as human data read-outs. \u2022 For HCW9302, we are focused on autoimmune diseases, including alopecia areata, and inflammatory conditions, such as other dermatological conditions, graft rejection, and neurodegenerative diseases. Prepare for IND-applications for preclinical programs in 2027. \u2022 We intend to complete IND-enabling studies and s"
+   },
+   "HCW11": {
+    "n": 1,
+    "window": "es, including alopecia areata, and inflammatory conditions, such as other dermatological conditions, graft rejection, and neurodegenerative diseases. Prepare for IND-applications for preclinical programs in 2027. \u2022 We intend to complete IND-enabling studies and submit an IND application to evaluate HCW11-018b, our tetra-valent T-cell engager, in patients with solid tumors in the first half of 2027. \u2022 We intend to complete IND-enabling studies and submit an IND application to evaluate HCW11-040, our second-generation immune checkpoint inhibitor, in patients with BPD in the second half of 2027. Conti"
+   }
+  }
+ },
+ "0001104506": {
+  "name": "INSMED Inc  (INSM)  (CIK 0001104506)",
+  "form": "10-K",
+  "date": "2026-02-19",
+  "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000009/insm-20251231.htm",
+  "codes": {
+   "INS1202": {
+    "n": 3,
+    "window": "versible inhibitor of dipeptidyl peptidase 1 (DPP1), for the treatment of patients with hidradenitis suppurativa (HS). The clinical-stage programs in our Neuro & Other Rare therapeutic area are INS1201, an intrathecally delivered gene therapy for patients with Duchenne muscular dystrophy (DMD), and INS1202, an intrathecally delivered gene therapy for patients with amyotrophic lateral sclerosis (ALS). Our pre-clinical research programs encompass a wide range of technologies and modalities, including gene therapy, AI-driven protein engineering, protein manufacturing, RNA end-joining, and synthetic resc"
+   },
+   "INS1201": {
+    "n": 1,
+    "window": " monoclonal antibody targeting SCF248. The clinical-stage program in our Inflammation & Immunology therapeutic area is brensocatib, a small molecule, oral, reversible inhibitor of DPP1, for the treatment of patients with HS. The clinical-stage programs in our Neuro & Other Rare therapeutic area are INS1201, an intrathecally delivered gene therapy for patients with DMD, and INS1202, an intrathecally delivered gene therapy for patients with ALS. Our pre-clinical research programs encompass a wide range of technologies and modalities, including gene therapy, AI-driven protein engineering, protein manufa"
+   }
+  }
+ },
+ "0001997038": {
+  "name": "Iambic Therapeutics, Inc.  (CIK 0001997038)",
+  "form": "S-1/A",
+  "date": "2026-10-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526417416/iam-20261008.htm",
+  "codes": {
+   "IAM1363": {
+    "n": 3,
+    "window": "ificant discretion over whether and how to advance, prioritize and disclose partnered programs. \u2022 Our approach to drug discovery, which integrates AI with automated experimentation, is novel and unproven and may not lead to successful, commercially viable drug products. \u2022 Our most advanced program, IAM1363, is in an early-stage Phase 1/1b clinical trial, and our other programs, IAM217 and IAM-C1, are preclinical; drug development is lengthy, expensive, and uncertain, and most candidates never receive regulatory approval. \u2022 Interim, initial, \u201ctop-line\u201d, and preliminary data from our clinical trials th"
+   },
+   "IAM217": {
+    "n": 3,
+    "window": "ered programs. \u2022 Our approach to drug discovery, which integrates AI with automated experimentation, is novel and unproven and may not lead to successful, commercially viable drug products. \u2022 Our most advanced program, IAM1363, is in an early-stage Phase 1/1b clinical trial, and our other programs, IAM217 and IAM-C1, are preclinical; drug development is lengthy, expensive, and uncertain, and most candidates never receive regulatory approval. \u2022 Interim, initial, \u201ctop-line\u201d, and preliminary data from our clinical trials that we announce or publish from time to time may change as more participant data "
+   }
+  }
+ },
+ "0001835579": {
+  "name": "Ikena Oncology, Inc.  (IKNA)  (CIK 0001835579)",
+  "form": "S-1",
+  "date": "2025-09-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835579/000119312525198360/d931520ds1.htm",
+  "codes": {
+   "HEK293T": {
+    "n": 1,
+    "window": "nducted several studies to evaluate if IMG-007\u2019s ADCC function has been silenced as designed. IMG-007 exhibited minimal binding affinity to the Fc g receptors in vitro and did not induce cytokine release in pre-clinical studies. IMG-007\u2019s ADCC effects were evaluated by measuring the cytotoxicity to HEK293T-Luc-OX40 cells with fluorescence-activated cell sorting. A non-OX40 targeting antibody with identical Fc portion to IMG 007 was included as an isotype (negative) control. The study results showed that IMG-007 did not induce any ADCC up to the highest concentration tested (20 \u00b5g/mL), whereas the GRB"
+   }
+  }
+ },
+ "0001326110": {
+  "name": "ImmunityBio, Inc.  (IBRX)  (CIK 0001326110)",
+  "form": "10-K",
+  "date": "2026-02-23",
+  "url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000030/ibrx-20251231.htm",
+  "codes": {
+   "CA19": {
+    "n": 1,
+    "window": "cells/\u00b5L): Achieved in 67/86 subjects (78%) \u2022 Survival Correlation: Subjects with lymphopenia reversal had significantly prolonged median overall survival versus those remaining in severe lymphopenia (p=0.005; hazard ratio 0.46; 95% CI: 0.26, 0.80) \u2022 With Lymphopenia Rescue plus Lower Tumor Burden (CA19-9 <34,000 IU/mL): median overall survival exceeded 10 months As described above, in February 2025, the FDA granted us RMAT designation for ANKTIVA and PD-L1 CAR-NK (PD-L1 t-haNK) in combination with standard-of-care chemotherapy/radiotherapy for the reversal of lymphopenia and treatment of multiply"
+   }
+  }
+ },
+ "0001728328": {
+  "name": "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)",
+  "form": "10-K",
+  "date": "2026-09-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/1728328/000121390026098419/ea0301263-10k_inmed.htm",
+  "codes": {
+   "INM-901": {
+    "n": 19,
+    "window": " neurons that are associated with the brain and how our proprietary CB1 and CB2 agonist drug candidates could affect neurodegenerative diseases such as Alzheimer\u2019s, Parkinson\u2019s, and Huntington\u2019s. In October 2023, InMed announced it had selected and would be advancing a lead AD drug candidate, named INM-901, following positive results from several proof-of-concept studies. INM-901 is a proprietary small molecule drug candidate. which, based on preclinical studies in well-characterized AD study models, may address multiple pathologies related to AD progression. In these preclinical study models, INM-90"
+   },
+   "INM-900": {
+    "n": 2,
+    "window": " cannabinoid compound can also be used to promote neurite outgrowth, signifying the potential to enhance neuronal function. The rare cannabinoid included in the PCT application is new to InMed\u2019s portfolio. \u25cf November 2022 \u2014 we announced announces the launch of its neurodegenerative disease program (INM-900 series), investigating the effects of cannabinoid analogs in diseases such as Alzheimer\u2019s, Huntington\u2019s and Parkinson\u2019s. In addition, Dr. Ujendra Kumar of the Faculty of Pharmaceuticals Sciences at UBC has been awarded an Alliance grant from NSERC, with InMed as the named industry partner. The fund"
+   },
+   "INM-089": {
+    "n": 2,
+    "window": "orating a complex cellular environment relevant to neurodegenerative disease. The organoids are composed of neurons, astrocytes, vascular cells and feature microglia, the brain\u2019s resident immune cells, and can be used to bridge the gap between traditional animal models and human clinical trials. 14 INM-089 for the Treatment of Age-related Macular Degeneration (\u201cAMD\u201d) Introduction While conducting the preclinical studies of a previous drug candidate, INM-088 in glaucoma, which involved comparing various naturally occurring compounds including InMed\u2019s proprietary small molecule candidates, it was disco"
+   },
+   "INM-755": {
+    "n": 1,
+    "window": " filing dates. If granted, the patent expiry may be extended by patent agencies and/or health regulatory authorities. As of August 2026, we have a total of thirteen patent families covering the following areas: \u25cf Six patent families covering novel methods for treating diseases including two for our INM-755 program (WO/2017/190249 and WO/2019/056123), one for our INM-088 program (WO/2020/215164), two for treating neurodegenerative diseases for our INM-901 program (WO/2022/082313, PCT/US2024/052535) and one for our INM-089 program (PCT/US2024/028445). If these patents applications are granted and all m"
+   },
+   "INM-088": {
+    "n": 1,
+    "window": "atent agencies and/or health regulatory authorities. As of August 2026, we have a total of thirteen patent families covering the following areas: \u25cf Six patent families covering novel methods for treating diseases including two for our INM-755 program (WO/2017/190249 and WO/2019/056123), one for our INM-088 program (WO/2020/215164), two for treating neurodegenerative diseases for our INM-901 program (WO/2022/082313, PCT/US2024/052535) and one for our INM-089 program (PCT/US2024/028445). If these patents applications are granted and all maintenance fees or annuities are paid, these patents are expected"
+   },
+   "US2024": {
+    "n": 2,
+    "window": "g the following areas: \u25cf Six patent families covering novel methods for treating diseases including two for our INM-755 program (WO/2017/190249 and WO/2019/056123), one for our INM-088 program (WO/2020/215164), two for treating neurodegenerative diseases for our INM-901 program (WO/2022/082313, PCT/US2024/052535) and one for our INM-089 program (PCT/US2024/028445). If these patents applications are granted and all maintenance fees or annuities are paid, these patents are expected to expire in 2037-2043. In some situations, the patent may be eligible for adjustment or extension of the patent terms du"
+   }
+  }
+ },
+ "0001906425": {
+  "name": "Invea Therapeutics, Inc  (CIK 0001906425)",
+  "form": "S-1/A",
+  "date": "2026-01-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1906425/000121390026008321/ea0231890-10.htm",
+  "codes": {
+   "INVA8001": {
+    "n": 5,
+    "window": " AlphaMeld Platform from our parent company, InveniAI LLC, or InveniAI or our Parent. See \u201cProspectus Summary \u2014 Our Approach \u2014 Our AI-, ML-, and GenAI -Driven Portfolio\u201d and \u201cBusiness \u2014 Our Approach \u2014 Our AI-, ML-, and GenAI -Driven Portfolio\u201d for additional information. Our lead product candidate, INVA8001, which was identified using the AlphaMeld Platform, is an oral, small -molecule chymase inhibitor designed to selectively target mast cell -driven inflammation, a key driver of multiple IMIDs. Mast cells play a pivotal role in allergic and inflammatory responses, and their development, survival, an"
+   },
+   "INVA8003": {
+    "n": 29,
+    "window": "of INVA8001 into chronic spontaneous urticaria, prurigo nodularis, and atopic dermatitis as potential future indications in the U.S., EU, and globally, contingent on the process for regulatory review of marketing applications in those territories and additional future financing. 2 Table of Contents INVA8003, our second product candidate, which was also identified using the AlphaMeld Platform, was designed and optimized for its molecular structure and therapeutic potential using AI, as a novel, oral, small -molecule inhibitor that targets a key adaptor protein known as apoptosis -associated speck -like"
+   },
+   "CT 06437": {
+    "n": 1,
+    "window": "ng on the number of shares we sell in this offering. InveniAI is a technology company that uses AI and ML to drive innovation across drug discovery and development and is a controlled subsidiary of BioXcel LLC. Our principal executive offices are located at 2614 Boston Post Road Suite 33B, Guilford CT 06437, USA, and our telephone number is +1.203.643.8002. Our website address is https://www.inveatx.com . The information contained on, or that can be accessed through, our website is not incorporated by reference into this prospectus, and you should not consider any such information to be a part of this"
+   },
+   "INVA8002": {
+    "n": 1,
+    "window": " platform and the expertise of our experienced management, advisors and board. We believe our AI-, ML-, and GenAI -enabled drug discovery and development provides us with a unique approach to address chronic inflammation across IMIDs. In addition to INVA8001 and INVA8003, our pipeline also includes INVA8002, which we deprioritized for development in January 2023 in order to devote more of our resources to development of our lead product candidates, INVA8001 and INVA8003. Manufacturing We do not have any manufacturing facilities or personnel. We currently rely, and expect to continue to rely, on third "
+   }
+  }
+ },
+ "0001479419": {
+  "name": "KALA BIO, Inc.  (KALA)  (CIK 0001479419)",
+  "form": "10-K",
+  "date": "2026-04-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/1479419/000110465926043782/kala-20251231x10k.htm",
+  "codes": {
+   "KPI-012": {
+    "n": 10,
+    "window": "nt activities for our MSC-S platform if we were to execute a strategic transaction or obtain significant additional funding, and our ability to develop and commercialize the Researgency agentic AI research platform; \u25cf if we were to resume research and development activities, development efforts for KPI-012 and KPI-014 for potential ocular diseases; \u25cf our ability to identify additional products, product candidates or technologies with significant commercial potential that are consistent with our commercial objectives; \u25cf our plans and goals with respect to the AI platform business and the deployment of"
+   },
+   "KPI-014": {
+    "n": 5,
+    "window": "s for our MSC-S platform if we were to execute a strategic transaction or obtain significant additional funding, and our ability to develop and commercialize the Researgency agentic AI research platform; \u25cf if we were to resume research and development activities, development efforts for KPI-012 and KPI-014 for potential ocular diseases; \u25cf our ability to identify additional products, product candidates or technologies with significant commercial potential that are consistent with our commercial objectives; \u25cf our plans and goals with respect to the AI platform business and the deployment of the Researg"
+   }
+  }
+ },
+ "0002096997": {
+  "name": "Kailera Therapeutics, Inc.  (KLRA)  (CIK 0002096997)",
+  "form": "S-1/A",
+  "date": "2026-04-13",
+  "url": "https://www.sec.gov/Archives/edgar/data/2096997/000119312526151904/d113532ds1a.htm",
+  "codes": {
+   "KAI-7535": {
+    "n": 16,
+    "window": "trials of oral ribupatide as early as the first half of 2027, while Hengrui plans to advance oral ribupatide to a Phase 3 trial in China. A next-generation formulation of oral ribupatide with enhanced bioavailability is also being evaluated in a Phase 1 clinical trial conducted by Hengrui in China. KAI-7535: Potential for competitive clinical profile in an oral small molecule We are advancing KAI-7535 (also being developed by Hengrui in Greater China as HRS-7535) as a once-daily oral small molecule GLP-1 receptor agonist with the potential to improve on the clinical profile of existing oral treatments"
+   },
+   "KAI-4729": {
+    "n": 17,
+    "window": "ll approximately 320 participants with a BMI of 30+ or a BMI of 27+ with at least one co-morbidity (which may include T2D). Participants will receive either placebo or doses up to 360 mg of KAI-7535 administered over a period of 44 weeks. We expect to report topline results from this trial in 2027. KAI-4729: Potential for compelling weight loss, improved liver fat reduction and a differentiated tolerability profile We are advancing KAI-4729 (also being developed by Hengrui in Greater China as HRS-4729), a once-weekly injectable GLP-1/GIP/glucagon receptor tri-agonist, which was designed to improve upo"
+   },
+   "HRS-4729": {
+    "n": 5,
+    "window": " administered over a period of 44 weeks. We expect to report topline results from this trial in 2027. KAI-4729: Potential for compelling weight loss, improved liver fat reduction and a differentiated tolerability profile We are advancing KAI-4729 (also being developed by Hengrui in Greater China as HRS-4729), a once-weekly injectable GLP-1/GIP/glucagon receptor tri-agonist, which was designed to improve upon existing tri-agonist profiles. We believe KAI-4729\u2019s combination of the proven GLP-1/GIP mechanism with the addition of glucagon agonism has the potential to result in greater weight reduction tha"
+   },
+   "KAI-9531": {
+    "n": 3,
+    "window": "cus, we have built a diversified pipeline of product candidates specifically designed to address critical needs in the current therapeutic landscape with a lead product candidate that we believe offers the potential for the greatest weight loss. Our lead product candidate, ribupatide (also known as KAI-9531), is currently being evaluated in global Phase 3 trials as a once-weekly injectable GLP-1/glucose-dependent insulinotropic polypeptide receptor dual agonist peptide that we believe offers the potential for the greatest weight loss compared to all obesity management medications currently available o"
+   },
+   "HRS9531": {
+    "n": 2,
+    "window": "ly with 25 mg oral semaglutide, compared to a placebo group that lost 2.2% of weight, based on the treatment policy estimand. Our diversified GLP-1-based pipeline Ribupatide: Potential for the greatest weight loss Ribupatide (also known as KAI-9531 and being developed by Hengrui in Greater China as HRS9531), a once-weekly injectable GLP-1/GIP receptor dual agonist, is in clinical development for the treatment of obesity. Based on clinical data generated to date, we believe ribupatide has the potential for the greatest weight loss compared to all obesity management medications currently marketed or in"
+   },
+   "HRS-7535": {
+    "n": 2,
+    "window": " solution We believe that KAI-7535 has the potential to improve upon the clinical profile of existing oral treatments, and is designed to offer a competitive weight loss and tolerability profile compared to other oral GLP-1 therapies. Phase 2 dose-ranging clinical trial in participants with obesity HRS-7535 was studied in a Phase 2 dose-ranging clinical trial conducted by Hengrui in China in participants with obesity. The randomized, double-blind, placebo-controlled trial enrolled 235 adults with a BMI of 28 to 40 without a diagnosis of T2D. The participants were 48.5% female and at baseline had a mea"
+   }
+  }
+ },
+ "0001468748": {
+  "name": "Kodiak Sciences Inc.  (KOD)  (CIK 0001468748)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526134887/kod-20251231.htm",
+  "codes": {
+   "KSI-501": {
+    "n": 2,
+    "window": "ional medicine, is a first-in-class anti-IL-6, VEGF-trap bispecific therapy built on our ABC platform and is being developed for high prevalence retinal vascular diseases to address the leading unmet needs of extended durability and targeting disease biology beyond VEGF for differentiated efficacy. KSI-501 is designed to provide high immediacy/efficacy and high durability. KSI-501 is currently being studied in the Phase 3 DAYBREAK study in patients with wet AMD. DAYBREAK has completed enrollment. KSI-101, our third investigational medicine, is a high strength (100 mg/mL) antibody-based therapy with a"
+   },
+   "KSI-101": {
+    "n": 1,
+    "window": "eds of extended durability and targeting disease biology beyond VEGF for differentiated efficacy. KSI-501 is designed to provide high immediacy/efficacy and high durability. KSI-501 is currently being studied in the Phase 3 DAYBREAK study in patients with wet AMD. DAYBREAK has completed enrollment. KSI-101, our third investigational medicine, is a high strength (100 mg/mL) antibody-based therapy with a bispecific mechanism of action targeting both interleukin-6 (IL-6) and VEGF. We are developing KSI-101 for patients with macular edema (retinal fluid) secondary to inflammation (\u201cMESI\u201d). Data from our "
+   }
+  }
+ },
+ "0001703647": {
+  "name": "Korro Bio, Inc.  (KRRO)  (CIK 0001703647)",
+  "form": "S-1",
+  "date": "2024-05-14",
+  "url": "https://www.sec.gov/Archives/edgar/data/1703647/000119312524138296/d820146ds1.htm",
+  "codes": {
+   "TDP-43": {
+    "n": 2,
+    "window": "l ameliorate disease phenotype in models of alcohol-induced hepatitis. We also plan to evaluate our approach in NHP studies. Our Amyotrophic Lateral Sclerosis Program: Disrupting Protein Aggregation We are developing proprietary oligonucleotides targeting the mRNA for TAR DNA binding protein 43, or TDP-43, a protein associated with the etiology of amyotrophic lateral sclerosis, or ALS. 92 Table of Contents Amyotrophic Lateral Sclerosis ALS is an adult-onset, progressive, and fatal neurodegenerative disorder that causes muscle weakness, paralysis, and ultimately death. The majority of ALS patients di"
+   }
+  }
+ },
+ "0001711279": {
+  "name": "Krystal Biotech, Inc.  (KRYS)  (CIK 0001711279)",
+  "form": "10-K",
+  "date": "2026-02-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000016/krys-20251231.htm",
+  "codes": {
+   "KB803": {
+    "n": 1,
+    "window": "gistrational study with a crossover design to evaluate KB803 for the treatment and prevention of corneal abrasions in DEB patients, six months of age or older. After observing a promising clinical safety profile in the initial patients treated with Krystal\u2019s eye drop gene therapies, we modified the KB803 dosing schedule to reduce the potential impact of human error in eye drop administration. Under the updated protocol, enrolled patients receive either a single eye drop of placebo or KB803, at a concentration of 10 9 PFU/mL, to each eye three times weekly for 12 weeks. Drug administration is in the"
+   },
+   "KB801": {
+    "n": 5,
+    "window": " the inclusion criteria following the 12-week run-in are eligible to participate in the IOLITE trial. The natural history study was initiated in August 2024 and remains open for enrollment. Details of the natural history study can be found at www.clinicaltrials.gov under NCT identifier NCT06563414. KB801 for Neurotrophic Keratitis (\u201cNK\u201d) 10 Disease Background NK is a rare, degenerative corneal disease characterized by damage or loss of function in the neurons innervating the eye leading to corneal epithelial defects, ulcers, and perforation. Left untreated, NK can result in severe vision loss. Alth"
+   }
+  }
+ },
+ "0001521036": {
+  "name": "Lantheus Holdings, Inc.  (LNTH)  (CIK 0001521036)",
+  "form": "10-K",
+  "date": "2026-02-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526073498/lnth-20251231.htm",
+  "codes": {
+   "MK-6240": {
+    "n": 2,
+    "window": "l be used in combination with our microbubbles. Similarly, Insightec Ltd. is developing a transcranial guided focused ultrasound device for the treatment of glioblastoma, as well as other neurodegenerative conditions, and such device will also be used in combination with our microbubbles. Neurology MK-6240 11 Table of Contents MK-6240 is a registrational stage F-18 tau-targeted PET imaging agent designed to detect tau neurofibrillary tangle pathology in patients with cognitive impairment being evaluated for known or suspected Alzheimer\u2019s disease. During the second quarter of 2025, we announced that M"
+   },
+   "LNTH-2620": {
+    "n": 5,
+    "window": "t that targets beta amyloid in Alzheimer\u2019s disease. NAV-4694 is currently in Phase 3 development and is also being used in academic and industry sponsored clinical trials. Research revenue is derived from the use of NAV-4694 in those clinical trials and includes milestone and dose-related payments. LNTH-2620 LNTH-2620 is a next-generation radioactive tracer used in PET scans to detect and visualize tau protein tangles in the brain, a key biomarker for Alzheimer\u2019s disease and other neurodegenerative disorders. LNTH-2620 is currently in a Phase 3 study. CDMO Business Through the Evergreen Merger, we acqu"
+   }
+  }
+ },
+ "0001900520": {
+  "name": "Lomond Therapeutics Holdings, Inc.  (CIK 0001900520)",
+  "form": "10-K",
+  "date": "2026-04-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/1900520/000121390026044136/ea0283646-10k_lomond.htm",
+  "codes": {
+   "ZE46": {
+    "n": 1,
+    "window": "cumulated from Expert Systems\u2019 network partners is fed into the platform. Our goal is to utilize this AI/ML platform to become a leader in developing novel breakthrough medicines to maximize clinical benefit when treating hematologic malignancies. We have already utilized this MRDA for Lomonitinib (ZE46-0134) Lonitoclax (ZE50-0134) to help with program ideation, rational drug discovery and program support for setting up its translational programs towards early development. We also utilize Expert Systems under the MRDA for general consulting and related administrative services unrelated to the use "
+   },
+   "ZE50": {
+    "n": 1,
+    "window": "ystems\u2019 network partners is fed into the platform. Our goal is to utilize this AI/ML platform to become a leader in developing novel breakthrough medicines to maximize clinical benefit when treating hematologic malignancies. We have already utilized this MRDA for Lomonitinib (ZE46-0134) Lonitoclax (ZE50-0134) to help with program ideation, rational drug discovery and program support for setting up its translational programs towards early development. We also utilize Expert Systems under the MRDA for general consulting and related administrative services unrelated to the use of the AI/ML platform. "
+   }
+  }
+ },
+ "0001806540": {
+  "name": "Lycia Therapeutics, Inc.  (CIK 0001806540)",
+  "form": "S-1/A",
+  "date": "2026-10-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066381/lyciatherapeutics-sx1a.htm",
+  "codes": {
+   "LCA-0061": {
+    "n": 1,
+    "window": "arget proteins that are present in high concentrations or have a fast resynthesis rate, as they can provide an extended duration of action relative to classic LYTAC degraders. Figure 3: Schematic of target protein degradation with a cataLYTAC degrader We designed a portfolio of cataLYTAC degraders (LCA-0061 and LCA-0062) for the treatment of IgE-mediated allergic disease due to the high concentrations of IgE that can occur in these diseases. For example, IgE concentrations in patients with food allergy can reach very high levels, potentially exceeding 5,000 IU/mL (or 12,000 ng/mL), and are continuousl"
+   },
+   "LCA-0062": {
+    "n": 1,
+    "window": "s that are present in high concentrations or have a fast resynthesis rate, as they can provide an extended duration of action relative to classic LYTAC degraders. Figure 3: Schematic of target protein degradation with a cataLYTAC degrader We designed a portfolio of cataLYTAC degraders (LCA-0061 and LCA-0062) for the treatment of IgE-mediated allergic disease due to the high concentrations of IgE that can occur in these diseases. For example, IgE concentrations in patients with food allergy can reach very high levels, potentially exceeding 5,000 IU/mL (or 12,000 ng/mL), and are continuously produced wi"
+   }
+  }
+ },
+ "0001776111": {
+  "name": "MBX Biosciences, Inc.  (MBX)  (CIK 0001776111)",
+  "form": "10-K",
+  "date": "2026-03-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776111/000119312526103121/mbx-20251231.htm",
+  "codes": {
+   "AI 67": {
+    "n": 1,
+    "window": "ial Intelligence Act (the \u201cAI Act\u201d) on August 1, 2024, with a significant part of the law scheduled to come into effect in August 2026. As currently enacted, the AI Act, which may be amended as part of the EU\u2019s Digital Omnibus, imposes significant obligations on providers and deployers of high risk AI 67 systems, and encourages providers and deployers of AI systems to account for certain ethical principles in their design, development and use of these systems. The scope of requirements depends on legal and risk determinations that rely on novel legal provisions that have not yet been interpreted by"
+   }
+  }
+ },
+ "0001345099": {
+  "name": "MESOBLAST LTD  (MESO, MEOBF)  (CIK 0001345099)",
+  "form": "20-F",
+  "date": "2026-08-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000081/meso-20260630.htm",
+  "codes": {
+   "DR004": {
+    "n": 1,
+    "window": "ysis and Retrieval system, which may be accessed through the SEC's website at www.sec.gov. For a list of our significant subsidiaries, see Exhibit 8.1 to this Annual Report. Important Corporate Developments Fiscal year 2026 to date of annual report August 2026 Completed patient treatment in the MSB-DR004 pivotal randomized controlled Phase 3 trial of rexlemestrocel-L for chronic low back pain (\"CLBP\") associated with the inflammatory condition of degenerative disc disease. The major milestone was achieved with 350 patients randomized and treated with either an intra-discal injection of rexlemestroc"
+   },
+   "MPC-06": {
+    "n": 6,
+    "window": " superior to unmodified cells in reducing inflammation of the gut tissue in animal models, providing great promise for the treatment of ulcerative colitis or Crohn's disease. Rexlemestrocel-L for Chronic Low Back Pain (CLBP) associated with Degenerative Disc Disease (DDD) Overview Rexlemestrocel-L (MPC-06-ID) for CLBP consists of a unit dose of 6 million MPCs administered by syringe directly into a damaged disc. In CLBP, damage to the disc is the result of a combination of factors related to aging, genetics, and micro-injuries, which compromises the disc\u2019s capacity to act as a fluid-filled cushion b"
+   }
+  }
+ },
+ "0001680048": {
+  "name": "MUSTANG BIO, INC.  (MBIO)  (CIK 0001680048)",
+  "form": "S-1/A",
+  "date": "2025-02-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1680048/000110465925009408/tmb-20240930xs1a.htm",
+  "codes": {
+   "MB-106": {
+    "n": 4,
+    "window": "grade 1 and no immune effector cell-associated neurotoxicity syndrome (\u201cICANS\u201d) of any grade, despite not using prophylactic tocilizumab or dexamethasone. In March 2024, we announced plans to collaborate with Fred Hutch for a proof-of-concept Phase 1 investigator-sponsored clinical trial evaluating MB-106 in autoimmune diseases. In March 2024, we were granted the Regenerative Medicine Advanced Therapy (\u201cRMAT\u201d) designation by the FDA for the treatment of relapsed or refractory CD20 positive WM and FL, based on potential improvement in response as seen in clinical data to date. Drugs eligible for RMAT"
+   }
+  }
+ },
+ "0001770069": {
+  "name": "MapLight Therapeutics, Inc.  (MPLT)  (CIK 0001770069)",
+  "form": "10-K",
+  "date": "2026-03-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526125072/mplt-20251231.htm",
+  "codes": {
+   "ML-007C": {
+    "n": 27,
+    "window": " of these causal links between the modulation of defined neural circuits and the resulting changes in disease-specific behaviors will enable us to develop therapeutics that can deliver efficacy, safety, tolerability and ease-of-use advantages to patients and prescribers. Our lead product candidate, ML-007C-MA, is a fixed-dose combination of an M 1 /M 4 muscarinic agonist, ML-007, co-formulated with a peripherally acting anticholinergic, or PAC, which we are initially developing for the treatment of schizophrenia and Alzheimer's disease psychosis, or ADP. ML-007C-MA is designed to activate both M 1 an"
+   },
+   "ML-007": {
+    "n": 32,
+    "window": "d the resulting changes in disease-specific behaviors will enable us to develop therapeutics that can deliver efficacy, safety, tolerability and ease-of-use advantages to patients and prescribers. Our lead product candidate, ML-007C-MA, is a fixed-dose combination of an M 1 /M 4 muscarinic agonist, ML-007, co-formulated with a peripherally acting anticholinergic, or PAC, which we are initially developing for the treatment of schizophrenia and Alzheimer's disease psychosis, or ADP. ML-007C-MA is designed to activate both M 1 and M 4 muscarinic receptors centrally to drive efficacy, while synchronizin"
+   },
+   "ML-055": {
+    "n": 3,
+    "window": "2 positive allosteric modulator, or GPR52 PAM, program for the treatment of hyperactivity, impulsivity and agitation-related disorders. We have nominated a preclinical candidate for further advancement and expect to complete investigational new drug application, or IND, -enabling studies in 2027. \u2022 ML-055 is our next-generation, novel M 1 /M 4 muscarinic agonist program, which we are developing for the treatment of neuropsychiatric conditions. Preclinical in vitro and in vivo studies evaluating multiple potential candidates have demonstrated significantly greater potency relative to ML-007 and the p"
+   },
+   "ML-004": {
+    "n": 5,
+    "window": "ession scores. 20 Table of Contents We expect to report topline results from this study in the second half of 2027. In December 2025, ML-007C-MA was granted Fast Track designation by the FDA for the treatment of hallucinations and delusions associated with ADP. Figure 12: Phase 2 VISTA Trial Design ML-004 for the Treatment of Autism Spectrum Disorder Our second product candidate, ML-004, is a 5-HT 1B/1D agonist that we are developing for the treatment of social communication deficit and/or irritability in ASD. Historical clinical development efforts for ASD have been challenging given the biological"
+   },
+   "ML-021": {
+    "n": 3,
+    "window": "o and in vivo studies evaluating multiple potential candidates have demonstrated significantly greater potency relative to ML-007 and the potential for once-daily dosing and long-acting injectable formulation. We expect to nominate a preclinical candidate to advance to IND-enabling studies in 2026. ML-021 ML-021 is our M 4 antagonist program for the treatment of motor deficits in Parkinson's disease. ML-021 is designed to selectively target the muscarinic M 4 receptors, which are highly expressed in direct pathway neurons of the striatum. Loss of striatal dopamine in Parkinson's disease results in a"
+   },
+   "ACP-204": {
+    "n": 2,
+    "window": "candidates in clinical development that are designed to modulate muscarinic receptors, including Cobenfy, which is being developed by Bristol Myers Squibb Company. We may also face competition from other companies developing product candidates to address ADP that modulate other receptors, including ACP-204, which is being developed by Acadia Pharmaceuticals, Inc. We may also face competition from other companies developing product candidates to address agitation or other behavioral symptoms associated with Alzheimer's disease. Autism Spectrum Disorder We are developing ML-004 for the treatment of ASD"
+   }
+  }
+ },
+ "0001842295": {
+  "name": "Maze Therapeutics, Inc.  (MAZE)  (CIK 0001842295)",
+  "form": "10-K",
+  "date": "2026-03-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1842295/000119312526122778/maze-20251231.htm",
+  "codes": {
+   "MZE829": {
+    "n": 1,
+    "window": "% (EC30), 60% (EC60) and 90% (EC90) reduction in proteinuria are shown. Similar models of chronic proteinuria on G1/G2 or G2/G2 backgrounds showed similar results. Our Phase 2 clinical trial is an ongoing 12-week, open-label basket trial designed to evaluate the safety, efficacy and tolerability of MZE829 in adults with proteinuric CKD who have the APOL1 high-risk genotype. The initial two cohorts are enrolling participants aged 18 to 68 with CKD and urine albumin-to-creatinine ratio, or uACR, \u2265300 mg, who carry the APOL1 high-risk genotype (G1/G1, G2/G2, G1/G2), meet eGFR criteria of at least 25 mL"
+   }
+  }
+ },
+ "0001638287": {
+  "name": "MetaVia Inc.  (MTVA)  (CIK 0001638287)",
+  "form": "10-K",
+  "date": "2026-03-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926034911/mtva-20251231x10k.htm",
+  "codes": {
+   "DA-1241": {
+    "n": 3,
+    "window": "and other early signals in the exploratory endpoints with potential for best-in-class safety and tolerability. The data readout for both Part 3a and Part 3b is planned for the fourth quarter of 2026. While we focus our financial resources and management\u2019s attention on the development of vanoglipel (DA-1241) and DA-1726, we also have four legacy therapeutic programs designed to impact a range of indications in viral, neurodegenerative and cardiometabolic diseases, which we are not planning to advance development on and have, or continue to consider for, out-licensing and divestiture opportunities: \u25cf A"
+   },
+   "DA-1726": {
+    "n": 3,
+    "window": "ly signals in the exploratory endpoints with potential for best-in-class safety and tolerability. The data readout for both Part 3a and Part 3b is planned for the fourth quarter of 2026. While we focus our financial resources and management\u2019s attention on the development of vanoglipel (DA-1241) and DA-1726, we also have four legacy therapeutic programs designed to impact a range of indications in viral, neurodegenerative and cardiometabolic diseases, which we are not planning to advance development on and have, or continue to consider for, out-licensing and divestiture opportunities: \u25cf ANA001, a prop"
+   },
+   "ANA001": {
+    "n": 1,
+    "window": "1) and DA-1726, we also have four legacy therapeutic programs designed to impact a range of indications in viral, neurodegenerative and cardiometabolic diseases, which we are not planning to advance development on and have, or continue to consider for, out-licensing and divestiture opportunities: \u25cf ANA001, a proprietary oral niclosamide formulation for the treatment of patients with moderate COVID-19. \u25cf NB-01 for the treatment for painful diabetic neuropathy (\u201cPDN\u201d). In July 2024, we entered into an exclusive out-license agreement with MThera Pharma Co., LTD. (\u201cMThera\u201d) to provide MThera with the ri"
+   },
+   "NB-01": {
+    "n": 5,
+    "window": "viral, neurodegenerative and cardiometabolic diseases, which we are not planning to advance development on and have, or continue to consider for, out-licensing and divestiture opportunities: \u25cf ANA001, a proprietary oral niclosamide formulation for the treatment of patients with moderate COVID-19. \u25cf NB-01 for the treatment for painful diabetic neuropathy (\u201cPDN\u201d). In July 2024, we entered into an exclusive out-license agreement with MThera Pharma Co., LTD. (\u201cMThera\u201d) to provide MThera with the rights to NB-01 for the treatment of painful diabetic neuropathy. \u25cf NB-02 for the treatment of cognitive imp"
+   },
+   "NB-02": {
+    "n": 3,
+    "window": "F, which is involved in nerve growth, maintenance and repair. NB-01 has been shown in animal models to alleviate symptoms of PDN. In July 2024, we entered into an exclusive out-license agreement with MThera to provide MThera with the rights to NB-01 for the treatment of painful diabetic neuropathy. NB-02 NB-02 was being developed for the symptomatic and disease modifying treatment of neurodegenerative diseases, including Alzheimer\u2019s disease and tauopathies. In preclinical studies, we have observed the mechanisms of action of NB-02 to include inhibition of tau phosphorylation, acetylcholinesterase ("
+   }
+  }
+ },
+ "0001826457": {
+  "name": "Monte Rosa Therapeutics, Inc.  (GLUE)  (CIK 0001826457)",
+  "form": "10-K",
+  "date": "2026-03-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526109360/glue-20251231.htm",
+  "codes": {
+   "MRT-8102": {
+    "n": 2,
+    "window": " inflammatory disorders, including ASCVD, gout, hidradenitis suppurativa, osteoarthritis, asthma, neurodegenerative diseases, and metabolic disorders including metabolic dysfunction-associated steatohepatitis (MASH) and obesity. In January 2026, we reported interim results from our Phase 1 study of MRT-8102. In subjects with increased CVD risk, MRT-8102 demonstrated rapid and durable reductions in systemic inflammation. Specifically, after four weeks of MRT-8102 treatment in subjects with elevated CVD risk and high levels of CRP, CRP levels were reduced by 85%, and 94% of study participants achieved C"
+   }
+  }
+ },
+ "0001979414": {
+  "name": "NEONC TECHNOLOGIES HOLDINGS, INC.  (NTHI)  (CIK 0001979414)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626002860/neonctechnologies_10k.htm",
+  "codes": {
+   "NEO100": {
+    "n": 6,
+    "window": "nt efforts in the Gulf Cooperation Council region. In connection with the acquisition, Dr. Ishwar K. Puri joined our Board of Directors. Using aspects of the acquired technology, a recent preclinical study conducted at the University of Southern California and published on bioRxiv in 2025 evaluated NEO100 with an AI-driven, 3D-bioprinted New Approach Methodology (NAM) platform. In this study, focused ultrasound was observed to enhance the antitumor activity of NEO100 across multiple tumor models, including glioblastoma, pediatric medulloblastoma, high-grade meningioma, and brain metastases derived f"
+   },
+   "NEO212": {
+    "n": 2,
+    "window": " and organoids. 1. Artificial Intelligence for Drug Discovery and Personalized Sonodynamic Therapy NTHI has acquired and operationalized an AI-driven computational drug modeling platform designed to support the rational development of sonosensitizers, including the Company\u2019s lead assets, NEO100 and NEO212. This proprietary platform enables predictive modeling of blood-brain barrier (BBB) permeability, reactive oxygen species (ROS) generation, and drug-tumor interactions across heterogeneous CNS tumor environments, including glioblastoma, meningioma, diffuse intrinsic pontine glioma (DIPG), and brain"
+   }
+  }
+ },
+ "0001885522": {
+  "name": "Neumora Therapeutics, Inc.  (NMRA)  (CIK 0001885522)",
+  "form": "10-K",
+  "date": "2026-03-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526130388/nmra-20251231.htm",
+  "codes": {
+   "NMRA-898": {
+    "n": 1,
+    "window": "e treatment of obesity. We expect several updates from these programs throughout 2026, including to report Phase 3 KOASTAL-2 and -3 topline data in the second quarter of 2026, report MAD extension data with NMRA-511 in the second half of 2026, and to report multiple ascending dose (\u201cMAD\u201d) data with NMRA-898 in the second half of 2026. Our Product Candidates We have rapidly scaled our pipeline through both internal discovery capabilities and business development activities. Our therapeutic pipeline comprises programs for neurodegenerative diseases, neuropsychiatric diseases, and metabolic disorders, ea"
+   }
+  }
+ },
+ "0001404644": {
+  "name": "Neurogene Inc.  (NGNE)  (CIK 0001404644)",
+  "form": "S-1",
+  "date": "2024-12-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1404644/000162828024049615/ngne-20241202.htm",
+  "codes": {
+   "NGN-401": {
+    "n": 7,
+    "window": "l Trials Advancing Rare disease Therapeutics (\u201cSTART\u201d) Pilot Program based on potential for clinical benefits and clinical development program readiness. As part of the START Program, we will have opportunities for enhanced communications with the FDA, with the aim to further accelerate the pace of NGN-401\u2019s development. In addition, NGN-401 has received Regenerative Medicine Advanced Therapy (\u201cRMAT\u201d) designation from the FDA. RMAT designation is granted for regenerative medicines intended to treat, modify, reverse, or cure a serious or life-threatening disease or condition, and with preliminary clin"
+   },
+   "NGN-101": {
+    "n": 10,
+    "window": "m in a Phase 1/2 clinical trial of NGN-101 for the treatment of CLN5 Batten disease. This patient population has a significant unmet need, and experiences extensive neurological and physical impairment leading to blindness, loss of motor function and early mortality. Our Phase 1/2 clinical trial of NGN-101 was the first trial to assess the treatment of both neurodegenerative and ocular disease manifestations of Batten disease. In November 2024, we announced that the Company does not expect to move forward with the NGN-101 CLN5 Batten disease gene therapy program; given the rarity of the disease, cont"
+   }
+  }
+ },
+ "0001549595": {
+  "name": "Nurix Therapeutics, Inc.  (NRIX)  (CIK 0001549595)",
+  "form": "10-K",
+  "date": "2026-01-28",
+  "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000016/nrix-20251130.htm",
+  "codes": {
+   "NX-1607": {
+    "n": 1,
+    "window": " through clinical development or are unable to obtain regulatory approval for and commercialize our drug candidates or experience significant delays in doing so, our business may be materially harmed. We are early in our development efforts. Our lead drug candidates, bexobrutideg, zelebrudomide and NX-1607, are in the early stages of clinical development and their risk of failure is high. We have invested substantially all of our efforts and financial resources in building our DEL-AI platform, in the identification and preclinical development of our current drug candidates, in the preparation for and"
+   }
+  }
+ },
+ "0001882782": {
+  "name": "Odyssey Therapeutics, Inc.  (CIK 0001882782)",
+  "form": "S-1/A",
+  "date": "2026-05-04",
+  "url": "https://www.sec.gov/Archives/edgar/data/1882782/000119312526202398/odtx-20260504.htm",
+  "codes": {
+   "OD-001": {
+    "n": 1,
+    "window": "we employ AI and ML models in developing our protein therapeutics. These models enable us to identify favorable combinations of VHH and help guide optimization of affinity, stability, and developability. Our Pipeline Our most advanced and wholly owned drug development pipeline is shown below. RIPK2 OD-001, our oral small-molecule RIPK2 scaffolding inhibitor product candidate, is in phase 2a development for the treatment of UC, which is one of the two main types of IBD. IBD is an autoimmune disease that degrades, damages and can perforate the gastrointestinal, or GI, tract and afflicts two-to-three m"
+   },
+   "OD-002": {
+    "n": 4,
+    "window": "SLE, cutaneous lupus erythematosus, or CLE, and other B cell-mediated autoimmune diseases. Using our AI/ML platform, we identified novel, high-quality starting points for this program in October of 2024 and rapidly advanced development, initiating IND-enabling studies for our development candidate, OD-002, 15 months later in January 2026. Pending an acceptable profile in these IND-enabling studies, we expect to file a CTA for this program outside of the United States in the second half of 2026 and then would expect to initiate a phase 1/2a trial in healthy participants and multiple patient cohorts. "
+   }
+  }
+ },
+ "0001614744": {
+  "name": "PURPLE BIOTECH LTD.  (PPBT)  (CIK 0001614744)",
+  "form": "20-F",
+  "date": "2026-03-19",
+  "url": "https://www.sec.gov/Archives/edgar/data/1614744/000121390026031365/ea0281765-20f_purple.htm",
+  "codes": {
+   "NT219": {
+    "n": 2,
+    "window": "e THM License Agreement, other than due to expiration of the THM License Agreement, all rights granted to FameWace revert to THM and Ramot and FameWave will not be entitled to make any further use in the licensed information. The THM License Agreement is governed by the laws of the State of Israel. NT219 TyrNovo\u2019s patent and patent application portfolio, covering NT219 and other compounds, includes six patent families, covering compounds that modulate protein kinase signaling and their use in treatment of protein kinase related disorders, including cancer and neurodegenerative disorders. \u25cf Patent F"
+   }
+  }
+ },
+ "0001396814": {
+  "name": "Pacira BioSciences, Inc.  (PCRX)  (CIK 0001396814)",
+  "form": "10-K",
+  "date": "2024-02-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/1396814/000139681424000030/pcrx-20231231.htm",
+  "codes": {
+   "SB-01": {
+    "n": 1,
+    "window": "r Antagonist (IL-1Ra) to target cells in joint(s) Knee OA GQ Bio Therapeutics GmbH Preclinical High-capacity adenovirus (HCAd) based gene therapy engineered to deliver DNA to target cells in joint(s) and intervertebral disc(s) Knee OA and degenerative disc disease (DDD) Spine BioPharma, LLC Phase 3 SB-01, a 7-amino acid chain peptide that binds to and induces down regulation of transforming growth factor, beta 1 (TGF\u03b21) Degenerative disc disease (DDD) Pacira BioSciences, Inc. | 2023 Form 10-K | Page 14 Table of Content s Customer-Facing Organization We have built our sales and marketing organizatio"
+   },
+   "PCRX-201": {
+    "n": 4,
+    "window": "rasia with expiry dates in 2033. We are continuing to prosecute one U.S. BCM patent application related to PCRX-201. Further, we have entered the national phase in Brazil, China, Europe, Hong Kong, Japan and the U.S. based on a PCT application covering composition of matter and effective dosages of PCRX-201 in the treatment of OA in humans, which, if granted, are expected to provide protection until 2040. We also have a U.S. application and a PCT application covering composition of matter and method of use of PCRX-201 for the treatment of degenerative disc disease (DDD), which, if granted, are expecte"
+   }
+  }
+ },
+ "0001374339": {
+  "name": "ProMIS Neurosciences Inc.  (PMN)  (CIK 0001374339)",
+  "form": "10-K",
+  "date": "2026-03-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926034554/pmn-20251231x10k.htm",
+  "codes": {
+   "PMN310": {
+    "n": 9,
+    "window": " hyperphosphorylation of tau, another protein involved in the pathogenesis of AD as reported by Jin et al ( Jin et al, 2011 ). Targeting of A\u03b2 oligomers therefore represents an attractive strategy to inhibit progression of the neurodegenerative A\u03b2-tau cascade ( Choi et al, 2015; Khan et al, 2014 ). PMN310 ProMIS\u2019 lead therapeutic program is PMN310, a mAb designed to treat AD by selectively targeting the toxic misfolded form of A\u03b2. Based on the understanding of A\u03b2 biology described above, PMN310 was designed to be more selective for the toxic oligomer of amyloid than other anti-A\u03b2 antibodies such as "
+   },
+   "PMN442": {
+    "n": 4,
+    "window": "vs. a-synO, **p < 0.003 vs. a-synO. Figure 13 Fig. 13. Inhibition of seeding activity. PMN442 inhibition of the recruitment of endogenous rat a-syn into phosphorylated aggregates. Cultures of primary rat hippocampal neurons were exposed to soluble human a-syn preformed fibrils (PFF) with or without PMN442. CTL = neurons incubated with vehicle alone. Results are expressed as a percentage of the phosphorylated rat a-syn staining area with PFF alone and show the mean + SEM of 6 replicate cultures. *p<0.02 vs PFF. DEVELOPMENT PROGRAMS Expansion to Include Other Neurodegenerative and Misfolded Protein Di"
+   },
+   "TDP-43": {
+    "n": 1,
+    "window": "that we correctly predicted to be exposed only on toxic A\u03b2Os, not the monomeric or plaque forms of A\u03b2. ProMIS has generated a portfolio of over 20 peptide antigens that have led to selective antibodies against toxic misfolded forms of A\u03b2 for AD, a-syn for MSA and PD, tau for AD, FTLD, PSP, and CBD, TDP-43 and SOD1 for ALS, RACK1 for ALS and HD, and DISC1 for schizophrenia. Those peptide antigens, and the corresponding selective antibodies, represent proprietary reagents that potentially can be used to create proprietary diagnostic tests in neurodegenerative diseases. Finally, peptide antigens are al"
+   },
+   "PMN267": {
+    "n": 3,
+    "window": "etration; and \u25cf publish in peer-reviewed journals. There is no assurance that we will be successful in these areas. Any failure or delay in such areas could have a material adverse impact on our business, financial condition, results of operations and prospects. The market opportunities for PMN310, PMN267, PMN442 and future product candidates, if approved, may be smaller than we anticipate. We expect to seek approval for product candidates for various neurodegenerative diseases and other misfolded protein diseases. Our estimates of market potential have been derived from a variety of sources, includ"
+   }
+  }
+ },
+ "0001612940": {
+  "name": "ProQR Therapeutics N.V.  (PRQR)  (CIK 0001612940)",
+  "form": "20-F",
+  "date": "2026-03-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1612940/000110465926026713/prqr-20251231x20f.htm",
+  "codes": {
+   "AB 2013": {
+    "n": 1,
+    "window": "national regulation related to artificial intelligence use and ethics, which may also significantly increase the burden and cost of research, development and compliance in this area, such as for example in the U.S., the Colorado AI Act which is set to enter into force in June 2026, and California\u2019s AB 2013, which requires generative AI developers to post information on their websites regarding the data used to train their AI systems. In the U.S., the AI regulatory environment is complex and uncertain. Over the past year, states have advanced, and in some cases passed, dozens of laws focusing on AI go"
+   }
+  }
+ },
+ "0001601830": {
+  "name": "RECURSION PHARMACEUTICALS, INC.  (RXRX)  (CIK 0001601830)",
+  "form": "10-K",
+  "date": "2026-02-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000039/rxrx-20251231.htm",
+  "codes": {
+   "REC-4881": {
+    "n": 5,
+    "window": "ed around three core pillars, underpinned by exceptional people and a culture grounded in rigor and curiosity. First: Translating Insights into Proof Points \u2014 and Ultimately into Medicines. In 2025, we achieved our first AI-enabled clinical proof of concept. In familial adenomatous polyposis (FAP), REC-4881 demonstrated that a novel, platform-derived biological insight \u2014 identifying MEK1/2 inhibition as a therapeutic entry point \u2014 can translate into meaningful clinical outcomes. For patients living with a progressive, lifelong disease with no approved pharmacotherapies, this represents tangible progre"
+   },
+   "REC-617": {
+    "n": 4,
+    "window": "ge cancers reliant on transcriptional pathways. This program utilized our generative AI and active learning platform to optimize molecule design, including non-covalent binding and improved ADME/PK for rapid absorption. This rapid design cycle enabled us to synthesize 136 novel compounds and select REC-617 as our lead candidate in under 11 months. A multicenter, open-label, Phase 1/2 dose escalation and dose expansion study (ELUCIDATE) is currently ongoing in advanced solid tumors. Initial results from 19 patients were presented at the 2024 AACR Special Conference in Cancer Research, with data from a"
+   },
+   "GTAEXS-617": {
+    "n": 1,
+    "window": " with advanced solid tumors, with the design shown in the figure below. Figure 19. ELUCIDATE study design. Phase 1/2 trial design to assess the safety, PK, exploratory PD, and efficacy of REC-617 in patients with advanced solid tumors. 11 Besnard, et al. (2022). AI-driven discovery and profiling of GTAEXS-617, a selective and highly potent inhibitor of CDK7 [abstract]. AACR; Cancer Res 2022;82(12_Supplement): 3930. 12 Hallett, et al. (2024). Overcoming traditional design limitations with AI-based discovery. AACR Special Conference in Cancer Research: Optimizing Therapeutic Efficacy and Tolerability thro"
+   },
+   "REC-3565": {
+    "n": 1,
+    "window": "t MALT1 inhibitor scaffolds significantly inhibit UGT1A1, leading to dose-limiting toxicities, potentially restricting their utility in combination. Leveraging our AI-driven, multi-parameter optimization approach, we focused on an allosteric mechanism to enhance potency, selectivity, and safety for REC-3565. Hotspot analyses and physics-based molecular dynamics guided our design strategy, helping us address the hydrophobic and highly mobile nature of the allosteric binding site. As a result, REC-3565 does not significantly inhibit UGT1A1, potentially mitigating liver toxicity risks and facilitating hi"
+   },
+   "REC-4539": {
+    "n": 1,
+    "window": "AI-driven, multi-parameter optimization approach, we generated and screened diverse chemical scaffolds for potency, selectivity, ADME properties, and CNS penetration. Active learning identified counterintuitive yet informative compounds, enabling a rapid design breakthrough. As a result, we created REC-4539 \u2013 a potent, selective, reversible, brain-penetrant, and potential best-in-class LSD1 inhibitor with a short predicted half-life and potential improved therapeutic index through better management of on-target toxicities such as reduced impact on platelets. We believe these key attributes provide com"
+   },
+   "AI 39": {
+    "n": 1,
+    "window": "s part of this agreement, we received an upfront cash payment of $100 million, with the potential to receive up to $5.2 billion in total aggregate milestone payments plus tiered royalties. Figure 32. Leveraging the Recursion OS with Sanofi to design small molecules against challenging targets using AI 39 Table of Contents Bayer In November 2023, we announced an amended and restated collaboration with Bayer. We are using the Recursion OS to identify and advance up to 7 therapeutic targets for challenging oncology indications with high unmet need. Under the terms of the agreement, Recursion is eligib"
+   }
+  }
+ },
+ "0002087716": {
+  "name": "ROKIT America, Inc.  (CIK 0002087716)",
+  "form": "S-1/A",
+  "date": "2026-06-04",
+  "url": "https://www.sec.gov/Archives/edgar/data/2087716/000147793226003627/rokit_s1a.htm",
+  "codes": {
+   "CAGR 16": {
+    "n": 2,
+    "window": "ks in the Americas while building independent training, clinical support, and distribution capabilities. \u00b7 According to industry reports, the global regenerative medicine market was valued at approximately USD $35\u201336 billion in 2024 and is projected to grow to approximately USD $90 billion by 2030, CAGR 16.8%. Other industry forecasts project the global regenerative medicine market could reach approximately $170 billion by 2034. North America represented approximately 59% of the global regenerative medicine market in 2024 and is expected to remain a leading market for regenerative medicine products a"
+   },
+   "GBD 2021": {
+    "n": 1,
+    "window": "atient outcomes. It embodies a paradigm shift from disease management to regenerative intervention, reinforcing ROKIT America's position among a number of companies seeking to advance next-generation medical innovation rather than establishing market leadership. _________________________________ 22 GBD 2021. (2023). Global burden of osteoarthritis, 2020 . Lancet Rheumatology , available at https://pubmed.ncbi.nlm.nih.gov/37675071/; GBD 2017. (2020). Global burden of chronic kidney disease, 2017 . The Lancet, available at https://pubmed.ncbi.nlm.nih.gov/32061315/; International Diabetes Federation (202"
+   },
+   "ARK-001": {
+    "n": 1,
+    "window": " RAP dietary bio-supplement products. ORP Facilities ROKIT Healthcare is the official designer, developer, and legal manufacturer of the following medical devices: Product Name Brand Name (Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For add"
+   },
+   "ARK-002": {
+    "n": 1,
+    "window": "ary bio-supplement products. ORP Facilities ROKIT Healthcare is the official designer, developer, and legal manufacturer of the following medical devices: Product Name Brand Name (Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For additional d"
+   },
+   "SK-001": {
+    "n": 1,
+    "window": "upplement products. ORP Facilities ROKIT Healthcare is the official designer, developer, and legal manufacturer of the following medical devices: Product Name Brand Name (Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For additional details r"
+   },
+   "SK-002": {
+    "n": 1,
+    "window": "t products. ORP Facilities ROKIT Healthcare is the official designer, developer, and legal manufacturer of the following medical devices: Product Name Brand Name (Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For additional details regarding"
+   },
+   "SK-003": {
+    "n": 1,
+    "window": "ts. ORP Facilities ROKIT Healthcare is the official designer, developer, and legal manufacturer of the following medical devices: Product Name Brand Name (Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For additional details regarding our exc"
+   },
+   "AIDR-001": {
+    "n": 1,
+    "window": "Trade name) Model Name Sterile Single-use Fat Separator (\u201cFat Separator\u201d) Dr. INVIVO AI Regen KIT (Aplicor 3D) ARK-001, ARK-002 (SK-001, SK-002, SK-003) 3D Printer, Liquid Dispenser Dr. INVIVO (Aplicor 3D) 4D2D100, 4D2D101 Medical Image, Picture Archiving and Communication System Software AiD Regen AIDR-001 We have an exclusive license with ROKIT Healthcare for the use these medical devices in the Americas. For additional details regarding our exclusive license, see the subsection titled \u201c Business \u2013 Our Material Agreements \u2013 Organ Regeneration Platform Agreements \u2013 License Agreement \u201d above. 115 Tabl"
+   }
+  }
+ },
+ "0001553846": {
+  "name": "RedHill Biopharma Ltd.  (RDHL)  (CIK 0001553846)",
+  "form": "20-F",
+  "date": "2026-04-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1553846/000110465926049055/rdhl-20251231x20f.htm",
+  "codes": {
+   "RHB-104": {
+    "n": 1,
+    "window": "uirements.\u201d Multiple Sclerosis (\u201cMS\u201d) MS is an inflammatory, demyelinating, and neurodegenerative disease of the central nervous system of uncertain etiology that exhibits characteristics of both infectious and autoimmune pathology. We had previously conducted a Phase 2a proof-of-concept study with RHB-104 for relapsing-remitting multiple sclerosis. At the current stage, we have no intention to pursue the development of RHB-104 for this indication. 89 Table of Contents RHB-102 (Bekinda \u00ae ) RHB-102 (Bekinda \u00ae ) is an investigational, once-daily, bi-modal release, oral formulation of ondansetron, a lea"
+   }
+  }
+ },
+ "0002141583": {
+  "name": "Rezera Inc.  (RZRA)  (CIK 0002141583)",
+  "form": "S-1/A",
+  "date": "2026-11-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926124074/tmq-20261109xs1a.htm",
+  "codes": {
+   "MCC950": {
+    "n": 4,
+    "window": "Furthermore, chronic inflammation associated with common conditions such as cardiovascular, metabolic and neurodegenerative diseases was associated with aberrant NLRP3 activation. \u200b Despite strong biological validation, NLRP3 remained undruggable for over a decade until 2015 with the publication of MCC950, a potent and selective small molecule inhibitor that directly targets NLRP3. MCC950 was not suitable for further drug development, as clinical development was discontinued due to safety findings, which left a significant opportunity to discover and develop improved NLRP3 inhibitors. From our found"
+   },
+   "DFV890": {
+    "n": 2,
+    "window": "angements for research, development, manufacturing and commercialization of new drugs. We are aware of several biotechnology companies developing oral small-molecule NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc"
+   },
+   "AZD-4144": {
+    "n": 2,
+    "window": "velopment, manufacturing and commercialization of new drugs. We are aware of several biotechnology companies developing oral small-molecule NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, "
+   },
+   "VTX2735": {
+    "n": 2,
+    "window": "cialization of new drugs. We are aware of several biotechnology companies developing oral small-molecule NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader i"
+   },
+   "VENT-02": {
+    "n": 2,
+    "window": "of several biotechnology companies developing oral small-molecule NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader is being developed by Monte Rosa Therape"
+   },
+   "BGE-102": {
+    "n": 1,
+    "window": "anies developing oral small-molecule NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader is being developed by Monte Rosa Therapeutics, Inc. (MRT-8102). Sever"
+   },
+   "TNV262": {
+    "n": 1,
+    "window": "NLRP3 inhibitors for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader is being developed by Monte Rosa Therapeutics, Inc. (MRT-8102). Several large pharmaceutical companies ha"
+   },
+   "BT-409": {
+    "n": 1,
+    "window": "for cardiovascular, metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader is being developed by Monte Rosa Therapeutics, Inc. (MRT-8102). Several large pharmaceutical companies have disclosed inve"
+   },
+   "ISM8969": {
+    "n": 1,
+    "window": " metabolic, inflammatory and neurodegenerative diseases, including but not limited to, Novartis, (DFV890), AstraZeneca PLC (AZD-4144), Eli Lilly (parunoflast, VTX2735), Roche (selnoflast), Ventus, (VENT-02), BioAge Labs, Inc. (BGE-102), Tenvie Therapeutics, Inc. (TNV262), Brenig (BT-409), InSilico (ISM8969), 33 TABLE OF CONTENTS \u200b \u200b Neumora Therapeutics, Inc. (NMRA-215) and Neurocrine Biosciences, Inc. (TT-02332). Additionally, a NIMA-related kinase 7 degrader is being developed by Monte Rosa Therapeutics, Inc. (MRT-8102). Several large pharmaceutical companies have disclosed investments in companies"
+   }
+  }
+ },
+ "0001121404": {
+  "name": "Sanofi  (SNY, SNYNF)  (CIK 0001121404)",
+  "form": "20-F",
+  "date": "2026-02-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1121404/000162828026008403/sny-20251231.htm",
+  "codes": {
+   "VG-3927": {
+    "n": 5,
+    "window": "to acquire Vigil Neuroscience, Inc. (Vigil) , a publicly traded clinical-stage biotechnology company focused on developing novel therapies for neurodegenerative diseases. This acquisition in neurology, one of Sanofi\u2019s four strategic disease areas, enhances Sanofi\u2019s early-stage pipeline and includes VG-3927, which will be evaluated in a phase 2 clinical study in Alzheimer\u2019s disease. VG-3927 is an oral small molecule TREM2 agonist. Activating TREM2 is expected to enhance the neuroprotective function of microglia in Alzheimer\u2019s disease. Under the terms of a share purchase agreement (including the exclus"
+   },
+   "ABL301": {
+    "n": 1,
+    "window": " license agreement and research collaboration to develop up to 15 novel small molecule candidates across oncology and immunology, leveraging Exscientia\u2019s end-to-end AI-driven platform utilizing actual patient samples; \u2022 ABL Bio (2022) : a licensing and collaboration agreement for the development of ABL301, a bispecific antibody intended as a treatment for alpha-synucleinopathies; \u2022 Adagene Inc., a company specializing in the discovery and development of antibody-based therapies (2022) : collaboration and exclusive license agreement; \u2022 Atomwise (2022) : a collaboration agreement that will leverage At"
+   }
+  }
+ },
+ "0001490978": {
+  "name": "Schrodinger, Inc.  (SDGR)  (CIK 0001490978)",
+  "form": "10-K",
+  "date": "2026-02-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097826000010/sdgr-20251231.htm",
+  "codes": {
+   "SGR-1505": {
+    "n": 1,
+    "window": "o lead optimization. Combining multi-parameter optimization, FEP+, and machine learning, we were able to prioritize tight-binding compounds with drug-like properties, and identified multiple novel and distinct chemical series which showed strong anti-tumor activity, ultimately enabling us to select SGR-1505 as our development candidate in under two years. In August 2023, the FDA granted orphan drug designation to SGR-1505 for the potential treatment of mantle cell lymphoma. In June 2025, the FDA granted fast track designation for SGR-1505 for the treatment of adult patients with Waldenstr\u00f6m macroglobu"
+   },
+   "SGR-6016": {
+    "n": 2,
+    "window": "e NLRP3 gene are associated with a broad spectrum of inflammatory, auto-immune and cardiometabolic diseases. We have identified structurally distinct, selective, NLRP3 inhibitors with anti-inflammatory activity in preclinical models, and we are continuing to optimize brain-penetrant lead molecules. SGR-6016 is our brain-penetrant NLRP3 inhibitor development candidate we are advancing for the treatment of neurodegenerative diseases. Besides SGR-6016, we are also separately advancing peripheral NLRP3 inhibitors for the treatment of inflammation and cardiometabolic diseases. We have identified a large nu"
+   }
+  }
+ },
+ "0001820190": {
+  "name": "Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)",
+  "form": "10-K",
+  "date": "2026-04-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526151455/sclx-20251231.htm",
+  "codes": {
+   "KDS2010": {
+    "n": 3,
+    "window": "ndesirable effects of immediate release naltrexone, such as hyperalgesia, dysphoria, nausea, anxiety and insomnia. In April 2025, Scilex Bio, Inc. (\u201cScilex Bio\u201d), our subsidiary, signed an agreement with NeuroBiogen Company (\u201cNBG\u201d) to grant Scilex Bio an exclusive worldwide license to the franchise KDS2010 drug candidate to develop and commercialize in metabolic diseases (including obesity and type 2 diabetes) and neurodegenerative diseases, including Alzheimer\u2019s, Parkinson\u2019s and other CNS diseases. The lead program in the proposed joint venture is an oral tablet product candidate that is currently i"
+   }
+  }
+ },
+ "0001854270": {
+  "name": "Senti Biosciences, Inc.  (SNTI)  (CIK 0001854270)",
+  "form": "10-K",
+  "date": "2026-03-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026021580/snti-20251231.htm",
+  "codes": {
+   "SENTI-202": {
+    "n": 8,
+    "window": "Acute Myeloid Leukemia (\u201cAML\u201d). Our pipeline also includes additional preclinical programs: (i) a solid tumor cell therapy program, (ii) our partnered programs related to cell therapies for regenerative medicines with BlueRock Therapeutics, Inc. (\u201cBlueRock Therapeutics\u201d). Our most advanced program, SENTI-202, originates from our internal pipeline of programs. Our Strategy Our goal is to maintain and build upon our leadership position in the cell and gene therapy landscape utilizing our proprietary gene circuit technology and synthetic biology expertise. We are pursuing this goal by leveraging our uniqu"
+   }
+  }
+ },
+ "0001680367": {
+  "name": "Shattuck Labs, Inc.  (STTK)  (CIK 0001680367)",
+  "form": "10-K",
+  "date": "2026-03-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1680367/000162828026014989/sttk-20251231.htm",
+  "codes": {
+   "SL-325": {
+    "n": 2,
+    "window": "4-day inter-dose interval (all dose groups), and for the 28-day interval for the animals in 5 the recovery group (100 mg/kg dose level). Following administration of SL-325, we observed no proliferation or activation of DR3 expressing CD4+ or Treg cells, confirming a lack of agonism of DR3. Figure 2\u2014SL-325 Receptor Occupancy in NHP Study PK data collected in the NHP study was used to generate a population PK model to predict SL-325 exposure in humans at different dose levels and dosing intervals. Data collected from our GLP NHP study suggest that 1 \u00b5g/mL trough concentrations are required to maintain"
+   }
+  }
+ },
+ "0001395064": {
+  "name": "TAKEDA PHARMACEUTICAL CO LTD  (TAK, TKPHF)  (CIK 0001395064)",
+  "form": "20-F",
+  "date": "2026-06-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+  "codes": {
+   "TAK-611": {
+    "n": 1,
+    "window": "chnology for the exogenous replacement of Arylsulfatase A enzyme with intrathecal (IT) administration directly into the central nervous system for the long-term treatment of patients with metachromatic leukodystrophy (MLD), a rapidly-progressive and ultimately fatal neuro-degenerative rare disease (TAK-611). Denali Therapeutics U.S. Strategic option and collaboration agreement to develop and commercialize up to three specified therapeutic product candidates for neurodegenerative diseases, incorporating Denali\u2019s transport vehicle (TV) platform for increased exposure of biotherapeutic products in the b"
+   },
+   "DNL593": {
+    "n": 1,
+    "window": " Strategic option and collaboration agreement to develop and commercialize up to three specified therapeutic product candidates for neurodegenerative diseases, incorporating Denali\u2019s transport vehicle (TV) platform for increased exposure of biotherapeutic products in the brain; options exercised on DNL593/TAK-594 and DNL919/TAK-920 in Q3 FY2021. DNL919/TAK-920 molecule was discontinued in Q2 FY2023, and the ATV:TREM2 collaboration program was terminated in February 2025 by mutual agreement between Takeda and Denali. In April 2026, Takeda informed Denali that it was terminating co-development of DNL5"
+   },
+   "TAK-594": {
+    "n": 1,
+    "window": "gic option and collaboration agreement to develop and commercialize up to three specified therapeutic product candidates for neurodegenerative diseases, incorporating Denali\u2019s transport vehicle (TV) platform for increased exposure of biotherapeutic products in the brain; options exercised on DNL593/TAK-594 and DNL919/TAK-920 in Q3 FY2021. DNL919/TAK-920 molecule was discontinued in Q2 FY2023, and the ATV:TREM2 collaboration program was terminated in February 2025 by mutual agreement between Takeda and Denali. In April 2026, Takeda informed Denali that it was terminating co-development of DNL593/TAK-5"
+   },
+   "DNL919": {
+    "n": 2,
+    "window": "nd collaboration agreement to develop and commercialize up to three specified therapeutic product candidates for neurodegenerative diseases, incorporating Denali\u2019s transport vehicle (TV) platform for increased exposure of biotherapeutic products in the brain; options exercised on DNL593/TAK-594 and DNL919/TAK-920 in Q3 FY2021. DNL919/TAK-920 molecule was discontinued in Q2 FY2023, and the ATV:TREM2 collaboration program was terminated in February 2025 by mutual agreement between Takeda and Denali. In April 2026, Takeda informed Denali that it was terminating co-development of DNL593/TAK-594 and the "
+   },
+   "TAK-920": {
+    "n": 2,
+    "window": "aboration agreement to develop and commercialize up to three specified therapeutic product candidates for neurodegenerative diseases, incorporating Denali\u2019s transport vehicle (TV) platform for increased exposure of biotherapeutic products in the brain; options exercised on DNL593/TAK-594 and DNL919/TAK-920 in Q3 FY2021. DNL919/TAK-920 molecule was discontinued in Q2 FY2023, and the ATV:TREM2 collaboration program was terminated in February 2025 by mutual agreement between Takeda and Denali. In April 2026, Takeda informed Denali that it was terminating co-development of DNL593/TAK-594 and the collabor"
+   }
+  }
+ },
+ "0001681087": {
+  "name": "Tectonic Therapeutic, Inc.  (TECX)  (CIK 0001681087)",
+  "form": "S-1",
+  "date": "2025-03-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312525064163/d863285ds1.htm",
+  "codes": {
+   "TX000045": {
+    "n": 2,
+    "window": " and 300 mg SC every 2 weeks which is predicted to provide a trough exposure of approximately 8.7 ug/ml with maximal pharmacodynamic effects throughout the dosing interval. There was no evidence of immunogenicity or anti-drug antibodies in this trial. Part A of the Acute Hemodynamic Phase 1b Trial (TX000045-002A) TX000045-002 is an open-label, single dose trial in patients with PH associated with heart failure designed to evaluate the safety, tolerability and acute hemodynamic effects of TX45 as assessed by right heart catheterization. Part A of this trial enrolled 19 patients with PH-HFpEF, including"
+   }
+  }
+ },
+ "0001858848": {
+  "name": "Tenaya Therapeutics, Inc.  (TNYA)  (CIK 0001858848)",
+  "form": "10-K",
+  "date": "2026-03-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/1858848/000119312526102252/tnya-20251231.htm",
+  "codes": {
+   "TN-401": {
+    "n": 4,
+    "window": "during the post-dose follow-up period. We expect to present one-year Cohort 1 data and initial Cohort 2 data in the first half of 2026, with interim Cohort 2 results anticipated in the second half of the year. We also intend to pursue alignment with regulatory authorities on pivotal trial plans for TN-401. In February 2025, we were awarded a Clinical Grant (Clin2) of $8.0 million from the California Institute for Regenerative Medicine (CIRM), a state of California Agency that funds regenerative medicine, stem cell, and gene therapy research. Proceeds from the grant will help fund clinical trial cost"
+   }
+  }
+ },
+ "0001860871": {
+  "name": "Tevogen Bio Holdings Inc.  (TVGN, TVGNW)  (CIK 0001860871)",
+  "form": "10-K",
+  "date": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1860871/000149315226014326/form10-k.htm",
+  "codes": {
+   "TVGN 489": {
+    "n": 6,
+    "window": " is lengthy and time-consuming. \u25cf We may never receive regenerative medicine advanced therapy designation for any product candidate, and this designation may not lead to a faster development or regulatory review or approval process. \u25cf Our business is highly dependent on our first product candidate, TVGN 489. \u25cf Results from our clinical trials may change and are subject to audit, validation, and verification procedures. \u25cf Initial results and results of earlier trials may not be predictive of future results. \u25cf Our TVGN 489 proof-of-concept clinical trial results may be less reliable than results in larg"
+   }
+  }
+ },
+ "0001723069": {
+  "name": "Tiziana Life Sciences Ltd  (TLSA)  (CIK 0001723069)",
+  "form": "20-F",
+  "date": "2026-05-01",
+  "url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026051015/ea0287936-20f_tiziana.htm",
+  "codes": {
+   "TZLS-501": {
+    "n": 1,
+    "window": " Brigham, with enrollment underway at multiple sites within the NEALS Consortium. The following programs have been deprioritised to focus Tiziana\u2019s clinical development efforts on intranasal foralumab for treatment of SPMS and other neurodegenerative disease. \u25cf Development of our product candidate, TZLS-501, a fully human mAb targeting the IL-6 receptor (a biological mAb which may control the proteins involved in cell signaling relevant to many inflammatory diseases and cancers), for treatment of inflammatory and oncology indications especially SSc-ILD. Additional cGMP manufacturing and IND-enabling G"
+   },
+   "TZLS-401": {
+    "n": 1,
+    "window": "1, 2021. The address of its registered office is given on page 1. The principal activities of the Company and its subsidiaries (the Group) are to design and deliver next generation immunotherapies for neurodegenerative and neuroinflammatory diseases. Our lead immunotherapeutic candidate, Foralumab (TZLS-401), is being developed for Non-Active Secondary Progressive Multiple Sclerosis, Alzheimer\u2019s and other CNS indications. Foralumab is the only fully human anti-CD3 monoclonal antibody under clinical development and is expected to minimize adverse immune responses in patients. Tiziana has submitted a pa"
+   }
+  }
+ },
+ "0002022626": {
+  "name": "Upstream Bio, Inc.  (CIK 0002022626)",
+  "form": "S-1/A",
+  "date": "2024-10-07",
+  "url": "https://www.sec.gov/Archives/edgar/data/2022626/000119312524233296/d843142ds1a.htm",
+  "codes": {
+   "IC 50": {
+    "n": 1,
+    "window": "studies conducted by Astellas, which were not designed to support formal statistical comparisons, verekitug was able to efficiently bind and inhibit the TSLP receptor. Verekitug inhibited the interaction between TSLP and TSLP receptor in a dose-dependent manner with a 50% inhibitory concentration (\u201cIC 50 \u201d) of 208 ng/mL and a 90% inhibitory concentration (IC 90 ) of 462 ng/mL. Verekitug also inhibited TSLP-induced proliferation of Ba/F3 cells (IC 50 = 90.7 ng/mL, IC 90 = 200 ng/mL). Studies also showed that verekitug inhibited TSLP-induced production of CCL-17 in a human cell line in a dose depende"
+   },
+   "EC 50": {
+    "n": 1,
+    "window": "rized in Figure 17 below, provides clinical proof-of-concept that verekitug has high potency in asthma patients. In particular, the potency of verekitug as assessed by suppression of FeNO is substantially greater than that reported for tezepelumab. Indeed, the half-maximal effective concentration (\u201cEC 50 \u201d) of verekitug, 0.008 \u00b5g/ml is 300-fold lower than that of tezepelumab, an anti-TSLP ligand antibody approved for use in severe asthma. 148 Table of Contents a No head-to-head clinical studies have been conducted. Differences exist between modeled data and trial design, and caution should be exerc"
+   },
+   "NY 10022": {
+    "n": 1,
+    "window": "hom disclaims beneficial ownership of the shares held by OPI VIII. Mr. Chimovits is an employee of OrbiMed and a member of our board of directors. The address for each of the entities and individuals identified in this footnote is c/o OrbiMed Advisors LLC, 601 Lexington Avenue 54th Floor, New York, NY 10022. 211 Table of Contents (2) Consists of (i) 3,147,000 shares of common stock issuable upon conversion of Series A preferred stock held by AI Upstream LLC (\u201cAIU\u201d) and (ii) 1,172,410 shares of common stock issuable upon conversion of Series B preferred stock held by AIU. The shares held by AIU may be "
+   }
+  }
+ },
+ "0001851194": {
+  "name": "Ventyx Biosciences, Inc.  (VTYX)  (CIK 0001851194)",
+  "form": "10-K",
+  "date": "2025-02-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1851194/000095017025029245/vtyx-20241231.htm",
+  "codes": {
+   "VTX2735": {
+    "n": 1,
+    "window": "2735 for further development in cardiovascular diseases, with an initial focus on recurrent pericarditis. We initiated a 2 Phase 2 trial of VTX2735 in participants with recurrent pericarditis in January 2025. Topline results from this trial are anticipated in the second half of 2025. In addition to VTX2735, we are developing VTX3232, a CNS-penetrant NLRP3 inhibitor, which we believe has potential therapeutic utility for the treatment of neurodegenerative diseases, such as Parkinson\u2019s disease, Alzheimer\u2019s disease, amyotrophic lateral sclerosis and multiple sclerosis, as well as cardiometabolic disease"
+   },
+   "VTX3232": {
+    "n": 4,
+    "window": "t in cardiovascular diseases, with an initial focus on recurrent pericarditis. We initiated a 2 Phase 2 trial of VTX2735 in participants with recurrent pericarditis in January 2025. Topline results from this trial are anticipated in the second half of 2025. In addition to VTX2735, we are developing VTX3232, a CNS-penetrant NLRP3 inhibitor, which we believe has potential therapeutic utility for the treatment of neurodegenerative diseases, such as Parkinson\u2019s disease, Alzheimer\u2019s disease, amyotrophic lateral sclerosis and multiple sclerosis, as well as cardiometabolic disease in which central nervous s"
+   }
+  }
+ },
+ "0001827635": {
+  "name": "Veradermics, Inc  (MANE)  (CIK 0001827635)",
+  "form": "10-K",
+  "date": "2026-03-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000013/mane-20251231.htm",
+  "codes": {
+   "VDPHL01": {
+    "n": 7,
+    "window": " hair loss. Our Solution for PHL: VDPHL01 VDPHL01\u2019s key innovation is its release profile, which is designed to maximize the total amount of drug that can be delivered to follicles over a 12- or 24-hour period without inciting spikes in Cmax of minoxidil known to induce changes in cardiac activity. VDPHL01 aims to provide long lasting concentrations of minoxidil above the drug\u2019s \u2018hair growth threshold\u2019 (i.e., 1.62 ng/mL, the minimally effective concentration needed to grow hair) while maintaining peak concentrations well below the drug\u2019s \u2018cardiac activity threshold\u2019 (i.e., about 20 ng/mL, the thresho"
+   },
+   "QSC300720": {
+    "n": 1,
+    "window": "ax that exceeded the reported threshold for cardiac effects, which are seen at concentrations exceeding 20 ng/mL, whereas 13.3% of patients dosed with 2.5 mg IR oral minoxidil achieved a Cmax greater than 20 ng/mL. Additional details related to this PK study are outlined below in \u201c\u2014 Completed Study QSC300720: A Phase 1, Single-Part, Open-Label, Six Period Sequential Crossover Study Designed to Evaluate the Pharmacokinetic Profile of VDPHL01 in Male and Female Subjects.\u201d In our second PK study, a Phase 1 clinical trial in healthy male patients, we assessed the potential for twice daily dosing to further"
+   }
+  }
+ },
+ "0002145089": {
+  "name": "WINDWARD BIO GROUP AG  (CIK 0002145089)",
+  "form": "F-1/A",
+  "date": "2026-11-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/2145089/000119312526452536/d111653df1a.htm",
+  "codes": {
+   "WIN027": {
+    "n": 1,
+    "window": "lumab, FcRn neonatal Fc receptor WIN027 showed greater potency than the combination of lebrikizumab and tezepelumab in blocking TARC release based on a nonclinical head-to-head study of TARC release. The YTE-engineered half-life supports infrequent, adherence-friendly dosing. In cynomolgus monkeys, WIN027 showed linear, dose-proportional PK with low clearance (2.5\u20134.1 mL/day/kg), high subcutaneous (SC) bioavailability predicting the extended human half-life of 55 to 60 days. This supports an every-12-week (or less frequent) maintenance regimen; an additional potential advantage over biologics dosed "
+   }
+  }
+ },
+ "0001631574": {
+  "name": "Wave Life Sciences Ltd.  (WVE)  (CIK 0001631574)",
+  "form": "10-K",
+  "date": "2026-02-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1631574/000119312526073472/wve-20251231.htm",
+  "codes": {
+   "FORWARD-53": {
+    "n": 1,
+    "window": "ell-tolerated with no SAEs observed. All participants in FORWARD-53 elected to advance to the extension portion of the clinical trial, which is currently ongoing with boys receiving monthly doses of WVE-N531. To augment monthly data and ensure a monthly regimen at a potential launch, we 12 expanded FORWARD-53 to include additional boys on a monthly dosing regimen. We plan to file a New Drug Application in 2026 to support accelerated approval of WVE-N531 with monthly dosing. Huntington\u2019s disease (\u201cHD\u201d) Background and Market Opportunity HD is a rare hereditary neurodegenerative disease that results in ear"
+   }
+  }
+ },
+ "0001420720": {
+  "name": "iBio, Inc.  (IBIO)  (CIK 0001420720)",
+  "form": "10-K",
+  "date": "2026-08-28",
+  "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072026000020/ibio-20260731x10k.htm",
+  "codes": {
+   "IBIO-600": {
+    "n": 6,
+    "window": "etitive and fast-evolving field. Obesity is associated with a broad range of cardiometabolic and cardiopulmonary complications, therefore, we are also evaluating selected adjacent indications where our AI Drug Discovery Platform and target biology may offer differentiated therapeutic opportunities. IBIO-600 is currently in clinical development, while our other product candidates are in preclinical development. We have not completed any clinical trials in humans for any therapeutic protein product candidate produced using our technology, and there is a risk that we will be unsuccessful in developing or"
+   },
+   "IBIO-610": {
+    "n": 4,
+    "window": "any and represented the first molecule generated using our AI Drug Discovery Platform to advance into clinical development. To date, we have enrolled 31 participants in the first four cohorts of the Phase 1 clinical trial of IBIO-600 in Australia. In parallel, we have accelerated the development of IBIO-610, a potentially first-in-class, long-acting antibody designed to inhibit Activin E, and anticipate commencing first-in-human clinical trials in the first half of calendar year 2027. We are also advancing additional preclinical programs, including IBIO-800, a myostatin \u00d7 Activin A bispecific antibody"
+   },
+   "IBIO-800": {
+    "n": 8,
+    "window": "llel, we have accelerated the development of IBIO-610, a potentially first-in-class, long-acting antibody designed to inhibit Activin E, and anticipate commencing first-in-human clinical trials in the first half of calendar year 2027. We are also advancing additional preclinical programs, including IBIO-800, a myostatin \u00d7 Activin A bispecific antibody being evaluated for potential use in PH-HFpEF. Our discovery and development work is conducted at our San Diego research and development (\u201cR&D\u201d) laboratory space, where our AI and ML scientists and biopharma researchers operate side by side. This close i"
+   },
+   "GDF11": {
+    "n": 2,
+    "window": "f IBIO-610 toward clinical development and we anticipate commencing first-in-human clinical trials in the first half of calendar year 2027. \u200b IBIO-800: Myostatin x Activin A Bispecific Antibody \u200b We are developing a bispecific antibody program targeting myostatin, growth differentiation factor 11 (\u201cGDF11\u201d) and Activin A, that we now refer to as IBIO-800. We are evaluating IBIO-800 for potential use in obesity and cardiopulmonary disease, including PH-HFpEF. Leveraging our innovative AI Drug Discovery Platform, IBIO-800 is in late discovery, where multiple parameters, including potency, selectivity,"
+   },
+   "RTX-003": {
+    "n": 3,
+    "window": "e worldwide sublicensable royalty-bearing license under the patents controlled by RubrYc that cover the RTX-003 antibodies. The RTX-003 License Agreement was terminated when we acquired substantially all of the assets of RubrYc in September 2022, including RubrYc\u2019s immune-oncology antibodies in its RTX-003 campaign. Collaboration, Option and License Agreement: iBio entered into a collaboration agreement (the \u201cCollaboration Agreement\u201d) with RubrYc to collaborate for up to five years to discover and develop novel antibody therapeutics using RubrYc\u2019s artificial intelligence discovery platform. In additi"
+   },
+   "IBIO-101": {
+    "n": 4,
+    "window": "uthorized number of directors at five members, one of which we have the contractual right to elect subject to the conditions set forth above. \u200b Asset Purchase Agreement: On September 19, 2022, we purchased substantially all of the assets of RubrYc, including the AI Drug Discovery Platform, RTX-003 (IBIO-101), all Selected Compounds, three additional immune-oncology candidates, a PD-1 agonist, in addition to laboratory and technology equipment pursuant to an asset purchase agreement, dated September 16, 2022 (the \u201cAsset Purchase Agreement\u201d). On September 19, 2022, in connection with the closing of the "
+   },
+   "MUC16": {
+    "n": 1,
+    "window": "gy in the U.S. and abroad. The technology and products covered by our issued and pending patent applications are summarized below: Product Patent Applications, Technology, and Know-How (U.S. and International) \u25cf Antibodies \u25cf Antibodies against CCR8 \u25cf Antibodies against EGFRvIII \u25cf Antibodies against MUC16 \u25cf Antibodies against TROP2 \u25cf Antibodies against CD3 \u25cf High-efficiency, conditionally-activated antibodies Pending Technology Patent Applications and Know-How (U.S. and International) \u25cf Antigen scaffold technology \u25cf Machine learning apparatus for engineering meso-scale peptides \u25cf Methods of making c"
+   }
+  }
+ }
+}
