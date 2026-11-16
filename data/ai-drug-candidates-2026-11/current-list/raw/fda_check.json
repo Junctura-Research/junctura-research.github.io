@@ -1,0 +1,37 @@
+{
+ "retrieved": "2026-11-16",
+ "api": "https://api.fda.gov/drug/drugsfda.json",
+ "results": {
+  "rentosertib": {
+   "http": 404,
+   "n": 0,
+   "applications": []
+  },
+  "bexobrutideg": {
+   "http": 404,
+   "n": 0,
+   "applications": []
+  },
+  "rilvegostomig": {
+   "http": 404,
+   "n": 0,
+   "applications": []
+  },
+  "GB-0895": {
+   "http": 404,
+   "n": 0,
+   "applications": []
+  },
+  "dexmedetomidine": {
+   "http": 200,
+   "n": 36,
+   "applications": [
+    "ANDA208129",
+    "ANDA212571",
+    "ANDA216604",
+    "ANDA208103",
+    "NDA215390"
+   ]
+  }
+ }
+}

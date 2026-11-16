@@ -1,0 +1,2892 @@
+{
+ "retrieved": "2026-11-16",
+ "api": "https://clinicaltrials.gov/api/v2/studies",
+ "candidates": {
+  "REC-617 (GTAEXS617)": {
+   "terms": [
+    "REC-617",
+    "GTAEXS617",
+    "GTAEXS-617"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07633756",
+     "title": "A Phase 1b, Open-Label Study Of REC-617, A Selective CDK7 Inhibitor, In Patients With Metastatic Or Unresectable RB1-Negative Leiomyosarcoma After Prior Systemic Therapy",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10-19",
+     "last_update": "2026-07-31",
+     "sponsor": "M.D. Anderson Cancer Center",
+     "interventions": [
+      "REC617"
+     ]
+    },
+    {
+     "nct": "NCT05985655",
+     "title": "Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-06",
+     "last_update": "2026-08-13",
+     "sponsor": "Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",
+     "interventions": [
+      "GTAEXS617",
+      "SoC"
+     ]
+    }
+   ]
+  },
+  "REC-3565": {
+   "terms": [
+    "REC-3565"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "statuses": [],
+   "trials": []
+  },
+  "REC-4539 (EXS74539)": {
+   "terms": [
+    "REC-4539",
+    "EXS74539"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07517198",
+     "title": "Dose Determining Study of EXS74539 (REC-4539) in Participants With Select Solid Tumors",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-04-13",
+     "last_update": "2026-06-10",
+     "sponsor": "Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",
+     "interventions": [
+      "EXS74539"
+     ]
+    }
+   ]
+  },
+  "REC-1245": {
+   "terms": [
+    "REC-1245"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06678659",
+     "title": "A Study of REC-1245 in Participants With Unresectable, Locally Advanced, or Metastatic Cancer",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-11-21",
+     "last_update": "2026-08-20",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-1245"
+     ]
+    }
+   ]
+  },
+  "REC-4881": {
+   "terms": [
+    "REC-4881"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING",
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06005974",
+     "title": "A Study of REC-4881 in Participants With Cancers Which Have an AXIN1 or APC Mutation",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns.",
+     "start": "2024-01-15",
+     "last_update": "2026-02-23",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-4881"
+     ]
+    },
+    {
+     "nct": "NCT05552755",
+     "title": "Evaluate REC-4881 in Participants With Familial Adenomatous Polyposis (FAP)",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-10",
+     "last_update": "2026-06-05",
+     "sponsor": "Recursion Pharmaceuticals Inc.",
+     "interventions": [
+      "REC-4881",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "EXS4318": {
+   "terms": [
+    "EXS4318",
+    "EXS-4318"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "statuses": [],
+   "trials": []
+  },
+  "DSP-0038": {
+   "terms": [
+    "DSP-0038"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "statuses": [],
+   "trials": []
+  },
+  "SGR-1505": {
+   "terms": [
+    "SGR-1505"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05544019",
+     "title": "Study of SGR-1505 in Mature B-Cell Neoplasms",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-04-10",
+     "last_update": "2026-02-13",
+     "sponsor": "Schr\u00f6dinger, Inc.",
+     "interventions": [
+      "SGR-1505"
+     ]
+    }
+   ]
+  },
+  "SGR-2921": {
+   "terms": [
+    "SGR-2921"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05961839",
+     "title": "Study of SGR-2921 in Relapsed/Refractory Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Company decision",
+     "start": "2023-09-27",
+     "last_update": "2025-09-22",
+     "sponsor": "Schr\u00f6dinger, Inc.",
+     "interventions": [
+      "SGR-2921"
+     ]
+    }
+   ]
+  },
+  "SGR-3515": {
+   "terms": [
+    "SGR-3515"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06463340",
+     "title": "Study of SGR-3515 In Participants With Advanced Solid Tumors.",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-06-18",
+     "last_update": "2025-08-01",
+     "sponsor": "Schr\u00f6dinger, Inc.",
+     "interventions": [
+      "SGR-3515"
+     ]
+    }
+   ]
+  },
+  "IAM1363": {
+   "terms": [
+    "IAM1363"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06253871",
+     "title": "A Phase 1/1b Study of IAM1363 in HER2 Cancers",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-03-25",
+     "last_update": "2026-09-09",
+     "sponsor": "Iambic Therapeutics, Inc",
+     "interventions": [
+      "IAM1363"
+     ]
+    }
+   ]
+  },
+  "GB-0895": {
+   "terms": [
+    "GB-0895"
+   ],
+   "n_trials": 3,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07359846",
+     "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-2)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-01-20",
+     "last_update": "2026-11-03",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07276724",
+     "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-03",
+     "last_update": "2026-11-13",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07116889",
+     "title": "A Study to Investigate GB-0895 in Adults With Mild to Moderate Asthma or COPD",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2023-12-12",
+     "last_update": "2025-11-05",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-0895 (SC)",
+      "GB-0895 (SC)",
+      "Placebo (SC)",
+      "Placebo (SC)"
+     ]
+    }
+   ]
+  },
+  "GB-4362": {
+   "terms": [
+    "GB-4362"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07484022",
+     "title": "Study of GB-4362 With Enfortumab Vedotin and Pembrolizumab for Advanced Urothelial Cancer",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-06-08",
+     "last_update": "2026-10-13",
+     "sponsor": "Generate Biomedicines",
+     "interventions": [
+      "GB-4362",
+      "enfortumab vedotin (EV)",
+      "Pembrolizumab"
+     ]
+    }
+   ]
+  },
+  "GB-5267": {
+   "terms": [
+    "GB-5267"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07489287",
+     "title": "GB-5267 for the Treatment Platinum-Resistant Ovarian, Peritoneal, or Fallopian Tube Cancer",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-08-18",
+     "last_update": "2026-10-22",
+     "sponsor": "Roswell Park Cancer Institute",
+     "interventions": [
+      "GB-5267 - IV only",
+      "GB-5267 -Combined IV and IP Infusion"
+     ]
+    }
+   ]
+  },
+  "ABS-101": {
+   "terms": [
+    "ABS-101"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "statuses": [],
+   "trials": []
+  },
+  "ABS-201": {
+   "terms": [
+    "ABS-201"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07317544",
+     "title": "Study of ABS-201 Evaluating Single and Multiple Ascending Doses in Adults With and Without Androgenetic Alopecia",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-03",
+     "last_update": "2026-10-28",
+     "sponsor": "Absci Pty Ltd.",
+     "interventions": [
+      "SAD IV Dose 1 - 150mg ABS201 IV Single Dose",
+      "Placebo IV",
+      "ABS-201 SC Multiple Doses",
+      "Placebo SC Injection"
+     ]
+    }
+   ]
+  },
+  "EVX-01": {
+   "terms": [
+    "EVX-01"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05309421",
+     "title": "A Single Arm Trial Evaluating the Efficacy and Safety of EVX-01 in Combination With Pembrolizumab in Adults With Unresectable or Metastatic Melanoma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-09-19",
+     "last_update": "2026-11-04",
+     "sponsor": "Evaxion Biotech A/S",
+     "interventions": [
+      "EVX-01",
+      "Pembrolizumab 25 MG/ML"
+     ]
+    }
+   ]
+  },
+  "bexobrutideg (NX-5948)": {
+   "terms": [
+    "NX-5948",
+    "bexobrutideg"
+   ],
+   "n_trials": 6,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06691828",
+     "title": "Absolute Bioavailability, Absorption, Metabolism, Excretion, and Mass Balance Study of [14C] NX-5948",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-11-01",
+     "last_update": "2025-03-12",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT06717269",
+     "title": "A Single and Multiple Ascending Doses, Relative Bioavailability, Food Effect, and Drug-Drug Interaction Study of NX-5948 in Healthy Volunteers",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-11-30",
+     "last_update": "2026-07-28",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "Esomeprazole",
+      "Placebo",
+      "Famotidine",
+      "Midazolam",
+      "Digoxin",
+      "Rosuvastatin",
+      "Quinidine",
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT05131022",
+     "title": "A Study of NX-5948 in Adults With Relapsed/Refractory B-cell Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2022-04-13",
+     "last_update": "2026-07-02",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT07520006",
+     "title": "Study of NX-5948 in Combination With Other Agents in Adults With B-cell Malignancies",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-09-30",
+     "last_update": "2026-11-03",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "venetoclax",
+      "rituximab",
+      "obinutuzumab"
+     ]
+    },
+    {
+     "nct": "NCT07221500",
+     "title": "A Study of NX-5948 in Adults With CLL/SLL Previously Treated With a Bruton's Tyrosine Kinase Inhibitor and a B-cell Lymphoma-2 Inhibitor (DAYBreak CLL-201)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-10-15",
+     "last_update": "2026-11-03",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948"
+     ]
+    },
+    {
+     "nct": "NCT07516093",
+     "title": "Study of NX-5948 Versus Pirtobrutinib in R/R CLL/SLL",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-08-03",
+     "last_update": "2026-08-31",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-5948",
+      "Pirtobrutinib"
+     ]
+    }
+   ]
+  },
+  "zelebrudomide (NX-2127)": {
+   "terms": [
+    "NX-2127",
+    "zelebrudomide"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04830137",
+     "title": "A Study of NX-2127 in Adults With Relapsed/Refractory B-cell Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-05-05",
+     "last_update": "2026-03-20",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-2127"
+     ]
+    }
+   ]
+  },
+  "NX-1607": {
+   "terms": [
+    "NX-1607"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05107674",
+     "title": "A Study of NX-1607 in Adults With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-09-29",
+     "last_update": "2025-09-09",
+     "sponsor": "Nurix Therapeutics, Inc.",
+     "interventions": [
+      "NX-1607",
+      "Paclitaxel"
+     ]
+    }
+   ]
+  },
+  "COM701": {
+   "terms": [
+    "COM701"
+   ],
+   "n_trials": 4,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06888921",
+     "title": "A Clinical Trial to Evaluate the Safety and Efficacy of COM701 in Relapsed Platinum Sensitive Ovarian Cancer",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2025-07-21",
+     "last_update": "2026-10-06",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701",
+      "Normal Saline"
+     ]
+    },
+    {
+     "nct": "NCT04354246",
+     "title": "COM902 (A TIGIT Inhibitor) in Subjects With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-03-31",
+     "last_update": "2026-08-12",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "Dose escalation: COM902 monotherapy.",
+      "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)",
+      "Cohort expansion: COM902 (RDFE) monotherapy.",
+      "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+      "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab."
+     ]
+    },
+    {
+     "nct": "NCT03667716",
+     "title": "COM701 (an Inhibitor of PVRIG) in Subjects With Advanced Solid Tumors.",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2018-09-06",
+     "last_update": "2025-01-17",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701",
+      "COM701 with Opdivo (Nivolumab)."
+     ]
+    },
+    {
+     "nct": "NCT04570839",
+     "title": "COM701 in Combination With BMS-986207 and Nivolumab in Subjects With Advanced Solid Tumors.",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-08-31",
+     "last_update": "2024-07-18",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM701 in combination with BMS-986207 and nivolumab."
+     ]
+    }
+   ]
+  },
+  "COM902": {
+   "terms": [
+    "COM902"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT04354246",
+     "title": "COM902 (A TIGIT Inhibitor) in Subjects With Advanced Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-03-31",
+     "last_update": "2026-08-12",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "Dose escalation: COM902 monotherapy.",
+      "Evaluation of safety/tolerability: COM902 in combination with COM701 (both at the RDFE)",
+      "Cohort expansion: COM902 (RDFE) monotherapy.",
+      "Cohort expansion: COM902 in combination with COM701 (both at the RDFE).",
+      "Cohort expansion: Triplet combination of COM902 + COM701 + Pembrolizumab."
+     ]
+    }
+   ]
+  },
+  "rilvegostomig": {
+   "terms": [
+    "rilvegostomig",
+    "AZD2936"
+   ],
+   "n_trials": 38,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED",
+    "NOT_YET_RECRUITING",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07128290",
+     "title": "PErioperative CISGEM + Rilvegostomig in High-Risk Resectable Intra Hepatic CholangioCarcinoma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2025-10-30",
+     "last_update": "2025-08-17",
+     "sponsor": "Federation Francophone de Cancerologie Digestive",
+     "interventions": [
+      "CISGEM + Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT04379596",
+     "title": "Ph1b/2 Study of the Safety and Efficacy of T-DXd Combinations in Advanced HER2-expressing Gastric Cancer (DESTINY-Gastric03)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2020-06-03",
+     "last_update": "2026-08-28",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Fluorouracil (5-FU)",
+      "Capecitabine",
+      "Durvalumab",
+      "Oxaliplatin",
+      "Trastuzumab",
+      "Trastuzumab deruxtecan",
+      "Cisplatin",
+      "Pembrolizumab",
+      "Volrustomig",
+      "Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT06996782",
+     "title": "A Platform Study in Non-Small Cell Lung Cancer (NSCLC)",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-11-24",
+     "last_update": "2026-10-28",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Cisplatin",
+      "Carboplatin",
+      "Pemetrexed",
+      "Paclitaxel",
+      "Nab-paclitaxel",
+      "Ramucirumab"
+     ]
+    },
+    {
+     "nct": "NCT06366451",
+     "title": "PBI-MST-01 (NCT04541108) Substudy AZN-05: Intratumoral Microdosing of Rilvegostomig, Volrustomig, Sabestomig, and AZD9592 in HNSCC",
+     "phases": [
+      "EARLY_PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-05-22",
+     "last_update": "2026-06-26",
+     "sponsor": "Presage Biosciences",
+     "interventions": [
+      "Rilvegostomig",
+      "Volrustomig",
+      "Sabestomig",
+      "AZD9592",
+      "Pembrolizumab",
+      "AZD9592 + Rilvegostomig",
+      "AZD9592 + Volrustomig",
+      "AZD9592 + Sabestomig",
+      "AZD9592 + Pembrolizumab"
+     ]
+    },
+    {
+     "nct": "NCT06630130",
+     "title": "Perioperative Therapies in Locally Advanced Unresectable Gastric Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-01-22",
+     "last_update": "2026-07-01",
+     "sponsor": "Jeeyun Lee",
+     "interventions": [
+      "Trastuzumab deruxtecan",
+      "Capecitabine",
+      "Rilvegostomig",
+      "Durvalumab",
+      "Sonesitatug Vedotin",
+      "Oxaliplatin"
+     ]
+    },
+    {
+     "nct": "NCT07098338",
+     "title": "A Study of Novel Combinations in Non-Small Cell Lung Cancer (NSCLC)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-08-07",
+     "last_update": "2026-10-15",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Ramucirumab",
+      "Dato-DXd"
+     ]
+    },
+    {
+     "nct": "NCT06764875",
+     "title": "A Phase \u2162 Study of Rilvegostomig in Combination With Fluoropyrimidine and Trastuzumab Deruxtecan as the First-line Treatment for HER2-positive Gastric Cancer",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-03-01",
+     "last_update": "2026-10-16",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Trastuzumab deruxtecan",
+      "Trastuzumab",
+      "Pembrolizumab",
+      "5-fluorouracil",
+      "Capecitabine",
+      "Cisplatin",
+      "Oxaliplatin"
+     ]
+    },
+    {
+     "nct": "NCT05061550",
+     "title": "Neoadjuvant and Adjuvant Treatment in Resectable Non-small Cell Lung Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2022-04-14",
+     "last_update": "2026-10-21",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Durvalumab",
+      "Oleclumab",
+      "Monalizumab",
+      "Dato-DXd",
+      "AZD0171",
+      "Carboplatin",
+      "Cisplatin",
+      "Pemetrexed/Cisplatin",
+      "Pemetrexed/Carboplatin",
+      "Carboplatin/Paclitaxel",
+      "Volrustomig",
+      "Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT07720284",
+     "title": "An Open-label Study to Investigate the Efficacy and Safety of Dato-DXd + Rilvegostomig vs SoC in Adult Participants With High-risk MIUC",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-07-16",
+     "last_update": "2026-07-22",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Dato-DXd",
+      "Rilvegostomig",
+      "Durvalumab",
+      "Nivolumab",
+      "Pembrolizumab",
+      "Enfortumab vedotin"
+     ]
+    },
+    {
+     "nct": "NCT05775159",
+     "title": "Study of Novel Immunomodulators as Monotherapy and in Combination With Anticancer Agents in Participants With Advanced Hepatobiliary Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2023-04-24",
+     "last_update": "2026-08-24",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Volrustomig",
+      "Bevacizumab",
+      "Lenvatinib",
+      "Rilvegostomig",
+      "Gemcitabine",
+      "Cisplatin"
+     ]
+    },
+    {
+     "nct": "NCT04686305",
+     "title": "Phase Ib Study of the Safety of T-DXd and Immunotherapy Agents With and Without Chemotherapy in Advanced or Metastatic HER2+, Non-squamous NSCLC",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-03-09",
+     "last_update": "2026-04-13",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "T-DXd",
+      "Durvalumab",
+      "Cisplatin",
+      "Carboplatin",
+      "Pemetrexed",
+      "Volrustomig",
+      "Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT07221253",
+     "title": "A Study of Rilvegostomig or Durvalumab Plus Chemotherapy for First-Line Treatment of Biliary Tract Cancer (ARTEMIDE-Biliary02)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-04",
+     "last_update": "2026-09-28",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Durvalumab",
+      "Gemcitabine/Cisplatin"
+     ]
+    },
+    {
+     "nct": "NCT06357533",
+     "title": "Phase III, Open-label, Study of First-line Dato-DXd in Combination With Rilvegostomig for Advanced Non-squamous NSCLC With High PD-L1 Expression (TC \u2265 50%) and Without Actionable Genomic Alterations",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-04-11",
+     "last_update": "2026-10-28",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Datopotamab Deruxtecan",
+      "Rilvegostomig",
+      "Pembrolizumab"
+     ]
+    },
+    {
+     "nct": "NCT06692738",
+     "title": "A Global Phase III Study of Rilvegostomig or Pembrolizumab Plus Chemotherapy for First-Line Treatment of Locally Advanced or Metastatic Squamous Non-small Cell Lung Cancer (NSCLC)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-11-18",
+     "last_update": "2026-10-29",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Pembrolizumab",
+      "Carboplatin",
+      "Paclitaxel",
+      "Nab-paclitaxel"
+     ]
+    },
+    {
+     "nct": "NCT06564844",
+     "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2024-10-15",
+     "last_update": "2026-09-23",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Datopotamab Deruxtecan",
+      "Rilvegostomig",
+      "Carboplatin",
+      "Cisplatin",
+      "Etoposide",
+      "Pemetrexed",
+      "Vinorelbine",
+      "UFT"
+     ]
+    },
+    {
+     "nct": "NCT06467357",
+     "title": "Phase 3 Study of T-DXd and Rilvegostomig Versus SoC in Advanced HER2-expressing Biliary Tract Cancer",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-08-12",
+     "last_update": "2026-10-13",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Gemcitabine",
+      "Cisplatin",
+      "Durvalumab",
+      "Trastuzumab deruxtecan",
+      "Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT06109779",
+     "title": "Rilvegostomig + Chemotherapy as Adjuvant Therapy for Biliary Tract Cancer After Resection (ARTEMIDE-Biliary01)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2023-12-04",
+     "last_update": "2026-10-16",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Placebo",
+      "Capecitabine",
+      "Gemcitabine/Cisplatin",
+      "S-1 [Tegafur/Oteracil/gimeracil]"
+     ]
+    },
+    {
+     "nct": "NCT07431281",
+     "title": "Sonesitatug Vedotin in Combination With Capecitabine With or Without Rilvegostomig in Participants With Advanced or Metastatic Gastric, Gastroesophageal Junction, or Esophageal Adenocarcinoma Expressing Claudin18.2",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-02-03",
+     "last_update": "2026-10-16",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Sonesitatug vedotin",
+      "Rilvegostomig",
+      "Nivolumab",
+      "Capecitabine",
+      "5-Fluorouracil",
+      "Oxaliplatin",
+      "Zolbetuximab",
+      "Leucovorin"
+     ]
+    },
+    {
+     "nct": "NCT07788664",
+     "title": "Local and Systemic Immune Modulation by Rilvegostomig (AZD2936) in the Treatment of Advanced Gastric Cancer (RILVE Project)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2026-12-01",
+     "last_update": "2026-11-12",
+     "sponsor": "Vall d'Hebron Institute of Oncology",
+     "interventions": [
+      "Rilvegostomig",
+      "Pembrolizumab"
+     ]
+    },
+    {
+     "nct": "NCT01042379",
+     "title": "I-SPY TRIAL: Neoadjuvant and Personalized Adaptive Novel Agents to Treat Breast Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2010-03-01",
+     "last_update": "2026-05-06",
+     "sponsor": "QuantumLeap Healthcare Collaborative",
+     "interventions": [
+      "Standard Therapy",
+      "AMG 386 with or without Trastuzumab",
+      "AMG 479 (Ganitumab) plus Metformin",
+      "MK-2206 with or without Trastuzumab",
+      "AMG 386 and Trastuzumab",
+      "T-DM1 and Pertuzumab",
+      "Pertuzumab and Trastuzumab",
+      "Ganetespib",
+      "ABT-888",
+      "Neratinib",
+      "PLX3397",
+      "Pembrolizumab - 4 cycle",
+      "Talazoparib plus Irinotecan",
+      "Patritumab and Trastuzumab",
+      "Pembrolizumab - 8 cycle",
+      "SGN-LIV1A",
+      "Durvalumab plus Olaparib",
+      "SD-101 + Pembrolizumab",
+      "Tucatinib plus trastuzumab and pertuzumab",
+      "Cemiplimab",
+      "Cemiplimab plus REGN3767",
+      "Trilaciclib with or without trastuzumab + pertuzumab",
+      "SYD985 ([vic-]trastuzumab duocarmazine)",
+      "Oral Paclitaxel + Encequidar + Dostarlimab (TSR-042) + Carboplatin with or without trastuzumab",
+      "Oral Paclitaxel + Encequidar + Dostarlimab (TSR-042) with or without trastuzumab",
+      "Amcenestrant",
+      "Amcenestrant + Abemaciclib",
+      "Amcenestrant + Letrozole",
+      "ARX788",
+      "ARX788 + Cemiplimab",
+      "VV1 + Cemiplimab",
+      "Datopotamab deruxtecan",
+      "Datopotamab deruxtecan + Durvalumab",
+      "Zanidatamab",
+      "Lasofoxifene",
+      "Z-endoxifen",
+      "ARV-471",
+      "ARV-471 + Letrozole",
+      "ARV-471 + Abemaciclib",
+      "Endoxifen + Abemaciclib",
+      "Rilvegostomig + TDXd",
+      "Dan222 + Niraparib",
+      "Sarilumab + Cemiplimab + Paclitaxel",
+      "GSK 5733584",
+      "GSK 5733584 + Dostarlimab",
+      "Ivonescimab (20mg/kg Q3W)"
+     ]
+    },
+    {
+     "nct": "NCT05702229",
+     "title": "Novel Combinations in Participants With Locally Advanced Unresectable or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-01-16",
+     "last_update": "2026-05-14",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Volrustomig",
+      "FOLFOX",
+      "XELOX",
+      "AZD0901",
+      "5-Fluorouracil",
+      "Capecitabine"
+     ]
+    },
+    {
+     "nct": "NCT06921785",
+     "title": "Phase III Study of Rilvegostomig in Combination With Bevacizumab With or Without Tremelimumab as First-line Treatment of Hepatocellular Carcinoma",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-05-06",
+     "last_update": "2026-10-13",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Tremelimumab",
+      "Rilvegostomig",
+      "Bevacizumab",
+      "Atezolizumab"
+     ]
+    },
+    {
+     "nct": "NCT06627647",
+     "title": "A Global Phase III Study of Rilvegostomig or Pembrolizumab Plus Chemotherapy for First-Line Treatment of Locally Advanced or Metastatic Non-Squamous NSCLC",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-11-27",
+     "last_update": "2026-10-28",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Pembrolizumab",
+      "Carboplatin",
+      "Cisplatin",
+      "Pemetrexed"
+     ]
+    },
+    {
+     "nct": "NCT05489211",
+     "title": "Study of Dato-DXd as Monotherapy and in Combination With Anti-cancer Agents in Patients With Advanced Solid Tumours (TROPION-PanTumor03)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2022-09-06",
+     "last_update": "2026-09-23",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Datopotamab deruxtecan (Dato-DXd)",
+      "Capecitabine",
+      "5-Fluorouracil",
+      "Volrustomig",
+      "Carboplatin",
+      "Bevacizumab",
+      "Rilvegostomig",
+      "Prednisone/ prednisolone",
+      "Cisplatin"
+     ]
+    },
+    {
+     "nct": "NCT07161414",
+     "title": "A Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Rilvegostomig in Adult Participants With Advanced Solid Tumors Previously Treated With Standard of Care Therapy",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-11-25",
+     "last_update": "2026-10-05",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "IV Rilvegostomig",
+      "Recombinant Human Hyaluronidase (rHu)",
+      "SC Rilvegostomig",
+      "SC rilvegostomig + rHu"
+     ]
+    },
+    {
+     "nct": "NCT07069712",
+     "title": "A Study of Novel Agents or Combinations as Perioperative Treatment in Participants With Locally Advanced Resectable Gastroesophageal Adenocarcinoma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-07-17",
+     "last_update": "2026-11-03",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Sonesitatug Vedotin",
+      "Rilvegostomig",
+      "Trastuzumab Deruxtecan (T-DXd)",
+      "Capecitabine",
+      "5-Fluorouracil (5-FU)",
+      "FLOT Chemotherapy",
+      "Calcium folinate"
+     ]
+    },
+    {
+     "nct": "NCT05123482",
+     "title": "A Phase I/IIa Study of AZD8205 Given Alone or Combined, in Participants With Advanced/Metastatic Solid Malignancies",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-10-18",
+     "last_update": "2026-10-13",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "AZD8205",
+      "AZD8205 and AZD2936 (Rilvegostomig)",
+      "AZD8205 and AZD5305 (saruparib)",
+      "AZD8205 and AZD5305 (saruparib) and AZD2936 (rilvegostomig)",
+      "AZD8205 in combination with AZD9574",
+      "AZD8205 in combination with AZD9574 plus rilvegostomig (AZD2936)"
+     ]
+    },
+    {
+     "nct": "NCT03741426",
+     "title": "WIRE - Novel Treatments in Renal Cell Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2020-07-27",
+     "last_update": "2026-09-25",
+     "sponsor": "CCTU- Cancer Theme",
+     "interventions": [
+      "Olaparib",
+      "Cediranib",
+      "Volrustomig",
+      "Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT04541108",
+     "title": "Phase 0 Master Protocol for CIVO Intratumoral Microdosing of Anti-Cancer Therapies",
+     "phases": [
+      "EARLY_PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2021-07-26",
+     "last_update": "2026-05-22",
+     "sponsor": "Presage Biosciences",
+     "interventions": [
+      "Rilvegostomig",
+      "Volrustomig",
+      "Sabestomig",
+      "Pembrolizumab",
+      "AZD9592",
+      "AZD9592 + Rilvegostomig",
+      "AZD9592 + Volrustomig",
+      "AZD9592 + Sabestomig",
+      "AZD9592 + Pembrolizumab"
+     ]
+    },
+    {
+     "nct": "NCT06989112",
+     "title": "DESTINY-Endometrial01: A Phase III Study of Trastuzumab Deruxtecan Plus Rilvegostomig or Pembrolizumab as First-Line Treatment of HER2-Expressing (IHC 3+/2+), Mismatch Repair Proficient (pMMR) Endometrial Cancer",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-03-27",
+     "last_update": "2026-10-13",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Trastuzumab deruxtecan",
+      "Rilvegostomig",
+      "Pembrolizumab",
+      "Carboplatin",
+      "Paclitaxel",
+      "Docetaxel"
+     ]
+    },
+    {
+     "nct": "NCT06569225",
+     "title": "Gemcitabine/Cisplatin/Nab-Paclitaxel and Rilvegostomig in Resectable iCCA",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2024-12-15",
+     "last_update": "2024-08-26",
+     "sponsor": "University Health Network, Toronto",
+     "interventions": [
+      "Gemcitabine/Cisplatin/Nab-Paclitaxel and Rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT07115043",
+     "title": "A Study to Investigate Safety of AZD6750 in Adult Participants With Select Advanced or Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-07-29",
+     "last_update": "2026-10-08",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "AZD6750",
+      "rilvegostomig"
+     ]
+    },
+    {
+     "nct": "NCT06868277",
+     "title": "A Global Phase III Study of Rilvegostomig or Pembrolizumab Monotherapy for First-Line Treatment of PD-L1-high Metastatic Non-small Cell Lung Cancer",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-04-10",
+     "last_update": "2026-09-25",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Rilvegostomig",
+      "Pembrolizumab"
+     ]
+    },
+    {
+     "nct": "NCT03819465",
+     "title": "A Study of Novel Anti-cancer Agents in Patients With Previously Untreated NSCLC",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2018-12-27",
+     "last_update": "2026-05-12",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Durvalumab",
+      "Danvatirsen",
+      "Oleclumab",
+      "MEDI5752",
+      "Pemetrexed",
+      "Carboplatin",
+      "Gemcitabine",
+      "Cisplatin",
+      "Nab-paclitaxel",
+      "AZD2936"
+     ]
+    },
+    {
+     "nct": "NCT04612751",
+     "title": "Phase 1b Study of Dato-DXd in Combination With Immunotherapy With or Without Carboplatin in Advanced or Metastatic Non-Small Cell Lung Cancer",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2021-02-02",
+     "last_update": "2026-10-27",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "Datopotamab deruxtecan",
+      "Durvalumab",
+      "Carboplatin",
+      "AZD2936",
+      "MEDI5752",
+      "AZD7789"
+     ]
+    },
+    {
+     "nct": "NCT05414032",
+     "title": "Molecular Residual Disease Interception in Locoregionally-Advanced High Risk HPV+ and HPV- HNSCC",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-12",
+     "last_update": "2026-10-05",
+     "sponsor": "University Health Network, Toronto",
+     "interventions": [
+      "AZD2936"
+     ]
+    },
+    {
+     "nct": "NCT06005493",
+     "title": "Study of AZD5863 in Adult Participants With Advanced or Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-07-11",
+     "last_update": "2026-09-25",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "AZD5863",
+      "AZD2936"
+     ]
+    },
+    {
+     "nct": "NCT04995523",
+     "title": "A Study of AZD2936 Anti-TIGIT/Anti-PD-1 Bispecific Antibody in Participants With Advanced or Metastatic NSCLC",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2021-09-14",
+     "last_update": "2026-11-10",
+     "sponsor": "AstraZeneca",
+     "interventions": [
+      "AZD2936"
+     ]
+    }
+   ]
+  },
+  "GS-0321 (COM503)": {
+   "terms": [
+    "GS-0321",
+    "COM503"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06759649",
+     "title": "A Clinical Trial to Assess COM503 in Participants With Advanced Solid Malignancies",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-01-07",
+     "last_update": "2026-08-12",
+     "sponsor": "Compugen Ltd",
+     "interventions": [
+      "COM503",
+      "Zimberelimab"
+     ]
+    }
+   ]
+  },
+  "IBIO-600": {
+   "terms": [
+    "IBIO-600"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07487376",
+     "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of a Single Dose of IBIO-600 in Overweight or Obese Adults",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-05-24",
+     "last_update": "2026-05-29",
+     "sponsor": "iBio, Inc.",
+     "interventions": [
+      "IBIO-600",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "OD-001": {
+   "terms": [
+    "OD-001"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07900607",
+     "title": "The Mass Balance Recovery, Metabolite Profile and Metabolite Identification of [14C]OD-001 in Healthy Male Participants",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10-31",
+     "last_update": "2026-11-05",
+     "sponsor": "Odyssey Therapeutics, Inc.",
+     "interventions": [
+      "[14C]OD-001"
+     ]
+    }
+   ]
+  },
+  "EIK1006": {
+   "terms": [
+    "EIK1006"
+   ],
+   "n_trials": 0,
+   "top_phase": null,
+   "statuses": [],
+   "trials": []
+  },
+  "MRT-2359": {
+   "terms": [
+    "MRT-2359"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07745361",
+     "title": "Study of Oral MRT-2359 With Apalutamide in Prostate Cancer",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-08-18",
+     "last_update": "2026-11-05",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "Oral MRT-2359",
+      "Apalutamide"
+     ]
+    },
+    {
+     "nct": "NCT05546268",
+     "title": "Study of Oral MRT-2359 in Selected Cancer Patients",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2022-10-12",
+     "last_update": "2026-11-06",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359",
+      "Oral MRT-2359"
+     ]
+    }
+   ]
+  },
+  "MRT-6160": {
+   "terms": [
+    "MRT-6160"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06597799",
+     "title": "First-in-human Study of MRT-6160 in Healthy Subjects",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-08-07",
+     "last_update": "2025-07-28",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "MRT-6160",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "MRT-8102": {
+   "terms": [
+    "MRT-8102"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07119125",
+     "title": "A First-in-human, 3-part Study of MRT-8102 in Healthy Participants and Participants at Cardiovascular Risk With Elevated CRP",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2025-06-27",
+     "last_update": "2026-06-04",
+     "sponsor": "Monte Rosa Therapeutics, Inc",
+     "interventions": [
+      "MRT-8102",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "zolucatetide (FOG-001)": {
+   "terms": [
+    "FOG-001",
+    "zolucatetide"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05919264",
+     "title": "FOG-001 in Locally Advanced or Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2023-05-23",
+     "last_update": "2026-10-07",
+     "sponsor": "Parabilis Medicines, Inc.",
+     "interventions": [
+      "FOG-001",
+      "mFOLFOX-6",
+      "Nivolumab",
+      "Trifluridine/tipiracil",
+      "Bevacizumab",
+      "FOG-001"
+     ]
+    }
+   ]
+  },
+  "BXCL501 (dexmedetomidine)": {
+   "terms": [
+    "BXCL501"
+   ],
+   "n_trials": 15,
+   "top_phase": "PHASE4",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED",
+    "RECRUITING",
+    "TERMINATED",
+    "WITHDRAWN"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05665088",
+     "title": "Dexmedetomidine in the Treatment of Agitation Associated With Dementia (TRANQUILITY III)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated for business reasons; not due to safety or efficacy concerns",
+     "start": "2022-12-05",
+     "last_update": "2026-10-01",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501",
+      "Matching Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05974527",
+     "title": "Pilot Study 1: Efficacy and Safety of Sublingual Dexmedetomidine (BXCL501) for the Treatment of Agitation in the Emergency Department",
+     "phases": [
+      "PHASE4"
+     ],
+     "status": "WITHDRAWN",
+     "why_stopped": "Study did not start - due to funding issues prior to IRB approval",
+     "start": "2023-09-01",
+     "last_update": "2026-01-28",
+     "sponsor": "Brigham and Women's Hospital",
+     "interventions": [
+      "Sublingual film containing dexmedetomidine (BXCL501)"
+     ]
+    },
+    {
+     "nct": "NCT04276883",
+     "title": "Dexmedetomidine in the Treatment of Agitation Associated With Bipolar Disorder",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-02-24",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "Sublingual film containing Dexmedetomidine (BXCL501)",
+      "Placebo Film"
+     ]
+    },
+    {
+     "nct": "NCT04827056",
+     "title": "Effect of Sublingual Formulation of Dexmedetomidine HCl (BXCL501) - Alcohol Interaction Study",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2021-11-09",
+     "last_update": "2023-10-26",
+     "sponsor": "Pharmacotherapies for Alcohol and Substance Use Disorders Alliance",
+     "interventions": [
+      "Placebo",
+      "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 40\u00b5g",
+      "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 80\u00b5g",
+      "Ethanol Infusion",
+      "PTSD Reactivity Condition",
+      "Alcohol Cue Reactivity"
+     ]
+    },
+    {
+     "nct": "NCT05313386",
+     "title": "Study of BXCL501 In Agitation Associated With Delirium in ICU Patients",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "WITHDRAWN",
+     "why_stopped": "The study stopped early, before enrolling its first participant",
+     "start": "2021-02-23",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501",
+      "Placebo film"
+     ]
+    },
+    {
+     "nct": "NCT04268303",
+     "title": "Dexmedetomidine in the Treatment of Agitation Associated With Schizophrenia",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2020-01-24",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "Sublingual film containing dexmedetomidine (BXCL501)",
+      "Placebo Film"
+     ]
+    },
+    {
+     "nct": "NCT05025605",
+     "title": "Determining Efficacy and Safety of BXCL501 in Agitation Associated With Pediatric Schizophrenia and Bipolar Disorder",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-08-27",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501 80 Micrograms",
+      "Placebo Film",
+      "BXCL501 120 Micrograms",
+      "BXCL501 60 Micrograms"
+     ]
+    },
+    {
+     "nct": "NCT05271552",
+     "title": "Dexmedetomidine in the Treatment of Agitation Associated With Dementia (TRANQUILITY II)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-04-27",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501",
+      "Matching Placebo"
+     ]
+    },
+    {
+     "nct": "NCT06335407",
+     "title": "Effect of Sublingual Formulation of Dexmedetomidine Hydrochloride (HCl) (BXCL501) - Outpatient Study",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-07-28",
+     "last_update": "2026-09-21",
+     "sponsor": "Pharmacotherapies for Alcohol and Substance Use Disorders Alliance",
+     "interventions": [
+      "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 40\u00b5g",
+      "Dexmedetomidine (DEX) for sublingual (SL) administration (BXCL501) - 80\u00b5g"
+     ]
+    },
+    {
+     "nct": "NCT05276830",
+     "title": "An Efficacy, and Safety Study Of BXCL501 For The Treatment Of Agitation Associated With Dementia",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "Study was terminated for business reasons; not due to safety or efficacy concerns",
+     "start": "2022-02-08",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501",
+      "BXCL501",
+      "Placebo film"
+     ]
+    },
+    {
+     "nct": "NCT06943404",
+     "title": "BXCL501 After Stress to Increase Recovery Success",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-02-23",
+     "last_update": "2026-04-14",
+     "sponsor": "University of North Carolina, Chapel Hill",
+     "interventions": [
+      "BXCL501 (dexmedetomidine HCl)",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07116694",
+     "title": "Assessment of Acute Psychomotor Agitation Measures Associated With Schizophrenia and Bipolar Disorder",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2025-06-19",
+     "last_update": "2026-10-05",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501 Sublingual Film"
+     ]
+    },
+    {
+     "nct": "NCT05712707",
+     "title": "Sublingual Dexmedetomidine for Treating Opioid Withdrawal",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2023-02-28",
+     "last_update": "2026-10-28",
+     "sponsor": "New York State Psychiatric Institute",
+     "interventions": [
+      "BXCL501 (180 micrograms)",
+      "BXCL501 (240 micrograms)",
+      "Placebo",
+      "Lofexidine (Positive Control)"
+     ]
+    },
+    {
+     "nct": "NCT04010305",
+     "title": "Sub-Lingual Dexmedetomidine in Agitation Associated With Schizophrenia",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2019-05-22",
+     "last_update": "2026-08-11",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "Sublingual film containing BXCL501 (Dexmedetomidine)",
+      "Placebo film"
+     ]
+    },
+    {
+     "nct": "NCT05658510",
+     "title": "Dexmedetomidine in the Treatment of Agitation Associated With Schizophrenia and Bipolar Disorder (SERENITY III)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-11-21",
+     "last_update": "2026-08-07",
+     "sponsor": "BioXcel Therapeutics Inc",
+     "interventions": [
+      "BXCL501",
+      "Matching Placebo"
+     ]
+    }
+   ]
+  },
+  "BXCL502 (latrepirdine)": {
+   "terms": [
+    "BXCL502",
+    "latrepirdine"
+   ],
+   "n_trials": 3,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "RECRUITING",
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT00954590",
+     "title": "A Safety and Efficacy Study Evaluating Dimebon (Latrepirdine) in Patients With Moderate to Severe Alzheimer's Disease",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": null,
+     "start": "2009-10",
+     "last_update": "2016-09-27",
+     "sponsor": "Medivation, Inc.",
+     "interventions": [
+      "Dimebon (latrepirdine)",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07251023",
+     "title": "Efficacy and Safety of DMB-I (INN: Latrepirdine) in Patients With Alzheimer Type Dementia",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-11-20",
+     "last_update": "2025-12-10",
+     "sponsor": "Bigespas LTD",
+     "interventions": [
+      "DMB-I (INN: Latrepirdine)",
+      "Memantine Hydrochloride 20 MG",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT01085266",
+     "title": "An Extension of the HORIZON Protocol Evaluating the Safety of Dimebon (Latrepirdine) in Subjects With Huntington Disease",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": null,
+     "start": "2010-02",
+     "last_update": "2016-10-12",
+     "sponsor": "Medivation, Inc.",
+     "interventions": [
+      "Dimebon (latrepirdine)"
+     ]
+    }
+   ]
+  },
+  "RLY-2608": {
+   "terms": [
+    "RLY-2608"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05216432",
+     "title": "First-in-Human Study of Mutant-selective PI3K\u03b1 Inhibitor, RLY-2608, as a Single Agent in Patients With Advanced Solid Tumors and in Combination With Endocrine Therapy +/- a CDK4/6 or CDK4 Inhibitor in Patients With Advanced Solid Tumors or Advanced Breast Cancer",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2021-12-08",
+     "last_update": "2025-09-22",
+     "sponsor": "Relay Therapeutics, Inc.",
+     "interventions": [
+      "RLY-2608",
+      "Fulvestrant",
+      "Palbociclib 125mg",
+      "Ribociclib 400mg",
+      "Ribociclib 600mg",
+      "PF-07220060 100mg",
+      "PF-07220060 300 mg"
+     ]
+    },
+    {
+     "nct": "NCT06789913",
+     "title": "A Phase 2 Study of Mutant-selective PI3K\u03b1 Inhibitor, RLY-2608, in Adults and Children With PIK3CA Related Overgrowth Spectrum and Malformations Driven by PIK3CA Mutation (The ReInspire Study)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-06-13",
+     "last_update": "2026-11-12",
+     "sponsor": "Relay Therapeutics, Inc.",
+     "interventions": [
+      "RLY-2608",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "aleniglipron (GSBR-1290)": {
+   "terms": [
+    "GSBR-1290",
+    "aleniglipron"
+   ],
+   "n_trials": 10,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "COMPLETED",
+    "NOT_YET_RECRUITING",
+    "RECRUITING",
+    "UNKNOWN"
+   ],
+   "trials": [
+    {
+     "nct": "NCT05893043",
+     "title": "A Study of Multiple Ascending Doses of GSBR-1290 in Japanese and Non-Japanese Healthy Participants",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-04-24",
+     "last_update": "2023-07-14",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "GSBR-1290",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT06139055",
+     "title": "A Study of Multiple-ascending Doses of GSBR-1290 in Healthy Overweight/Obese Participants",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "UNKNOWN",
+     "why_stopped": null,
+     "start": "2023-10-02",
+     "last_update": "2024-02-15",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "GSBR-1290 (Capsule/Tablet)",
+      "GSBR-1290",
+      "Placebo",
+      "Placebo (Capsule/Tablet)"
+     ]
+    },
+    {
+     "nct": "NCT05762471",
+     "title": "Phase 1b/2a Study of GSBR-1290 in Adult Overweight or Obese Healthy Subjects and Subjects With Type 2 Diabetes Mellitus",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-01-09",
+     "last_update": "2024-04-25",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "GSBR-1290",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07654361",
+     "title": "Efficacy and Safety of Aleniglipron in Participants With Obesity or Overweight With a Weight-Related Comorbidity (ACCOMPLISH-1)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-07-13",
+     "last_update": "2026-08-10",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "Aleniglipron",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07654374",
+     "title": "A Study of Aleniglipron in Adults With Obesity or Overweight and Type 2 Diabetes Mellitus (ACCOMPLISH-2)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-07-17",
+     "last_update": "2026-10-20",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "aleniglipron",
+      "aleniglipron",
+      "aleniglipron",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07169942",
+     "title": "Aleniglipron Phase 2 Body Composition Study",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2025-08-15",
+     "last_update": "2026-10-14",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "aleniglipron or placebo"
+     ]
+    },
+    {
+     "nct": "NCT06693843",
+     "title": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-10-28",
+     "last_update": "2026-08-10",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "Aleniglipron or Placebo",
+      "Aleniglipron or Placebo",
+      "Aleniglipron or Placebo",
+      "Aleniglipron",
+      "Aleniglipron",
+      "Aleniglipron",
+      "Aleniglipron"
+     ]
+    },
+    {
+     "nct": "NCT07872033",
+     "title": "Aleniglipron Hepatic Impairment Study",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10",
+     "last_update": "2026-10-21",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "Aleniglipron"
+     ]
+    },
+    {
+     "nct": "NCT07400588",
+     "title": "Aleniglipron Phase 2 in Type 2 Diabetes Mellitus",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2025-12-01",
+     "last_update": "2026-10-21",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "Aleniglipron",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT06703021",
+     "title": "A Dose-Range Study of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-12-20",
+     "last_update": "2026-04-28",
+     "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+     "interventions": [
+      "aleniglipron or placebo",
+      "aleniglipron or placebo",
+      "aleniglipron or placebo",
+      "aleniglipron or placebo"
+     ]
+    }
+   ]
+  },
+  "KT-621": {
+   "terms": [
+    "KT-621"
+   ],
+   "n_trials": 6,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07677059",
+     "title": "A Long-term Study of KT-621 Administered Orally to Participants With Asthma Previously Enrolled in a KT-621 Asthma Study",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-06-25",
+     "last_update": "2026-10-07",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621"
+     ]
+    },
+    {
+     "nct": "NCT06945458",
+     "title": "Safety, PK, PD, and Clinical Activity of Orally Administered KT-621 in Adult Patients With Atopic Dermatitis (AD)",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2025-04-17",
+     "last_update": "2026-01-26",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621"
+     ]
+    },
+    {
+     "nct": "NCT07323654",
+     "title": "A Study of KT-621 Administered Orally to Adult Participants With Moderate to Severe Eosinophilic Asthma",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-01-28",
+     "last_update": "2026-10-06",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07217015",
+     "title": "A Study of KT-621 Administered Orally to Participants With Moderate to Severe Atopic Dermatitis",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "ACTIVE_NOT_RECRUITING",
+     "why_stopped": null,
+     "start": "2025-11-24",
+     "last_update": "2026-10-06",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT06673667",
+     "title": "First-in-human Study of Orally Administered KT-621 in Healthy Adult Participants",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2024-10-22",
+     "last_update": "2025-10-02",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07823205",
+     "title": "A Study to Evaluate Different Oral Formulations of KT-621",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10-05",
+     "last_update": "2026-10-30",
+     "sponsor": "Kymera Therapeutics, Inc.",
+     "interventions": [
+      "KT-621",
+      "KT-621",
+      "KT-621"
+     ]
+    }
+   ]
+  },
+  "KRRO-110": {
+   "terms": [
+    "KRRO-110"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "TERMINATED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06677307",
+     "title": "A Phase 1/2a, Single- and Multiple-dose Escalation Study of KRRO-110",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "TERMINATED",
+     "why_stopped": "The study was terminated for business decision reasons.",
+     "start": "2025-01-13",
+     "last_update": "2026-04-17",
+     "sponsor": "Korro Bio, Inc.",
+     "interventions": [
+      "KRRO-110"
+     ]
+    }
+   ]
+  },
+  "rentosertib (ISM001-055)": {
+   "terms": [
+    "INS018_055",
+    "ISM001-055",
+    "rentosertib"
+   ],
+   "n_trials": 4,
+   "top_phase": "PHASE3",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07687459",
+     "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+     "phases": [
+      "PHASE3"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-09-09",
+     "last_update": "2026-10-13",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055 tablets",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05975983",
+     "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-02-08",
+     "last_update": "2025-11-12",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05154240",
+     "title": "A Phase 1, Evaluate the Safety, Tolerability, and Pharmacokinetics of INS018_055 in Healthy Subjects",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2022-02-21",
+     "last_update": "2023-06-29",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT05938920",
+     "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis (IPF)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-06-19",
+     "last_update": "2025-12-11",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "INS018_055",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "ISM6331": {
+   "terms": [
+    "ISM6331"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06566079",
+     "title": "Study of ISM6331 in Participants With Advanced/Metastatic Mesothelioma or Other Advanced Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-12-27",
+     "last_update": "2026-09-16",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM6331"
+     ]
+    }
+   ]
+  },
+  "ISM3412": {
+   "terms": [
+    "ISM3412"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06414460",
+     "title": "Study of ISM3412 in Participants With Locally Advanced/Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1",
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-04-25",
+     "last_update": "2026-09-01",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM3412"
+     ]
+    }
+   ]
+  },
+  "ISM5411": {
+   "terms": [
+    "ISM5411"
+   ],
+   "n_trials": 2,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06012578",
+     "title": "Study Evaluating ISM5411 Administered Orally to Healthy Volunteers",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-11-08",
+     "last_update": "2024-11-07",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM5411",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07265570",
+     "title": "Study Evaluating ISM5411 Administered Orally to Subjects With Active Ulcerative Colitis (BETHESDA)",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-10",
+     "last_update": "2026-10-29",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM5411 tablets",
+      "ISM5411 tablets",
+      "ISM5411 tablets",
+      "Placebo"
+     ]
+    }
+   ]
+  },
+  "ISM8207": {
+   "terms": [
+    "ISM8207"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06445517",
+     "title": "Study Evaluating ISM8207 in Participants With Advanced Solid Tumors and Relapsed/Refractory B-Cell Lymphoma",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2024-04-25",
+     "last_update": "2026-07-24",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM8207"
+     ]
+    }
+   ]
+  },
+  "ISM5939": {
+   "terms": [
+    "ISM5939"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "NOT_YET_RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06724042",
+     "title": "Study of ISM5939 in Patients With Advanced and/or Metastatic Solid Tumors",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "NOT_YET_RECRUITING",
+     "why_stopped": null,
+     "start": "2026-12-30",
+     "last_update": "2026-07-23",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM5939",
+      "Cisplatin",
+      "Docetaxel",
+      "Pembrolizumab"
+     ]
+    }
+   ]
+  },
+  "ISM9528": {
+   "terms": [
+    "ISM9528"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07932041",
+     "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM9528",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-10-29",
+     "last_update": "2026-11-12",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM9528 capsules"
+     ]
+    }
+   ]
+  },
+  "ISM8969": {
+   "terms": [
+    "ISM8969"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07581431",
+     "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM8969",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-06-15",
+     "last_update": "2026-06-22",
+     "sponsor": "InSilico Medicine Hong Kong Limited",
+     "interventions": [
+      "ISM8969 tablets or placebo",
+      "ISM8969 tablets or placebo",
+      "ISM8969 tablets or placebo"
+     ]
+    }
+   ]
+  },
+  "BEN-8744": {
+   "terms": [
+    "BEN8744",
+    "BEN-8744"
+   ],
+   "n_trials": 1,
+   "top_phase": "PHASE1",
+   "statuses": [
+    "COMPLETED"
+   ],
+   "trials": [
+    {
+     "nct": "NCT06118385",
+     "title": "Study Investigating the Safety, Tolerability, PK and Food Effect of BEN8744.",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2023-08-30",
+     "last_update": "2025-05-07",
+     "sponsor": "BenevolentAI Bio",
+     "interventions": [
+      "BEN8744",
+      "Matching Placebo"
+     ]
+    }
+   ]
+  },
+  "ENV-294": {
+   "terms": [
+    "ENV-294"
+   ],
+   "n_trials": 4,
+   "top_phase": "PHASE2",
+   "statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "trials": [
+    {
+     "nct": "NCT07301255",
+     "title": "ENV-294 for Moderate-to-Severe Asthma: A 12-Week Study in Adults",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-01-09",
+     "last_update": "2026-09-24",
+     "sponsor": "Enveda Therapeutics",
+     "interventions": [
+      "ENV-294",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07336940",
+     "title": "Study of ENV-294 in Healthy Adults and in Adults With Moderate-to-Severe Atopic Dermatitis",
+     "phases": [
+      "PHASE1"
+     ],
+     "status": "COMPLETED",
+     "why_stopped": null,
+     "start": "2025-09-10",
+     "last_update": "2026-04-01",
+     "sponsor": "Enveda Therapeutics",
+     "interventions": [
+      "ENV-294 Capsule"
+     ]
+    },
+    {
+     "nct": "NCT07643766",
+     "title": "A Phase 2b Dose-Ranging Study to Evaluate the Efficacy and Safety of ENV-294 in Adults With Moderate-to-Severe Atopic Dermatitis",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2026-06-29",
+     "last_update": "2026-08-06",
+     "sponsor": "Enveda Therapeutics",
+     "interventions": [
+      "ENV-294",
+      "Placebo"
+     ]
+    },
+    {
+     "nct": "NCT07298395",
+     "title": "Study of ENV-294 in Adults With Moderate-to-Severe Atopic Dermatitis",
+     "phases": [
+      "PHASE2"
+     ],
+     "status": "RECRUITING",
+     "why_stopped": null,
+     "start": "2025-12-22",
+     "last_update": "2026-09-25",
+     "sponsor": "Enveda Therapeutics",
+     "interventions": [
+      "ENV-294",
+      "Placebo"
+     ]
+    }
+   ]
+  }
+ }
+}

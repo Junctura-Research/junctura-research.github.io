@@ -1,0 +1,25 @@
+<%
+const TYPE_LABELS = {
+  "research-note": "Research Note",
+  "intersection-report": "Intersection Report",
+  "report-update": "Report Update"
+};
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const fmt = (s) => {
+  const m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})/);
+  return m ? `${Number(m[3])} ${MONTHS[Number(m[2]) - 1]} ${m[1]}` : (s || "");
+};
+%>
+<ul class="doc-list list-unstyled">
+<% for (const item of items) {
+  const pdf = item.path.replace(/\.html$/, ".pdf");
+%>
+  <li <%= metadataAttrs(item) %> class="doc-item">
+    <p class="doc-type"><%= TYPE_LABELS[item["document-type"]] || "" %><% if (item["as-of"]) { %> · Evidence as of <%= fmt(item["as-of"]) %><% } %></p>
+    <h3 class="doc-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
+    <% if (item.subtitle) { %><p class="doc-subtitle"><%= item.subtitle %></p><% } %>
+    <% if (item.description) { %><p class="doc-description"><%= item.description %></p><% } %>
+    <p class="doc-links"><a href="<%- item.path %>">Read online</a> · <a href="<%- pdf %>">PDF</a></p>
+  </li>
+<% } %>
+</ul>

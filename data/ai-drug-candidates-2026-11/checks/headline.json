@@ -1,0 +1,272 @@
+{
+ "source": "../cohort/cohort_with_phase.csv",
+ "as_of": "2026-11-16",
+ "headline_16": {
+  "n": 16,
+  "companies_or_developers": [
+   "BenevolentAI",
+   "Bristol Myers Squibb (designed by Exscientia)",
+   "Evaxion",
+   "Exscientia (now Recursion)",
+   "Exscientia / GT Apeiron (now Recursion)",
+   "Insilico Medicine",
+   "Monte Rosa",
+   "Nurix",
+   "Recursion",
+   "Schrodinger",
+   "Sumitomo Pharma (designed with Exscientia)"
+  ],
+  "by_claim": {
+   "explicit": 8,
+   "platform": 8
+  },
+  "by_outcome": {
+   "discontinued": 4,
+   "active": 10,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict_attrition": "4/16 = 25.0%",
+  "strict_attrition_95ci": [
+   10.2,
+   49.5
+  ],
+  "broad_attrition_95ci": [
+   18.5,
+   61.4
+  ],
+  "reached_phase3_95ci": [
+   3.5,
+   36.0
+  ],
+  "broad_attrition": "6/16 = 37.5%",
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 2,
+   "Phase 1": 1,
+   "Phase 2": 1
+  },
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)"
+  ],
+  "reached_phase3_share": "2/16 = 12.5%",
+  "by_highest_phase": {
+   "Phase 1/2": 4,
+   "Phase 1": 7,
+   "Phase 2": 3,
+   "Phase 3": 2
+  },
+  "explicit": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "first_trial_year": {
+   "2020": 3,
+   "2020 or earlier": 1,
+   "2021 or earlier": 1,
+   "2023 or earlier": 3,
+   "2023": 2,
+   "2022": 4,
+   "2021": 2
+  },
+  "first_trial_by_candidate": {
+   "EXS21546": "2020-12-08",
+   "DSP-1181": "2020-01 or earlier (Sumitomo: Phase 1 as of 2021-01-28)",
+   "DSP-0038": "2021 or earlier (Sumitomo: Phase 1 as of 2022-01-31)",
+   "DSP-2342": "2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31)",
+   "EXS4318": "2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic)",
+   "GTAEXS617 (REC-617)": "2023-07-06",
+   "REC-3964": "2023 or earlier (10-K filed 2023-02-27: Phase 1 underway)",
+   "SGR-1505": "2023-04-10",
+   "MRT-2359": "2022-10-12",
+   "NX-2127 (zelebrudomide)": "2021-05-05",
+   "NX-1607": "2021-09-29",
+   "NX-5948 (bexobrutideg)": "2022-04-13",
+   "EVX-01": "2022-09-19",
+   "EVX-02": "2020-07-13",
+   "ISM001-055 (rentosertib)": "2022-02-21",
+   "BEN-2293": "2020-10-14"
+  }
+ },
+ "sensitivity_18": {
+  "n": 18,
+  "companies_or_developers": [
+   "BenevolentAI",
+   "Bristol Myers Squibb (designed by Exscientia)",
+   "Evaxion",
+   "Exscientia (now Recursion)",
+   "Exscientia / GT Apeiron (now Recursion)",
+   "Generate Biomedicines",
+   "Insilico Medicine",
+   "Monte Rosa",
+   "Nurix",
+   "Recursion",
+   "Schrodinger",
+   "Sumitomo Pharma (designed with Exscientia)"
+  ],
+  "by_claim": {
+   "explicit": 8,
+   "platform": 10
+  },
+  "by_outcome": {
+   "discontinued": 5,
+   "active": 11,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict_attrition": "5/18 = 27.8%",
+  "strict_attrition_95ci": [
+   12.5,
+   50.9
+  ],
+  "broad_attrition_95ci": [
+   20.3,
+   61.4
+  ],
+  "reached_phase3_95ci": [
+   5.8,
+   39.2
+  ],
+  "broad_attrition": "7/18 = 38.9%",
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ],
+   [
+    "GB-0669",
+    "Phase 1",
+    "strategic / commercial",
+    "2026-02-23"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 2,
+   "Phase 1": 2,
+   "Phase 2": 1
+  },
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "GB-0895"
+  ],
+  "reached_phase3_share": "3/18 = 16.7%",
+  "by_highest_phase": {
+   "Phase 1/2": 4,
+   "Phase 1": 8,
+   "Phase 2": 3,
+   "Phase 3": 3
+  },
+  "explicit": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 10,
+   "discontinued": 3
+  },
+  "first_trial_year": {
+   "2020": 3,
+   "2020 or earlier": 1,
+   "2021 or earlier": 1,
+   "2023 or earlier": 3,
+   "2023": 4,
+   "2022": 4,
+   "2021": 2
+  },
+  "first_trial_by_candidate": {
+   "EXS21546": "2020-12-08",
+   "DSP-1181": "2020-01 or earlier (Sumitomo: Phase 1 as of 2021-01-28)",
+   "DSP-0038": "2021 or earlier (Sumitomo: Phase 1 as of 2022-01-31)",
+   "DSP-2342": "2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31)",
+   "EXS4318": "2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic)",
+   "GTAEXS617 (REC-617)": "2023-07-06",
+   "REC-3964": "2023 or earlier (10-K filed 2023-02-27: Phase 1 underway)",
+   "SGR-1505": "2023-04-10",
+   "MRT-2359": "2022-10-12",
+   "NX-2127 (zelebrudomide)": "2021-05-05",
+   "NX-1607": "2021-09-29",
+   "NX-5948 (bexobrutideg)": "2022-04-13",
+   "EVX-01": "2022-09-19",
+   "EVX-02": "2020-07-13",
+   "ISM001-055 (rentosertib)": "2022-02-21",
+   "BEN-2293": "2020-10-14",
+   "GB-0669": "2023-07-18",
+   "GB-0895": "2023-12-12"
+  }
+ },
+ "excluded_from_headline": [
+  "GB-0669",
+  "GB-0895"
+ ],
+ "label_sensitivity_16": {
+  "without_REC-3964": {
+   "n": 15,
+   "discontinued": 3,
+   "pct": 20.0,
+   "95ci": [
+    7.0,
+    45.2
+   ]
+  },
+  "DSP-0038_DSP-2342_as_unknown": {
+   "n": 16,
+   "broad": 8,
+   "pct": 50.0,
+   "95ci": [
+    28.0,
+    72.0
+   ]
+  }
+ }
+}

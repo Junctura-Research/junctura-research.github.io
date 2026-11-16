@@ -1,0 +1,11 @@
+---
+title: "Corrections"
+description: "Every error found in a published Junctura Research document, the date it was found, and the fix."
+toc: false
+---
+
+Every error found in a published document is listed here, newest first, with the date it was found and the fix. The corrected document also records the change in its own changelog. Errors can be reported by opening an issue on the [site's public repository](https://github.com/Junctura-Research/junctura-research.github.io/issues).
+
+| Date found | Document | Error | Fix |
+| --- | --- | --- | --- |
+| — | — | No corrections to date. | — |

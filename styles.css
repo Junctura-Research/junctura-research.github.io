@@ -1,0 +1,34 @@
+/* Junctura Research: small additions to the Cosmo theme. */
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Some system fonts (e.g. Inter) turn "1x1" into "1×1" through contextual
+     alternates, which misrenders filing URLs such as ...20251231x10k.htm */
+  font-feature-settings: "calt" 0;
+}
+
+/* Document type and as-of line at the top of each document */
+.doc-meta p {
+  font-size: 0.9rem;
+  color: #555;
+  text-transform: none;
+  margin-bottom: 1.25rem;
+}
+
+/* Publication list on the home page */
+.doc-list { margin-top: 1rem; }
+.doc-item { padding: 1rem 0; border-bottom: 1px solid #e5e5e5; }
+.doc-item .doc-type { font-size: 0.85rem; color: #555; margin-bottom: 0.2rem; }
+.doc-item .doc-title { margin: 0 0 0.2rem 0; font-size: 1.3rem; }
+.doc-item .doc-subtitle { font-style: italic; color: #444; margin-bottom: 0.4rem; }
+.doc-item .doc-description { margin-bottom: 0.4rem; }
+.doc-item .doc-links { font-size: 0.9rem; margin: 0; }
+
+/* Footer: disclaimer on every page */
+.nav-footer { font-size: 0.8rem; }
+.nav-footer .nav-footer-left, .nav-footer .nav-footer-right { flex: 0 1 0; }
+.nav-footer .nav-footer-center { flex: 1 1 auto; max-width: 52rem; text-align: left; }
+.site-disclaimer, .site-direction { margin: 0.4rem 0; color: #555; }
+
+/* Tables in documents */
+table { font-size: 0.92rem; }

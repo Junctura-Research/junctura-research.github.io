@@ -1,0 +1,42 @@
+---
+title: "About Junctura Research"
+description: "How Junctura Research is produced: an AI research agent working under a written charter, with a human reviewer who chooses the topics and approves every document."
+---
+
+## What this is
+
+Junctura Research studies where emerging technologies intersect: energy, AI, biotechnology, space technology and quantum. An intersection counts only when each technology makes a meaningful difference to the other. Each investigation maps the organizations shaping an intersection, from tool builders to the companies applying the technology, incumbents investing in it, and research institutions and government programs. Its central question is how the intersection develops over three years or more.
+
+All research comes from public records. It is free to read.
+
+## Who directs it
+
+The research is carried out by an AI agent working under a written charter. **A human reviewer chooses the starting topics, approves the direction of each investigation, and approves every document before it is published.** The research is therefore guided, not independent of human choice.
+
+The agent works in short, recorded cycles. Before each experiment it writes down what it expects to find; afterwards it records the result and what changed. The reviewer approves each next step.
+
+## What is published
+
+| Document | What it is | Length |
+| --- | --- | --- |
+| Intersection Report | A full analysis of one intersection of two or more technologies | 3,000–8,000 words |
+| Research Note | One self-contained, verified finding, published before the full report is ready | 800–2,500 words |
+| Report Update | A dated revision of a published report | As needed |
+
+A finding that an intersection is not real, or cannot be assessed from public data, is also published. Stock price moves and news cycles never trigger a publication.
+
+## Standards
+
+- **Sources.** Every factual claim carries a footnote to a public source that was opened and read. Primary records come first: SEC filings, patent records, ClinicalTrials.gov, FDA databases and government grant and contract records. Peer-reviewed research, respected news organizations, and company materials are also used; company materials are labeled as company claims. Web sources give the date they were accessed.
+- **Data.** The code and data behind every computed number are published with each document as a frozen data appendix on this site.
+- **Verification.** Before publication, a separate AI review checks every footnote against its claim, a second review makes the strongest case that the document is wrong or one-sided, and every computed number is recomputed. The human reviewer then decides whether to publish.
+- **People.** Executives, scientists and directors are described only through public-record facts such as roles, prior companies, publications, patents, and filed compensation. No judgments of competence or character.
+- **Measures.** Technology maturity uses the IEA's Technology Readiness Level scale; biotechnology also states regulatory stage.
+
+## Research, not investment advice
+
+Companies are analyzed as businesses and technology developers, never as securities. Documents may say which companies hold distinctive opportunities or face distinctive barriers, with the evidence for each. They never give price targets, valuations, buy, sell or hold views, or predictions of stock performance. Interpreting the research for investment is left entirely to the reader.
+
+## Corrections
+
+Every published error is listed on the [Corrections](corrections.qmd) page with the date it was found and the fix.

@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+  # Render only these files. Everything under data/ is copied as-is (see
+  # resources), so README.md, .py, .csv and .json files there are served raw.
+  render:
+    - index.qmd
+    - about.qmd
+    - corrections.qmd
+    - research/*.qmd
+  resources:
+    - CNAME
+    - robots.txt
+    - "data/**"
+  post-render:
+    - scripts/data_index.py
+
+website:
+  title: "Junctura Research"
+  description: "Footnoted research from public records on where emerging technologies intersect: energy, AI, biotechnology, space technology and quantum."
+  site-url: https://juncturaresearch.com
+  repo-url: https://github.com/Junctura-Research/junctura-research.github.io
+  open-graph: true
+  twitter-card: true
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+      - href: corrections.qmd
+        text: Corrections
+  page-footer:
+    center: |
+      <p class="site-disclaimer">This is independent research produced with AI tools under human review. The authors are not financial professionals, and nothing here is investment advice or a recommendation to buy or sell any security. AI analysis can be wrong; check every claim against its cited source. The authors may hold positions in companies discussed and do not trade in any company discussed before the related research is public.</p>
+      <p class="site-direction">A human reviewer chooses the research topics and approves the direction of each investigation. <a href="/about.html">About</a> · <a href="/corrections.html">Corrections</a></p>
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    date-format: "D MMMM YYYY"
+    smooth-scroll: false
+    link-external-newwindow: false

@@ -1,0 +1,98 @@
+{
+ "Absci": {},
+ "BenevolentAI": {},
+ "Compugen": {},
+ "Eikon Therapeutics": {
+  "NCT06697301": {
+   "title": "Safety and Efficacy of EIK1001 in Combo With Pembro Versus Placebo and Pembro as First-Line Therapy in Patients With Advanced Melanoma.",
+   "status": "RECRUITING",
+   "start": "2025-05-22",
+   "sponsor": "Eikon Therapeutics",
+   "interventions": [
+    "EIK1001",
+    "Pembrolizumab (KEYTRUDA\u00ae )"
+   ]
+  },
+  "NCT07365319": {
+   "title": "A Safety and Efficacy Study of EIK1001 in Combination With Pembrolizumab and Chemotherapy in Participants With Stage 4 Non-Small Cell Lung Cancer.",
+   "status": "RECRUITING",
+   "start": "2026-06-15",
+   "sponsor": "Eikon Therapeutics",
+   "interventions": [
+    "EIK1001",
+    "Pembrolizumab (KEYTRUDA\u00ae)",
+    "Placebo",
+    "Paclitaxel + Carboplatin",
+    "Nab-paclitaxel + Carboplatin",
+    "Pemetrexed + Cisplatin /Carboplatin"
+   ]
+  }
+ },
+ "Enveda": {},
+ "Evaxion": {},
+ "Exscientia": {},
+ "Generate Biomedicines": {
+  "NCT07359846": {
+   "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-2)",
+   "status": "RECRUITING",
+   "start": "2026-01-20",
+   "sponsor": "Generate Biomedicines",
+   "interventions": [
+    "GB-0895",
+    "Placebo"
+   ]
+  },
+  "NCT07276724": {
+   "title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)",
+   "status": "RECRUITING",
+   "start": "2025-12-03",
+   "sponsor": "Generate Biomedicines",
+   "interventions": [
+    "GB-0895",
+    "Placebo"
+   ]
+  }
+ },
+ "Iambic Therapeutics": {},
+ "Insilico Medicine": {
+  "NCT07687459": {
+   "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+   "status": "RECRUITING",
+   "start": "2026-09-09",
+   "sponsor": "InSilico Medicine Hong Kong Limited",
+   "interventions": [
+    "INS018_055 tablets",
+    "Placebo"
+   ]
+  }
+ },
+ "Monte Rosa": {},
+ "Nurix": {
+  "NCT07516093": {
+   "title": "Study of NX-5948 Versus Pirtobrutinib in R/R CLL/SLL",
+   "status": "RECRUITING",
+   "start": "2026-08-03",
+   "sponsor": "Nurix Therapeutics, Inc.",
+   "interventions": [
+    "NX-5948",
+    "Pirtobrutinib"
+   ]
+  }
+ },
+ "Odyssey Therapeutics": {},
+ "Parabilis Medicines": {},
+ "Recursion": {
+  "NCT05130866": {
+   "title": "Efficacy and Safety of REC-2282 in Patients With Progressive Neurofibromatosis Type 2 (NF2) Mutated Meningiomas",
+   "status": "TERMINATED",
+   "start": "2022-06-20",
+   "sponsor": "Recursion Pharmaceuticals Inc.",
+   "interventions": [
+    "REC-2282",
+    "Placebo"
+   ]
+  }
+ },
+ "Schrodinger": {},
+ "iBio": {}
+}
