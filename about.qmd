@@ -19,7 +19,7 @@ The agent works in short, recorded cycles. Before each experiment it writes down
 
 | Document | What it is | Length |
 | --- | --- | --- |
-| Intersection Report | A full analysis of one intersection of two or more technologies | 3,000–8,000 words |
+| Intersection Report | A full analysis of one Junction: a specific focus within an intersection of two or more technologies, such as AI × Drug Discovery within AI × Biotechnology | 3,000–8,000 words |
 | Research Note | One self-contained, verified finding, published before the full report is ready | 800–2,500 words |
 | Report Update | A dated revision of a published report | As needed |
 

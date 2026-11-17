@@ -1,0 +1,315 @@
+{
+ "as_of": "2026-11-17",
+ "n": 32,
+ "added_candidates": [
+  "MDR-001",
+  "AC0682",
+  "AC176",
+  "AC699",
+  "AC676",
+  "AU-007 (imneskibart)",
+  "ADG126 (muzastotug)",
+  "ADG106",
+  "ADG116",
+  "bamlanivimab (LY-CoV555)",
+  "bebtelovimab (LY-CoV1404)",
+  "TAK-920/DNL919",
+  "ADG206",
+  "PHI-101 (lasmotinib)",
+  "DF-003",
+  "DF-006"
+ ],
+ "added_companies": [
+  "AbCellera (developed by Denali Therapeutics with Takeda)",
+  "AbCellera (developed by Eli Lilly)",
+  "Accutar Biotechnology",
+  "Adagene",
+  "Aulos Bioscience (designed by Biolojic Design)",
+  "Drug Farm",
+  "MindRank AI",
+  "Pharos iBio"
+ ],
+ "by_outcome": {
+  "active": 19,
+  "discontinued": 9,
+  "unknown": 3,
+  "superseded": 1
+ },
+ "members": {
+  "active": [
+   "DSP-0038",
+   "DSP-2342",
+   "GTAEXS617 (REC-617)",
+   "SGR-1505",
+   "MRT-2359",
+   "NX-1607",
+   "NX-5948 (bexobrutideg)",
+   "EVX-01",
+   "ISM001-055 (rentosertib)",
+   "MDR-001",
+   "AC699",
+   "AC676",
+   "AU-007 (imneskibart)",
+   "ADG126 (muzastotug)",
+   "ADG116",
+   "ADG206",
+   "PHI-101 (lasmotinib)",
+   "DF-003",
+   "DF-006"
+  ],
+  "discontinued": [
+   "EXS21546",
+   "DSP-1181",
+   "REC-3964",
+   "NX-2127 (zelebrudomide)",
+   "BEN-2293",
+   "ADG106",
+   "bamlanivimab (LY-CoV555)",
+   "bebtelovimab (LY-CoV1404)",
+   "TAK-920/DNL919"
+  ],
+  "unknown": [
+   "EXS4318",
+   "AC0682",
+   "AC176"
+  ],
+  "superseded": [
+   "EVX-02"
+  ]
+ },
+ "strict": {
+  "k": 9,
+  "n": 32,
+  "pct": 28.1,
+  "95ci": [
+   15.6,
+   45.4
+  ]
+ },
+ "broad": {
+  "k": 13,
+  "n": 32,
+  "pct": 40.6,
+  "95ci": [
+   25.5,
+   57.7
+  ]
+ },
+ "sensitivity": {
+  "strict_without_precedence_rule (bamlanivimab, bebtelovimab active)": {
+   "k": 7,
+   "n": 32,
+   "pct": 21.9,
+   "95ci": [
+    11.0,
+    38.8
+   ]
+  },
+  "strict_AC0682_AC176_discontinued": {
+   "k": 11,
+   "n": 32,
+   "pct": 34.4,
+   "95ci": [
+    20.4,
+    51.7
+   ]
+  },
+  "strict_without_NX-2127_stop (as of 2026-11-16 record)": {
+   "k": 8,
+   "n": 32,
+   "pct": 25.0,
+   "95ci": [
+    13.3,
+    42.1
+   ]
+  }
+ },
+ "phase3_or_later_sponsor_or_partner_trials": {
+  "k": 3,
+  "n": 32,
+  "pct": 9.4,
+  "95ci": [
+   3.2,
+   24.2
+  ],
+  "candidates": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)"
+  ]
+ },
+ "phase3_or_later_with_investigator_phase4": {
+  "k": 4,
+  "n": 32,
+  "pct": 12.5,
+  "95ci": [
+   5.0,
+   28.1
+  ],
+  "candidates": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)",
+   "bebtelovimab (LY-CoV1404)"
+  ]
+ },
+ "variants": {
+  "later_cutoff_with_Generate_34": {
+   "strict": {
+    "k": 10,
+    "n": 34,
+    "pct": 29.4,
+    "95ci": [
+     16.8,
+     46.2
+    ]
+   },
+   "broad": {
+    "k": 14,
+    "n": 34,
+    "pct": 41.2,
+    "95ci": [
+     26.4,
+     57.8
+    ]
+   },
+   "phase3_sponsor_or_partner": {
+    "k": 4,
+    "n": 34,
+    "pct": 11.8,
+    "95ci": [
+     4.7,
+     26.6
+    ]
+   }
+  },
+  "with_BEN-8744_target_only_33": {
+   "strict": {
+    "k": 9,
+    "n": 33,
+    "pct": 27.3,
+    "95ci": [
+     15.1,
+     44.2
+    ]
+   },
+   "broad": {
+    "k": 14,
+    "n": 33,
+    "pct": 42.4,
+    "95ci": [
+     27.2,
+     59.2
+    ]
+   }
+  },
+  "without_REC-3964_31": {
+   "strict": {
+    "k": 8,
+    "n": 31,
+    "pct": 25.8,
+    "95ci": [
+     13.7,
+     43.2
+    ]
+   }
+  },
+  "Sumitomo_DSP-0038_DSP-2342_unknown": {
+   "broad": {
+    "k": 15,
+    "n": 32,
+    "pct": 46.9,
+    "95ci": [
+     30.9,
+     63.6
+    ]
+   }
+  }
+ },
+ "stops_highest_sponsor_phase": {
+  "EXS21546": "Phase 1/2",
+  "DSP-1181": "Phase 1",
+  "REC-3964": "Phase 2",
+  "NX-2127 (zelebrudomide)": "Phase 1",
+  "BEN-2293": "Phase 1/2",
+  "ADG106": "Phase 1/2",
+  "bamlanivimab (LY-CoV555)": "Phase 3",
+  "bebtelovimab (LY-CoV1404)": "Phase 2/3",
+  "TAK-920/DNL919": "Phase 1"
+ },
+ "claim_split": {
+  "explicit": {
+   "n": 12,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 20,
+   "discontinued": 7
+  }
+ },
+ "original_16_now": {
+  "strict": {
+   "k": 5,
+   "n": 16,
+   "pct": 31.2,
+   "95ci": [
+    14.2,
+    55.6
+   ]
+  },
+  "broad": {
+   "k": 7,
+   "n": 16,
+   "pct": 43.8,
+   "95ci": [
+    23.1,
+    66.8
+   ]
+  }
+ },
+ "followup_years_dated": {
+  "min": 3.17,
+  "max": 8.17,
+  "min_candidate": "DF-003",
+  "max_candidate": "ADG106",
+  "start_bound_only": [
+   "DSP-1181",
+   "DSP-0038",
+   "DSP-2342",
+   "EXS4318",
+   "REC-3964",
+   "DF-006"
+  ]
+ },
+ "entered_trials_by_end_2022": 22,
+ "phase3_tiers_all_current_candidates": {
+  "explicit": 1,
+  "explicit_or_platform": 4,
+  "with_borderline": 6,
+  "with_bebtelovimab_sensitivity": {
+   "explicit": 1,
+   "explicit_or_platform": 5,
+   "with_borderline": 7
+  }
+ },
+ "drugsfda": {
+  "source_last_updated": "2026-11-16",
+  "original_approvals_2019_2026": 6767,
+  "nda_type1_or_bla": 516,
+  "hits": 2,
+  "latest_approval_date": "20261113"
+ },
+ "stop_reasons": {
+  "trial results": 2,
+  "portfolio": 3,
+  "other (regulatory)": 2,
+  "not stated": 2
+ },
+ "published_2026_11_16": {
+  "n": 16,
+  "strict": "4/16 = 25.0% (95% interval 10.2-49.5%)",
+  "broad": "6/16 = 37.5%",
+  "phase3": "2/16 = 12.5%",
+  "tiers": "1/3/5"
+ }
+}

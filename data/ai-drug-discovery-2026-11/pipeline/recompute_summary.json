@@ -1,0 +1,72 @@
+{
+ "attrition": {
+  "strict": "9/32",
+  "strict_pct": 28.1,
+  "strict_95ci": [
+   15.6,
+   45.4
+  ],
+  "broad": "13/32",
+  "broad_pct": 40.6,
+  "sens_without_precedence_rule": 21.9,
+  "sens_accutar_stops": 34.4,
+  "previous": {
+   "strict_pct": 25.0,
+   "broad_pct": 37.5
+  }
+ },
+ "phase1_to_2": {
+  "advanced": 9,
+  "resolved": 15,
+  "pct": 60.0,
+  "ci95": [
+   35.7,
+   80.2
+  ],
+  "matched_expected": 7.75,
+  "p_ge_observed_matched": 0.351,
+  "previous": "9/14 = 64.3%"
+ },
+ "signposts": {
+  "open_trials": 38,
+  "removed": [
+   "NCT04830137"
+  ],
+  "candidates": 17,
+  "confidence": {
+   "medium": 15,
+   "low": 23
+  }
+ },
+ "fda_action_floor": {
+  "zovegalisib (borderline, Phase 3)": {
+   "prep_6m": "2029-10",
+   "prep_12m": "2030-04",
+   "prep_18m": "2030-10"
+  },
+  "GB-0895 (platform, Phase 3)": {
+   "prep_6m": "2030-06",
+   "prep_12m": "2030-12",
+   "prep_18m": "2031-06"
+  },
+  "bexobrutideg (platform, Phase 2 accelerated-approval route NCT07221500)": {
+   "prep_6m": "2029-07",
+   "prep_12m": "2030-01",
+   "prep_18m": "2030-07"
+  },
+  "NX-5948 Phase 3 / rentosertib (explicit) Phase 3": {
+   "prep_6m": "2031-04",
+   "prep_12m": "2031-10",
+   "prep_18m": "2032-04"
+  }
+ },
+ "validation_lit": {
+  "on_topic": 9,
+  "data": 6,
+  "validation": 6,
+  "clinical_evidence": 0,
+  "regulation": 1,
+  "compute_tools": 0,
+  "no_barrier_named": 2
+ }
+}

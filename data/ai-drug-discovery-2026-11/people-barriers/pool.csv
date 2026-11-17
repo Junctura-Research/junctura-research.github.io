@@ -1,0 +1,34 @@
+company,criterion,item,reading,significant
+Insilico Medicine,C1,rentosertib (ISM001-055),main,True
+Nurix,C1,NX-5948 (bexobrutideg),main,True
+Generate,C1,GB-0895,main,True
+AbCellera,C1,bamlanivimab (LY-CoV555),main,True
+Relay,C1,zovegalisib (RLY-2608),sensitivity,False
+Structure Therapeutics,C1,aleniglipron,sensitivity,False
+AbCellera,C1,bebtelovimab (LY-CoV1404),sensitivity,True
+Recursion,C2,"Bayer 2023-11 $1,500M (platform-named)",main,True
+Schrödinger,C2,"Novartis 2024-11 $2,422M (computational)",sensitivity,False
+Nurix,C2,"Gilead nan $1,845M (explicit)",main,True
+Monte Rosa,C2,"Roche 2023-10 $2,050M (platform-named)",main,True
+Monte Rosa,C2,"Novartis 2024-10 $2,250M (none)",sensitivity,True
+Kymera,C2,"Sanofi 2020-07 $2,330M (none)",sensitivity,True
+Generate,C2,"Novartis 2024-09 $1,050M (platform-named)",main,True
+Parabilis,C2,"Regeneron 2026-05 $2,245M (platform-named)",main,True
+Isomorphic Labs,C2,"Eli Lilly 2024-01-07 $1,745M (explicit)",main,True
+Isomorphic Labs,C2,"Novartis 2024-01-07 $1,238M (explicit)",main,True
+Nabla Bio,C2,"Takeda 2025-10-14 $1,000M (explicit)",main,True
+Insilico Medicine,C2,"Sanofi 2022-11-08 $1,212M (explicit)",main,True
+Insilico Medicine,C2,"Eli Lilly 2026-03-29 $2,750M (explicit)",main,True
+CSPC Pharmaceutical,C2,"AstraZeneca 2024-10-07 $2,020M (none)",sensitivity,False
+CSPC Pharmaceutical,C2,"AstraZeneca 2025-06-13 $5,330M (explicit)",main,False
+CSPC Pharmaceutical,C2,"AstraZeneca 2026-01-30 $4,700M (explicit)",main,False
+Dyno Therapeutics,C2,"Roche 2020-10-14 $1,800M (explicit)",main,True
+Dyno Therapeutics,C2,"Roche 2024-10-24 $1,050M (explicit)",main,True
+Manifold Bio,C2,"Roche 2025-11-03 $2,055M (explicit)",main,False
+insitro,C2,"AstraZeneca 2026-10-15 $1,500M (explicit)",main,True
+Superluminal Medicines,C2,"Eli Lilly 2025-08-14 $1,300M (explicit)",main,True
+BioMap,C2,"Sanofi 2023-10-10 $1,010M (explicit)",main,False
+Atomwise,C2,"Sanofi 2022-08-17 $1,020M (explicit)",main,True
+insitro,C2,"Bristol Myers Squibb 2020-10-28 $2,070M (explicit)",main,True
+Valo Health,C2,"Novo Nordisk 2023-09-25 $2,700M (explicit)",main,True
+Valo Health,C2,"Novo Nordisk 2025-01-08 $4,600M (explicit)",main,True

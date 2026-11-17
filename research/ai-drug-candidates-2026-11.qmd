@@ -1,12 +1,14 @@
 ---
 title: "Status of AI-Linked Drug Candidates – November 2026"
-subtitle: "AI × Biotechnology: a Research Note"
-description: "As of November 2026, we found three drug candidates in Phase 3 that companies say were found or designed with AI, and no approved new molecule. Of 16 such candidates in trials by the end of 2023, 4 have been discontinued, all before Phase 3."
+subtitle: "Research Note · AI × Drug Discovery · AI × Biotechnology"
+description: "As of 17 November 2026, three drug candidates that companies say were found or designed with AI are in Phase 3, and no such new molecule is approved. Of 32 such candidates in trials by the end of 2023, 13 (40.6%) have been discontinued under our main rules; the stated rule readings give 20.7% to 40.6%. Updated from the version of 16 November 2026."
 date: 2026-11-16
-as-of: 2026-11-16
+date-modified: 2026-11-17
+as-of: 2026-11-17
 author: "Junctura Research"
 categories: [AI, biotechnology]
 document-type: research-note
+junction: ai-drug-discovery
 google-scholar: true
 ---
 
@@ -14,11 +16,24 @@ google-scholar: true
 This is independent research produced with AI tools under human review. The authors are not financial professionals, and nothing here is investment advice or a recommendation to buy or sell any security. AI analysis can be wrong; check every claim against its cited source. The authors may hold positions in companies discussed and do not trade in any company discussed before the related research is public.
 :::
 
+::: {.callout-important appearance="minimal"}
+**Updated 17 November 2026.** The dated cohort changed from 16 to 32 candidates, and all 16 additions were made after their outcomes were known. Its stop rate moved from 25% (4 of 16) to 40.6% (13 of 32). The move comes entirely from rules set after the data; without the evidence ranking set after the data, the 32 give 25.0% (8 of 32), the same rate as first published. Across rule readings, the rate runs from 20.7% to 40.6%. See the [Changelog](#changelog).
+:::
+
 ## Finding
 
-As of 16 November 2026, we found no new molecule approved by the US Food and Drug Administration (FDA) that a company says was discovered or designed with artificial intelligence (AI). We found three such candidates in Phase 3 trials, usually the last stage of testing before approval. All three Phase 3 programs started between December 2025 and September 2026. For two of the three, the company ties AI to its discovery platform, not to the specific molecule. Counting only explicit claims, where a company ties AI to the molecule itself or its target, one is in Phase 3. Adding two borderline candidates, whose platforms name machine learning as one ingredient among several, gives five.
+As of 17 November 2026, we found no new molecule approved by the US Food and Drug Administration (FDA) that a company says was discovered or designed with artificial intelligence (AI). Three such candidates are in Phase 3 trials, usually the last stage of testing before approval. For two, the company ties AI to its platform, not to the molecule. A fourth, the antibody bamlanivimab, reached Phase 3 in 2020; its emergency use authorization was revoked, and it was never approved. Counting only explicit claims, one candidate has reached Phase 3; with platform claims, four; with borderline cases, six.
 
-We also followed a fixed group of 16 candidates that companies had tied to AI in documents of the time, and that were in trials by the end of 2023. By November 2026, 4 of the 16 (25%) had been discontinued, all at Phase 1 or Phase 2. Two (12.5%) had reached Phase 3. With only 16 candidates, these shares are rough: the 95% range for the stop rate runs from about 10% to 50%.
+We also followed a fixed group of candidates tied to AI in company documents of the time and in trials by the end of 2023. Across rule readings, the share discontinued runs from 20.7% to 40.6%. Under our main rules, 13 of 32 candidates (40.6%; 95% interval 25.5–57.7%) have been discontinued. The whole move from the published 25% comes from rules set after the data: without the evidence ranking, the 32 give 8 (25.0%). All eight stops beyond the original 16 came from candidates added to the cohort after their outcomes were known. Three of the 32 (9.4%) reached Phase 3 in company or partner trials: rentosertib, bexobrutideg and bamlanivimab ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json), [code](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py)).
+
+Share discontinued, by cohort (rows) and outcome rule (columns); the grid was fixed before computing ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json)).
+
+| Cohort | Main rules | Accutar's two read as unknown | No ranking of evidence |
+| --- | ---: | ---: | ---: |
+| Original 16 | 5 of 16 (31.3%) | 5 of 16 (31.3%) | 4 of 16 (25.0%) |
+| 29: tier rule applied, before Recursion's three | 11 of 29 (37.9%) | 9 of 29 (31.0%) | 6 of 29 (20.7%) |
+| **Main cohort, 32** | **13 of 32 (40.6%)** | 11 of 32 (34.4%) | 8 of 32 (25.0%) |
+| All tiers, 38: borderline included | 14 of 38 (36.8%) | 12 of 38 (31.6%) | 8 of 38 (21.1%) |
 
 ## Evidence
 
@@ -26,103 +41,159 @@ We also followed a fixed group of 16 candidates that companies had tied to AI in
 
 We count a candidate when a company document says AI or machine learning (software that learns patterns from data) found or designed the molecule, or chose its target ("explicit"). We also count candidates from a discovery platform the company describes as AI-based, even when the document does not tie AI to that molecule ("platform only"). Three kinds of case are left out, because removing AI would leave the molecule unchanged:
 
-- AI used to find a new use for an existing drug;
+- AI used to find a new use for a drug already approved;
 - computer-aided design that the company does not describe as AI;
 - AI used only to design or run trials.
 
 A fourth group is reported separately as "borderline": platforms where machine learning is named as one ingredient among several.
 
-Almost all are company claims. Only for rentosertib did we find the AI claim in a peer-reviewed paper.
+### Three candidates in Phase 3, none approved
 
-### Three candidates at Phase 3, none approved
+A search of company filings and releases in November 2026 found 37 candidates from 17 companies that meet the definition above. Of these, 32 have a registered trial and 3 are at Phase 3 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/current-list/summary.json)).
 
-A search of company filings and releases in November 2026 found 37 candidates from 17 companies that meet the definition above. Thirty-two have a registered trial ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/current-list/summary.json)). Of these 32, 18 are at Phase 1, 7 at Phase 1/2, 4 at Phase 2 and 3 at Phase 3.
+- **Rentosertib (Insilico Medicine)** treats idiopathic pulmonary fibrosis (IPF), a progressive scarring of the lungs. A peer-reviewed Phase 2a paper calls it "a first-in-class AI-generated small-molecule inhibitor of TNIK, a first-in-class target in idiopathic pulmonary fibrosis (IPF) discovered using generative AI"[^natmed]. Its Phase 3 trial started on 2026-09-09; estimated primary completion is 2029-10-30[^ct-rento]. This is the one explicit claim among the three.
+- **Bexobrutideg (NX-5948, Nurix Therapeutics)** is being tested in chronic lymphocytic leukemia. Nurix says that "Both our wholly owned and partnered pipelines are driven by our DEL-AI discovery engine which employs advanced machine learning"[^nx25]. The claim is platform only. A Phase 3 trial against pirtobrutinib started on 2026-08-03[^ct-nx].
+- **GB-0895 (Generate Biomedicines)** is an antibody for severe asthma. Generate says it "utilizes our binding affinity and developability optimization modules", which are parts of the company's AI platform[^gen26]. This is also platform only. Two Phase 3 trials started on 2025-12-03 and 2026-01-20[^ct-gb1][^ct-gb2].
 
-- **Rentosertib (Insilico Medicine)** treats idiopathic pulmonary fibrosis (IPF), a progressive scarring of the lungs. A peer-reviewed Phase 2a paper calls it "a first-in-class AI-generated small-molecule inhibitor of TNIK, a first-in-class target in idiopathic pulmonary fibrosis (IPF) discovered using generative AI"[^natmed]. Its Phase 3 trial started on 2026-09-09 and is recruiting. The estimated primary completion date is 2029-10-30[^ct-rento]. This is the one explicit claim among the three.
-- **Bexobrutideg (NX-5948, Nurix Therapeutics)** is being tested in chronic lymphocytic leukemia. Nurix says that "Both our wholly owned and partnered pipelines are driven by our DEL-AI discovery engine which employs advanced machine learning"[^nx25]. The filing does not say which step machine learning performed for this molecule, so the claim is platform only. A Phase 3 trial against pirtobrutinib started on 2026-08-03. Its estimated primary completion is October 2029[^ct-nx].
-- **GB-0895 (Generate Biomedicines)** is an antibody for severe asthma. Generate says it "utilizes our binding affinity and developability optimization modules", which are parts of the company's AI platform[^gen26]. This is also a platform-only claim. Two Phase 3 trials started on 2025-12-03 and 2026-01-20. Their estimated primary completions are December 2028 and January 2029[^ct-gb1][^ct-gb2].
+A search of the FDA's Drugs@FDA database (openFDA) on 2026-11-16 returned no records for any of the three ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/raw/status_check.json))[^openfda]. On 2026-11-17 we searched all 25,670 original approvals in Drugs@FDA for 109 molecule names and code names from all tiers. The only new molecule found was lirafugratinib, a borderline candidate (below) ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c022_fda_names.json), [code](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c022_fda_names.py))[^ofda]. The one approval from a cohort developer, Denali Therapeutics, is for a product its SEC filings do not tie to AI ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/fda_hits.csv), [checks](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/ai_wording_checks.json)).
 
-A search of the FDA's Drugs@FDA database through its public interface (openFDA) on 2026-11-16 returned no records for any of the three ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/raw/status_check.json))[^openfda]. All their Phase 3 trials are still recruiting. The other 29 candidates with a registered trial are at Phase 2 or earlier.
+**An emergency authorization, not an approval.** AbCellera calls its platform "full-stack, AI-powered" and says it "applied our technology stack to co-develop LY-CoV555"[^abcl]; Lilly's trial record gives bamlanivimab as its other name[^nct044]. Eli Lilly tested it in Phase 3 in 2020 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/cohort_trials.csv)). Its emergency use authorization of 2020-11-09 was revoked on 2021-04-16, citing variants "resistant to bamlanivimab alone"[^fda21]; its authorization with etesevimab was revoked on 2023-12-14[^fdaarch]. AbCellera's bebtelovimab[^ab25] was authorized on 2022-02-11 and revoked on 2024-12-13[^fdaarch]. Lilly's own trials of it reached Phase 2/3, so it counts only in a sensitivity line ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/cohort_trials.csv)).
 
-**The count depends on the definition.** Two "borderline" candidates are also in Phase 3. Relay Therapeutics' RLY-2608 (zovegalisib) has a Phase 3 trial that started on 2025-08-26, and Structure Therapeutics' aleniglipron has two that started in July 2026 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/raw/status_check.json)). Both companies name machine learning as one part of a broader platform[^rlay][^gpcr]. They stay outside the headline count, because the tiers were defined before the data were collected.
+**The count depends on the definition.** Two borderline candidates are in Phase 3: Relay Therapeutics' RLY-2608 (zovegalisib), since 2025-08-26, and Structure Therapeutics' aleniglipron, since July 2026 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/raw/status_check.json)). Both companies name machine learning as one part of a broader platform[^rlay][^gpcr]. A third borderline molecule, Relay's lirafugratinib (RLY-4008), licensed to Elevar Therapeutics in December 2024[^rlay], was approved by the FDA on 2026-09-23 for a bile-duct cancer, after a Phase 1/2 trial[^lirl][^lirofda][^nct045]. Relay says RLY-4008's data "validated our Dynamo platform", which "combines advanced machine learning models and molecular dynamics simulations" with laboratory work[^rlay22]; it does not say machine learning designed the molecule. This is the first FDA approval of a molecule from a borderline-tier company; there is none in the explicit and platform tiers. All three stay outside the headline count.
 
-| Tier counted | Candidates in Phase 3 | Phase 3 count |
-| --- | --- | ---: |
-| Explicit only | rentosertib | 1 |
-| Explicit or platform only (headline) | rentosertib, bexobrutideg, GB-0895 | 3 |
-| Also borderline | the three above, RLY-2608 (zovegalisib), aleniglipron | 5 |
+| Tier counted | Candidates that reached Phase 3 | Count | First published |
+| --- | --- | ---: | ---: |
+| Explicit only | rentosertib | 1 | 1 |
+| Explicit or platform only (reached Phase 3 at any time; 3 now in Phase 3) | rentosertib, bexobrutideg, GB-0895, bamlanivimab | 4 | 3 |
+| Also borderline | the four above, RLY-2608 (zovegalisib), aleniglipron | 6 | 5 |
 
-**Approvals outside the definition.** AI-based platforms have led to approvals of existing molecules for new uses. BioXcel, for example, says its platform "led to the identification of dexmedetomidine, the rapid development of BXCL501, and its approval by the FDA as IGALMI"[^btai]. The same filing says dexmedetomidine was approved in 1999 as Precedex.
+Counting bebtelovimab gives 1, 5 and 7 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/note_update.json)). MindRank says its MDR-001 "has entered Phase III clinical trials" (company claim)[^mrh]. On ClinicalTrials.gov that trial is not yet recruiting[^nct072], so under our rule MDR-001 counts at Phase 2.
+
+**Approvals outside the definition.** BioXcel ties its IGALMI to its platform; the molecule, dexmedetomidine, was launched in the US in 1999 as Precedex[^btai].
 
 ### A list of current candidates hides the ones that stopped
 
-None of the 32 candidates with a registered trial had a stopped trial. That 0% is a product of the method: current filings describe the programs still running. So we built a dated group, called a cohort. A candidate entered it only if both conditions held:
+None of the current candidates with a registered trial had a stopped trial in the registry; NX-2127 has since been stopped by Nurix[^nrxq]. That 0% is a product of the method: current filings describe programs still running. So we built a dated group, called a cohort. A candidate entered it only if both conditions held:
 
 - a document of the time tied it to AI: an SEC annual or IPO filing filed by 2024-04-30, or another company document dated 2019–2023;
 - it was in a trial by 2023-12-31.
 
-The rule was written down before the outcomes were collected ([rules](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/README.md)). We then recorded each candidate's status as of 2026-11-16 from later filings, company pipelines and ClinicalTrials.gov ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/cohort/cohort_with_phase.csv)).
+The rule was written down before the outcomes were collected ([rules](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/README.md)). We then recorded each candidate's status as of 2026-11-17 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_cohort_main.csv)).
 
-Sixteen candidates from eight discovery companies met the rule. The cohort counts only cases where AI acted on the molecule (for two vaccines, by choosing their antigens, the parts the immune system is trained to recognize), or where the step is not stated. One candidate where AI chose only the target, BenevolentAI's BEN-8744 (status unknown), is left out. Including it would give 4 of 17 discontinued. Eight have explicit claims and eight platform-only claims. Their status on 2026-11-16 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.json)):
+**Why the cohort changed.** The first version drew only on the current list's 17 companies. A coverage check on 2026-11-17 found companies whose AI wording sits in older filings (Adagene, AbCellera), only in releases (Accutar, Aulos Bioscience with Biolojic Design, Pharos iBio, Drug Farm) or in China (MindRank). Sixteen of their candidates met the unchanged entry rule ([rows](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/new_rows.csv), except ADG104 and ADG125; [Drug Farm](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/drug_farm_rows.csv)). Six of them are borderline under the tier rule as written. Adagene lists AI as one of five parts of its platform[^ad22]; Drug Farm's platform "combines breakthrough technologies in genetics and AI"[^df].
 
-| Candidate | Company | AI claim | Highest phase | Status |
+Recursion's REC-994, REC-2282 and REC-4881 had been left out as new uses of existing drugs, but none is FDA-approved[^ofda]. Recursion's 2022 annual report says "The novel use of REC-994 for CCM was discovered leveraging this early form of the Recursion OS", with similar wording for the other two, and reports trials of all three under way[^rx22]. All three enter as platform only ([evidence](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c021_evidence.json)). Insilico's ISM5411 enters as explicit: a 2023-12-05 release says it was "Designed by AI from scratch"[^ism]; its Phase 1 trial started on 2023-11-08[^nct060]. The release calls it Insilico's "fifth AI-driven drug program to enter clinical trials", by our reading counting programs cleared for trials[^ism3091]: by December 2023, rentosertib, ISM3312 (China, February 2023)[^ins3cl], ISM3091 (FDA, April 2023)[^ins25], ISM8207 (China, July 2023)[^ism8207] and ISM5411. Two more enter as explicit ([evidence](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_evidence.json)). ISM3312, for COVID-19, was "generated and designed with the support of" Insilico's Chemistry42 platform[^ism3312] and was "in Phase I trials" by May 2023[^ism3091]. ISM3091, licensed to Exelixis as XL309, was "designed and optimized using" Chemistry42[^ism3091]; Exelixis took over its "ongoing phase 1 clinical trial" in late 2023[^exel23], and it is active[^exelq]. ISM8207, first dosed in a patient in 2024, does not enter[^ism8207].
+
+The main cohort has 32 candidates: 15 with explicit claims and 17 platform only. Apart from Recursion's three, it counts only cases where AI acted on the molecule (for two vaccines, by choosing their antigens) or the step is not stated. BenevolentAI's BEN-8744, where AI chose only the target, is left out.
+
+**Which evidence wins.** We rank evidence: regulator action, then a company or partner stop statement, then registry status, then pipeline listings. A candidate is "unknown" only when evidence of equal rank conflicts, or there is none. Both rules were set after the data were seen. The ranking decides five stops: bamlanivimab, bebtelovimab, NX-2127 (Nurix decided to "discontinue further clinical development of zelebrudomide"[^nrxq]; its trial still shows recruiting[^nct048]), AC0682 and AC176 (all trials terminated[^ac682][^ac176]; still on Accutar's undated pipeline page[^accp]).
+
+The 13 discontinued candidates in the main cohort ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json), [Accutar](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/accutar_trials.json), AI-claim sources: [cohort](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/cohort/cohort.csv), [added rows](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/new_rows.csv), [Recursion](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c021_evidence.json), [Insilico](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_evidence.json)):
+
+| Candidate | Company | AI claim | Highest phase | Reason given |
 | --- | --- | --- | --- | --- |
-| EXS21546 | Exscientia (now Recursion) | Explicit | Phase 1/2 | Discontinued |
-| DSP-1181 | Sumitomo Pharma, with Exscientia | Explicit | Phase 1 | Discontinued |
-| DSP-0038 | Sumitomo Pharma, with Exscientia | Explicit | Phase 1 | Active |
-| DSP-2342 | Sumitomo Pharma, with Exscientia | Explicit | Phase 1 | Active |
-| SGR-1505 | Schrödinger | Explicit | Phase 1 | Active |
-| EVX-01 | Evaxion | Explicit | Phase 2 | Active |
-| EVX-02 | Evaxion | Explicit | Phase 1/2 | Replaced by a successor |
-| Rentosertib | Insilico Medicine | Explicit | Phase 3 | Active |
-| EXS4318 | Bristol Myers Squibb, designed by Exscientia | Platform only | Phase 1 | Unknown |
-| REC-617 | Exscientia and GT Apeiron (now Recursion) | Platform only | Phase 1/2 | Active |
-| REC-3964 | Recursion | Platform only | Phase 2 | Discontinued |
-| MRT-2359 | Monte Rosa | Platform only | Phase 2 | Active |
-| NX-2127 | Nurix | Platform only | Phase 1 | Active |
-| NX-1607 | Nurix | Platform only | Phase 1 | Active |
-| Bexobrutideg (NX-5948) | Nurix | Platform only | Phase 3 | Active |
-| BEN-2293 | BenevolentAI | Platform only | Phase 1/2 | Discontinued |
+| EXS21546 | Exscientia (now Recursion) | Explicit[^exf1] | Phase 1/2 | Trial results[^ex23] |
+| DSP-1181 | Sumitomo Pharma, with Exscientia | Explicit[^sumi21] | Phase 1 | None stated[^sumi22] |
+| BEN-2293 | BenevolentAI | Platform only | Phase 1/2 | Trial results[^ben23][^ben24] |
+| REC-3964 | Recursion | Platform only[^rx22] | Phase 2 | Portfolio[^rx25] |
+| REC-994 | Recursion | Platform only[^rx22] | Phase 2 | Portfolio[^rx25] |
+| REC-2282 | Recursion | Platform only[^rx22] | Phase 2/3 | Portfolio[^rx25] |
+| NX-2127 | Nurix | Platform only[^nx20] | Phase 1 | Portfolio[^nrxq] |
+| AC0682 | Accutar Biotechnology | Explicit | Phase 1 | Portfolio ("development strategy was adjusted")[^ac682] |
+| AC176 | Accutar Biotechnology | Platform only | Phase 1 | Trial results ("benefit-risk ratio changes")[^ac176] |
+| TAK-920/DNL919 | AbCellera, with Denali Therapeutics | Platform only | Phase 1 | Portfolio ("strategic decision based on the totality of clinical data"; also cites the treatment landscape)[^dnl23] |
+| Bamlanivimab | AbCellera, with Eli Lilly | Platform only[^abcl] | Phase 3 | Authorization revoked[^fda21][^fdaarch] |
+| Bebtelovimab | AbCellera, with Eli Lilly | Platform only | Phase 2/3 | Authorization revoked[^fdaarch] |
+| ISM3312 | Insilico Medicine | Explicit[^ism3312] | Phase 1 | None stated[^ins25] |
 
-Highest phase is the ClinicalTrials.gov label among trials that have started, or the company's stated phase where no trial is registered there. In total, 10 are active, 4 discontinued (25.0%), 1 replaced and 1 unknown.
+Of the other 19, 17 are active, 1 was replaced by a successor (EVX-02) and 1 is unknown (EXS4318, no current evidence). Counting the replaced and unknown cases as stopped gives 15 of 32 (46.9%; 95% interval 30.9–63.6%).
 
-Counting the replaced and unknown cases as stopped gives 6 of 16 (37.5%).
+ISM3312 is absent from the pipeline chart in Insilico's 2025 annual report and its 2025 prospectus, with no partner or successor named, so the written rule counts it discontinued[^ins25]. Insilico's undated web page still shows "Phase I Completed"[^ins3cl]; reading it as unknown gives 12 of 32 (37.5%). XL309's registry record gives a start of 2024-04-03, after the cut-off[^nct059]; without it, 13 of 31 (41.9%). Without both, 12 of 30 (40.0%).
 
-The four discontinued candidates:
+BEN-2293 missed its "Secondary efficacy endpoints"[^ben23]. Recursion said REC-3964, REC-994 and REC-2282 "were discontinued and/or partnering opportunities are being pursued"[^rx25].
 
-- **EXS21546 (Exscientia), Phase 1/2.** In 2021 Exscientia called it one of the "first three AI-designed precision drug candidates to enter human clinical trials"[^exf1]. In its annual report for 2023, the company said it "stopped the Phase 1/2 clinical trial of EXS21546 after receiving information demonstrating that the drug candidate was not sufficiently promising to justify further clinical development"[^ex23].
-- **DSP-1181 (Sumitomo Pharma, designed with Exscientia), Phase 1.** Sumitomo described it in January 2021 as "a novel compound created by Sumitomo Dainippon Pharma using Exscientia's AI technologies"[^sumi21]. A year later Sumitomo's table of "Main revisions since the announcement of October 2021" listed it as "Deleted from the table due to discontinuation"[^sumi22]. No reason for the discontinuation was given.
-- **BEN-2293 (BenevolentAI), Phase 1/2 (a Phase IIa trial, in the company's words).** The trial met its safety goal, but "Secondary efficacy endpoints, to reduce itch and inflammation, were not achieved"[^ben23]. The company later confirmed "there will be no further investment in BEN-2293"[^ben24].
-- **REC-3964 (Recursion), Phase 2.** Recursion said in 2023 that the molecule "was identified with our brute-force approach which utilized phenomics"[^rx22]. In its annual report filed in February 2026, Recursion said that in a May 2025 reprioritization, REC-3964 and two other programs "were discontinued and/or partnering opportunities are being pursued"[^rx25]. We count it as discontinued, but the wording leaves room for a partner.
+In total, three stops followed trial results, six portfolio decisions and two lost authorizations; two had no stated reason. Explicit candidates: 4 of 15 stopped; platform only: 9 of 17.
 
-All four stopped before Phase 3. Two stops followed trial results: EXS21546 was "not sufficiently promising", and BEN-2293 missed its efficacy endpoints. One followed a portfolio reprioritization (REC-3964), and one was discontinued without a stated reason (DSP-1181). Of the eight explicit candidates, two stopped. Of the eight platform-only candidates, two stopped.
+**Other estimates.** A 2024 analysis reports Phase I success of 80–90% for AI-discovered molecules, and about 40% in Phase II on a limited sample[^jay]. We read only its abstract. Industry-wide in 2011–2020, 52.0% of candidates in Phase I moved on to Phase II[^bio]. In our main cohort, 12 of the 20 candidates whose Phase 1 outcome is settled reached Phase 2 (60.0%; 95% interval 38.7–78.1%). Industry rates matched by disease area predict 10.34 (one-sided p = 0.303), so the gap could be chance. Without Recursion's three, all of which reached Phase 2, the figure is 9 of 17 (52.9%; p = 0.568). Ten of its 13 stops were portfolio decisions, lost authorizations or unexplained; they say nothing about whether the AI step worked.
 
-Two of the 16 (12.5%; 95% range 4–36%) have reached Phase 3: rentosertib and bexobrutideg. None is approved.
+### All 32 main-cohort candidates
 
-**How much the numbers move.** Each of these changes is computed in [headline.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.py):
+Outcomes as of 2026-11-17. First trial is the earliest start date found; "or earlier" marks a company document that shows the trial under way by then, and "before" marks earlier trials whose start date we did not find ([table](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_cohort_main.csv), [code](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py)).
 
-- **Later cut-off.** For Generate Biomedicines, the only document of the time we opened is dated 2024-01-04. If that date is allowed, the cohort grows to 18. Then 5 of 18 (27.8%) are discontinued, 7 of 18 (38.9%) are discontinued, replaced or unknown, and 3 of 18 (16.7%) have reached Phase 3. The added stop is GB-0669, "paused due to changes in the commercial landscape related to PrEP agents for COVID-19"[^gen26].
-- **Without REC-3964,** whose AI tie and stop are the least clear-cut, 3 of 15 (20%) are discontinued.
-- **Sumitomo's two candidates.** DSP-0038 and DSP-2342 count as active because Sumitomo still lists them, but its current page gives no phase. Treated as unknown, they raise the share discontinued, replaced or unknown to 8 of 16 (50%).
+| Candidate | Company | AI claim | Highest phase | Outcome | First trial |
+| --- | --- | --- | --- | --- | --- |
+| EXS21546 | Exscientia (now Recursion) | Explicit | Phase 1/2 | Discontinued | 2020-12-08 |
+| DSP-1181 | Sumitomo Pharma (designed with Exscientia) | Explicit | Phase 1 | Discontinued | 2020-01 or earlier |
+| DSP-0038 | Sumitomo Pharma (designed with Exscientia) | Explicit | Phase 1 | Active | 2021 or earlier |
+| DSP-2342 | Sumitomo Pharma (designed with Exscientia) | Explicit | Phase 1 | Active | 2023 or earlier |
+| EXS4318 | Bristol Myers Squibb (designed by Exscientia) | Platform only | Phase 1 | Unknown | 2023 or earlier |
+| GTAEXS617 (REC-617) | Exscientia / GT Apeiron (now Recursion) | Platform only | Phase 1/2 | Active | 2023-07-06 |
+| REC-3964 | Recursion | Platform only | Phase 2 | Discontinued | 2023 or earlier |
+| SGR-1505 | Schrödinger | Explicit | Phase 1 | Active | 2023-04-10 |
+| MRT-2359 | Monte Rosa | Platform only | Phase 2 | Active | 2022-10-12 |
+| NX-2127 (zelebrudomide) | Nurix | Platform only | Phase 1 | Discontinued | 2021-05-05 |
+| NX-1607 | Nurix | Platform only | Phase 1 | Active | 2021-09-29 |
+| NX-5948 (bexobrutideg) | Nurix | Platform only | Phase 3 | Active | 2022-04-13 |
+| EVX-01 | Evaxion | Explicit | Phase 2 | Active | 2019-01-28 |
+| EVX-02 | Evaxion | Explicit | Phase 1/2 | Superseded | 2020-07-13 |
+| ISM001-055 (rentosertib) | Insilico Medicine | Explicit | Phase 3 | Active | 2021-12 |
+| BEN-2293 | BenevolentAI | Platform only | Phase 1/2 | Discontinued | 2020-10-14 |
+| MDR-001 | MindRank AI | Explicit | Phase 2 | Active | 2023-06-09 |
+| AC0682 | Accutar Biotechnology | Explicit | Phase 1 | Discontinued | 2021-11-12 |
+| AC176 | Accutar Biotechnology | Platform only | Phase 1 | Discontinued | 2022-03-16 |
+| AC699 | Accutar Biotechnology | Platform only | Phase 1 | Active | 2022-12-29 |
+| AC676 | Accutar Biotechnology | Platform only | Phase 1 | Active | 2023-06-20 |
+| AU-007 (imneskibart) | Aulos Bioscience (designed by Biolojic Design) | Explicit | Phase 1/2 | Active | 2022-04-04 |
+| bamlanivimab (LY-CoV555) | AbCellera (developed by Eli Lilly) | Platform only | Phase 3 | Discontinued | 2020-05-28 |
+| bebtelovimab (LY-CoV1404) | AbCellera (developed by Eli Lilly) | Platform only | Phase 2/3 | Discontinued | 2020-06-17 |
+| TAK-920/DNL919 | AbCellera (developed by Denali Therapeutics with Takeda) | Platform only | Phase 1 | Discontinued | 2022-07-14 |
+| PHI-101 (lasmotinib) | Pharos iBio | Explicit | Phase 1 | Active | 2020-06-08 |
+| REC-994 | Recursion | Platform only | Phase 2 | Discontinued | before 2022-03-17 |
+| REC-2282 | Recursion | Platform only | Phase 2/3 | Discontinued | 2022-06-20 |
+| REC-4881 | Recursion | Platform only | Phase 2 | Active | 2022 or earlier |
+| ISM5411 | Insilico Medicine | Explicit | Phase 2 | Active | 2023-11-08 |
+| ISM3312 | Insilico Medicine | Explicit | Phase 1 | Discontinued | 2023-05 or earlier |
+| ISM3091 (XL309) | Insilico Medicine (licensed to Exelixis) | Explicit | Phase 1 | Active | 2023 or earlier |
 
-**Other estimates.** An analysis of AI-native companies' pipelines published in 2024 reports Phase I success of 80–90% for AI-discovered molecules, and about 40% in Phase II on a limited sample[^jay]. We could read only its abstract. Its method differs from ours: it counts phase transitions, while we follow a dated cohort to a fixed date. A 25% stop rate across Phase 1 and Phase 2 does not contradict its figures. Across the whole industry in 2011–2020, 52.0% of candidates in Phase I moved on to Phase II, and 28.9% of candidates in Phase II moved on to Phase III[^bio]. Our cohort is too small and too young for a fair comparison with any of these rates. Two of its four stops were for portfolio reasons or had no stated reason, and say nothing about whether the AI step worked.
+**Borderline, outside the main cohort** ([table](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_cohort_all_tiers.csv)). Adagene: ADG126 (muzastotug), active; ADG106, discontinued; ADG116, active; ADG206, active. Drug Farm: DF-003 and DF-006, both active. Adagene "decided not to continue the development of ADG106". ADG206 "has completed phase 1 development"; only an investigator study "has been deprioritized and terminated"[^ad25]. Counting all six gives 14 of 38 (36.8%) discontinued.
 
 ## Method
 
-- **Current list (searched 2026-11-15 to 2026-11-16).** SEC EDGAR full-text search of 10-K, 20-F, S-1 and F-1 filings dated 2024-01-01 to 2026-11-15, using fixed AI and drug-discovery phrases, limited to pharmaceutical and biotechnology filers. We added up to 15 private and non-US companies named in those filings. Code and extracts: [current-list](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/current-list/).
-- **Dated cohort (2026-11-16).** Filings dated 2020-01-01 to 2024-04-30 from the SEC EDGAR submissions interface, and company documents dated 2019–2023. Outcomes traced in later filings and pipelines. Code, the hand-built table with quotes, and extracts: [cohort](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/cohort/).
-- **Trial phases.** ClinicalTrials.gov API version 2, matching candidate code names and generic names in each trial's intervention list. Highest phase counts only trials that have started. Because a trial may name a drug only by a generic name, we also listed every Phase 3 trial led by the 17 companies. It found no Phase 3 trial of any other candidate on our list ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/raw/sponsor_phase3_check.json)).
-- **Approvals.** The openFDA Drugs@FDA interface, searched by generic or code name.
-- **Counts and ranges in this Note.** Recomputed under the fixed cohort rule by [headline.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.py), with 95% Wilson score intervals. Present-day facts were rechecked on 2026-11-16 by [status_check.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/status_check.py). The full data appendix, with a guide to its files, is at <https://juncturaresearch.com/data/ai-drug-candidates-2026-11/>.
+- **Current list (searched 2026-11-15 to 2026-11-16).** SEC EDGAR full-text search of 10-K, 20-F, S-1 and F-1 filings dated 2024-01-01 to 2026-11-15, using fixed AI and drug-discovery phrases, limited to pharmaceutical and biotechnology filers. We added up to 15 private and non-US companies named in those filings. Code and extracts: [current-list](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/current-list/). It was not recounted under the reworded exclusion; Recursion's REC-4881, a Phase 2 candidate, would now qualify.
+- **Dated cohort (2026-11-16, revised 2026-11-17).** Filings dated 2020-01-01 to 2024-04-30 from the SEC EDGAR submissions interface, and company documents dated 2019–2023. Outcomes from later filings, FDA records, pipelines and registries. Code and tables: [cohort](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/cohort/) and [update-2026-11](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/).
+- **Rules applied as written (2026-11-17).** A script applies the tier rule and the entry rule to every candidate ([c023_recompute.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py)). ISM5411, ISM3312 and ISM3091 were added on 2026-11-17. The rules are now fixed.
+- **Trial phases.** ClinicalTrials.gov API version 2, matching candidate code names and generic names in each trial's intervention list. Highest phase counts only trials that have started; in the cohort, only trials run by the company or its development partner. A search of Phase 3 trials with any of 52 AI drug-discovery companies as lead sponsor or collaborator found no other qualifying molecule ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/phase3_by_sponsor.csv)).
+- **Phase 1 to Phase 2.** Advanced: a company or partner trial reached Phase 2. Failed: discontinued at Phase 1 or Phase 1/2. Expected counts use industry rates for oncology, infectious disease or all areas[^bio].
+- **Approvals.** openFDA Drugs@FDA bulk file (updated 2026-11-16): every original approval searched for 109 molecule names and code names from all tiers ([c022_fda_names.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c022_fda_names.py)); openFDA has no record under ISM3312, ISM3091, XL309 or ISM8207 ([c023_fda_check.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_fda_check.py), [output](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_fda_check.json)).
+- **Counts and ranges.** 95% Wilson score intervals, computed by [c023_recompute.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py) ([output](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json)); Phase 3 tier figures by [note_update.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/note_update.py); first-version figures by [headline.py](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.py). Full appendix: <https://juncturaresearch.com/data/ai-drug-candidates-2026-11/>.
 
 ## Limitations
 
-- **Company claims.** Except for rentosertib, the AI claims come from companies describing their own work. Half the cohort, and most of the current list, rests on platform-only claims, which do not show that AI shaped a given molecule. The line between "platform only" and "borderline" is a judgment. Nurix's 2020 filing, for example, names machine learning as one tool for sorting screening hits[^nx20]. A stricter reader could call its three cohort candidates borderline.
-- **Small and uneven.** Follow-up since first trial runs from about 3 to 7 years ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.json)), and candidates that look active may yet stop.
-- **Probably understated attrition.** We found the companies through filings from 2024 to 2026, and the companies those filings name. Companies whose AI programs failed and that stopped filing or publicizing before 2024 could not enter. That would push the stop rate down.
-- **Coverage.** Large drugmakers' own AI programs are not covered unless a partner names the candidate. Several private companies were not checked. Trials registered only outside ClinicalTrials.gov, for example in China, are missed. Private companies may never announce a stop. One person assigned every label.
-- **Near-term events.** We did not check the design history of molecules from large drugmakers that are close to approval. One example is Takeda's zasocitinib, for which the FDA has set an action date in the first quarter of 2027[^takeda]. Whether it, or another such molecule, meets this Note's definition is open. An approval of a qualifying molecule would change the finding.
-- **These are early-generation AI tools.** All 16 cohort candidates were in trials by the end of 2023, and at least 11 had entered trials by the end of 2022 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/checks/headline.json)). Their molecules were designed before they entered trials. We therefore estimate that the cohort reflects the AI tools in use up to about 2021, not current ones. This Note cannot say whether molecules designed with later tools will do better or worse, or whether AI raises success rates at all.
+- **Rules set after the data.** The evidence ranking, and our readings of the tier rule and of the new-use exclusion, were settled after the outcomes were seen. The grid in the Finding shows their effect: 20.7% to 40.6%. Rule questions from our adversarial review (SGR-2921, Lantern Pharma, Valo's OPL-0401, BPGbio, Relay and Structure candidates, Phase 1/2 counting, after-data rules that move the rate one way) are left for the next Report Update under the rule freeze.
+- **Additions after the outcomes were known.** Sixteen of the 32 candidates, and all eight stops beyond the original 16, were added after their outcomes were known.
+- **Company claims.** Except for rentosertib, the AI claims come from companies describing their own work. Seventeen of the 32 cohort candidates, and most of the current list, rest on platform-only claims, which do not show that AI shaped a given molecule. Nurix's 2020 filing names machine learning as one tool for sorting screening hits[^nx20]; a stricter reader could call its three candidates borderline.
+- **Small and uneven.** Follow-up since first trial runs from about 3 to 8 years ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/note_update.json)), and candidates that look active may yet stop.
+- **Coverage.** The first search missed candidates; others may remain. Companies whose AI programs failed and that went quiet before 2024 could not enter. Large drugmakers' own AI programs are covered only where a partner names the candidate. China's and Australia's trial registries did not return content to scripted requests. One person assigned every label.
+- **Near-term events.** We did not check the design history of large drugmakers' molecules close to approval, such as Takeda's zasocitinib, with an FDA action date in the first quarter of 2027[^takeda].
+- **These are early-generation AI tools.** All 32 cohort candidates were in trials by the end of 2023, and at least 22 by the end of 2022 ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_cohort_main.csv)). The cohort reflects AI tools in use up to about 2021, by our estimate. This Note cannot say whether later tools will do better, or whether AI raises success rates at all.
+
+## Changelog
+
+**2026-11-17 (Report Update).** Changes from the version of 2026-11-16. The headline stop rate moved from 25.0% (4 of 16; 95% interval 10–50%) to 40.6% (13 of 32; 25.5–57.7%) in seven steps. The move comes entirely from rules set after the data: without the precedence rule (set after the data), the main cohort of 32 gives 25.0% (8 of 32), the same rate as first published; the grid in the Finding shows every reading, 20.7% to 40.6%. Every rule below was applied by script ([code](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py), [data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json)).
+
+- **NX-2127 discontinued: 4 of 16 → 5 of 16 (31.3%).** Nurix decided in August 2026 to discontinue it[^nrxq]; the registry still shows its trial recruiting[^nct048]. The company statement outranks the registry under the evidence ranking below.
+- **Cohort repair, after the outcomes were known.** Coverage checks found 16 candidates at seven companies outside the first search (MindRank, Accutar, Aulos Bioscience with Biolojic Design, Adagene, AbCellera, Pharos iBio, Drug Farm). The entry rule was unchanged. With them the cohort had 32 candidates and 11 stops (34.4%). Counting Phase 3 only in trials run by the company or its partner was decided after the data were seen.
+- **Evidence ranking, set after the data were seen.** Regulator action, then a company or partner stop statement, then registry status, then a pipeline listing; "unknown" only when evidence of equal rank conflicts, or there is none. In the main cohort it decides five stops; without it, 8 of 32 (25.0%). An earlier reading of this Update, revised the same day, had counted Accutar's AC0682 and AC176 as unknown (9 of 32, 28.1%).
+- **Tier rule applied as written: 11 of 32 → 10 of 26 (38.5%).** Adagene's four and Drug Farm's two candidates name AI as one ingredient of a broader platform, so they are borderline and leave the main cohort. An earlier reading of this Update, revised the same day, counted them as platform only (11 of 32, 34.4%). With them, the all-tiers reading is now 14 of 38 (36.8%), with ISM5411, ISM3312 and ISM3091.
+- **Recursion's three re-tested: 10 of 26 → 12 of 29 (41.4%).** The new-use exclusion now covers only drugs already approved. REC-994, REC-2282 and REC-4881 had been excluded under it, but we found no approval for any of them[^ofda]. All three meet the entry rule[^rx22]. Recursion's 2025 annual report says REC-994 and REC-2282 "were discontinued and/or partnering opportunities are being pursued"[^rx25]; for REC-4881 Recursion reports an "ongoing Phase 1b/2 TUPELO trial"[^rxq3].
+- **ISM5411 added: 12 of 29 → 12 of 30 (40.0%).** A coverage check on 2026-11-17 found Insilico's 2023 release calling it "Designed by AI from scratch"[^ism]; it was in a Phase 1 trial from 2023-11-08[^nct060] and is active. It enters as explicit; the grid rows rise from 26 to 27 and from 35 to 36.
+- **Insilico's ISM3312 and ISM3091 added: 12 of 30 → 13 of 32 (40.6%).** Insilico's "fifth AI-driven drug program" count of December 2023 is, by our reading, of programs cleared for trials; the earlier text said three of them were not identified. ISM3312 enters as explicit[^ism3312], in a Phase 1 trial in China in 2023[^ism3091][^ins3cl], and is discontinued under the written rule: it is absent from Insilico's 2025 annual report pipeline chart, with no partner or successor stated[^ins25]; its undated web page shows "Phase I Completed"[^ins3cl] (as unknown: 12 of 32, 37.5%). ISM3091, licensed to Exelixis as XL309, enters as explicit[^ism3091] and is active at Phase 1[^exel23][^exelq]; its registry start is 2024-04-03[^nct059] (without it: 13 of 31, 41.9%). ISM8207 first dosed a patient in 2024 and does not enter[^ism8207]. The grid rows rise from 27 to 29 and from 36 to 38; the range is now 20.7% to 40.6% ([code](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_recompute.py), [data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_summary.json), [evidence](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_evidence.json)). openFDA has no record under any of the new names ([data](https://juncturaresearch.com/data/ai-drug-candidates-2026-11/update-2026-11/c023_fda_check.json)).
+- **Other figures.** Broad stop rate 37.5% → 46.9% (15 of 32). Phase 3 or later in the cohort: 2 of 16 → 3 of 32 (9.4%; company or partner trials); 4 with bebtelovimab. "All stopped before Phase 3" removed. Stop reasons now cover 13 stops: trial results 3, portfolio 6, lost authorizations 2, not stated 2. TAK-920/DNL919 is portfolio, on Denali's statement[^dnl23]. A Phase 1 to Phase 2 comparison was added: 12 of 20 (60.0%), 10.34 expected. Three sensitivity lines computed on the earlier 32-candidate reading (before the tier rule) (a later cut-off, without REC-3964, Sumitomo's two as unknown) were removed; they have not been recomputed for the main cohort.
+- **Phase 3 tiers:** 1 / 3 / 5 → 1 / 4 / 6, with bamlanivimab labeled as an emergency use authorization (revoked), not an approval. MindRank's Phase 3 claim added, labeled; the registry shows Phase 2.
+- **Approvals:** full Drugs@FDA check added, by molecule name and code name (109 names, 25,670 original approvals). A first check by sponsor (6,767 approvals from 2019) missed a licensed-out molecule.
+- **New information, not a correction: lirafugratinib approved.** The FDA approved Elevar's Lyrfigtu (lirafugratinib, RLY-4008, licensed from Relay) on 2026-09-23[^lirl]. It is borderline, like zovegalisib: Relay names machine learning as one part of its Dynamo platform and does not say it designed RLY-4008[^rlay22]. So the published sentence, no FDA-approved new molecule that a company says was discovered or designed with AI, held under the Note's definition. It is the first FDA approval of a molecule from a borderline-tier company.
+- **Text:** the 16-row cohort table became a 32-row table, with a list of the six borderline candidates and a table of the 13 stops; a table of rule readings was added; Finding, Method and Limitations updated.
+- **Correction.** Two first-trial dates were too late: EVX-01, 2022-09-19 → 2019-01-28 (NCT03715985[^nct037]; Evaxion's F-1: "commenced in January 2019"[^evxf1]); rentosertib, 2022-02-21 → 2021-12 (first volunteer dosed[^hkstp]). The follow-up sentence changed from "about 3 to 7 years" to "about 3 to 8 years". No count changed.
 
 ## References
 
@@ -135,7 +206,7 @@ Each source is given as a numbered footnote.
 [^gen26]: Generate Biomedicines, Inc., Form S-1/A, filed 2026-02-23, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/2100782/000119312526062362/ck0002100782-20260223.htm>, accessed 2026-11-16.
 [^ct-gb1]: ClinicalTrials.gov, NCT07276724, "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)." <https://clinicaltrials.gov/study/NCT07276724>, accessed 2026-11-16.
 [^ct-gb2]: ClinicalTrials.gov, NCT07359846, "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-2)." <https://clinicaltrials.gov/study/NCT07359846>, accessed 2026-11-16.
-[^openfda]: US Food and Drug Administration, openFDA Drugs@FDA interface, searched 2026-11-16 for "rentosertib", "bexobrutideg" and "GB-0895". <https://open.fda.gov/apis/drug/drugsfda/>, accessed 2026-11-16.
+[^openfda]: US Food and Drug Administration, openFDA Drugs@FDA interface, searched 2026-11-16 for "rentosertib", "bexobrutideg" and "GB-0895". <https://open.fda.gov/apis/drug/drugsfda/>; example query <https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:"rentosertib">, accessed 2026-11-16.
 [^rlay]: Relay Therapeutics, Inc., Form 10-K for 2025, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1812364/000119312526076739/rlay-20251231.htm>, accessed 2026-11-16.
 [^gpcr]: Structure Therapeutics Inc., Form 10-K for 2025, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1888886/000110465926020562/gpcr-20251231x10k.htm>, accessed 2026-11-16.
 [^btai]: BioXcel Therapeutics, Inc., Form 10-K for 2025, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1720893/000110465926036214/btai-20251231x10k.htm>, accessed 2026-11-16.
@@ -151,3 +222,38 @@ Each source is given as a numbered footnote.
 [^bio]: BIO, Informa Pharma Intelligence and QLS, "Clinical Development Success Rates and Contributing Factors 2011–2020," February 2021. <https://go.bio.org/rs/490-EHZ-999/images/ClinicalDevelopmentSuccessRates2011_2020.pdf>, accessed 2026-11-16.
 [^nx20]: Nurix Therapeutics, Inc., Form 10-K for the fiscal year ended 2020-11-30, filed 2021-02-16, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1549595/000156459021006071/nrix-10k_20201130.htm>, accessed 2026-11-16.
 [^takeda]: Takeda, "U.S. FDA Accepts New Drug Application Under Priority Review for Takeda's Zasocitinib in Moderate-to-Severe Plaque Psoriasis...," 2026-09-14 (company release). <https://www.takeda.com/newsroom/newsreleases/2026/fda-priority-review-zasocitinib-psoriasis/>, accessed 2026-11-16.
+[^ofda]: U.S. Food and Drug Administration, openFDA Drugs@FDA bulk download, as downloaded (meta last_updated 2026-11-16). <https://download.open.fda.gov/drug/drugsfda/drug-drugsfda-0001-of-0001.json.zip>, accessed 2026-11-17.
+[^abcl]: AbCellera Biologics Inc., Amendment No. 1 to Form S-1, dated 2020-11-24, EDGAR filing date 2020-11-25, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1703057/000119312520302988/d29983ds1a.htm>, accessed 2026-11-17.
+[^fda21]: U.S. Food and Drug Administration, "Coronavirus (COVID-19) Update: FDA Revokes Emergency Use Authorization for Monoclonal Antibody Bamlanivimab," 2021-04-16. <https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-revokes-emergency-use-authorization-monoclonal-antibody-bamlanivimab>, accessed 2026-11-17.
+[^fdaarch]: U.S. Food and Drug Administration, "Emergency Use Authorization — Archived Information" (entries for bamlanivimab and etesevimab, and for bebtelovimab). <https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization-archived-information>, accessed 2026-11-17.
+[^mrh]: MindRank, home page (company claim). <https://www.mindrank.ai/>, accessed 2026-11-17.
+[^nct072]: ClinicalTrials.gov, NCT07274137 (MDR-001), API record. <https://clinicaltrials.gov/api/v2/studies/NCT07274137>, accessed 2026-11-17.
+[^df]: Drug Farm, "Drug Farm doses first patient in Phase 1 trial for ALPK1 inhibitor, DF-003," Business Wire release of 2023-09-19, copy on BioSpace (company claim). <https://www.biospace.com/drug-farm-doses-first-patient-in-phase-1-trial-for-alpk1-inhibitor-df-003>, accessed 2026-11-17.
+[^nrxq]: Nurix Therapeutics, Inc., Form 10-Q for the quarter ended 2026-08-31, filed 2026-10-13, SEC EDGAR. <https://www.sec.gov/Archives/edgar/data/1549595/000154959526000049/nrix-20260831.htm>, accessed 2026-11-17.
+[^nct048]: ClinicalTrials.gov, NCT04830137 (NX-2127), API record, status "RECRUITING". <https://clinicaltrials.gov/api/v2/studies/NCT04830137>, accessed 2026-11-17.
+[^ad25]: Adagene Inc., Form 20-F for 2025, filed 2026-04-01, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1818838/000110465926038612/adag-20251231x20f.htm>, accessed 2026-11-17.
+[^ab25]: AbCellera Biologics Inc., Form 10-K for 2025, filed 2026-02-24, pipeline table and footnote 2, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1703057/000170305726000012/abcl-20251231.htm>, accessed 2026-11-17.
+[^accp]: Accutar Biotechnology, "Drug Pipeline" page, undated (company claim). <https://www.accutarbio.com/workflow>, accessed 2026-11-17.
+[^nct037]: ClinicalTrials.gov, NCT03715985, "Personalized Neo-antigen Vaccine in Advanced Solid Tumors (NeoPepVac)." <https://clinicaltrials.gov/study/NCT03715985>, accessed 2026-11-17.
+[^evxf1]: Evaxion Biotech A/S, Form F-1, 2021-01-08, SEC EDGAR. <https://www.sec.gov/Archives/edgar/data/1828253/000110465921002525/tm2031352-11_f1.htm>, accessed 2026-11-17.
+[^hkstp]: Insilico Medicine, "Insilico Medicine initiates first-in-human study of ISM001-055," release datelined 2021-12-01, copy on the Hong Kong Science and Technology Parks site (company claim). <https://www.hkstp.org/park-life/news-and-events/news/insilico-medicine-initiates-first-in-human-study-of-ism001-055-a-novel-drug-discovered-using-insi>, accessed 2026-11-17.
+[^ac682]: ClinicalTrials.gov, NCT05080842 and NCT05489679 (AC682), API records, status "TERMINATED", why stopped: "Voluntarily terminate the study since the sponsor's development strategy was adjusted." <https://clinicaltrials.gov/study/NCT05080842>, <https://clinicaltrials.gov/study/NCT05489679>, accessed 2026-11-17.
+[^ac176]: ClinicalTrials.gov, NCT05241613 and NCT05673109 (AC176), API records, status "TERMINATED", why stopped: "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study". <https://clinicaltrials.gov/study/NCT05241613>, <https://clinicaltrials.gov/study/NCT05673109>, accessed 2026-11-17.
+[^rxq3]: Recursion Pharmaceuticals, Inc., Form 10-Q for the quarter ended 2026-09-30, filed 2026-11-02, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm>, accessed 2026-11-17.
+[^ad22]: Adagene Inc., Form 20-F for 2022, filed 2023-04-28, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1818838/000110465923052043/adag-20221231x20f.htm>, accessed 2026-11-17.
+[^nct044]: ClinicalTrials.gov, NCT04427501, "A Study of LY3819253 (LY-CoV555) and LY3832479 (LY-CoV016) in Participants With Mild to Moderate COVID-19 Illness," API record; intervention LY3819253, other names "LY-CoV555" and "Bamlanivimab". <https://clinicaltrials.gov/api/v2/studies/NCT04427501>, accessed 2026-11-17.
+[^lirl]: U.S. Food and Drug Administration, approval letter for NDA 220425, Lyrfigtu (lirafugratinib) capsules, Elevar Therapeutics, signed 2026-09-23. <https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/220425Orig1s000ltr.pdf>, accessed 2026-11-17.
+[^lirofda]: U.S. Food and Drug Administration, openFDA Drugs@FDA record for NDA 220425 (sponsor Elevar, original approval 2026-09-23). <https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220425>, accessed 2026-11-17.
+[^nct045]: ClinicalTrials.gov, NCT04526106 (RLY-4008, Phase 1/2, start 2020-09-02). <https://clinicaltrials.gov/study/NCT04526106>, accessed 2026-11-17.
+[^rlay22]: Relay Therapeutics, Inc., Form 10-K for 2022, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1812364/000095017023004123/rlay-20221231.htm>, accessed 2026-11-17.
+[^ism]: Insilico Medicine, release of 2023-12-05 on ISM5411, verbatim copy on Kyodo News PR Wire (company release copy). <https://kyodonewsprwire.jp/release/202312053801>, accessed 2026-11-17.
+[^nct060]: ClinicalTrials.gov, NCT06012578 (ISM5411, Phase 1, start 2023-11-08, completed); Phase 2 trial NCT07265570 started 2025-12-10, recruiting. <https://clinicaltrials.gov/study/NCT06012578>, <https://clinicaltrials.gov/study/NCT07265570>, accessed 2026-11-17.
+[^dnl23]: Denali Therapeutics Inc., Form 10-K for 2023, filed 2024-02-28, SEC EDGAR (company claim). <https://www.sec.gov/Archives/edgar/data/1714899/000171489924000086/dnli-20231231.htm>, accessed 2026-11-17.
+[^ism3312]: Insilico Medicine, "Insilico Medicine sends first generative AI-designed drug for COVID-19 and variants to clinic," 2023-02-23, EurekAlert! copy (company claim). <https://www.eurekalert.org/news-releases/980646>, accessed 2026-11-17.
+[^ism3091]: Insilico Medicine, "Insilico Medicine receives IND approval for novel AI-designed USP1 inhibitor for cancer," 2023-05-25, EurekAlert! copy (company claim). <https://www.eurekalert.org/news-releases/990417>, accessed 2026-11-17.
+[^ism8207]: Insilico Medicine, release of 2024-05-15 on the first patient dosed with ISM8207 ("In July 2023, ISM8207 received IND approval from CDE"), EurekAlert! copy (company claim). <https://www.eurekalert.org/news-releases/1044804>, accessed 2026-11-17.
+[^ins3cl]: Insilico Medicine, 3CLpro pipeline page, undated (company claim): "We received the IND approval in February 2023 and initiated a Phase I clinical trial in China in March 2023"; "Project Status – Phase I Completed". <https://insilico.com/pipeline_target_3clpro>, accessed 2026-11-17.
+[^ins25]: Insilico Medicine Cayman TopCo, Annual Report 2025, HKEXnews, 2026-04-28, pipeline chart (no ISM3312 or 3CL entry), <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042803625.pdf>; and Global Offering prospectus, 2025-12-18 (company claim), on ISM3091: "We received IND approval from the FDA in April 2023, and we initiated a Phase Ia clinical trial in the U.S. in August 2023", <https://ir.insilico.com/media/rgwjwpqu/global-offering-en.pdf>, accessed 2026-11-17.
+[^exel23]: Exelixis, Inc., Form 10-K for fiscal 2023, filed 2024-02-06, SEC EDGAR: "In the fourth quarter of 2023, we completed the transfer of stewardship of the ongoing phase 1 clinical trial evaluating XL309 from Insilico to us." <https://www.sec.gov/Archives/edgar/data/939767/000093976724000028/exel-20231229.htm>, accessed 2026-11-17.
+[^exelq]: Exelixis, Inc., Form 10-Q, filed 2026-10-29, SEC EDGAR: "XL309 is currently being evaluated in a phase 1 clinical trial ... and enrollment is ongoing." <https://www.sec.gov/Archives/edgar/data/939767/000093976726000116/exel-20261002.htm>, accessed 2026-11-17.
+[^nct059]: ClinicalTrials.gov, NCT05932862 (XL309, sponsor Exelixis, Phase 1, actual start 2024-04-03, active, not recruiting). <https://clinicaltrials.gov/study/NCT05932862>, accessed 2026-11-17.

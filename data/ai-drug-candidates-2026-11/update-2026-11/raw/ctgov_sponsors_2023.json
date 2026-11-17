@@ -1,0 +1,697 @@
+{
+ "MindRank AI": {
+  "NCT06778850": {
+   "nct": "NCT06778850",
+   "title": "A Phase I/IIa Clinical Study to Assess the Single and Multiple Ascending Doses of MDR-001 Tablets in Healthy Participants and Obese/ Overweight Participants",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "COMPLETED",
+   "start": "2023-06-09",
+   "why_stopped": "",
+   "last_update": "2026-09-18",
+   "lead": "MindRank AI Ltd",
+   "collaborators": [],
+   "interventions": [
+    "MDR-001",
+    "palcebo"
+   ],
+   "other_names": []
+  }
+ },
+ "Accutar Biotechnology": {
+  "NCT05489679": {
+   "nct": "NCT05489679",
+   "title": "A Study of AC682 In Chinese Patients With ER+/HER2- Locally Advanced or Metastatic Breast Cancer",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "TERMINATED",
+   "start": "2022-10-01",
+   "why_stopped": "Voluntarily terminate the study since the sponsor's development strategy was adjusted.",
+   "last_update": "2024-01-25",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC682"
+   ],
+   "other_names": []
+  },
+  "NCT05241613": {
+   "nct": "NCT05241613",
+   "title": "A Study of AC176 for the Treatment of Metastatic Castration Resistant Prostate Cancer",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "TERMINATED",
+   "start": "2022-03-16",
+   "why_stopped": "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study",
+   "last_update": "2025-02-13",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC176"
+   ],
+   "other_names": []
+  },
+  "NCT05673109": {
+   "nct": "NCT05673109",
+   "title": "A Study of AC176 for the Treatment of Metastatic Castration Resistant Prostate Cancer",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "TERMINATED",
+   "start": "2023-02-22",
+   "why_stopped": "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study",
+   "last_update": "2024-01-25",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC176"
+   ],
+   "other_names": []
+  },
+  "NCT05780034": {
+   "nct": "NCT05780034",
+   "title": "A Study of AC676 for the Treatment of Relapsed/Refractory B-Cell Malignancies",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "RECRUITING",
+   "start": "2023-06-20",
+   "why_stopped": "",
+   "last_update": "2025-10-02",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC676"
+   ],
+   "other_names": []
+  },
+  "NCT05654532": {
+   "nct": "NCT05654532",
+   "title": "Study of AC699 in Patients With Estrogen Receptor Positive/Human Epidermal Growth Factor Receptor 2 Negative (ER+/HER2-) Locally Advanced or Metastatic Breast Cancer",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "ACTIVE_NOT_RECRUITING",
+   "start": "2022-12-29",
+   "why_stopped": "",
+   "last_update": "2025-09-30",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC699"
+   ],
+   "other_names": []
+  },
+  "NCT05080842": {
+   "nct": "NCT05080842",
+   "title": "A Study of AC682 for the Treatment of Locally Advanced or Metastatic ER+ Breast Cancer",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "TERMINATED",
+   "start": "2021-11-12",
+   "why_stopped": "Voluntarily terminate the study since the sponsor's development strategy was adjusted.",
+   "last_update": "2025-02-13",
+   "lead": "Accutar Biotechnology Inc",
+   "collaborators": [],
+   "interventions": [
+    "AC682"
+   ],
+   "other_names": []
+  }
+ },
+ "Biolojic Design / Aulos": {
+  "NCT05267626": {
+   "nct": "NCT05267626",
+   "title": "Study of AU-007, A Monoclonal Antibody That Binds to IL-2 and Inhibits IL-2R\u03b1 Binding, in Patients With Unresectable Locally Advanced or Metastatic Cancer",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "RECRUITING",
+   "start": "2022-04-04",
+   "why_stopped": "",
+   "last_update": "2026-09-18",
+   "lead": "Aulos Bioscience, Inc.",
+   "collaborators": [],
+   "interventions": [
+    "AU-007",
+    "Aldesleukin",
+    "Avelumab",
+    "Nivolumab"
+   ],
+   "other_names": []
+  }
+ },
+ "Adagene": {
+  "NCT03707093": {
+   "nct": "NCT03707093",
+   "title": "Study of CD137 Agonist ADG106 With Advanced or Metastatic Solid Tumors and/or Non-Hodgkin Lymphoma",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "COMPLETED",
+   "start": "2018-09-17",
+   "why_stopped": "",
+   "last_update": "2022-10-18",
+   "lead": "Adagene Inc",
+   "collaborators": [],
+   "interventions": [
+    "ADG106"
+   ],
+   "other_names": []
+  },
+  "NCT05491083": {
+   "nct": "NCT05491083",
+   "title": "Pembrolizumab and ADG106 in Advanced Solid Cancers and Triple Negative Breast Cancer",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "RECRUITING",
+   "start": "2023-06-12",
+   "why_stopped": "",
+   "last_update": "2025-07-25",
+   "lead": "National University Hospital, Singapore",
+   "collaborators": [
+    "Adagene Inc",
+    "Merck Sharp & Dohme LLC"
+   ],
+   "interventions": [
+    "Pembrolizumab & ADG106 (Phase Ib)",
+    "Pembrolizumab & ADG106 (Phase II)"
+   ],
+   "other_names": []
+  },
+  "NCT04775680": {
+   "nct": "NCT04775680",
+   "title": "Study of ADG106 In Combination With PD-1 Antibody In Advanced or Metastatic Solid Tumors and/or Non Hodgkin Lymphoma",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "TERMINATED",
+   "start": "2021-03-11",
+   "why_stopped": "The safety of ADG106 combined with triprilimab has been fully understood.The overall clinical benefit of enrolled subjects was limited and further development of ADG106 was reconsidered.",
+   "last_update": "2023-04-24",
+   "lead": "Adagene (Suzhou) Limited",
+   "collaborators": [],
+   "interventions": [
+    "ADG106 injection",
+    "PD-1 antibody injection"
+   ],
+   "other_names": []
+  },
+  "NCT04111445": {
+   "nct": "NCT04111445",
+   "title": "Study of ADG116 in Patients With Advanced/Metastatic Solid Tumors",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "TERMINATED",
+   "start": "2019-08-29",
+   "why_stopped": "Study discontinued due to business decision.",
+   "last_update": "2021-09-10",
+   "lead": "Adagene Inc",
+   "collaborators": [],
+   "interventions": [
+    "ADG116"
+   ],
+   "other_names": []
+  },
+  "NCT04645069": {
+   "nct": "NCT04645069",
+   "title": "ADG126, ADG126 in Combination With Anti PD1 Antibody, and ADG126 in Combination With ADG106 in Advanced/Metastatic Solid Tumors",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "COMPLETED",
+   "start": "2021-03-15",
+   "why_stopped": "",
+   "last_update": "2024-08-14",
+   "lead": "Adagene Inc",
+   "collaborators": [],
+   "interventions": [
+    "ADG126 Mono",
+    "ADG126-anti PD1",
+    "ADG126-ADG106"
+   ],
+   "other_names": []
+  },
+  "NCT05236608": {
+   "nct": "NCT05236608",
+   "title": "A Study to Evaluate the Combination of Nivolumab With ADG106 in Metastatic NSCLC",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "UNKNOWN",
+   "start": "2021-11-12",
+   "why_stopped": "",
+   "last_update": "2022-03-25",
+   "lead": "National University Hospital, Singapore",
+   "collaborators": [
+    "Adagene Inc",
+    "Bristol-Myers Squibb",
+    "Singapore Translational Cancer Consortium"
+   ],
+   "interventions": [
+    "Nivolumab",
+    "ADG106"
+   ],
+   "other_names": [
+    "Opdivo"
+   ]
+  },
+  "NCT05614258": {
+   "nct": "NCT05614258",
+   "title": "Study of ADG206 in Subjects With Advanced/Metastatic Solid Tumors",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "ACTIVE_NOT_RECRUITING",
+   "start": "2023-02-13",
+   "why_stopped": "",
+   "last_update": "2026-01-08",
+   "lead": "Adagene Inc",
+   "collaborators": [],
+   "interventions": [
+    "ADG206"
+   ],
+   "other_names": []
+  },
+  "NCT05277402": {
+   "nct": "NCT05277402",
+   "title": "ADG116 in Combination With Pembrolizumab in Patients With Advanced/Metastatic Solid Tumors",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "COMPLETED",
+   "start": "2022-02-09",
+   "why_stopped": "",
+   "last_update": "2024-02-26",
+   "lead": "Adagene Inc",
+   "collaborators": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "interventions": [
+    "ADG116"
+   ],
+   "other_names": [
+    "Pembrolizumab (KEYTRUDA\u00ae)"
+   ]
+  },
+  "NCT03802955": {
+   "nct": "NCT03802955",
+   "title": "Study of ADG106 With Advanced or Metastatic Solid Tumors and/or Non-Hodgkin Lymphoma",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "COMPLETED",
+   "start": "2018-12-20",
+   "why_stopped": "",
+   "last_update": "2023-04-24",
+   "lead": "Adagene (Suzhou) Limited",
+   "collaborators": [],
+   "interventions": [
+    "ADG106"
+   ],
+   "other_names": []
+  },
+  "NCT05275777": {
+   "nct": "NCT05275777",
+   "title": "A Phase Ib Safety lead-in, Followed by Phase II Trial of ADG106 in Combination With Neoadjuvant Chemotherapy in HER2 Negative Breast Cancer",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "ACTIVE_NOT_RECRUITING",
+   "start": "2022-05-19",
+   "why_stopped": "",
+   "last_update": "2025-07-25",
+   "lead": "National University Hospital, Singapore",
+   "collaborators": [
+    "Adagene Inc"
+   ],
+   "interventions": [
+    "ADG106",
+    "Doxorubicin",
+    "Cyclophosphamide",
+    "Paclitaxel"
+   ],
+   "other_names": [
+    "Adriamycin",
+    "Cytophosphane",
+    "Taxol"
+   ]
+  },
+  "NCT05405595": {
+   "nct": "NCT05405595",
+   "title": "ADG126 in Combination With Pembrolizumab in Patients With Advanced/Metastatic Solid Tumors",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "RECRUITING",
+   "start": "2022-06-15",
+   "why_stopped": "",
+   "last_update": "2026-11-02",
+   "lead": "Adagene Inc",
+   "collaborators": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "interventions": [
+    "ADG126",
+    "Pembrolizumab (KEYTRUDA\u00ae)",
+    "Standard of Care (Trifluridine/Tipiracil-Bevacizumab)",
+    "Standard of care (Fruquintinib)"
+   ],
+   "other_names": [
+    "KEYTRUDA\u00ae",
+    "Lonsurf and Avastin",
+    "Fruzaqla"
+   ]
+  },
+  "NCT04524871": {
+   "nct": "NCT04524871",
+   "title": "A Study Evaluating the Efficacy and Safety of Multiple Immunotherapy-Based Treatment Combinations in Patients With Advanced Liver Cancers (Morpheus-Liver)",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "status": "ACTIVE_NOT_RECRUITING",
+   "start": "2020-11-01",
+   "why_stopped": "",
+   "last_update": "2026-09-03",
+   "lead": "Hoffmann-La Roche",
+   "collaborators": [
+    "Adagene Inc",
+    "Tempest Therapeutics",
+    "NiKang Therapeutics, Inc.",
+    "Immune-Onc Therapeutics"
+   ],
+   "interventions": [
+    "Atezolizumab",
+    "Bevacizumab 15 mg/kg",
+    "Tiragolumab",
+    "Tocilizumab",
+    "TPST-1120",
+    "Tobemstomig 2100 mg",
+    "Bevacizumab 10 mg/kg",
+    "Tobemstomig 600 mg",
+    "Tobemstomig 1200 mg",
+    "ADG126",
+    "IO-108 1800 mg",
+    "NKT2152",
+    "IO-108 1200 mg"
+   ],
+   "other_names": [
+    "Tecentriq",
+    "Avastin",
+    "Actemra",
+    "Avastin"
+   ]
+  },
+  "NCT04501276": {
+   "nct": "NCT04501276",
+   "title": "A Phase 1b/2 Study of ADG116, ADG116 Combined With Anti-PD-1 Antibody or Anti-CD137 Antibody in Solid Tumors Patients",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-09-23",
+   "why_stopped": "",
+   "last_update": "2026-01-08",
+   "lead": "Adagene Inc",
+   "collaborators": [],
+   "interventions": [
+    "ADG116",
+    "ADG106",
+    "anti PD1 drug"
+   ],
+   "other_names": []
+  }
+ },
+ "AbCellera (and Lilly)": {
+  "NCT04427501": {
+   "nct": "NCT04427501",
+   "title": "A Study of LY3819253 (LY-CoV555) and LY3832479 (LY-CoV016) in Participants With Mild to Moderate COVID-19 Illness",
+   "phases": [
+    "PHASE2",
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-06-17",
+   "why_stopped": "",
+   "last_update": "2024-04-11",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "AbCellera Biologics Inc.",
+    "Shanghai Junshi Bioscience Co., Ltd."
+   ],
+   "interventions": [
+    "LY3819253",
+    "LY3832479",
+    "LY3853113",
+    "Placebo"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "Bamlanivimab",
+    "LY-CoV016",
+    "Etesevimab",
+    "bebtelovimab"
+   ]
+  },
+  "NCT04701658": {
+   "nct": "NCT04701658",
+   "title": "A Real World Study of Bamlanivimab in Participants With Mild-to-Moderate Coronavirus Disease 2019 (COVID-19)",
+   "phases": [
+    "PHASE2"
+   ],
+   "status": "COMPLETED",
+   "start": "2021-02-01",
+   "why_stopped": "",
+   "last_update": "2021-11-16",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "AbCellera Biologics Inc."
+   ],
+   "interventions": [
+    "Bamlanivimab"
+   ],
+   "other_names": [
+    "LY3819253",
+    "LY-CoV555"
+   ]
+  },
+  "NCT04497987": {
+   "nct": "NCT04497987",
+   "title": "A Study of LY3819253 (LY-CoV555) and LY3832479 (LY-CoV016) in Preventing SARS-CoV-2 Infection and COVID-19 in Nursing Home Residents and Staff",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-08-02",
+   "why_stopped": "",
+   "last_update": "2022-02-04",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "National Institute of Allergy and Infectious Diseases (NIAID)",
+    "AbCellera Biologics Inc.",
+    "Shanghai Junshi Bioscience Co., Ltd."
+   ],
+   "interventions": [
+    "Bamlanivimab",
+    "Placebo",
+    "Etesevimab"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "LY3819253",
+    "LY-CoV016",
+    "LY3832479"
+   ]
+  },
+  "NCT04634409": {
+   "nct": "NCT04634409",
+   "title": "A Study of Immune System Proteins in Participants With Mild to Moderate COVID-19 Illness",
+   "phases": [
+    "PHASE2"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-10-29",
+   "why_stopped": "",
+   "last_update": "2022-07-01",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "AbCellera Biologics Inc.",
+    "Shanghai Junshi Bioscience Co., Ltd.",
+    "GlaxoSmithKline",
+    "Vir Biotechnology, Inc."
+   ],
+   "interventions": [
+    "Bamlanivimab",
+    "Etesevimab",
+    "Placebo",
+    "VIR-7831",
+    "Bebtelovimab"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "LY3819253",
+    "LY-CoV016",
+    "LY3832479",
+    "GSK4182136",
+    "LY-CoV1404, LY3853113"
+   ]
+  },
+  "NCT04411628": {
+   "nct": "NCT04411628",
+   "title": "A Study of LY3819253 (LY-CoV555) in Participants Hospitalized for COVID-19",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-05-28",
+   "why_stopped": "",
+   "last_update": "2021-11-12",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "AbCellera Biologics Inc."
+   ],
+   "interventions": [
+    "LY3819253",
+    "Placebo"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "Bamlanivimab"
+   ]
+  }
+ },
+ "Pharos iBio": {
+  "NCT04842370": {
+   "nct": "NCT04842370",
+   "title": "Evaluation of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of PHI 101 for the Treatment of AML",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "UNKNOWN",
+   "start": "2020-06-08",
+   "why_stopped": "",
+   "last_update": "2021-04-20",
+   "lead": "Seoul National University Hospital",
+   "collaborators": [
+    "Pharos iBio Co., Ltd."
+   ],
+   "interventions": [
+    "PHI-101"
+   ],
+   "other_names": []
+  },
+  "NCT04701814": {
+   "nct": "NCT04701814",
+   "title": "The Effect of Biomechanical Scapular Mobilization With Movement and Motor Learning",
+   "phases": [
+    "NA"
+   ],
+   "status": "COMPLETED",
+   "start": "2021-05-05",
+   "why_stopped": "",
+   "last_update": "2022-05-18",
+   "lead": "Pharos University in Alexandria",
+   "collaborators": [],
+   "interventions": [
+    "biomechanical scapular mobilization with movement and motor learning"
+   ],
+   "other_names": []
+  },
+  "NCT04678102": {
+   "nct": "NCT04678102",
+   "title": "Chk2 Inhibitor for Recurrent EpitheliAl periToneal, fallopIan or oVarian cancEr (CREATIVE Phase IA Trial)",
+   "phases": [
+    "PHASE1"
+   ],
+   "status": "UNKNOWN",
+   "start": "2020-12-17",
+   "why_stopped": "",
+   "last_update": "2023-06-26",
+   "lead": "Seoul National University Hospital",
+   "collaborators": [
+    "Pharos iBio Co., Ltd."
+   ],
+   "interventions": [
+    "PHI-101 administration"
+   ],
+   "other_names": [
+    "PHI-101"
+   ]
+  },
+  "NCT02094703": {
+   "nct": "NCT02094703",
+   "title": "The Efficacy of Solifenacin Succinate as Adjuvant Therapy for Urinary Tract Infection in Females",
+   "phases": [
+    "PHASE4"
+   ],
+   "status": "UNKNOWN",
+   "start": "2013-04",
+   "why_stopped": "",
+   "last_update": "2014-03-24",
+   "lead": "Dr Cipto Mangunkusumo General Hospital",
+   "collaborators": [
+    "Astellas Pharma Indonesia Inc.",
+    "Pharos Life Corporation"
+   ],
+   "interventions": [
+    "Levofloxacin",
+    "Solifenacin succinate",
+    "Placebo (for Solifenacin succinate)"
+   ],
+   "other_names": [
+    "neslav"
+   ]
+  },
+  "NCT05366985": {
+   "nct": "NCT05366985",
+   "title": "Dimensional Changes of the Labial Alveolar Ridge After Socket Shield Technique With Computer Guided Root Sectioning",
+   "phases": [
+    "NA"
+   ],
+   "status": "UNKNOWN",
+   "start": "2021-09-01",
+   "why_stopped": "",
+   "last_update": "2022-05-11",
+   "lead": "Pharos University in Alexandria",
+   "collaborators": [
+    "Alexandria University"
+   ],
+   "interventions": [
+    "Socket shield technique with computer guided sectioning of the root"
+   ],
+   "other_names": []
+  },
+  "NCT06428474": {
+   "nct": "NCT06428474",
+   "title": "Implementation of Oral Health Educational Program on Orphan Children",
+   "phases": [
+    "NA"
+   ],
+   "status": "COMPLETED",
+   "start": "2023-09-01",
+   "why_stopped": "",
+   "last_update": "2024-05-24",
+   "lead": "Pharos University in Alexandria",
+   "collaborators": [],
+   "interventions": [
+    "Health education"
+   ],
+   "other_names": []
+  }
+ }
+}

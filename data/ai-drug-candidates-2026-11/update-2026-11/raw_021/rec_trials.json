@@ -1,0 +1,54 @@
+{
+ "REC-994": [
+  {
+   "nct": "NCT05085561",
+   "title": "The Symptomatic Cerebral Cavernous Malformation Trial of REC-994",
+   "status": "COMPLETED",
+   "start": "2022-03-17",
+   "phases": [
+    "PHASE2"
+   ],
+   "sponsor": "Recursion Pharmaceuticals Inc.",
+   "whyStopped": null
+  }
+ ],
+ "REC-2282": [
+  {
+   "nct": "NCT05130866",
+   "title": "Efficacy and Safety of REC-2282 in Patients With Progressive Neurofibromatosis Type 2 (NF2) Mutated Meningiomas",
+   "status": "TERMINATED",
+   "start": "2022-06-20",
+   "phases": [
+    "PHASE2",
+    "PHASE3"
+   ],
+   "sponsor": "Recursion Pharmaceuticals Inc.",
+   "whyStopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns with REC-2282."
+  }
+ ],
+ "REC-4881": [
+  {
+   "nct": "NCT05552755",
+   "title": "Evaluate REC-4881 in Participants With Familial Adenomatous Polyposis (FAP)",
+   "status": "RECRUITING",
+   "start": "2023-07-10",
+   "phases": [
+    "PHASE1",
+    "PHASE2"
+   ],
+   "sponsor": "Recursion Pharmaceuticals Inc.",
+   "whyStopped": null
+  },
+  {
+   "nct": "NCT06005974",
+   "title": "A Study of REC-4881 in Participants With Cancers Which Have an AXIN1 or APC Mutation",
+   "status": "TERMINATED",
+   "start": "2024-01-15",
+   "phases": [
+    "PHASE2"
+   ],
+   "sponsor": "Recursion Pharmaceuticals Inc.",
+   "whyStopped": "Study was terminated due to sponsor decision. This decision was not related to safety concerns."
+  }
+ ]
+}

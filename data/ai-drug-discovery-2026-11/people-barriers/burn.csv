@@ -1,0 +1,13 @@
+company,form,period,unit,op_cash_flow,op_tag,cash,cash_tag,securities_tagged,securities_tags
+Recursion,10-K,2025-12-31,USD,-371808000,NetCashProvidedByUsedInOperatingActivities,743294000,CashAndCashEquivalentsAtCarryingValue,0.0,
+Exscientia,20-F,2023-12-31,GBP,-117602000,CashFlowsFromUsedInOperatingActivities,257568000,CashAndCashEquivalents,0.0,
+Schrodinger,10-K,2025-12-31,USD,13899000,NetCashProvidedByUsedInOperatingActivities,230517000,CashAndCashEquivalentsAtCarryingValue,164947000.0,MarketableSecuritiesCurrent
+Absci,10-K,2025-12-31,USD,-92925000,NetCashProvidedByUsedInOperatingActivities,20025000,CashAndCashEquivalentsAtCarryingValue,136067000.0,MarketableSecuritiesCurrent;MarketableSecuritiesNoncurrent
+Evaxion,20-F,2025-12-31,USD,-6625000,CashFlowsFromUsedInOperatingActivities,23234000,CashAndCashEquivalents,0.0,
+Nurix,10-K,2025-11-30,USD,-249465000,NetCashProvidedByUsedInOperatingActivities,246960000,CashAndCashEquivalentsAtCarryingValue,0.0,
+Compugen,20-F,2025-12-31,USD,31634000,NetCashProvidedByUsedInOperatingActivities,90597000,CashAndCashEquivalentsAtCarryingValue,9284000.0,MarketableSecuritiesCurrent
+iBio,10-K,2026-06-30,USD,-23218000,NetCashProvidedByUsedInOperatingActivities,56395000,CashAndCashEquivalentsAtCarryingValue,31644000.0,AvailableForSaleSecuritiesDebtSecuritiesCurrent
+Monte Rosa,10-K,2025-12-31,USD,-22798000,NetCashProvidedByUsedInOperatingActivities,129883000,CashAndCashEquivalentsAtCarryingValue,0.0,
+Kymera,10-K,2025-12-31,USD,-232891000,NetCashProvidedByUsedInOperatingActivities,357011000,CashAndCashEquivalentsAtCarryingValue,1262423000.0,AvailableForSaleSecuritiesDebtSecuritiesCurrent;AvailableForSaleSecuritiesDebtSecuritiesNoncurrent
+Relay,10-K,2025-12-31,USD,-235455000,NetCashProvidedByUsedInOperatingActivities,84018000,CashAndCashEquivalentsAtCarryingValue,0.0,
+Eikon,10-K,2025-12-31,,not tagged,,not tagged,,0.0,

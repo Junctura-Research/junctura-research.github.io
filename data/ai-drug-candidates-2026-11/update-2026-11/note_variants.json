@@ -1,0 +1,107 @@
+{
+ "strict": {
+  "k": 11,
+  "n": 32,
+  "pct": 34.4,
+  "95ci": [
+   20.4,
+   51.7
+  ]
+ },
+ "broad": {
+  "k": 13,
+  "n": 32,
+  "pct": 40.6,
+  "95ci": [
+   25.5,
+   57.7
+  ]
+ },
+ "phase3_or_later_sponsor_or_partner": {
+  "k": 3,
+  "n": 32,
+  "pct": 9.4,
+  "95ci": [
+   3.2,
+   24.2
+  ],
+  "candidates": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)"
+  ]
+ },
+ "later_cutoff_with_Generate_34": {
+  "strict": {
+   "k": 12,
+   "n": 34,
+   "pct": 35.3,
+   "95ci": [
+    21.5,
+    52.1
+   ]
+  },
+  "broad": {
+   "k": 14,
+   "n": 34,
+   "pct": 41.2,
+   "95ci": [
+    26.4,
+    57.8
+   ]
+  },
+  "phase3": {
+   "k": 4,
+   "n": 34,
+   "pct": 11.8,
+   "95ci": [
+    4.7,
+    26.6
+   ]
+  }
+ },
+ "with_BEN-8744_target_only_33": {
+  "strict": {
+   "k": 11,
+   "n": 33,
+   "pct": 33.3,
+   "95ci": [
+    19.8,
+    50.4
+   ]
+  },
+  "broad": {
+   "k": 14,
+   "n": 33,
+   "pct": 42.4,
+   "95ci": [
+    27.2,
+    59.2
+   ]
+  }
+ },
+ "without_REC-3964_31": {
+  "strict": {
+   "k": 10,
+   "n": 31,
+   "pct": 32.3,
+   "95ci": [
+    18.6,
+    49.9
+   ]
+  }
+ },
+ "Sumitomo_DSP-0038_DSP-2342_unknown": {
+  "broad": {
+   "k": 15,
+   "n": 32,
+   "pct": 46.9,
+   "95ci": [
+    30.9,
+    63.6
+   ]
+  }
+ },
+ "original_16_discontinued_now": 5,
+ "stops_at_phase2_or_earlier_excluding_revoked_authorizations": 9
+}

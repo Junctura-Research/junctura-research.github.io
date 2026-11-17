@@ -1,0 +1,41 @@
+company,fy,collab_revenue,named_partner_revenue,coverage,top20_revenue,top20_share,assessed,top20_partners,other_partners
+Absci,2021,4.782,0.0,0.0,0.0,,False,,
+Absci,2022,5.747,0.0,0.0,0.0,,False,,
+Absci,2023,5.718,0.0,0.0,0.0,,False,,
+Absci,2024,4.534,0.0,0.0,0.0,,False,,
+Absci,2025,2.8,0.0,0.0,0.0,,False,,
+Generate,2024,20.459,20.5,1.002,20.5,1.0,True,Amgen; Novartis,
+Generate,2025,31.893,31.8,0.997,31.8,0.997,True,Amgen; Novartis,
+Iambic,2024,1.194,1.2,1.005,0.0,0.0,True,,Lundbeck
+Iambic,2025,9.426,9.4,0.997,0.0,0.0,True,,Lundbeck; Revolution Medicines (RevMed)
+Insilico Medicine,2022,28.648,25.399,0.887,8.333,0.291,True,Sanofi,"Fosun Industrial Co., Limited (and its subsidiary)"
+Insilico Medicine,2023,47.818,46.539,0.973,4.167,0.087,True,Sanofi,"Exelixis, Inc.; Fosun Industrial Co., Limited"
+Insilico Medicine,2024,81.864,78.748,0.962,0.3,0.004,True,Sanofi,"Exelixis, Inc.; Fosun Industrial Co., Limited; Stemline Therapeutics Inc. (Menarini Group), Stemline Agreement (undisclosed pre-clinical asset); Stemline Therapeutics Inc. (Menarini Group), Stemline KAT6 Agreement (ISM5043)"
+Insilico Medicine,2025,51.326,0.0,0.0,0.0,,False,,
+Kymera,2021,72.832,72.8,1.0,54.3,0.746,True,Sanofi,Vertex
+Kymera,2022,46.826,46.8,0.999,36.0,0.769,True,Sanofi,Vertex
+Kymera,2023,78.592,78.6,1.0,70.2,0.893,True,Sanofi,Vertex
+Kymera,2024,47.072,47.1,1.001,47.1,1.0,True,Sanofi,
+Kymera,2025,39.211,39.2,1.0,39.2,1.0,True,Gilead; Sanofi,
+Monte Rosa,2024,75.622,75.6,1.0,75.6,1.0,True,Novartis; Roche,
+Monte Rosa,2025,123.672,123.672,1.0,123.672,1.0,True,Novartis,
+Nurix,2021,29.75,29.75,1.0,29.75,1.0,True,Gilead; Sanofi,Celgene
+Nurix,2022,38.627,38.627,1.0,38.627,1.0,True,Gilead; Sanofi,
+Nurix,2023,76.987,76.987,1.0,75.297,0.978,True,Gilead; Sanofi,Pfizer
+Nurix,2024,54.549,54.549,1.0,54.549,1.0,True,Gilead; Pfizer; Sanofi,
+Nurix,2025,83.98,83.98,1.0,83.98,1.0,True,Gilead; Pfizer; Sanofi,
+Recursion,2021,10.0,10.0,1.0,10.0,1.0,True,Bayer,
+Recursion,2022,39.681,0.0,0.0,0.0,,False,,
+Recursion,2023,43.876,0.0,0.0,0.0,,False,,
+Recursion,2024,58.488,0.0,0.0,0.0,,False,,
+Recursion,2025,74.256,0.0,0.0,0.0,,False,,
+Schrodinger,2021,24.584,13.7,0.557,13.7,,False,Bristol Myers Squibb,
+Schrodinger,2022,43.427,22.1,0.509,22.1,,False,Bristol Myers Squibb,
+Schrodinger,2023,54.72,43.633,0.797,43.2,,False,Bristol Myers Squibb,Structure Therapeutics (and subsidiaries)
+Schrodinger,2024,25.143,11.4,0.453,11.4,,False,Bristol Myers Squibb; Novartis,
+Schrodinger,2025,54.76,32.8,0.599,32.8,,False,Bristol Myers Squibb; Novartis,
+XtalPi,2021,62.799,0.0,0.0,0.0,,False,,
+XtalPi,2022,133.353,0.0,0.0,0.0,,False,,
+XtalPi,2023,174.42,0.0,0.0,0.0,,False,,
+XtalPi,2024,266.433,0.0,0.0,0.0,,False,,
+XtalPi,2025,802.623,0.0,0.0,0.0,,False,,

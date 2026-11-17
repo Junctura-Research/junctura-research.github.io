@@ -1,0 +1,24 @@
+company,fiscal_year,g3_sentences,own_tool,evidence,evidence_in_matches
+Absci,2022,14,yes,We are a generative AI drug creation company harnessing deep learning and synthetic biology,True
+Absci,2023,20,yes,We design new therapeutic candidates using generative AI models,True
+Absci,2024,25,yes,"Our Integrated Drug Creation platform comprises, in part, cutting edge generative AI models aimed at designing better antibody therapeutics",True
+Absci,2025,16,yes,"Our integrated drug creation platform combines Origin-1, our generative design model",True
+Compugen,2024,1,no,our employees and personnel use generative AI to perform certain tasks in their work,True
+Compugen,2025,1,no,"including generative AI, automated decision-making technologies, or AI/ML, in certain aspects of our organizational operations",True
+Evaxion,2022,1,no,trained using a conditional generative adversarial network approach,True
+Evaxion,2023,3,no,trained using a conditional generative adversarial network approach,True
+Evaxion,2024,3,no,trained using a conditional generative adversarial network approach,True
+Kymera,2025,1,no,the use of generative AI models in our internal or third-party systems may create new attack surfaces,True
+Monte Rosa,2023,4,yes,expanded into full virtual libraries using our generative chemistry algorithm Flash,True
+Nurix,2024,4,yes,"application of deep learning and generative design, our powerful research engine",True
+Nurix,2025,4,yes,"application of deep learning and generative design, our powerful research engine",True
+Recursion,2023,10,yes,Cyclica’s platform is expected to enhance the optimization of Recursion’s compounds for efficacy while minimizing liabilities through generative machine learning approaches,True
+Recursion,2024,14,yes,Our proprietary AI excels at generative molecular design,True
+Recursion,2025,8,yes,This program utilized our generative AI and active learning platform to optimize molecule design,True
+Schrodinger,2021,1,yes,utilizing computational enumeration and generative machine learning techniques that are trained and constructed to yield molecules that are synthetically feasible,True
+Schrodinger,2022,1,yes,utilizing computational enumeration and generative machine learning techniques that are trained and constructed to yield molecules that are synthetically feasible,True
+Schrodinger,2023,1,yes,utilizing computational enumeration and generative machine learning techniques that are trained and constructed to yield molecules that are synthetically feasible,True
+Schrodinger,2024,1,yes,utilizing computational enumeration and generative machine learning techniques that are trained and constructed to yield molecules that are synthetically feasible,True
+Schrodinger,2025,1,yes,utilizing computational enumeration and generative machine learning techniques that are trained and constructed to yield molecules that are synthetically feasible,True
+iBio,2024,1,yes,incorporating diffusion-based generative AI models into its engineered epitope designs,True
+iBio,2025,3,yes,"our antibody optimization platform, which deeply integrates generative AI tools with mammalian display technology",True

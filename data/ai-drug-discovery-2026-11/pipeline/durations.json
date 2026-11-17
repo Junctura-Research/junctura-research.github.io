@@ -1,0 +1,174 @@
+{
+ "as_of": "2026-11-17",
+ "rule": "interventional; industry lead sponsor; drug or biological intervention; phase label exactly as given; start 2019-01-01..2023-12-31; ACTUAL primary completion date",
+ "by_phase": {
+  "Phase 1": {
+   "baseline_all": {
+    "n": 6444,
+    "median_months": 8.0,
+    "iqr": [
+     3.0,
+     19.0
+    ]
+   },
+   "baseline_cancer": {
+    "n": 1394,
+    "median_months": 26.2,
+    "iqr": [
+     16.2,
+     38.9
+    ]
+   },
+   "cohort_all": {
+    "n": 13,
+    "median_months": 11.9,
+    "iqr": [
+     6.6,
+     26.0
+    ]
+   },
+   "cohort_cancer": {
+    "n": 9,
+    "median_months": 19.9,
+    "iqr": [
+     9.7,
+     28.5
+    ]
+   },
+   "cohort_trials": [
+    "NCT04111445",
+    "NCT04411628",
+    "NCT04501276",
+    "NCT04537910",
+    "NCT04727138",
+    "NCT05080842",
+    "NCT05154240",
+    "NCT05241613",
+    "NCT05277402",
+    "NCT05450549",
+    "NCT05489679",
+    "NCT05614258",
+    "NCT05673109"
+   ],
+   "baseline_records_downloaded": 7708
+  },
+  "Phase 1/2": {
+   "baseline_all": {
+    "n": 1116,
+    "median_months": 26.5,
+    "iqr": [
+     14.7,
+     38.6
+    ]
+   },
+   "baseline_cancer": {
+    "n": 546,
+    "median_months": 32.7,
+    "iqr": [
+     20.1,
+     45.4
+    ]
+   },
+   "cohort_all": {
+    "n": 6,
+    "median_months": 24.9,
+    "iqr": [
+     11.3,
+     32.2
+    ]
+   },
+   "cohort_cancer": {
+    "n": 4,
+    "median_months": 27.2,
+    "iqr": [
+     9.9,
+     33.8
+    ]
+   },
+   "cohort_trials": [
+    "NCT04455503",
+    "NCT04645069",
+    "NCT04737304",
+    "NCT04775680",
+    "NCT05920408",
+    "NCT06778850"
+   ],
+   "baseline_records_downloaded": 1167
+  },
+  "Phase 2": {
+   "baseline_all": {
+    "n": 3609,
+    "median_months": 18.2,
+    "iqr": [
+     10.6,
+     28.9
+    ]
+   },
+   "baseline_cancer": {
+    "n": 696,
+    "median_months": 27.7,
+    "iqr": [
+     18.0,
+     38.1
+    ]
+   },
+   "cohort_all": {
+    "n": 4,
+    "median_months": 11.3,
+    "iqr": [
+     5.7,
+     35.4
+    ]
+   },
+   "cohort_cancer": {
+    "n": 1,
+    "median_months": 42.6,
+    "iqr": [
+     42.6,
+     42.6
+    ]
+   },
+   "cohort_trials": [
+    "NCT04634409",
+    "NCT04701658",
+    "NCT05309421",
+    "NCT05938920"
+   ],
+   "baseline_records_downloaded": 5190
+  }
+ },
+ "pooled_phase1_1-2_2": {
+  "baseline_all": {
+   "n": 11169,
+   "median_months": 13.0,
+   "iqr": [
+    5.3,
+    25.4
+   ]
+  },
+  "cohort_all": {
+   "n": 23,
+   "median_months": 13.7,
+   "iqr": [
+    7.5,
+    28.4
+   ]
+  },
+  "baseline_cancer": {
+   "n": 2636,
+   "median_months": 28.1,
+   "iqr": [
+    17.4,
+    40.0
+   ]
+  },
+  "cohort_cancer": {
+   "n": 14,
+   "median_months": 23.4,
+   "iqr": [
+    10.8,
+    32.2
+   ]
+  }
+ }
+}

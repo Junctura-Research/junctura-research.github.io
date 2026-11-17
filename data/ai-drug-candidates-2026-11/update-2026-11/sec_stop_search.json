@@ -1,0 +1,193 @@
+{
+ "DSP-0038": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "DSP-2342": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "EXS4318": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "GTAEXS617 (REC-617)": {
+  "filings": 17,
+  "filers": [
+   "RECURSION PHARMACEUTICALS, INC.  (RXRX)  (CIK 0001601830)"
+  ],
+  "stop_sentences": 1
+ },
+ "SGR-1505": {
+  "filings": 12,
+  "filers": [
+   "RECURSION PHARMACEUTICALS, INC.  (RXRX)  (CIK 0001601830)",
+   "Schrodinger, Inc.  (SDGR)  (CIK 0001490978)"
+  ],
+  "stop_sentences": 11
+ },
+ "MRT-2359": {
+  "filings": 25,
+  "filers": [
+   "Monte Rosa Therapeutics, Inc.  (GLUE)  (CIK 0001826457)",
+   "Rallybio Corp  (RLYB)  (CIK 0001739410)"
+  ],
+  "stop_sentences": 13
+ },
+ "NX-2127 (zelebrudomide)": {
+  "filings": 15,
+  "filers": [
+   "Nurix Therapeutics, Inc.  (NRIX)  (CIK 0001549595)"
+  ],
+  "stop_sentences": 11
+ },
+ "NX-1607": {
+  "filings": 14,
+  "filers": [
+   "Nurix Therapeutics, Inc.  (NRIX)  (CIK 0001549595)"
+  ],
+  "stop_sentences": 2
+ },
+ "NX-5948 (bexobrutideg)": {
+  "filings": 26,
+  "filers": [
+   "BeOne Medicines Ltd.  (ONC, BEIGF)  (CIK 0001651308)",
+   "Nurix Therapeutics, Inc.  (NRIX)  (CIK 0001549595)",
+   "Rallybio Corp  (RLYB)  (CIK 0001739410)"
+  ],
+  "stop_sentences": 11
+ },
+ "EVX-01": {
+  "filings": 27,
+  "filers": [
+   "Evaxion A/S  (EVAX)  (CIK 0001828253)",
+   "SLC BINOM Depositor LLC  (CIK 0002112962)"
+  ],
+  "stop_sentences": 1
+ },
+ "EVX-02": {
+  "filings": 1,
+  "filers": [
+   "Evaxion A/S  (EVAX)  (CIK 0001828253)"
+  ],
+  "stop_sentences": 0
+ },
+ "ISM001-055 (rentosertib)": {
+  "filings": 3,
+  "filers": [
+   "GRI Bio, Inc.  (GRI)  (CIK 0001824293)",
+   "PureTech Health plc  (PRTC, PTCHF)  (CIK 0001782999)",
+   "UNITED THERAPEUTICS Corp  (UTHR)  (CIK 0001082554)"
+  ],
+  "stop_sentences": 1
+ },
+ "MDR-001": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "AC0682": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "AC176": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "AC699": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "AC676": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "AU-007 (imneskibart)": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "ADG126 (muzastotug)": {
+  "filings": 18,
+  "filers": [
+   "Adagene Inc.  (ADAG)  (CIK 0001818838)"
+  ],
+  "stop_sentences": 7
+ },
+ "ADG116": {
+  "filings": 4,
+  "filers": [
+   "Adagene Inc.  (ADAG)  (CIK 0001818838)"
+  ],
+  "stop_sentences": 3
+ },
+ "ADG206": {
+  "filings": 3,
+  "filers": [
+   "Adagene Inc.  (ADAG)  (CIK 0001818838)"
+  ],
+  "stop_sentences": 1
+ },
+ "PHI-101 (lasmotinib)": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "DF-003": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "DF-006": {
+  "filings": 0,
+  "filers": [],
+  "stop_sentences": 0
+ },
+ "GB-0895 (tier)": {
+  "filings": 35,
+  "filers": [
+   "Aclaris Therapeutics, Inc.  (ACRS)  (CIK 0001557746)",
+   "Apogee Therapeutics, Inc.  (APGE)  (CIK 0001974640)",
+   "Bambusa Therapeutics, Inc.  (CIK 0002044950)",
+   "Generate Biomedicines, Inc.  (CIK 0002100782)",
+   "Generate Biomedicines, Inc.  (GENB)  (CIK 0002100782)",
+   "Odyssey Therapeutics, Inc.  (CIK 0001882782)",
+   "Odyssey Therapeutics, Inc.  (ODTX)  (CIK 0001882782)",
+   "WINDWARD BIO GROUP AG  (CIK 0002145089)",
+   "WINDWARD BIO GROUP AG  (WWB)  (CIK 0002145089)"
+  ],
+  "stop_sentences": 14
+ },
+ "zovegalisib / RLY-2608 (tier)": {
+  "filings": 44,
+  "filers": [
+   "BridgeBio Oncology Therapeutics, Inc.  (BBOT)  (CIK 0001869105)",
+   "Faeth Therapeutics, Inc.  (FTH)  (CIK 0001829802)",
+   "KAZIA THERAPEUTICS LTD  (KZIA)  (CIK 0001075880)",
+   "OnKure Therapeutics, Inc.  (OKUR)  (CIK 0001637715)",
+   "Relay Therapeutics, Inc.  (RLAY)  (CIK 0001812364)",
+   "Sensei Biotherapeutics, Inc.  (SNSE)  (CIK 0001829802)"
+  ],
+  "stop_sentences": 9
+ },
+ "aleniglipron / GSBR-1290 (tier)": {
+  "filings": 37,
+  "filers": [
+   "Corbus Pharmaceuticals Holdings, Inc.  (CRBP)  (CIK 0001595097)",
+   "Kailera Therapeutics, Inc.  (CIK 0002096997)",
+   "Kailera Therapeutics, Inc.  (KLRA)  (CIK 0002096997)",
+   "Protagonist Therapeutics, Inc  (PTGX)  (CIK 0001377121)",
+   "Schrodinger, Inc.  (SDGR)  (CIK 0001490978)",
+   "Structure Therapeutics Inc.  (GPCR)  (CIK 0001888886)",
+   "Vivani Medical, Inc.  (VANI)  (CIK 0001266806)"
+  ],
+  "stop_sentences": 30
+ }
+}

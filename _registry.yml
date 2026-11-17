@@ -1,0 +1,82 @@
+# Intersections and Junctions: the single list the site is built from.
+#
+# Intersection = two or more technologies. Junction = the specific focus within
+# an intersection that an Intersection Report covers. Each published document
+# names its Junction in its front matter (junction: <id>); the build stops if a
+# document names a Junction that is not listed here.
+#
+# An Intersection page is built only once it has at least one published document.
+# Images: images/intersections/<image>-banner.jpg, -og.jpg, -thumb.jpg
+# (made by scripts/make_images.py from the private originals).
+
+intersections:
+  ai-biotechnology:
+    title: "AI × Biotechnology"
+    image: ai-bio
+    image-alt: "A DNA double helix inside a glass capsule standing on a circuit board"
+    description: "How artificial intelligence changes the discovery and development of medicines, medical devices and diagnostics."
+  ai-energy:
+    title: "AI × Energy"
+    image: ai-energy
+    image-alt: "Transmission towers at sunset with glowing blue power lines"
+  ai-materials:
+    title: "AI × Materials"
+    image: ai-materials
+    image-alt: "A laser 3D printer building a metal turbine part"
+  ai-quantum:
+    title: "AI × Quantum"
+    image: ai-quantum
+    image-alt: "A rendered chip with translucent red blocks on a circuit board"
+  ai-space:
+    title: "AI × Space"
+    image: ai-space
+    image-alt: "A rover on a rocky Mars landscape at sunset"
+  biotechnology-energy:
+    title: "Biotechnology × Energy"
+    image: bio-energy
+    image-alt: "Illustration of a heart with an implanted pacemaker and its leads"
+  biotechnology-materials:
+    title: "Biotechnology × Materials"
+    image: bio-materials
+    image-alt: "Close-up of a glass molecular model"
+  biotechnology-quantum:
+    title: "Biotechnology × Quantum"
+    image: bio-quantum
+    image-alt: "A glowing wireframe brain on a dark technical background"
+  biotechnology-space:
+    title: "Biotechnology × Space"
+    image: bio-space
+    image-alt: "Two astronauts examining a plant growth chamber"
+  energy-materials:
+    title: "Energy × Materials"
+    image: energy-materials
+    image-alt: "Cut-away of a coin-cell battery showing its layers"
+  energy-quantum:
+    title: "Energy × Quantum"
+    image: energy-quantum
+    image-alt: "Rendered interior of a fusion reactor"
+  energy-space:
+    title: "Energy × Space"
+    image: energy-space
+    image-alt: "A satellite with large solar arrays above Earth"
+  materials-quantum:
+    title: "Materials × Quantum"
+    image: materials-quantum
+    image-alt: "A gold chip package on a light blue circuit board"
+  materials-space:
+    title: "Materials × Space"
+    image: materials-space
+    image-alt: "Thermal protection tiles on the nose of a Space Shuttle, black and white"
+  quantum-space:
+    title: "Quantum × Space"
+    image: quantum-space
+    image-alt: "A satellite above Earth with a glowing network of links"
+
+junctions:
+  ai-drug-discovery:
+    title: "AI × Drug Discovery"
+    intersection: ai-biotechnology
+    subtech:
+      Biotechnology: "Drug discovery"
+    description: "The companies, deals, tools and clinical results behind drug candidates that companies say were found or designed with AI."
+    last-reviewed: 2026-11-17

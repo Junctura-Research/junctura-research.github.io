@@ -1,0 +1,36 @@
+candidate,company,tier,outcome,highest_phase_sponsor,highest_phase_registry,first_trial,outcome_note
+EXS21546,Exscientia (now Recursion),explicit,discontinued,Phase 1/2,Phase 1/2,2020-12-08,
+DSP-1181,Sumitomo Pharma (designed with Exscientia),explicit,discontinued,Phase 1,Phase 1,2020-01 or earlier (Sumitomo: Phase 1 as of 2021-01-28),
+DSP-0038,Sumitomo Pharma (designed with Exscientia),explicit,active,Phase 1,Phase 1,2021 or earlier (Sumitomo: Phase 1 as of 2022-01-31),
+DSP-2342,Sumitomo Pharma (designed with Exscientia),explicit,active,Phase 1,Phase 1,2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31),
+EXS4318,Bristol Myers Squibb (designed by Exscientia),platform,unknown,Phase 1,Phase 1,2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic),
+GTAEXS617 (REC-617),Exscientia / GT Apeiron (now Recursion),platform,active,Phase 1/2,Phase 1/2,2023-07-06,
+REC-3964,Recursion,platform,discontinued,Phase 2,Phase 2,2023 or earlier (10-K filed 2023-02-27: Phase 1 underway),
+SGR-1505,Schrodinger,explicit,active,Phase 1,Phase 1,2023-04-10,
+MRT-2359,Monte Rosa,platform,active,Phase 2,Phase 2,2022-10-12,
+NX-2127 (zelebrudomide),Nurix,platform,discontinued,Phase 1,Phase 1,2021-05-05,"Nurix 10-Q for quarter ended 2026-08-31: development discontinued, decision August 2026"
+NX-1607,Nurix,platform,active,Phase 1,Phase 1,2021-09-29,
+NX-5948 (bexobrutideg),Nurix,platform,active,Phase 3,Phase 3,2022-04-13,
+EVX-01,Evaxion,explicit,active,Phase 2,Phase 2,"2019-01-28 (NCT03715985, intervention EVAX-01-CAF09b; Evaxion F-1 filed 2021-01-08: trial commenced January 2019)",
+EVX-02,Evaxion,explicit,superseded,Phase 1/2,Phase 1/2,2020-07-13,
+ISM001-055 (rentosertib),Insilico Medicine,explicit,active,Phase 3,Phase 3,2021-12 (first volunteer dosed in an Australian microdose trial; Insilico release dated 2021-12-01),
+BEN-2293,BenevolentAI,platform,discontinued,Phase 1/2,Phase 1/2,2020-10-14,
+MDR-001,MindRank AI,explicit,active,Phase 2,Phase 2,2023-06-09,
+AC0682,Accutar Biotechnology,explicit,discontinued,Phase 1,Phase 1,2021-11-12,All registered trials terminated (ClinicalTrials.gov); registry status outranks the undated pipeline listing (precedence rule; PR #33)
+AC176,Accutar Biotechnology,platform,discontinued,Phase 1,Phase 1,2022-03-16,All registered trials terminated (ClinicalTrials.gov); registry status outranks the undated pipeline listing (precedence rule; PR #33)
+AC699,Accutar Biotechnology,platform,active,Phase 1,Phase 1,2022-12-29,
+AC676,Accutar Biotechnology,platform,active,Phase 1,Phase 1,2023-06-20,
+AU-007 (imneskibart),Aulos Bioscience (designed by Biolojic Design),explicit,active,Phase 1/2,Phase 1/2,2022-04-04,
+ADG126 (muzastotug),Adagene,platform,active,Phase 2,Phase 2,2020-11-01,
+ADG106,Adagene,platform,discontinued,Phase 1/2,Phase 1/2,2018-09-17,
+ADG116,Adagene,platform,active,Phase 1,Phase 1,2019-08-29,
+bamlanivimab (LY-CoV555),AbCellera (developed by Eli Lilly),platform,discontinued,Phase 3,Phase 4,2020-05-28,
+bebtelovimab (LY-CoV1404),AbCellera (developed by Eli Lilly),platform,discontinued,Phase 2/3,Phase 4,2020-06-17,
+TAK-920/DNL919,AbCellera (developed by Denali Therapeutics with Takeda),platform,discontinued,Phase 1,Phase 1,2022-07-14,
+ADG206,Adagene,platform,active,Phase 1,Phase 1,2023-02-13,
+PHI-101 (lasmotinib),Pharos iBio,explicit,active,Phase 1,Phase 1,2020-06-08,
+DF-003,Drug Farm,platform,active,Phase 1,Phase 1,"2023-09-15 (NCT05997641, Phase 1)",
+DF-006,Drug Farm,platform,active,Phase 1,Phase 1,by 2023-09-26 (ACTRN12621000592842; Part 3 dosed 2023-09-26; earlier parts' start not read),
+REC-994,Recursion,platform,discontinued,Phase 2,Phase 2,"2022-03-17 (NCT05085561, Phase 2; Recursion ran earlier Phase 1 trials)",Recursion FY2025 10-K: discontinued and/or partnering pursued (2025); registry COMPLETED. Added cycle 021 (PR #34).
+REC-2282,Recursion,platform,discontinued,Phase 2/3,Phase 2/3,"2022-06-20 (NCT05130866, Phase 2/3)",Recursion FY2025 10-K: discontinued and/or partnering pursued (2025); registry TERMINATED (sponsor decision). Added cycle 021 (PR #34).
+REC-4881,Recursion,platform,active,Phase 2,Phase 2,2022 (FY2022 10-K: Phase 1 healthy-volunteer trial initiated; Phase 2 underway); registry NCT05552755 start 2023-07-10,Recursion 10-Q filed 2026-11-02: ongoing TUPELO trial. Added cycle 021 (PR #34).

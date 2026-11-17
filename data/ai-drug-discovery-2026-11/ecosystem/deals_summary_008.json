@@ -1,0 +1,284 @@
+{
+ "A_annual_reports_assessed": {
+  "cycle007": 17,
+  "cycle008": 19
+ },
+ "A_tie_ai_to_rd": {
+  "cycle007": 11,
+  "cycle008": 11
+ },
+ "A_not_assessed_cycle008": [
+  "Boehringer Ingelheim"
+ ],
+ "deals_cycle007": {
+  "core_deals": 26,
+  "by_type": {
+   "discovery collaboration": 19,
+   "asset license": 6,
+   "license and collaboration": 1
+  },
+  "by_ai_wording": {
+   "explicit": 10,
+   "none": 7,
+   "platform-named": 6,
+   "computational": 3
+  },
+  "upfront_n": 22,
+  "upfront_median_usd_m": 52.5,
+  "upfront_min_usd_m": 3.2,
+  "upfront_max_usd_m": 150.0,
+  "upfront_sum_usd_m": 1496.7,
+  "upfront_share": {
+   "n_deals": 14,
+   "upfront_sum": 908.2,
+   "milestones_sum": 18174.0,
+   "share": 0.048,
+   "median_deal_share": 0.056
+  }
+ },
+ "deals_new_cycle008_with_terms": {
+  "core_deals": 31,
+  "by_type": {
+   "discovery collaboration": 17,
+   "license and collaboration": 12,
+   "asset license": 2
+  },
+  "by_ai_wording": {
+   "explicit": 30,
+   "none": 1
+  },
+  "upfront_n": 18,
+  "upfront_median_usd_m": 38.75,
+  "upfront_min_usd_m": 7.0,
+  "upfront_max_usd_m": 1200.0,
+  "upfront_sum_usd_m": 1942.0,
+  "upfront_share": {
+   "n_deals": 16,
+   "upfront_sum": 1895.0,
+   "milestones_sum": 26648.0,
+   "share": 0.066,
+   "median_deal_share": 0.029
+  }
+ },
+ "deals_combined": {
+  "core_deals": 57,
+  "by_type": {
+   "discovery collaboration": 36,
+   "license and collaboration": 13,
+   "asset license": 8
+  },
+  "by_ai_wording": {
+   "explicit": 40,
+   "none": 8,
+   "platform-named": 6,
+   "computational": 3
+  },
+  "upfront_n": 40,
+  "upfront_median_usd_m": 50.0,
+  "upfront_min_usd_m": 3.2,
+  "upfront_max_usd_m": 1200.0,
+  "upfront_sum_usd_m": 3438.7,
+  "upfront_share": {
+   "n_deals": 30,
+   "upfront_sum": 2803.2,
+   "milestones_sum": 44822.0,
+   "share": 0.059,
+   "median_deal_share": 0.036
+  }
+ },
+ "new_deals_terms_not_disclosed": {
+  "n": 18,
+  "by_ai_wording": {
+   "explicit": 18
+  },
+  "drugmakers": [
+   "Amgen",
+   "AstraZeneca",
+   "Bayer",
+   "Bristol Myers Squibb",
+   "Eli Lilly",
+   "Gilead",
+   "Johnson & Johnson",
+   "Novartis",
+   "Novo Nordisk",
+   "Pfizer",
+   "Roche",
+   "Takeda",
+   "Teva"
+  ]
+ },
+ "inclusion_cycle007": {
+  "strict_met": [
+   "Merck & Co.",
+   "Pfizer",
+   "Johnson & Johnson",
+   "Roche",
+   "Novartis",
+   "Sanofi",
+   "GSK",
+   "Takeda",
+   "Gilead",
+   "Bayer"
+  ],
+  "strict_not_met": [
+   "Eli Lilly",
+   "AbbVie",
+   "AstraZeneca",
+   "Bristol Myers Squibb",
+   "Novo Nordisk",
+   "Amgen",
+   "Teva",
+   "Regeneron"
+  ],
+  "broad_met": [
+   "Eli Lilly",
+   "Merck & Co.",
+   "Pfizer",
+   "AbbVie",
+   "Johnson & Johnson",
+   "AstraZeneca",
+   "Roche",
+   "Novartis",
+   "Sanofi",
+   "Bristol Myers Squibb",
+   "Novo Nordisk",
+   "GSK",
+   "Amgen",
+   "Takeda",
+   "Gilead",
+   "Bayer",
+   "Regeneron"
+  ],
+  "broad_not_met": [
+   "Teva"
+  ],
+  "not_assessed": [
+   "Boehringer Ingelheim",
+   "CSL"
+  ]
+ },
+ "inclusion_cycle008": {
+  "strict_met": [
+   "Eli Lilly",
+   "Merck & Co.",
+   "Pfizer",
+   "AbbVie",
+   "Johnson & Johnson",
+   "AstraZeneca",
+   "Roche",
+   "Novartis",
+   "Sanofi",
+   "Bristol Myers Squibb",
+   "Novo Nordisk",
+   "GSK",
+   "Boehringer Ingelheim",
+   "Takeda",
+   "Gilead",
+   "Bayer"
+  ],
+  "strict_not_met": [
+   "Amgen",
+   "Teva",
+   "CSL",
+   "Regeneron"
+  ],
+  "broad_met": [
+   "Eli Lilly",
+   "Merck & Co.",
+   "Pfizer",
+   "AbbVie",
+   "Johnson & Johnson",
+   "AstraZeneca",
+   "Roche",
+   "Novartis",
+   "Sanofi",
+   "Bristol Myers Squibb",
+   "Novo Nordisk",
+   "GSK",
+   "Amgen",
+   "Boehringer Ingelheim",
+   "Takeda",
+   "Gilead",
+   "Bayer",
+   "Regeneron"
+  ],
+  "broad_not_met": [
+   "Teva",
+   "CSL"
+  ],
+  "not_assessed": []
+ },
+ "change": {
+  "strict_added": [
+   "Eli Lilly",
+   "AbbVie",
+   "AstraZeneca",
+   "Bristol Myers Squibb",
+   "Novo Nordisk",
+   "Boehringer Ingelheim"
+  ],
+  "broad_added": [
+   "Boehringer Ingelheim"
+  ],
+  "newly_assessed": [
+   "Boehringer Ingelheim",
+   "CSL"
+  ]
+ },
+ "new_deals_by_group": {
+  "1.0": 8,
+  "3.0": 23
+ },
+ "new_deals_headline_only": 6,
+ "drugmakers_with_explicit_ai_deal": {
+  "cycle007": 9,
+  "cycle008": 15
+ },
+ "new_deals_drugmakers": [
+  "AbbVie",
+  "AstraZeneca",
+  "Boehringer Ingelheim",
+  "Bristol Myers Squibb",
+  "Eli Lilly",
+  "Gilead",
+  "Merck & Co.",
+  "Novartis",
+  "Novo Nordisk",
+  "Pfizer",
+  "Roche",
+  "Sanofi",
+  "Takeda"
+ ],
+ "sensitivity_new_without_cspc": {
+  "core_deals": 28,
+  "by_type": {
+   "discovery collaboration": 16,
+   "license and collaboration": 11,
+   "asset license": 1
+  },
+  "by_ai_wording": {
+   "explicit": 28
+  },
+  "upfront_n": 15,
+  "upfront_median_usd_m": 35.0,
+  "upfront_min_usd_m": 7.0,
+  "upfront_max_usd_m": 115.0,
+  "upfront_sum_usd_m": 532.0,
+  "upfront_share": {
+   "n_deals": 13,
+   "upfront_sum": 485.0,
+   "milestones_sum": 16008.0,
+   "share": 0.029,
+   "median_deal_share": 0.027
+  }
+ },
+ "sensitivity_strict_without_phenomic": 15,
+ "strict_count": {
+  "cycle007": 10,
+  "cycle008": 16
+ },
+ "broad_count": {
+  "cycle007": 17,
+  "cycle008": 18
+ }
+}

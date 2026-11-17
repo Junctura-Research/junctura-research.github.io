@@ -1,0 +1,688 @@
+{
+ "meta_last_updated": "2026-11-16",
+ "n_names": 109,
+ "names": [
+  "ABS-101",
+  "ABS-201",
+  "AC0682",
+  "AC176",
+  "AC676",
+  "AC699",
+  "ADG106",
+  "ADG116",
+  "ADG126",
+  "ADG206",
+  "AU-007",
+  "AZD2936",
+  "BEN-2293",
+  "BEN-8744",
+  "BEN2293",
+  "BEN8744",
+  "BXCL501",
+  "BXCL502",
+  "CC-92480",
+  "COM503",
+  "COM701",
+  "COM902",
+  "DF-003",
+  "DF-006",
+  "DNL919",
+  "DSP-0038",
+  "DSP-1181",
+  "DSP-2342",
+  "EIK1006",
+  "ENV-294",
+  "EVX-01",
+  "EVX-02",
+  "EXS-21546",
+  "EXS-4318",
+  "EXS21546",
+  "EXS4318",
+  "EXS74539",
+  "FOG-001",
+  "GB-0669",
+  "GB-0895",
+  "GB-4362",
+  "GB-5267",
+  "GDC-1971",
+  "GS-0321",
+  "GSBR-1290",
+  "GTAEXS-617",
+  "GTAEXS617",
+  "IAM1363",
+  "IBIO-600",
+  "INS018_055",
+  "ISM001-055",
+  "ISM3412",
+  "ISM5411",
+  "ISM5939",
+  "ISM6331",
+  "ISM8207",
+  "ISM8969",
+  "ISM9528",
+  "KRRO-110",
+  "KT-621",
+  "LY-CoV016",
+  "LY-CoV1404",
+  "LY-CoV555",
+  "MDR-001",
+  "MRT-2359",
+  "MRT-6160",
+  "MRT-8102",
+  "NX-1607",
+  "NX-2127",
+  "NX-5948",
+  "OD-001",
+  "PHI-101",
+  "REC-1245",
+  "REC-2282",
+  "REC-3565",
+  "REC-3964",
+  "REC-4539",
+  "REC-4881",
+  "REC-617",
+  "REC-994",
+  "RLY-1971",
+  "RLY-2608",
+  "RLY-4008",
+  "SGR-1505",
+  "SGR-2921",
+  "SGR-3515",
+  "TAK-279",
+  "TAK-920",
+  "aleniglipron",
+  "bamlanivimab",
+  "bebtelovimab",
+  "bexobrutideg",
+  "cendakimab",
+  "dexmedetomidine",
+  "etesevimab",
+  "imneskibart",
+  "lasmotinib",
+  "latrepirdine",
+  "lirafugratinib",
+  "mezigdomide",
+  "migoprotafib",
+  "muzastotug",
+  "rentosertib",
+  "rilvegostomig",
+  "tempol",
+  "zasocitinib",
+  "zelebrudomide",
+  "zolucatetide",
+  "zovegalisib"
+ ],
+ "n_orig_approvals_scanned": 25670,
+ "hits": [
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA212857",
+   "sponsor": "TAGI",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20201123"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA217308",
+   "sponsor": "MILLA PHARMS",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20230607"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA218112",
+   "sponsor": "SOMERSET",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20240924"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA091465",
+   "sponsor": "CAPLIN",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20160614"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA201072",
+   "sponsor": "FRESENIUS KABI USA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20150918"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA209307",
+   "sponsor": "GLAND",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20200603"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "NDA215390",
+   "sponsor": "BIOXCEL",
+   "brand": [
+    "IGALMI"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "IGALMI"
+   ],
+   "approval_date": "20220405"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA205867",
+   "sponsor": "EUGIA PHARMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20160317"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA208532",
+   "sponsor": "BAXTER HLTHCARE CORP",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE"
+   ],
+   "approval_date": "20180821"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA216254",
+   "sponsor": "NEPHRON",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20260928"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA216604",
+   "sponsor": "AMNEAL",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE IN SODIUM CHLORIDE"
+   ],
+   "approval_date": "20230515"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA202881",
+   "sponsor": "MYLAN INSTITUTIONAL",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20140818"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA206798",
+   "sponsor": "ZYDUS PHARMS",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20180227"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA212571",
+   "sponsor": "MYLAN LABS LTD",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20200827"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA205046",
+   "sponsor": "HIKMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HCL",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20170426"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA208103",
+   "sponsor": "BAXTER HLTHCARE CORP",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20260415"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA208129",
+   "sponsor": "FRESENIUS KABI USA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20181129"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA208266",
+   "sponsor": "PH HEALTH",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20200915"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA212791",
+   "sponsor": "WILSHIRE PHARMS INC",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20191204"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA214794",
+   "sponsor": "PIRAMAL CRITICAL",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20210903"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "NDA021038",
+   "sponsor": "HOSPIRA",
+   "brand": [
+    "PRECEDEX"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "PRECEDEX"
+   ],
+   "approval_date": "19991217"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA204686",
+   "sponsor": "ACTAVIS INC",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20161017"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA206407",
+   "sponsor": "HIKMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20200130"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA218675",
+   "sponsor": "KNACK",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20260309"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA202126",
+   "sponsor": "GLAND",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20150820"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA204023",
+   "sponsor": "ACCORD HLTHCARE",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20160209"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA205272",
+   "sponsor": "TEVA PHARMS USA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20171128"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA220315",
+   "sponsor": "DR REDDYS",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20260225"
+  },
+  {
+   "name": "lirafugratinib",
+   "sources": [
+    "GENERIC"
+   ],
+   "application": "NDA220425",
+   "sponsor": "ELEVAR",
+   "brand": [
+    "LYRFIGTU"
+   ],
+   "ingredients": [
+    "LIRAFUGRATINIB HYDROCHLORIDE",
+    "LYRFIGTU"
+   ],
+   "approval_date": "20260923"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA202585",
+   "sponsor": "RISING",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20141124"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA204843",
+   "sponsor": "MEITHEAL",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20190118"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "NDA206628",
+   "sponsor": "HQ SPCLT PHARMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20151021"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA207551",
+   "sponsor": "AMNEAL PHARMS CO",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20200520"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA209065",
+   "sponsor": "HENGRUI PHARMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE"
+   ],
+   "approval_date": "20170919"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA203773",
+   "sponsor": "AM REGENT",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20170512"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA203972",
+   "sponsor": "PH HEALTH",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "approval_date": "20140818"
+  },
+  {
+   "name": "dexmedetomidine",
+   "sources": [
+    "analysis/003/candidates.csv"
+   ],
+   "application": "ANDA210321",
+   "sponsor": "EUGIA PHARMA",
+   "brand": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+   ],
+   "ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE"
+   ],
+   "approval_date": "20201207"
+  }
+ ]
+}

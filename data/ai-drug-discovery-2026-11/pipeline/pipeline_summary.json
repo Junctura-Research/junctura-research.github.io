@@ -1,0 +1,94 @@
+{
+ "as_of": "2026-11-17",
+ "n": 32,
+ "outcomes": {
+  "discontinued": 9,
+  "active": 19,
+  "unknown": 3,
+  "superseded": 1
+ },
+ "strict": "9/32",
+ "strict_pct": 28.1,
+ "strict_95ci": [
+  15.6,
+  45.4
+ ],
+ "broad": "13/32",
+ "broad_pct": 40.6,
+ "phase3_or_later_sponsor_or_partner": [
+  "NX-5948 (bexobrutideg)",
+  "ISM001-055 (rentosertib)",
+  "bamlanivimab (LY-CoV555)"
+ ],
+ "phase3_or_later_registry_label": [
+  "NX-5948 (bexobrutideg)",
+  "ISM001-055 (rentosertib)",
+  "bamlanivimab (LY-CoV555)",
+  "bebtelovimab (LY-CoV1404)"
+ ],
+ "tiers": {
+  "explicit": 12,
+  "platform": 20
+ },
+ "discontinued_by_tier": {
+  "explicit": 2,
+  "platform": 7
+ },
+ "discovery_times": {
+  "main_longest_without_SGR1505": {
+   "n": 5,
+   "median_months": 11.0,
+   "values": {
+    "DSP-1181": 12.0,
+    "EXS21546": 9.0,
+    "EXS4318": 11.0,
+    "ISM001-055 (rentosertib)": 18.0,
+    "bamlanivimab": 0.7
+   }
+  },
+  "earliest_statement_without_SGR1505": {
+   "n": 5,
+   "median_months": 11.0,
+   "values": {
+    "DSP-1181": 12.0,
+    "EXS21546": 8.0,
+    "EXS4318": 11.0,
+    "ISM001-055 (rentosertib)": 18.0,
+    "bamlanivimab": 0.7
+   }
+  },
+  "longest_with_SGR1505": {
+   "n": 6,
+   "median_months": 11.5
+  },
+  "earliest_with_SGR1505": {
+   "n": 6,
+   "median_months": 10.5
+  }
+ },
+ "clinic_share_illustration": {
+  "baseline_total_years": 16.0,
+  "baseline_clinic_share_pct": 65.6,
+  "main_median_months": 11.0,
+  "stated_total_years": 12.42,
+  "stated_clinic_share_pct": 84.6
+ },
+ "signposts": {
+  "open_trials": 38,
+  "candidates": 17,
+  "confidence": {
+   "low": 23,
+   "medium": 15
+  },
+  "primary_completion_by_year": {
+   "2025": 2,
+   "2026": 8,
+   "2027": 14,
+   "2028": 7,
+   "2029": 5,
+   "2031": 1,
+   "2033": 1
+  },
+  "passed_before_2026_11_17": 9
+ }
+}

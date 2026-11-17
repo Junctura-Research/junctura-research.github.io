@@ -1,0 +1,5 @@
+{
+ "query": "(TITLE:\"artificial intelligence\" OR TITLE:\"machine learning\" OR TITLE:\"deep learning\") AND TITLE:\"drug discovery\" AND (ABSTRACT:\"validation\" OR ABSTRACT:\"prospective\") AND (ABSTRACT:challenge* OR ABSTRACT:barrier* OR ABSTRACT:limitation*) AND PUB_TYPE:\"review\" AND PUB_YEAR:[2023 TO 2026]",
+ "hitCount": 41,
+ "http": 200
+}

@@ -1,0 +1,14 @@
+{
+ "n_resolved": 14,
+ "observed_advanced": 9,
+ "observed_rate": 64.3,
+ "class_counts": {
+  "oncology": 6,
+  "infectious": 3,
+  "other": 5
+ },
+ "expected_advanced": 7.26,
+ "expected_rate": 51.9,
+ "p_one_sided_ge_observed": 0.255,
+ "p_unmatched_baseline_52": 0.259
+}

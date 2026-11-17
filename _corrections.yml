@@ -1,0 +1,14 @@
+# Corrections: every error found in a published document, entered once.
+# Shown on the site-wide Corrections page and on the document's Intersection page.
+#
+# Under the charter, the corrections page covers an Intersection Report from its
+# publication, and a Research Note from the publication of its Intersection Report.
+# Changes to a Note before its Report is published go in the Note's own Changelog.
+#
+# Entry format (newest first):
+# - date-found: 2026-12-01
+#   document: ai-drug-discovery-2026-11   # file name in research/, without .qmd
+#   error: "What was wrong, stated plainly."
+#   fix: "What it now says, and where."
+
+corrections: []

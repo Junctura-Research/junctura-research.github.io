@@ -1,0 +1,328 @@
+{
+ "recheck": [
+  {
+   "candidate": "EXS21546",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "COMPLETED",
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "DSP-1181",
+   "outcome_before": "discontinued",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "DSP-0038",
+   "outcome_before": "active",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "DSP-2342",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "NOT_YET_RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "EXS4318",
+   "outcome_before": "unknown",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "unknown",
+   "changed": false
+  },
+  {
+   "candidate": "GTAEXS617 (REC-617)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "REC-3964",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "SGR-1505",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "MRT-2359",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "NX-2127 (zelebrudomide)",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "NX-1607",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "NX-5948 (bexobrutideg)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "EVX-01",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "COMPLETED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "EVX-02",
+   "outcome_before": "superseded",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_after": "superseded",
+   "changed": false
+  },
+  {
+   "candidate": "ISM001-055 (rentosertib)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "COMPLETED",
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "BEN-2293",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "COMPLETED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "MDR-001",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "COMPLETED",
+    "NOT_YET_RECRUITING",
+    "UNKNOWN"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "AC0682",
+   "outcome_before": "unknown",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_after": "discontinued",
+   "changed": true
+  },
+  {
+   "candidate": "AC176",
+   "outcome_before": "unknown",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_after": "discontinued",
+   "changed": true
+  },
+  {
+   "candidate": "AC699",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "ACTIVE_NOT_RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "AC676",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "AU-007 (imneskibart)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "ADG126 (muzastotug)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "NOT_YET_RECRUITING",
+    "RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "ADG106",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED",
+    "RECRUITING",
+    "TERMINATED",
+    "UNKNOWN"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "ADG116",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "COMPLETED",
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "bamlanivimab (LY-CoV555)",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "COMPLETED",
+    "NO_LONGER_AVAILABLE",
+    "TERMINATED",
+    "UNKNOWN"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "bebtelovimab (LY-CoV1404)",
+   "outcome_before": "discontinued",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "TAK-920/DNL919",
+   "outcome_before": "discontinued",
+   "registry_statuses": [
+    "COMPLETED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "discontinued",
+   "changed": false
+  },
+  {
+   "candidate": "ADG206",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "ACTIVE_NOT_RECRUITING"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "PHI-101 (lasmotinib)",
+   "outcome_before": "active",
+   "registry_statuses": [
+    "UNKNOWN"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "DF-003",
+   "outcome_before": "active",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  },
+  {
+   "candidate": "DF-006",
+   "outcome_before": "active",
+   "registry_statuses": [],
+   "all_registry_trials_terminated_or_withdrawn": false,
+   "outcome_after": "active",
+   "changed": false
+  }
+ ]
+}

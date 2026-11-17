@@ -1,0 +1,49 @@
+{
+ "recursion_10k_fy2022": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183023000010/rxrx-20221231.htm",
+  "filed": "2023-02-27",
+  "REC-994": ["The novel use of REC-994 for CCM was discovered leveraging this early form of the Recursion OS.",
+              "According to a machine learning classifier trained on images, REC-994 shows image-based rescue.",
+              "REC-994 for the potential treatment of cerebral cavernous malformation, or CCM — a Phase 2, double-blind, placebo-controlled, safety, tolerability and exploratory efficacy study is underway.",
+              "In Phase 1 SAD and MAD trials in healthy volunteers directed and executed by us, REC-994 demonstrated excellent tolerabil[ity]"],
+  "REC-2282": ["To select REC-2282 for our NF2 program, we employed our brute-force approach by developing a high content phenotypic screen",
+               "After we discovered the novel use of REC-2282 for NF2 using our platform, we performed a literature search to better understand the molecule and validate disease models.",
+               "REC-2282 for the potential treatment of neurofibromatosis type 2, or NF2 — an adaptive, Phase 2/3, randomized, multicenter study is underway."],
+  "REC-4881": ["The novel use of REC-4881 for FAP was discovered by leveraging knock-down of the FAP disease gene APC in human cells using the Recursion OS.",
+               "REC-4881 for the potential treatment of familial adenomatous polyposis, or FAP — a Phase 2, double-blind, randomized, placebo-controlled study is underway.",
+               "Phase 1 healthy volunteer trials for REC-4881 and REC-3964"],
+  "platform_note": "The same 10-K describes the Recursion OS in machine learning and AI terms (cycle 004 record for REC-3964, analysis/004/cohort.csv)."
+ },
+ "recursion_10k_fy2025": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000039/rxrx-20251231.htm",
+  "quote": "the clinical programs REC-2282 for NF2, REC-994 for CCM, and REC-3964 for C. difficile were discontinued and/or partnering opportunities are being pursued",
+  "source": "analysis/004/cohort.csv (cycle 004 read)"
+ },
+ "recursion_10q_q3_2026": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm",
+  "filed": "2026-11-02",
+  "REC-4881": "Positive Phase 2 results from ongoing TUPELO trial of REC-4881 in FAP highlight activity across GI tract and on larger polyps"
+ },
+ "never_approved": "Tempol (REC-994), AR-42 (REC-2282) and TAK-733 (REC-4881): no FDA approval found in cycle 018's Drugs@FDA scan of original approvals 2019-2026 and no approval stated in Recursion's filings; the reviewer's PR #34 premise.",
+ "adagene_20f_fy2025": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1818838/000110465926038612/adag-20251231x20f.htm",
+  "filed": "2026-04-01",
+  "ADG206": ["Clinical Development Status: ADG206 has completed phase 1 development.",
+             "Clinical data to date has demonstrated that ADG206 monotherapy has a favorable safety profile and is ready to advance into further clinical development as resources allow.",
+             "In November 2024, we entered into an amendment to the Investigator Initiated Clinical Study Agreement signed initially in May 2023 with the National University Cancer Institute, Singapore to evaluate ADG206 in advanced solid cancers and triple negative breast cancer. Such study has been deprioritized and terminated."],
+  "ADG106": "Clinical Development Status: We decided not to continue the development of ADG106 and terminated the clinical trials for this program to optimize our resources for other programs.",
+  "ruling": "PR #34 point 6: only one investigator study ended; the program is not stated as deprioritized, so ADG206 stays active."
+ },
+ "schrodinger_10k_fy2025": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097826000010/sdgr-20251231.htm",
+  "saved_text": "analysis/014/raw/sources/schrodinger_10k_fy2025.txt",
+  "quote": "We have built our platform on a foundation of rigorous, physics-based methods, combined with the rapid data processing and scaling advantages of machine learning, that together provide a significant advantage over traditional methods."
+ },
+ "ren_paper": {
+  "doi": "10.1038/s41587-024-02143-0",
+  "title": "A small-molecule TNIK inhibitor targets fibrosis in preclinical and clinical models.",
+  "journal": "Nature Biotechnology (online 2024-03-08; issue year 2025 per Europe PMC)",
+  "first_author": "Ren F", "last_author": "Zhavoronkov A", "n_authors": 30,
+  "source": "Europe PMC REST API, analysis/021/raw/ren_paper.json"
+ }
+}

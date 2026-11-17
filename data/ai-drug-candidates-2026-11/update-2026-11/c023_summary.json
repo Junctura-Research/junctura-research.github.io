@@ -1,0 +1,230 @@
+{
+ "as_of": "2026-11-17",
+ "cycle": "023",
+ "main_n": 32,
+ "main_outcomes": {
+  "discontinued": 13,
+  "active": 17,
+  "unknown": 1,
+  "superseded": 1
+ },
+ "strict": "13/32",
+ "strict_pct": 40.6,
+ "strict_95ci": [
+  25.5,
+  57.7
+ ],
+ "broad": "15/32",
+ "broad_pct": 46.9,
+ "broad_95ci": [
+  30.9,
+  63.6
+ ],
+ "by_tier": {
+  "explicit": {
+   "n": 15,
+   "discontinued": 4
+  },
+  "platform": {
+   "n": 17,
+   "discontinued": 9
+  }
+ },
+ "phase3_or_later_sponsor": {
+  "k": 3,
+  "pct": 9.4,
+  "candidates": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)"
+  ]
+ },
+ "rule_grid": {
+  "original16": {
+   "precedence": {
+    "k": 5,
+    "n": 16,
+    "pct": 31.3
+   },
+   "accutar_unknown": {
+    "k": 5,
+    "n": 16,
+    "pct": 31.3
+   },
+   "no_precedence": {
+    "k": 4,
+    "n": 16,
+    "pct": 25.0
+   }
+  },
+  "tier29": {
+   "precedence": {
+    "k": 11,
+    "n": 29,
+    "pct": 37.9
+   },
+   "accutar_unknown": {
+    "k": 9,
+    "n": 29,
+    "pct": 31.0
+   },
+   "no_precedence": {
+    "k": 6,
+    "n": 29,
+    "pct": 20.7
+   }
+  },
+  "main": {
+   "precedence": {
+    "k": 13,
+    "n": 32,
+    "pct": 40.6
+   },
+   "accutar_unknown": {
+    "k": 11,
+    "n": 32,
+    "pct": 34.4
+   },
+   "no_precedence": {
+    "k": 8,
+    "n": 32,
+    "pct": 25.0
+   }
+  },
+  "all_tiers": {
+   "precedence": {
+    "k": 14,
+    "n": 38,
+    "pct": 36.8
+   },
+   "accutar_unknown": {
+    "k": 12,
+    "n": 38,
+    "pct": 31.6
+   },
+   "no_precedence": {
+    "k": 8,
+    "n": 38,
+    "pct": 21.1
+   }
+  }
+ },
+ "range": {
+  "min": [
+   20.7,
+   "tier29",
+   "no_precedence"
+  ],
+  "max": [
+   40.6,
+   "main",
+   "precedence"
+  ]
+ },
+ "no_precedence_main": {
+  "k": 8,
+  "n": 32,
+  "pct": 25.0
+ },
+ "stops_beyond_original16": [
+  "AC0682",
+  "AC176",
+  "bamlanivimab (LY-CoV555)",
+  "bebtelovimab (LY-CoV1404)",
+  "TAK-920/DNL919",
+  "REC-994",
+  "REC-2282",
+  "ISM3312"
+ ],
+ "phase1_to_2": {
+  "advanced": 12,
+  "resolved": 20,
+  "pct": 60.0,
+  "ci95": [
+   38.7,
+   78.1
+  ],
+  "failed": [
+   "EXS21546",
+   "DSP-1181",
+   "NX-2127 (zelebrudomide)",
+   "BEN-2293",
+   "AC0682",
+   "AC176",
+   "TAK-920/DNL919",
+   "ISM3312"
+  ],
+  "matched_expected": 10.34,
+  "p_one_sided_matched": 0.303
+ },
+ "phase1_to_2_without_recursion_additions": {
+  "advanced": 9,
+  "resolved": 17,
+  "pct": 52.9,
+  "ci95": [
+   31.0,
+   73.8
+  ],
+  "failed": [
+   "EXS21546",
+   "DSP-1181",
+   "NX-2127 (zelebrudomide)",
+   "BEN-2293",
+   "AC0682",
+   "AC176",
+   "TAK-920/DNL919",
+   "ISM3312"
+  ],
+  "matched_expected": 8.85,
+  "p_one_sided_matched": 0.568
+ },
+ "phase1_to_2_all_tiers": {
+  "advanced": 13,
+  "resolved": 22,
+  "pct": 59.1,
+  "ci95": [
+   38.7,
+   76.7
+  ],
+  "failed": [
+   "EXS21546",
+   "DSP-1181",
+   "NX-2127 (zelebrudomide)",
+   "BEN-2293",
+   "AC0682",
+   "AC176",
+   "ADG106",
+   "TAK-920/DNL919",
+   "ISM3312"
+  ],
+  "matched_expected": 11.32,
+  "p_one_sided_matched": 0.308
+ },
+ "stop_reasons_main": {
+  "trial results": 3,
+  "portfolio": 6,
+  "other (regulatory)": 2,
+  "not stated": 2
+ },
+ "sensitivity_023": {
+  "ISM3312_unknown": {
+   "strict": "12/32",
+   "pct": 37.5
+  },
+  "without_ISM3091": {
+   "strict": "13/31",
+   "pct": 41.9
+  },
+  "without_both_new": {
+   "strict": "12/30",
+   "pct": 40.0
+  }
+ },
+ "added": [
+  "ISM3312",
+  "ISM3091 (XL309)"
+ ],
+ "not_entered": {
+  "ISM8207": "first patient dosed per Insilico release 2024-05-15; NCT06445517 start 2024-04-25"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "prospectus_counts": {
+  "ai_regulation": 4,
+  "compute_tools": 4,
+  "data": 4,
+  "validation": 3
+ },
+ "annual_report_counts_015": {
+  "data": 9,
+  "validation": 8,
+  "ai_regulation": 11,
+  "compute_tools": 8
+ },
+ "filers_015": 12,
+ "combined_16": {
+  "data": 13,
+  "validation": 11,
+  "ai_regulation": 15,
+  "compute_tools": 12
+ },
+ "quotes_verified": true
+}

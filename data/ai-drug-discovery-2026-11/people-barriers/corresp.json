@@ -1,0 +1,56 @@
+{
+ "rentosertib": {
+  "doi": "10.1038/s41591-025-03743-2",
+  "pmcid": "PMC12353801",
+  "open_full_text": true,
+  "corresponding": [
+   "Xu Zuojun",
+   "Zhavoronkov Alex"
+  ],
+  "method": "contrib corresp=\"yes\", xref ref-type=\"corresp\", or xref to a \"Corresponding author\" footnote",
+  "corresp_text": []
+ },
+ "NX-5948": {
+  "doi": "10.64898/2026.08.01.740538",
+  "pmcid": null,
+  "open_full_text": false,
+  "corresponding": [],
+  "method": ""
+ },
+ "bamlanivimab": {
+  "doi": "10.1126/scitranslmed.abf1906",
+  "pmcid": "PMC8284311",
+  "open_full_text": true,
+  "corresponding": [
+   "Jones Bryan E.",
+   "Falconer Ester"
+  ],
+  "method": "contrib corresp=\"yes\", xref ref-type=\"corresp\", or xref to a \"Corresponding author\" footnote",
+  "corresp_text": [
+   "* Corresponding author. Email: jones_bryan_edward@lilly.com (B.E.J.); ester.falconer@abcellera.com (E.F.)"
+  ]
+ },
+ "AlphaFold2": {
+  "doi": "10.1038/s41586-021-03819-2",
+  "pmcid": "PMC8371605",
+  "open_full_text": true,
+  "corresponding": [
+   "Jumper John",
+   "Hassabis Demis"
+  ],
+  "method": "contrib corresp=\"yes\", xref ref-type=\"corresp\", or xref to a \"Corresponding author\" footnote",
+  "corresp_text": []
+ },
+ "AlphaFold3": {
+  "doi": "10.1038/s41586-024-07487-w",
+  "pmcid": "PMC11168924",
+  "open_full_text": true,
+  "corresponding": [
+   "Jaderberg Max",
+   "Hassabis Demis",
+   "Jumper John M"
+  ],
+  "method": "contrib corresp=\"yes\", xref ref-type=\"corresp\", or xref to a \"Corresponding author\" footnote",
+  "corresp_text": []
+ }
+}

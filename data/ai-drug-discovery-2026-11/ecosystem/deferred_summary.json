@@ -1,0 +1,35 @@
+{
+ "core_deals_without_terms": 18,
+ "core_without_terms_by_ai_wording": {
+  "explicit": 18
+ },
+ "core_without_terms_by_type": {
+  "discovery collaboration": 17,
+  "asset license": 1
+ },
+ "drugmakers_with_core_deal_without_terms": 13,
+ "other_deals_without_terms": 15,
+ "drugmakers_with_other_deal_without_terms": 9,
+ "unclassified_rows_excluded": [
+  {
+   "ai_company": "Elsie Biotechnologies",
+   "drugmaker": "GSK",
+   "deal_type": "acquisition"
+  },
+  {
+   "ai_company": "insitro",
+   "drugmaker": "Gilead",
+   "deal_type": "not found"
+  }
+ ],
+ "strict_count_cycle008": 16,
+ "strict_count_if_explicit_no_terms_counted": 18,
+ "strict_added_by_sensitivity": [
+  "Amgen",
+  "Teva"
+ ],
+ "strict_still_not_met": [
+  "CSL",
+  "Regeneron"
+ ]
+}

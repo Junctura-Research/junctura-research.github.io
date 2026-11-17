@@ -1,0 +1,97 @@
+{
+ "as_of": "2026-11-17",
+ "n": 30,
+ "by_outcome": {
+  "active": 18,
+  "discontinued": 8,
+  "unknown": 3,
+  "superseded": 1
+ },
+ "strict_main": {
+  "k": 8,
+  "n": 30,
+  "pct": 26.7,
+  "95ci": [
+   14.2,
+   44.4
+  ]
+ },
+ "discontinued": [
+  "EXS21546",
+  "DSP-1181",
+  "REC-3964",
+  "BEN-2293",
+  "ADG106",
+  "bamlanivimab (LY-CoV555)",
+  "bebtelovimab (LY-CoV1404)",
+  "TAK-920/DNL919"
+ ],
+ "broad_main": {
+  "k": 12,
+  "n": 30,
+  "pct": 40.0,
+  "95ci": [
+   24.6,
+   57.7
+  ]
+ },
+ "broad_members_not_discontinued": [
+  "EXS4318",
+  "EVX-02",
+  "AC0682",
+  "AC176"
+ ],
+ "phase3_main_sponsor_or_partner_trials": {
+  "k": 3,
+  "n": 30,
+  "pct": 10.0,
+  "95ci": [
+   3.5,
+   25.6
+  ],
+  "candidates": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)"
+  ]
+ },
+ "sensitivity": {
+  "strict_without_precedence_rule (bamlanivimab, bebtelovimab active)": {
+   "k": 6,
+   "n": 30,
+   "pct": 20.0,
+   "95ci": [
+    9.5,
+    37.3
+   ]
+  },
+  "strict_AC0682_AC176_discontinued": {
+   "k": 10,
+   "n": 30,
+   "pct": 33.3,
+   "95ci": [
+    19.2,
+    51.2
+   ]
+  },
+  "phase3_with_investigator_phase4 (bebtelovimab)": {
+   "k": 4,
+   "n": 30,
+   "pct": 13.3,
+   "95ci": [
+    5.3,
+    29.7
+   ]
+  }
+ },
+ "phase3_tiers_all_current_candidates": {
+  "explicit": 1,
+  "explicit_or_platform": 4,
+  "with_borderline": 6,
+  "with_bebtelovimab_sensitivity": {
+   "explicit": 1,
+   "explicit_or_platform": 5,
+   "with_borderline": 7
+  }
+ }
+}
