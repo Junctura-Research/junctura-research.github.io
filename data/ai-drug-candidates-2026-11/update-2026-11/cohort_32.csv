@@ -1,0 +1,33 @@
+candidate,company,claim,outcome,highest_phase_registry,highest_phase_sponsor,first_trial,trials
+EXS21546,Exscientia (now Recursion),explicit,discontinued,Phase 1/2,Phase 1/2,2020-12-08,NCT04727138:COMPLETED;NCT05920408:TERMINATED
+DSP-1181,Sumitomo Pharma (designed with Exscientia),explicit,discontinued,Phase 1,Phase 1,2020-01 or earlier (Sumitomo: Phase 1 as of 2021-01-28),
+DSP-0038,Sumitomo Pharma (designed with Exscientia),explicit,active,Phase 1,Phase 1,2021 or earlier (Sumitomo: Phase 1 as of 2022-01-31),
+DSP-2342,Sumitomo Pharma (designed with Exscientia),explicit,active,Phase 1,Phase 1,2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31),NCT07850102:NOT_YET_RECRUITING
+EXS4318,Bristol Myers Squibb (designed by Exscientia),platform,unknown,Phase 1,Phase 1,2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic),
+GTAEXS617 (REC-617),Exscientia / GT Apeiron (now Recursion),platform,active,Phase 1/2,Phase 1/2,2023-07-06,NCT05985655:RECRUITING;NCT07633756:RECRUITING
+REC-3964,Recursion,platform,discontinued,Phase 2,Phase 2,2023 or earlier (10-K filed 2023-02-27: Phase 1 underway),NCT06536465:TERMINATED
+SGR-1505,Schrodinger,explicit,active,Phase 1,Phase 1,2023-04-10,NCT05544019:RECRUITING
+MRT-2359,Monte Rosa,platform,active,Phase 2,Phase 2,2022-10-12,NCT07745361:RECRUITING;NCT05546268:ACTIVE_NOT_RECRUITING
+NX-2127 (zelebrudomide),Nurix,platform,active,Phase 1,Phase 1,2021-05-05,NCT04830137:RECRUITING
+NX-1607,Nurix,platform,active,Phase 1,Phase 1,2021-09-29,NCT05107674:RECRUITING
+NX-5948 (bexobrutideg),Nurix,platform,active,Phase 3,Phase 3,2022-04-13,NCT06691828:COMPLETED;NCT06717269:COMPLETED;NCT05131022:RECRUITING;NCT07520006:RECRUITING;NCT07221500:RECRUITING;NCT07516093:RECRUITING
+EVX-01,Evaxion,explicit,active,Phase 2,Phase 2,"2019-01-28 (NCT03715985, intervention EVAX-01-CAF09b; Evaxion F-1 filed 2021-01-08: trial commenced January 2019)",NCT05309421:COMPLETED
+EVX-02,Evaxion,explicit,superseded,Phase 1/2,Phase 1/2,2020-07-13,NCT04455503:TERMINATED
+ISM001-055 (rentosertib),Insilico Medicine,explicit,active,Phase 3,Phase 3,2021-12 (first volunteer dosed in an Australian microdose trial; Insilico release dated 2021-12-01),NCT07687459:RECRUITING;NCT05975983:RECRUITING;NCT05154240:COMPLETED;NCT05938920:COMPLETED
+BEN-2293,BenevolentAI,platform,discontinued,Phase 1/2,Phase 1/2,2020-10-14,NCT04737304:COMPLETED
+MDR-001,MindRank AI,explicit,active,Phase 2,Phase 2,2023-06-09,NCT06778850:COMPLETED;NCT06606483:UNKNOWN;NCT07110766:NOT_YET_RECRUITING;NCT07274137:NOT_YET_RECRUITING;NCT07550621:NOT_YET_RECRUITING;NCT07550634:NOT_YET_RECRUITING
+AC0682,Accutar Biotechnology,explicit,unknown,Phase 1,Phase 1,2021-11-12,NCT05080842:TERMINATED;NCT05489679:TERMINATED
+AC176,Accutar Biotechnology,platform,unknown,Phase 1,Phase 1,2022-03-16,NCT05241613:TERMINATED;NCT05673109:TERMINATED
+AC699,Accutar Biotechnology,platform,active,Phase 1,Phase 1,2022-12-29,NCT05654532:ACTIVE_NOT_RECRUITING
+AC676,Accutar Biotechnology,platform,active,Phase 1,Phase 1,2023-06-20,NCT05780034:RECRUITING
+AU-007 (imneskibart),Aulos Bioscience (designed by Biolojic Design),explicit,active,Phase 1/2,Phase 1/2,2022-04-04,NCT05267626:RECRUITING
+ADG126 (muzastotug),Adagene,platform,active,Phase 2,Phase 2,2020-11-01,NCT04524871:ACTIVE_NOT_RECRUITING;NCT04645069:COMPLETED;NCT05405595:RECRUITING;NCT05584670:RECRUITING;NCT05836324:RECRUITING;NCT06846268:RECRUITING;NCT07363408:NOT_YET_RECRUITING
+ADG106,Adagene,platform,discontinued,Phase 1/2,Phase 1/2,2018-09-17,NCT03707093:COMPLETED;NCT03802955:COMPLETED;NCT04501276:COMPLETED;NCT04775680:TERMINATED;NCT04645069:COMPLETED;NCT05236608:UNKNOWN;NCT05275777:ACTIVE_NOT_RECRUITING;NCT05491083:RECRUITING
+ADG116,Adagene,platform,active,Phase 1,Phase 1,2019-08-29,NCT04111445:TERMINATED;NCT04501276:COMPLETED;NCT05277402:COMPLETED
+bamlanivimab (LY-CoV555),AbCellera (developed by Eli Lilly),platform,discontinued,Phase 4,Phase 3,2020-05-28,NCT04603651:NO_LONGER_AVAILABLE;NCT04411628:COMPLETED;NCT04427501:COMPLETED;NCT04497987:COMPLETED;NCT04501978:COMPLETED;NCT05780268:COMPLETED;NCT04518410:COMPLETED;NCT04537910:COMPLETED;NCT04634409:COMPLETED;NCT04840459:UNKNOWN;NCT04656691:TERMINATED;NCT04701658:COMPLETED;NCT04748588:TERMINATED;NCT04790786:TERMINATED;NCT04796402:UNKNOWN;NCT05268601:COMPLETED;NCT05205759:TERMINATED
+bebtelovimab (LY-CoV1404),AbCellera (developed by Eli Lilly),platform,discontinued,Phase 4,Phase 2/3,2020-06-17,NCT04427501:COMPLETED;NCT04634409:COMPLETED;NCT04790786:TERMINATED
+TAK-920/DNL919,AbCellera (developed by Denali Therapeutics with Takeda),platform,discontinued,Phase 1,Phase 1,2022-07-14,NCT05450549:COMPLETED
+ADG206,Adagene,platform,active,Phase 1,Phase 1,2023-02-13,NCT05614258:ACTIVE_NOT_RECRUITING
+PHI-101 (lasmotinib),Pharos iBio,explicit,active,Phase 1,Phase 1,2020-06-08,NCT04842370:UNKNOWN;NCT04678102:UNKNOWN
+DF-003,Drug Farm,platform,active,Phase 1,Phase 1,"2023-09-15 (NCT05997641, Phase 1)",
+DF-006,Drug Farm,platform,active,Phase 1,Phase 1,by 2023-09-26 (ACTRN12621000592842; Part 3 dosed 2023-09-26; earlier parts' start not read),

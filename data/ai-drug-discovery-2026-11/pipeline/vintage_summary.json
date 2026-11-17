@@ -1,0 +1,334 @@
+{
+ "part_A": {
+  "n16": 16,
+  "n18": 18,
+  "vintage16": {
+   "G1": 9,
+   "G2": 0,
+   "G3": 6,
+   "G4": 0,
+   "computational": 0,
+   "not stated": 1
+  },
+  "vintage18": {
+   "G1": 9,
+   "G2": 0,
+   "G3": 8,
+   "G4": 0,
+   "computational": 0,
+   "not stated": 1
+  },
+  "vintage16_S1_evolutionary_not_generative": {
+   "G1": 11,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "computational": 0,
+   "not stated": 2
+  },
+  "vintage16_S2_nurix_from_S1_filing": {
+   "G1": 6,
+   "G2": 0,
+   "G3": 6,
+   "G4": 0,
+   "computational": 0,
+   "not stated": 4
+  },
+  "vintage16_S1_and_S2": {
+   "G1": 8,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "computational": 0,
+   "not stated": 5
+  },
+  "level16": {
+   "platform": 10,
+   "candidate": 6
+  },
+  "level18": {
+   "platform": 11,
+   "candidate": 7
+  },
+  "outcome_by_vintage16": {
+   "G1": {
+    "active": 7,
+    "discontinued": 1,
+    "superseded": 1
+   },
+   "G3": {
+    "active": 3,
+    "discontinued": 2,
+    "unknown": 1
+   },
+   "not stated": {
+    "discontinued": 1
+   }
+  },
+  "outcome_by_vintage18": {
+   "G1": {
+    "active": 7,
+    "discontinued": 1,
+    "superseded": 1
+   },
+   "G3": {
+    "active": 4,
+    "discontinued": 3,
+    "unknown": 1
+   },
+   "not stated": {
+    "discontinued": 1
+   }
+  },
+  "g2_or_g4_named_in_window_any": 0,
+  "anachronism_flags": 0,
+  "retro_attribution": [
+   "MRT-2359",
+   "ISM001-055 (rentosertib)",
+   "BEN-2293"
+  ],
+  "later_sources_found18": 16,
+  "design_year_range18": [
+   2019,
+   2023
+  ],
+  "design_year_counts18": {
+   "2019": 1,
+   "2020": 7,
+   "2021": 6,
+   "2022": 1,
+   "2023": 3
+  },
+  "g3_candidates18": [
+   "EXS21546",
+   "DSP-1181",
+   "DSP-0038",
+   "DSP-2342",
+   "EXS4318",
+   "ISM001-055 (rentosertib)",
+   "GB-0669",
+   "GB-0895"
+  ]
+ },
+ "part_B": {
+  "filings": 64,
+  "companies": 12,
+  "balanced_panel_2021_2025": [
+   "Absci",
+   "Compugen",
+   "Evaxion",
+   "Kymera",
+   "Monte Rosa",
+   "Nurix",
+   "Recursion",
+   "Relay",
+   "Schrodinger",
+   "iBio"
+  ],
+  "panel_companies_mentioning": {
+   "G1_ml_prediction": {
+    "2021": 9,
+    "2022": 10,
+    "2023": 10,
+    "2024": 10,
+    "2025": 9
+   },
+   "G2_structure_prediction": {
+    "2021": 0,
+    "2022": 0,
+    "2023": 1,
+    "2024": 1,
+    "2025": 0
+   },
+   "G3_generative": {
+    "2021": 1,
+    "2022": 3,
+    "2023": 5,
+    "2024": 7,
+    "2025": 7
+   },
+   "G4_foundation_language": {
+    "2021": 0,
+    "2022": 1,
+    "2023": 1,
+    "2024": 1,
+    "2025": 1
+   },
+   "computational": {
+    "2021": 1,
+    "2022": 1,
+    "2023": 2,
+    "2024": 2,
+    "2025": 2
+   }
+  },
+  "all_filers_by_year": {
+   "2019": {
+    "G1_ml_prediction_companies": 2,
+    "G2_structure_prediction_companies": 0,
+    "G3_generative_companies": 1,
+    "G4_foundation_language_companies": 0,
+    "computational_companies": 1,
+    "companies": 2
+   },
+   "2020": {
+    "G1_ml_prediction_companies": 5,
+    "G2_structure_prediction_companies": 0,
+    "G3_generative_companies": 1,
+    "G4_foundation_language_companies": 0,
+    "computational_companies": 1,
+    "companies": 7
+   },
+   "2021": {
+    "G1_ml_prediction_companies": 10,
+    "G2_structure_prediction_companies": 1,
+    "G3_generative_companies": 2,
+    "G4_foundation_language_companies": 1,
+    "computational_companies": 2,
+    "companies": 11
+   },
+   "2022": {
+    "G1_ml_prediction_companies": 11,
+    "G2_structure_prediction_companies": 1,
+    "G3_generative_companies": 4,
+    "G4_foundation_language_companies": 2,
+    "computational_companies": 2,
+    "companies": 11
+   },
+   "2023": {
+    "G1_ml_prediction_companies": 11,
+    "G2_structure_prediction_companies": 1,
+    "G3_generative_companies": 6,
+    "G4_foundation_language_companies": 2,
+    "computational_companies": 3,
+    "companies": 11
+   },
+   "2024": {
+    "G1_ml_prediction_companies": 10,
+    "G2_structure_prediction_companies": 1,
+    "G3_generative_companies": 7,
+    "G4_foundation_language_companies": 1,
+    "computational_companies": 2,
+    "companies": 10
+   },
+   "2025": {
+    "G1_ml_prediction_companies": 10,
+    "G2_structure_prediction_companies": 0,
+    "G3_generative_companies": 8,
+    "G4_foundation_language_companies": 1,
+    "computational_companies": 2,
+    "companies": 11
+   },
+   "2026": {
+    "G1_ml_prediction_companies": 1,
+    "G2_structure_prediction_companies": 0,
+    "G3_generative_companies": 1,
+    "G4_foundation_language_companies": 0,
+    "computational_companies": 0,
+    "companies": 1
+   }
+  },
+  "g4_sentences_by_company": {
+   "Exscientia": 6,
+   "Recursion": 71
+  },
+  "g2_sentences_by_company": {
+   "Exscientia": 3,
+   "Recursion": 3
+  },
+  "precision_sample": {
+   "G1_ml_prediction": {
+    "yes": 13,
+    "n": 20,
+    "pool": 751,
+    "share": 0.65
+   },
+   "G2_structure_prediction": {
+    "yes": 3,
+    "n": 6,
+    "pool": 6,
+    "share": 0.5
+   },
+   "G3_generative": {
+    "yes": 14,
+    "n": 20,
+    "pool": 185,
+    "share": 0.7
+   },
+   "G4_foundation_language": {
+    "yes": 17,
+    "n": 20,
+    "pool": 77,
+    "share": 0.85
+   }
+  },
+  "g3_own_tool_panel_hand_read": {
+   "2021": 1,
+   "2022": 2,
+   "2023": 4,
+   "2024": 5,
+   "2025": 5
+  },
+  "g3_not_own_tool": [
+   {
+    "company": "Compugen",
+    "fiscal_year": 2024
+   },
+   {
+    "company": "Compugen",
+    "fiscal_year": 2025
+   },
+   {
+    "company": "Evaxion",
+    "fiscal_year": 2022
+   },
+   {
+    "company": "Evaxion",
+    "fiscal_year": 2023
+   },
+   {
+    "company": "Evaxion",
+    "fiscal_year": 2024
+   },
+   {
+    "company": "Kymera",
+    "fiscal_year": 2025
+   }
+  ]
+ },
+ "part_C": {
+  "core_deals_without_terms": 18,
+  "core_without_terms_by_ai_wording": {
+   "explicit": 18
+  },
+  "core_without_terms_by_type": {
+   "discovery collaboration": 17,
+   "asset license": 1
+  },
+  "drugmakers_with_core_deal_without_terms": 13,
+  "other_deals_without_terms": 15,
+  "drugmakers_with_other_deal_without_terms": 9,
+  "unclassified_rows_excluded": [
+   {
+    "ai_company": "Elsie Biotechnologies",
+    "drugmaker": "GSK",
+    "deal_type": "acquisition"
+   },
+   {
+    "ai_company": "insitro",
+    "drugmaker": "Gilead",
+    "deal_type": "not found"
+   }
+  ],
+  "strict_count_cycle008": 16,
+  "strict_count_if_explicit_no_terms_counted": 18,
+  "strict_added_by_sensitivity": [
+   "Amgen",
+   "Teva"
+  ],
+  "strict_still_not_met": [
+   "CSL",
+   "Regeneron"
+  ]
+ }
+}

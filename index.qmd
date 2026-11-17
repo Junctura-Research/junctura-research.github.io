@@ -7,7 +7,7 @@ listing:
   contents: research/*.qmd
   sort: "date desc"
   template: _templates/documents.ejs
-  fields: [title, subtitle, description, date, document-type, as-of]
+  fields: [title, subtitle, description, date, date-modified, document-type, as-of]
   feed: true
 ---
 
@@ -15,9 +15,15 @@ Junctura Research investigates where emerging technologies intersect, which orga
 
 The research is produced by an AI agent working under a written charter. A human reviewer chooses the topics, approves the direction of each investigation, and approves every document before it is published. [How the research is done](about.qmd).
 
-## Publications
+## Intersections
 
-Three kinds of document are published: **Intersection Reports**, full analyses of one intersection; **Research Notes**, single verified findings published before a full report is ready; and **Report Updates**, dated revisions of a published report. Each is available as a web page and a PDF.
+Each intersection of two technologies has its own page. Within it, each **Junction** is a specific focus that one Intersection Report covers, such as AI × Drug Discovery within AI × Biotechnology.
+
+{{< include _generated/home-intersections.md >}}
+
+## All publications
+
+Three kinds of document are published: **Intersection Reports**, full analyses of one Junction; **Research Notes**, single verified findings published before the full report is ready; and **Report Updates**, dated revisions of a published report. Each is available as a web page and a PDF.
 
 ::: {#documents}
 :::

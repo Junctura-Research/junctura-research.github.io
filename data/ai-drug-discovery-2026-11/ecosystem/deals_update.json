@@ -1,0 +1,152 @@
+{
+ "new_deal": {
+  "drugmaker": "Roche",
+  "ai_company": "Nurix",
+  "signed": "2026-06",
+  "deal_type": "license and collaboration",
+  "upfront_usd_m": 700.0,
+  "equity_usd_m": null,
+  "potential_milestones_usd_m": 1600.0,
+  "headline_usd_m": 2300.0,
+  "ai_wording": "none",
+  "channel": "SEC filing (cycle 019, Form 8-K)",
+  "terms_quote": "Under the Collaboration Agreement, Roche will make an upfront cash payment of $700.0 million to Nurix, and Nurix will be eligible to receive development, regulatory, and sales milestone payments, with total potential payments of up to $2.3 billion, including the upfront payment.",
+  "ai_quote": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000030/nrix-20260606.htm",
+  "group": ""
+ },
+ "before": {
+  "all_deals": {
+   "core_deals": 57,
+   "by_type": {
+    "discovery collaboration": 36,
+    "license and collaboration": 13,
+    "asset license": 8
+   },
+   "by_ai_wording": {
+    "explicit": 40,
+    "none": 8,
+    "platform-named": 6,
+    "computational": 3
+   },
+   "upfront_n": 40,
+   "upfront_median_usd_m": 50.0,
+   "upfront_min_usd_m": 3.2,
+   "upfront_max_usd_m": 1200.0,
+   "upfront_sum_usd_m": 3438.7,
+   "upfront_share": {
+    "n_deals": 30,
+    "upfront_sum": 2803.2,
+    "milestones_sum": 44822.0,
+    "share": 0.059,
+    "median_deal_share": 0.036
+   }
+  },
+  "without_cspc": {
+   "core_deals": 54,
+   "by_type": {
+    "discovery collaboration": 35,
+    "license and collaboration": 12,
+    "asset license": 7
+   },
+   "by_ai_wording": {
+    "explicit": 38,
+    "none": 7,
+    "platform-named": 6,
+    "computational": 3
+   },
+   "upfront_n": 37,
+   "upfront_median_usd_m": 50.0,
+   "upfront_min_usd_m": 3.2,
+   "upfront_max_usd_m": 150.0,
+   "upfront_sum_usd_m": 2028.7,
+   "upfront_share": {
+    "n_deals": 27,
+    "upfront_sum": 1393.2,
+    "milestones_sum": 34182.0,
+    "share": 0.039,
+    "median_deal_share": 0.031
+   }
+  },
+  "strict_count": 16,
+  "broad_count": 18,
+  "strict_without_phenomic": 15,
+  "strict_not_met": [
+   "Amgen",
+   "Teva",
+   "CSL",
+   "Regeneron"
+  ]
+ },
+ "after": {
+  "all_deals": {
+   "core_deals": 58,
+   "by_type": {
+    "discovery collaboration": 36,
+    "license and collaboration": 14,
+    "asset license": 8
+   },
+   "by_ai_wording": {
+    "explicit": 40,
+    "none": 9,
+    "platform-named": 6,
+    "computational": 3
+   },
+   "upfront_n": 41,
+   "upfront_median_usd_m": 50.0,
+   "upfront_min_usd_m": 3.2,
+   "upfront_max_usd_m": 1200.0,
+   "upfront_sum_usd_m": 4138.7,
+   "upfront_share": {
+    "n_deals": 31,
+    "upfront_sum": 3503.2,
+    "milestones_sum": 46422.0,
+    "share": 0.07,
+    "median_deal_share": 0.042
+   }
+  },
+  "without_cspc": {
+   "core_deals": 55,
+   "by_type": {
+    "discovery collaboration": 35,
+    "license and collaboration": 13,
+    "asset license": 7
+   },
+   "by_ai_wording": {
+    "explicit": 38,
+    "none": 8,
+    "platform-named": 6,
+    "computational": 3
+   },
+   "upfront_n": 38,
+   "upfront_median_usd_m": 50.0,
+   "upfront_min_usd_m": 3.2,
+   "upfront_max_usd_m": 700.0,
+   "upfront_sum_usd_m": 2728.7,
+   "upfront_share": {
+    "n_deals": 28,
+    "upfront_sum": 2093.2,
+    "milestones_sum": 35782.0,
+    "share": 0.055,
+    "median_deal_share": 0.036
+   }
+  },
+  "strict_count": 16,
+  "broad_count": 18,
+  "strict_without_phenomic": 15,
+  "strict_not_met": [
+   "Amgen",
+   "Teva",
+   "CSL",
+   "Regeneron"
+  ]
+ },
+ "sensitivity_after_platform_named": {
+  "by_ai_wording": {
+   "explicit": 40,
+   "none": 8,
+   "platform-named": 7,
+   "computational": 3
+  }
+ }
+}

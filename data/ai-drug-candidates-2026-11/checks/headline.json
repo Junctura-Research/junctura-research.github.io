@@ -96,8 +96,9 @@
    "2021 or earlier": 1,
    "2023 or earlier": 3,
    "2023": 2,
-   "2022": 4,
-   "2021": 2
+   "2022": 2,
+   "2021": 3,
+   "2019": 1
   },
   "first_trial_by_candidate": {
    "EXS21546": "2020-12-08",
@@ -112,9 +113,9 @@
    "NX-2127 (zelebrudomide)": "2021-05-05",
    "NX-1607": "2021-09-29",
    "NX-5948 (bexobrutideg)": "2022-04-13",
-   "EVX-01": "2022-09-19",
+   "EVX-01": "2019-01-28 (NCT03715985, intervention EVAX-01-CAF09b; Evaxion F-1 filed 2021-01-08: trial commenced January 2019)",
    "EVX-02": "2020-07-13",
-   "ISM001-055 (rentosertib)": "2022-02-21",
+   "ISM001-055 (rentosertib)": "2021-12 (first volunteer dosed in an Australian microdose trial; Insilico release dated 2021-12-01)",
    "BEN-2293": "2020-10-14"
   }
  },
@@ -221,8 +222,9 @@
    "2021 or earlier": 1,
    "2023 or earlier": 3,
    "2023": 4,
-   "2022": 4,
-   "2021": 2
+   "2022": 2,
+   "2021": 3,
+   "2019": 1
   },
   "first_trial_by_candidate": {
    "EXS21546": "2020-12-08",
@@ -237,9 +239,9 @@
    "NX-2127 (zelebrudomide)": "2021-05-05",
    "NX-1607": "2021-09-29",
    "NX-5948 (bexobrutideg)": "2022-04-13",
-   "EVX-01": "2022-09-19",
+   "EVX-01": "2019-01-28 (NCT03715985, intervention EVAX-01-CAF09b; Evaxion F-1 filed 2021-01-08: trial commenced January 2019)",
    "EVX-02": "2020-07-13",
-   "ISM001-055 (rentosertib)": "2022-02-21",
+   "ISM001-055 (rentosertib)": "2021-12 (first volunteer dosed in an Australian microdose trial; Insilico release dated 2021-12-01)",
    "BEN-2293": "2020-10-14",
    "GB-0669": "2023-07-18",
    "GB-0895": "2023-12-12"

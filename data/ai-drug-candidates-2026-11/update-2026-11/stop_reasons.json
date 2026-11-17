@@ -1,0 +1,77 @@
+{
+ "n_stops": 9,
+ "main_reading_9": {
+  "trial results": 2,
+  "portfolio": 3,
+  "other (regulatory)": 2,
+  "not stated": 2
+ },
+ "sensitivity_ADG106_not_stated_9": {
+  "trial results": 2,
+  "portfolio": 2,
+  "other (regulatory)": 2,
+  "not stated": 3
+ },
+ "main_reading_earlier_8": {
+  "trial results": 2,
+  "portfolio": 2,
+  "other (regulatory)": 2,
+  "not stated": 2
+ },
+ "stops": [
+  {
+   "candidate": "EXS21546",
+   "recorded_reason": "not sufficiently promising (company); therapeutic index (registry)",
+   "class_015": "trial results",
+   "class_main": "trial results"
+  },
+  {
+   "candidate": "DSP-1181",
+   "recorded_reason": "not stated by the company",
+   "class_015": "not stated",
+   "class_main": "not stated"
+  },
+  {
+   "candidate": "REC-3964",
+   "recorded_reason": "strategic / portfolio",
+   "class_015": "portfolio",
+   "class_main": "portfolio"
+  },
+  {
+   "candidate": "BEN-2293",
+   "recorded_reason": "efficacy",
+   "class_015": "trial results",
+   "class_main": "trial results"
+  },
+  {
+   "candidate": "ADG106",
+   "recorded_reason": "not stated by the company (deprioritized)",
+   "class_015": "not stated",
+   "class_main": "portfolio"
+  },
+  {
+   "candidate": "bamlanivimab (LY-CoV555)",
+   "recorded_reason": "authorization withdrawn: resistant variants; partner withdrew the product",
+   "class_015": "other (regulatory)",
+   "class_main": "other (regulatory)"
+  },
+  {
+   "candidate": "bebtelovimab (LY-CoV1404)",
+   "recorded_reason": "authorization withdrawn at partner's request (lots expired; resistant variants)",
+   "class_015": "other (regulatory)",
+   "class_main": "other (regulatory)"
+  },
+  {
+   "candidate": "TAK-920/DNL919",
+   "recorded_reason": "not stated by the company",
+   "class_015": "not stated",
+   "class_main": "not stated"
+  },
+  {
+   "candidate": "NX-2127 (zelebrudomide)",
+   "recorded_reason": "In August 2026, as part of a strategic prioritization of our wholly owned oncology portfolio, we decided to discontinue further clinical development of zelebrudomide.",
+   "class_015": "portfolio",
+   "class_main": "portfolio"
+  }
+ ]
+}

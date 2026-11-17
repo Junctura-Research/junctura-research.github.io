@@ -1,0 +1,51 @@
+{
+ "Schrodinger": {
+  "entity": "Schrodinger, Inc.",
+  "concepts": [
+   {
+    "concept": "us-gaap:RoyaltyExpense",
+    "unit": "USD",
+    "n_facts": 12,
+    "latest": {
+     "start": "2025-01-01",
+     "end": "2025-12-31",
+     "val": 8401000,
+     "accn": "0001490978-26-000010",
+     "fy": 2025,
+     "fp": "FY",
+     "form": "10-K",
+     "filed": "2026-02-25",
+     "frame": "CY2025"
+    }
+   }
+  ]
+ },
+ "Recursion": {
+  "entity": "RECURSION PHARMACEUTICALS, INC.",
+  "concepts": []
+ },
+ "Nurix": {
+  "entity": "NURIX THERAPEUTICS, INC.",
+  "concepts": []
+ },
+ "Monte Rosa": {
+  "entity": "Monte Rosa Therapeutics, Inc.",
+  "concepts": []
+ },
+ "Kymera": {
+  "entity": "KYMERA THERAPEUTICS, INC.",
+  "concepts": []
+ },
+ "Absci": {
+  "entity": "ABSCI CORP",
+  "concepts": []
+ },
+ "Generate": {
+  "entity": "Generate Biomedicines, Inc.",
+  "concepts": []
+ },
+ "Iambic": {
+  "entity": "Iambic Therapeutics, Inc.",
+  "concepts": []
+ }
+}

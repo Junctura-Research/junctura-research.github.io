@@ -1,0 +1,65 @@
+{
+ "panel": 16,
+ "with_annual_report": 12,
+ "no_annual_report": [
+  "Generate",
+  "Iambic",
+  "Odyssey",
+  "Parabilis"
+ ],
+ "companies_with_ai_sentence_in_risk_factors": 12,
+ "class_counts": {
+  "data": 9,
+  "validation": 8,
+  "ai_regulation": 11,
+  "compute_tools": 8
+ },
+ "class_counts_with_sensitivity": {
+  "data": 10,
+  "validation": 8,
+  "ai_regulation": 11,
+  "compute_tools": 8
+ },
+ "companies_all_four": [
+  "Recursion",
+  "Absci",
+  "Nurix",
+  "Compugen",
+  "iBio"
+ ],
+ "companies_none": [
+  "Schrodinger"
+ ],
+ "ai_sentences_total": 294,
+ "runway_years_median_all": 1.55,
+ "runway_years_range_all": [
+  1.0,
+  2.85
+ ],
+ "runway_dated_n": 7,
+ "runway_years_median_dated": 2.8,
+ "runway_12_month_only_n": 4,
+ "op_cash_used_usd_millions_sorted": [
+  6.6,
+  22.8,
+  23.2,
+  92.9,
+  232.9,
+  235.5,
+  249.5,
+  371.8
+ ],
+ "op_cash_used_usd_median_millions": 162.9,
+ "op_cash_positive": [
+  "Schrodinger",
+  "Compugen"
+ ],
+ "stops_by_class": {
+  "efficacy or safety": 2,
+  "regulatory": 2,
+  "portfolio or strategic": 1,
+  "not stated": 3
+ },
+ "quotes_checked": 52,
+ "quotes_found": 52
+}

@@ -9,17 +9,24 @@ const fmt = (s) => {
   const m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})/);
   return m ? `${Number(m[3])} ${MONTHS[Number(m[2]) - 1]} ${m[1]}` : (s || "");
 };
+// Type label (unless the subtitle already names it), evidence date, update date
+const metaLine = (item) => {
+  const label = TYPE_LABELS[item["document-type"]] || "";
+  const parts = [];
+  if (label && !String(item.subtitle || "").includes(label)) parts.push(label);
+  if (item["as-of"]) parts.push("Evidence as of " + fmt(item["as-of"]));
+  if (item["date-modified"] && fmt(item["date-modified"]) !== fmt(item.date)) parts.push("Updated " + fmt(item["date-modified"]));
+  return parts.join(" · ");
+};
 %>
 <ul class="doc-list list-unstyled">
-<% for (const item of items) {
-  const pdf = item.path.replace(/\.html$/, ".pdf");
-%>
-  <li <%= metadataAttrs(item) %> class="doc-item">
-    <p class="doc-type"><%= TYPE_LABELS[item["document-type"]] || "" %><% if (item["as-of"]) { %> · Evidence as of <%= fmt(item["as-of"]) %><% } %></p>
-    <h3 class="doc-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
-    <% if (item.subtitle) { %><p class="doc-subtitle"><%= item.subtitle %></p><% } %>
-    <% if (item.description) { %><p class="doc-description"><%= item.description %></p><% } %>
-    <p class="doc-links"><a href="<%- item.path %>">Read online</a> · <a href="<%- pdf %>">PDF</a></p>
-  </li>
+<% for (const item of items) { const pdf = item.path.replace(/\.html$/, ".pdf"); %>
+<li <%= metadataAttrs(item) %> class="doc-item">
+<p class="doc-type"><%= metaLine(item) %></p>
+<h3 class="doc-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
+<% if (item.subtitle) { %><p class="doc-subtitle"><%= item.subtitle %></p><% } %>
+<% if (item.description) { %><p class="doc-description"><%= item.description %></p><% } %>
+<p class="doc-links"><a href="<%- item.path %>">Read online</a> · <a href="<%- pdf %>">PDF</a></p>
+</li>
 <% } %>
 </ul>

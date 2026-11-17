@@ -1,0 +1,334 @@
+{
+ "AbCellera": {},
+ "Adagene": {},
+ "Anew Labs": {},
+ "Atomwise": {},
+ "BigHat Biosciences": {},
+ "BullFrog AI": {},
+ "Chai Discovery": {},
+ "Creyon Bio": {},
+ "Dyno Therapeutics": {},
+ "Earendil Labs": {},
+ "Envisagenics": {},
+ "Genesis Therapeutics": {},
+ "Healx": {
+  "NCT03882918": {
+   "nct": "NCT03882918",
+   "title": "An Open-Label Study to Evaluate the Long-Term Safety, Tolerability, and Efficacy of OV101 in Individuals With Angelman Syndrome",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "TERMINATED",
+   "start": "2019-01-31",
+   "why_stopped": "Company decision",
+   "last_update": "2025-07-18",
+   "lead": "Healx AI",
+   "collaborators": [],
+   "interventions": [
+    "OV101"
+   ],
+   "other_names": [
+    "gaboxadol"
+   ]
+  }
+ },
+ "insitro": {},
+ "Isomorphic Labs": {},
+ "Kiromic BioPharma": {},
+ "Kymera": {},
+ "METiS TechBio": {},
+ "MindRank AI": {
+  "NCT07274137": {
+   "nct": "NCT07274137",
+   "title": "A Phase III Study to Evaluate the Efficacy and Safety of MDR-001 in Adult Participants With Overweight or Obesity (MOBILE\uff09",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "NOT_YET_RECRUITING",
+   "start": "2026-02",
+   "why_stopped": "",
+   "last_update": "2025-12-22",
+   "lead": "MindRank AI Ltd",
+   "collaborators": [],
+   "interventions": [
+    "MDR-001",
+    "Placebo"
+   ],
+   "other_names": []
+  }
+ },
+ "MindWalk": {},
+ "Nabla Bio": {},
+ "Pharos iBio": {
+  "NCT06511336": {
+   "nct": "NCT06511336",
+   "title": "Alkaline Water and Salivary Bacterial Count",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "UNKNOWN",
+   "start": "2024-07-01",
+   "why_stopped": "",
+   "last_update": "2024-07-19",
+   "lead": "Pharos University in Alexandria",
+   "collaborators": [],
+   "interventions": [
+    "Alkaline water (FLO water- Bottled drinking water- the Egyption Saudi Company for natural water- made in Egypt"
+   ],
+   "other_names": [
+    "Alkaline water"
+   ]
+  },
+  "NCT06266481": {
+   "nct": "NCT06266481",
+   "title": "Topical Dexamethasone Versus Topical Lidocaine Spray to Reduce POST in Shoulder Arthroscopic Surgeries: A Comparative Study",
+   "phases": [
+    "PHASE2",
+    "PHASE3"
+   ],
+   "status": "UNKNOWN",
+   "start": "2024-03-01",
+   "why_stopped": "",
+   "last_update": "2024-02-20",
+   "lead": "Pharos University in Alexandria",
+   "collaborators": [],
+   "interventions": [
+    "Topical dexamethasone",
+    "10% lidocaine was sprayed over the tube for the second group"
+   ],
+   "other_names": []
+  }
+ },
+ "Profluent": {},
+ "Relation Therapeutics": {},
+ "Soley Therapeutics": {},
+ "Superluminal Medicines": {},
+ "Valo Health": {},
+ "Xaira": {},
+ "XtalPi": {},
+ "Accutar Biotechnology": {},
+ "Biolojic Design": {},
+ "Aulos Bioscience": {},
+ "Lilly trials naming AbCellera-co-discovered antibodies": {
+  "NCT05780268": {
+   "nct": "NCT05780268",
+   "title": "LY3819253 (LY-CoV555) for Inpatients With COVID-19 (An ACTIV-3/TICO Treatment Trial)",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-08-05",
+   "why_stopped": "",
+   "last_update": "2023-12-27",
+   "lead": "National Institute of Allergy and Infectious Diseases (NIAID)",
+   "collaborators": [
+    "International Network for Strategic Initiatives in Global HIV Trials (INSIGHT)",
+    "University of Copenhagen",
+    "Medical Research Council",
+    "Kirby Institute",
+    "Washington D.C. Veterans Affairs Medical Center",
+    "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "US Department of Veterans Affairs",
+    "Prevention and Early Treatment of Acute Lung Injury",
+    "Cardiothoracic Surgical Trials Network",
+    "Eli Lilly and Company",
+    "University of Minnesota"
+   ],
+   "interventions": [
+    "LY3819253",
+    "Placebo",
+    "Remdesivir"
+   ],
+   "other_names": [
+    "Veklury"
+   ]
+  },
+  "NCT04427501": {
+   "nct": "NCT04427501",
+   "title": "A Study of LY3819253 (LY-CoV555) and LY3832479 (LY-CoV016) in Participants With Mild to Moderate COVID-19 Illness",
+   "phases": [
+    "PHASE2",
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-06-17",
+   "why_stopped": "",
+   "last_update": "2024-04-11",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "AbCellera Biologics Inc.",
+    "Shanghai Junshi Bioscience Co., Ltd."
+   ],
+   "interventions": [
+    "LY3819253",
+    "LY3832479",
+    "LY3853113",
+    "Placebo"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "Bamlanivimab",
+    "LY-CoV016",
+    "Etesevimab",
+    "bebtelovimab"
+   ]
+  },
+  "NCT04518410": {
+   "nct": "NCT04518410",
+   "title": "ACTIV-2: A Study for Outpatients With COVID-19",
+   "phases": [
+    "PHASE2",
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-08-19",
+   "why_stopped": "",
+   "last_update": "2024-08-02",
+   "lead": "National Institute of Allergy and Infectious Diseases (NIAID)",
+   "collaborators": [
+    "Eli Lilly and Company",
+    "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+    "Brii Biosciences Limited",
+    "AstraZeneca",
+    "Sagent Pharmaceuticals",
+    "Synairgen Research Ltd.",
+    "Bristol-Myers Squibb",
+    "SAb Biotherapeutics, Inc."
+   ],
+   "interventions": [
+    "bamlanivimab 7000mg",
+    "BRII-196+BRII-198",
+    "AZD7442 (IV)",
+    "AZD7442 (IM)",
+    "SNG001",
+    "Camostat",
+    "BMS-986414 + BMS-986413",
+    "SAB-185 (3,840 Units/kg)",
+    "SAB-185 (10,240 Units/kg)",
+    "CASIRIVIMAB + IMDEVIMAB",
+    "Placebo for Bamlanivimab 7000mg",
+    "Placebo for Bamlanivimab 700mg",
+    "Placebo for BRII-196+BRII-198",
+    "Placebo for SNG001",
+    "Placebo for Camostat",
+    "Placebo for SAB-185 (low dose)",
+    "Placebo for BMS-986414 + BMS-986413",
+    "Placebo for AZD7442 (IV)",
+    "Placebo for AZD7442 (IM)",
+    "Placebo for SAB-185 (high dose)",
+    "bamlanivimab 700mg"
+   ],
+   "other_names": [
+    "LY3819253",
+    "AZD8895 + AZD1061",
+    "AZD8895 + AZD1061",
+    "FOY-305",
+    "camostat mesilate",
+    "camostat mesylate",
+    "C135-LS + C144-LS",
+    "Anti-SARS-CoV-2 Human Immunoglobulin Intravenous (Tc bovine-derived)",
+    "Anti-SARS-CoV-2 Human Immunoglobulin Intravenous (Tc bovine-derived)",
+    "REGN10933 + REGN10987",
+    "REGN-COV2",
+    "LY3819253"
+   ]
+  },
+  "NCT05205759": {
+   "nct": "NCT05205759",
+   "title": "Non-inferiority Trial on Monoclonal Antibodies in COVID-19",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "TERMINATED",
+   "start": "2021-12-09",
+   "why_stopped": "Stop for futility after the onset of the omicron wave",
+   "last_update": "2022-07-26",
+   "lead": "Azienda Ospedaliera Universitaria Integrata Verona",
+   "collaborators": [
+    "Agenzia Italiana del Farmaco",
+    "Azienda Sanitaria-Universitaria Integrata di Udine"
+   ],
+   "interventions": [
+    "Bamlanivimab Etesevimab",
+    "Sotrovimab",
+    "Casirivimab-Imdevimab"
+   ],
+   "other_names": []
+  },
+  "NCT04501978": {
+   "nct": "NCT04501978",
+   "title": "ACTIV-3: Therapeutics for Inpatients With COVID-19",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-08-04",
+   "why_stopped": "",
+   "last_update": "2023-08-25",
+   "lead": "National Institute of Allergy and Infectious Diseases (NIAID)",
+   "collaborators": [
+    "International Network for Strategic Initiatives in Global HIV Trials (INSIGHT)",
+    "University of Copenhagen",
+    "Medical Research Council",
+    "Kirby Institute",
+    "Washington D.C. Veterans Affairs Medical Center",
+    "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "US Department of Veterans Affairs",
+    "Prevention and Early Treatment of Acute Lung Injury",
+    "Cardiothoracic Surgical Trials Network",
+    "Eli Lilly and Company",
+    "Vir Biotechnology, Inc.",
+    "GlaxoSmithKline",
+    "Brii Biosciences Limited",
+    "AstraZeneca",
+    "Molecular Partners AG",
+    "Pfizer",
+    "University of Minnesota"
+   ],
+   "interventions": [
+    "LY3819253",
+    "Placebo",
+    "Remdesivir",
+    "VIR-7831",
+    "BRII-196/BRII-198",
+    "AZD7442",
+    "MP0420",
+    "PF-07304814"
+   ],
+   "other_names": [
+    "AZD8895 + AZD1061",
+    "ensovibep"
+   ]
+  },
+  "NCT04497987": {
+   "nct": "NCT04497987",
+   "title": "A Study of LY3819253 (LY-CoV555) and LY3832479 (LY-CoV016) in Preventing SARS-CoV-2 Infection and COVID-19 in Nursing Home Residents and Staff",
+   "phases": [
+    "PHASE3"
+   ],
+   "status": "COMPLETED",
+   "start": "2020-08-02",
+   "why_stopped": "",
+   "last_update": "2022-02-04",
+   "lead": "Eli Lilly and Company",
+   "collaborators": [
+    "National Institute of Allergy and Infectious Diseases (NIAID)",
+    "AbCellera Biologics Inc.",
+    "Shanghai Junshi Bioscience Co., Ltd."
+   ],
+   "interventions": [
+    "Bamlanivimab",
+    "Placebo",
+    "Etesevimab"
+   ],
+   "other_names": [
+    "LY-CoV555",
+    "LY3819253",
+    "LY-CoV016",
+    "LY3832479"
+   ]
+  }
+ }
+}

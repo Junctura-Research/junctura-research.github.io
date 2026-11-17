@@ -1,0 +1,1072 @@
+{
+ "quote_check": {
+  "quotes": 304,
+  "found": 304
+ },
+ "sum_check_max_abs_diff": 0.0,
+ "by_company_year": {
+  "Absci 2021": {
+   "collaboration": 4.782,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 4.782,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 4.782,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Absci 2022": {
+   "collaboration": 5.747,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 5.747,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 5.747,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Absci 2023": {
+   "collaboration": 5.718,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 5.718,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 5.718,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Absci 2024": {
+   "collaboration": 4.534,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 4.534,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 4.534,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Absci 2025": {
+   "collaboration": 2.8,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 2.8,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 2.8,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Generate 2024": {
+   "collaboration": 20.459,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 20.459,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 20.459,
+   "software_share": 0.0,
+   "itemized_milestones": 5.0,
+   "milestone_share_of_collab": 0.244
+  },
+  "Generate 2025": {
+   "collaboration": 31.893,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 31.893,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 31.893,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Iambic 2024": {
+   "collaboration": 1.194,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 1.194,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 1.194,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Iambic 2025": {
+   "collaboration": 9.426,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 9.426,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 9.426,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Insilico Medicine 2022": {
+   "collaboration": 28.648,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 1.499,
+   "total": 30.147,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 28.648,
+   "software_share": 0.05,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Insilico Medicine 2023": {
+   "collaboration": 47.818,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 3.362,
+   "total": 51.18,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 47.818,
+   "software_share": 0.066,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Insilico Medicine 2024": {
+   "collaboration": 79.733,
+   "grant": 0.0,
+   "other": 2.131,
+   "software": 3.97,
+   "total": 85.834,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 81.864,
+   "software_share": 0.046,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Insilico Medicine 2025": {
+   "collaboration": 48.837,
+   "grant": 0.0,
+   "other": 2.489,
+   "software": 4.913,
+   "total": 56.239,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 51.326,
+   "software_share": 0.087,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Kymera 2021": {
+   "collaboration": 72.832,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 72.832,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 72.832,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Kymera 2022": {
+   "collaboration": 46.826,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 46.826,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 46.826,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Kymera 2023": {
+   "collaboration": 78.592,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 78.592,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 78.592,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Kymera 2024": {
+   "collaboration": 47.072,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 47.072,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 47.072,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Kymera 2025": {
+   "collaboration": 39.211,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 39.211,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 39.211,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Monte Rosa 2023": {
+   "collaboration": 0.0,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 0.0,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 0.0,
+   "software_share": null,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Monte Rosa 2024": {
+   "collaboration": 75.622,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 75.622,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 75.622,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Monte Rosa 2025": {
+   "collaboration": 123.672,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 123.672,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 123.672,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Nurix 2021": {
+   "collaboration": 29.75,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 29.75,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 29.75,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Nurix 2022": {
+   "collaboration": 38.627,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 38.627,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 38.627,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Nurix 2023": {
+   "collaboration": 76.987,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 76.987,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 76.987,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Nurix 2024": {
+   "collaboration": 54.549,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 54.549,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 54.549,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Nurix 2025": {
+   "collaboration": 83.98,
+   "grant": 0.0,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 83.98,
+   "sum_check": -0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 83.98,
+   "software_share": 0.0,
+   "itemized_milestones": 5.0,
+   "milestone_share_of_collab": 0.06
+  },
+  "Recursion 2021": {
+   "collaboration": 10.0,
+   "grant": 0.178,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 10.178,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 10.0,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Recursion 2022": {
+   "collaboration": 39.681,
+   "grant": 0.162,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 39.843,
+   "sum_check": -0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 39.681,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Recursion 2023": {
+   "collaboration": 43.876,
+   "grant": 0.699,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 44.575,
+   "sum_check": -0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 43.876,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Recursion 2024": {
+   "collaboration": 58.488,
+   "grant": 0.351,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 58.839,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 58.488,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Recursion 2025": {
+   "collaboration": 74.256,
+   "grant": 0.425,
+   "other": 0.0,
+   "software": 0.0,
+   "total": 74.681,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 74.256,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "Schrodinger 2021": {
+   "collaboration": 24.584,
+   "grant": 1.111,
+   "other": 0.0,
+   "software": 112.236,
+   "total": 137.931,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 24.584,
+   "software_share": 0.814,
+   "itemized_milestones": 6.3,
+   "milestone_share_of_collab": 0.256
+  },
+  "Schrodinger 2022": {
+   "collaboration": 43.427,
+   "grant": 2.95,
+   "other": 0.0,
+   "software": 134.578,
+   "total": 180.955,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 43.427,
+   "software_share": 0.744,
+   "itemized_milestones": 14.7,
+   "milestone_share_of_collab": 0.338
+  },
+  "Schrodinger 2023": {
+   "collaboration": 54.72,
+   "grant": 4.622,
+   "other": 0.0,
+   "software": 157.324,
+   "total": 216.666,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 54.72,
+   "software_share": 0.726,
+   "itemized_milestones": 27.7,
+   "milestone_share_of_collab": 0.506
+  },
+  "Schrodinger 2024": {
+   "collaboration": 25.143,
+   "grant": 10.047,
+   "other": 0.0,
+   "software": 172.349,
+   "total": 207.539,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 25.143,
+   "software_share": 0.83,
+   "itemized_milestones": 14.1,
+   "milestone_share_of_collab": 0.561
+  },
+  "Schrodinger 2025": {
+   "collaboration": 54.76,
+   "grant": 17.597,
+   "other": 0.0,
+   "software": 183.512,
+   "total": 255.869,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 54.76,
+   "software_share": 0.717,
+   "itemized_milestones": 12.8,
+   "milestone_share_of_collab": 0.234
+  },
+  "XtalPi 2021": {
+   "collaboration": 39.346,
+   "grant": 0.0,
+   "other": 23.453,
+   "software": 0.0,
+   "total": 62.799,
+   "sum_check": -0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 62.799,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "XtalPi 2022": {
+   "collaboration": 87.666,
+   "grant": 0.0,
+   "other": 45.687,
+   "software": 0.0,
+   "total": 133.353,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 133.353,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "XtalPi 2023": {
+   "collaboration": 87.728,
+   "grant": 0.0,
+   "other": 86.692,
+   "software": 0.0,
+   "total": 174.42,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 174.42,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "XtalPi 2024": {
+   "collaboration": 103.662,
+   "grant": 0.0,
+   "other": 162.771,
+   "software": 0.0,
+   "total": 266.433,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 266.433,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  },
+  "XtalPi 2025": {
+   "collaboration": 537.933,
+   "grant": 0.0,
+   "other": 264.69,
+   "software": 0.0,
+   "total": 802.623,
+   "sum_check": 0.0,
+   "milestones": 0.0,
+   "royalties": 0.0,
+   "product": 0.0,
+   "collab_all": 802.623,
+   "software_share": 0.0,
+   "itemized_milestones": null,
+   "milestone_share_of_collab": null
+  }
+ },
+ "rising": {
+  "companies": [
+   "Schrodinger",
+   "Recursion",
+   "Nurix",
+   "Kymera",
+   "Absci",
+   "Monte Rosa"
+  ],
+  "combined_by_year_usd_m": {
+   "2021": 141.948,
+   "2022": 174.308,
+   "2023": 259.893,
+   "2024": 265.408,
+   "2025": 378.679
+  },
+  "ratio_2025_to_2021": 2.67,
+  "avg_2024_25_vs_avg_2021_22": 2.04,
+  "combined_without_monte_rosa": {
+   "2021": 141.948,
+   "2022": 174.308,
+   "2023": 259.893,
+   "2024": 189.786,
+   "2025": 255.007
+  },
+  "peak_year": {
+   "Schrodinger": 2025,
+   "Recursion": 2025,
+   "Nurix": 2025,
+   "Kymera": 2023,
+   "Absci": 2022,
+   "Monte Rosa": 2025
+  },
+  "peak_in_2024_or_2025": 4,
+  "years_below_an_earlier_high": {
+   "Schrodinger": [
+    2024
+   ],
+   "Recursion": [],
+   "Nurix": [
+    2024
+   ],
+   "Kymera": [
+    2022,
+    2024,
+    2025
+   ],
+   "Absci": [
+    2023,
+    2024,
+    2025
+   ],
+   "Monte Rosa": []
+  },
+  "companies_with_a_dip": 4
+ },
+ "top20_share_assessed": [
+  {
+   "company": "Generate",
+   "fy": 2024,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Generate",
+   "fy": 2025,
+   "top20_share": 0.997
+  },
+  {
+   "company": "Iambic",
+   "fy": 2024,
+   "top20_share": 0.0
+  },
+  {
+   "company": "Iambic",
+   "fy": 2025,
+   "top20_share": 0.0
+  },
+  {
+   "company": "Insilico Medicine",
+   "fy": 2022,
+   "top20_share": 0.291
+  },
+  {
+   "company": "Insilico Medicine",
+   "fy": 2023,
+   "top20_share": 0.087
+  },
+  {
+   "company": "Insilico Medicine",
+   "fy": 2024,
+   "top20_share": 0.004
+  },
+  {
+   "company": "Kymera",
+   "fy": 2021,
+   "top20_share": 0.746
+  },
+  {
+   "company": "Kymera",
+   "fy": 2022,
+   "top20_share": 0.769
+  },
+  {
+   "company": "Kymera",
+   "fy": 2023,
+   "top20_share": 0.893
+  },
+  {
+   "company": "Kymera",
+   "fy": 2024,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Kymera",
+   "fy": 2025,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Monte Rosa",
+   "fy": 2024,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Monte Rosa",
+   "fy": 2025,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Nurix",
+   "fy": 2021,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Nurix",
+   "fy": 2022,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Nurix",
+   "fy": 2023,
+   "top20_share": 0.978
+  },
+  {
+   "company": "Nurix",
+   "fy": 2024,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Nurix",
+   "fy": 2025,
+   "top20_share": 1.0
+  },
+  {
+   "company": "Recursion",
+   "fy": 2021,
+   "top20_share": 1.0
+  }
+ ],
+ "top20_not_assessed": [
+  {
+   "company": "Absci",
+   "fy": 2021,
+   "coverage": 0.0
+  },
+  {
+   "company": "Absci",
+   "fy": 2022,
+   "coverage": 0.0
+  },
+  {
+   "company": "Absci",
+   "fy": 2023,
+   "coverage": 0.0
+  },
+  {
+   "company": "Absci",
+   "fy": 2024,
+   "coverage": 0.0
+  },
+  {
+   "company": "Absci",
+   "fy": 2025,
+   "coverage": 0.0
+  },
+  {
+   "company": "Insilico Medicine",
+   "fy": 2025,
+   "coverage": 0.0
+  },
+  {
+   "company": "Recursion",
+   "fy": 2022,
+   "coverage": 0.0
+  },
+  {
+   "company": "Recursion",
+   "fy": 2023,
+   "coverage": 0.0
+  },
+  {
+   "company": "Recursion",
+   "fy": 2024,
+   "coverage": 0.0
+  },
+  {
+   "company": "Recursion",
+   "fy": 2025,
+   "coverage": 0.0
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2021,
+   "coverage": 0.557
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2022,
+   "coverage": 0.509
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2023,
+   "coverage": 0.797
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2024,
+   "coverage": 0.453
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2025,
+   "coverage": 0.599
+  },
+  {
+   "company": "XtalPi",
+   "fy": 2021,
+   "coverage": 0.0
+  },
+  {
+   "company": "XtalPi",
+   "fy": 2022,
+   "coverage": 0.0
+  },
+  {
+   "company": "XtalPi",
+   "fy": 2023,
+   "coverage": 0.0
+  },
+  {
+   "company": "XtalPi",
+   "fy": 2024,
+   "coverage": 0.0
+  },
+  {
+   "company": "XtalPi",
+   "fy": 2025,
+   "coverage": 0.0
+  }
+ ],
+ "top20_revenue_by_deal_wording": {
+  "2024 computational": 11.4,
+  "2024 explicit": 54.849,
+  "2024 none": 88.7,
+  "2024 platform-named": 54.5,
+  "2025 computational": 32.8,
+  "2025 explicit": 83.98,
+  "2025 none": 39.2,
+  "2025 platform-named": 31.8
+ },
+ "top20_revenue_by_deal_wording_rows": [
+  {
+   "company": "Schrodinger",
+   "fy": 2025,
+   "partner": "Bristol-Myers Squibb Company (BMS)",
+   "top20": "Bristol Myers Squibb",
+   "v": 2.8,
+   "wording": "computational"
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2024,
+   "partner": "Bristol-Myers Squibb Company (BMS)",
+   "top20": "Bristol Myers Squibb",
+   "v": 10.8,
+   "wording": "computational"
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2025,
+   "partner": "Novartis Pharma AG (Novartis)",
+   "top20": "Novartis",
+   "v": 30.0,
+   "wording": "computational"
+  },
+  {
+   "company": "Schrodinger",
+   "fy": 2024,
+   "partner": "Novartis Pharma AG (Novartis)",
+   "top20": "Novartis",
+   "v": 0.6,
+   "wording": "computational"
+  },
+  {
+   "company": "Kymera",
+   "fy": 2024,
+   "partner": "Sanofi",
+   "top20": "Sanofi",
+   "v": 47.1,
+   "wording": "none"
+  },
+  {
+   "company": "Kymera",
+   "fy": 2025,
+   "partner": "Sanofi",
+   "top20": "Sanofi",
+   "v": 33.6,
+   "wording": "none"
+  },
+  {
+   "company": "Kymera",
+   "fy": 2025,
+   "partner": "Gilead",
+   "top20": "Gilead",
+   "v": 5.6,
+   "wording": "none"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2024,
+   "partner": "Gilead",
+   "top20": "Gilead",
+   "v": 13.996,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2024,
+   "partner": "Sanofi",
+   "top20": "Sanofi",
+   "v": 21.706,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2024,
+   "partner": "Pfizer",
+   "top20": "Pfizer",
+   "v": 18.847,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2025,
+   "partner": "Gilead",
+   "top20": "Gilead",
+   "v": 12.148,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2025,
+   "partner": "Sanofi",
+   "top20": "Sanofi",
+   "v": 16.148,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2025,
+   "partner": "Pfizer",
+   "top20": "Pfizer",
+   "v": 25.684,
+   "wording": "explicit"
+  },
+  {
+   "company": "Nurix",
+   "fy": 2025,
+   "partner": "Sanofi",
+   "top20": "Sanofi",
+   "v": 30.0,
+   "wording": "explicit"
+  },
+  {
+   "company": "Monte Rosa",
+   "fy": 2024,
+   "partner": "Roche",
+   "top20": "Roche",
+   "v": 34.0,
+   "wording": "platform-named"
+  },
+  {
+   "company": "Monte Rosa",
+   "fy": 2024,
+   "partner": "Novartis",
+   "top20": "Novartis",
+   "v": 41.6,
+   "wording": "none"
+  },
+  {
+   "company": "Generate",
+   "fy": 2024,
+   "partner": "Novartis",
+   "top20": "Novartis",
+   "v": 2.3,
+   "wording": "platform-named"
+  },
+  {
+   "company": "Generate",
+   "fy": 2025,
+   "partner": "Novartis",
+   "top20": "Novartis",
+   "v": 25.1,
+   "wording": "platform-named"
+  },
+  {
+   "company": "Generate",
+   "fy": 2024,
+   "partner": "Amgen",
+   "top20": "Amgen",
+   "v": 18.2,
+   "wording": "platform-named"
+  },
+  {
+   "company": "Generate",
+   "fy": 2025,
+   "partner": "Amgen",
+   "top20": "Amgen",
+   "v": 6.7,
+   "wording": "platform-named"
+  },
+  {
+   "company": "Insilico Medicine",
+   "fy": 2024,
+   "partner": "Genzyme Corporation (Sanofi)",
+   "top20": "Sanofi",
+   "v": 0.3,
+   "wording": "explicit"
+  }
+ ],
+ "xbrl_total_check": {
+  "company_years": 28,
+  "mismatches": 0
+ },
+ "top20_company_years": {
+  "with_revenue": 40,
+  "not_assessed": 20
+ }
+}

@@ -1,0 +1,41 @@
+person,criteria,n_criteria,strength,outcomes,rank
+Demis Hassabis,"C2,C3,C4",3,3,2,1
+Alex Zhavoronkov,"C1,C4",2,3,3,2
+Feng Ren,"C1,C4",2,3,3,2
+John Jumper,"C2,C3",2,3,2,4
+Josh Abramson,"C2,C3",2,3,2,4
+Max Jaderberg,"C2,C3",2,3,2,4
+Eric Kelsic,"C2,C4",2,1,2,7
+Bryan E. Jones,C1,1,3,1,8
+Cohen F [10.64898/2026.08.01.740538],C1,1,3,1,8
+Ester Falconer,C1,1,3,1,8
+Noviski M [10.64898/2026.08.01.740538],C1,1,3,1,8
+Zuojun Xu,C1,1,3,1,8
+Aleksandr Aliper,C4,1,2,3,13
+Arthur Sands,C4,1,2,2,14
+Gevorg Grigoryan,C4,1,2,2,14
+Michael Nally,C4,1,2,2,14
+Noubar Afeyan,C4,1,2,2,14
+Carl Hansen,C4,1,2,1,18
+Christopher Gibson,C4,1,2,1,18
+Greg Verdine,C4,1,2,1,18
+Markus Warmuth,C4,1,2,1,18
+Mathai Mammen,C4,1,2,1,18
+Najat Khan,C4,1,2,1,18
+Véronique Lecault,C4,1,2,1,18
+George Church,C4,1,1,3,25
+Adrian Veres,C4,1,1,2,26
+Alan Crane,C4,1,1,2,26
+Brian Alexander,C4,1,1,2,26
+Daphne Koller,C4,1,1,2,26
+David Berry,C4,1,1,2,26
+Sam Sinai,C4,1,1,2,26
+Tomas Bjorklund,C4,1,1,2,26
+Abraham Heifets,C4,1,1,1,33
+Ajay Yekkirala,C4,1,1,1,33
+Alexander Levy,C4,1,1,1,33
+Cony D'Cruz,C4,1,1,1,33
+Frances Anastassacos,C4,1,1,1,33
+Izhar Wallach,C4,1,1,1,33
+Steve Worland,C4,1,1,1,33
+Surge Biswas,C4,1,1,1,33

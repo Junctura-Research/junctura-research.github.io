@@ -1,0 +1,9 @@
+fiscal_year,companies,company_list,G1_ml_prediction_companies,G1_ml_prediction_share,G2_structure_prediction_companies,G2_structure_prediction_share,G3_generative_companies,G3_generative_share,G4_foundation_language_companies,G4_foundation_language_share,computational_companies,computational_share
+2019,2,Compugen; Schrodinger,2,1.0,0,0.0,1,0.5,0,0.0,1,0.5
+2020,7,Compugen; Evaxion; Kymera; Nurix; Relay; Schrodinger; iBio,5,0.714,0,0.0,1,0.143,0,0.0,1,0.143
+2021,11,Absci; Compugen; Evaxion; Exscientia; Kymera; Monte Rosa; Nurix; Recursion; Relay; Schrodinger; iBio,10,0.909,1,0.091,2,0.182,1,0.091,2,0.182
+2022,11,Absci; Compugen; Evaxion; Exscientia; Kymera; Monte Rosa; Nurix; Recursion; Relay; Schrodinger; iBio,11,1.0,1,0.091,4,0.364,2,0.182,2,0.182
+2023,11,Absci; Compugen; Evaxion; Exscientia; Kymera; Monte Rosa; Nurix; Recursion; Relay; Schrodinger; iBio,11,1.0,1,0.091,6,0.545,2,0.182,3,0.273
+2024,10,Absci; Compugen; Evaxion; Kymera; Monte Rosa; Nurix; Recursion; Relay; Schrodinger; iBio,10,1.0,1,0.1,7,0.7,1,0.1,2,0.2
+2025,11,Absci; Compugen; Eikon; Evaxion; Kymera; Monte Rosa; Nurix; Recursion; Relay; Schrodinger; iBio,10,0.909,0,0.0,8,0.727,1,0.091,2,0.182
+2026,1,iBio,1,1.0,0,0.0,1,1.0,0,0.0,0,0.0

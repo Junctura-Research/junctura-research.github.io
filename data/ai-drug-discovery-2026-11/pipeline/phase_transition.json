@@ -1,0 +1,315 @@
+{
+ "as_of": "2026-11-17",
+ "n": 32,
+ "baseline_BIO_2011_2020": {
+  "phase1_to_2": 52.0,
+  "phase2_to_3": 28.9,
+  "oncology_phase1_to_2": 48.8,
+  "oncology_phase2_to_3": 24.6,
+  "infectious_phase1_to_2": 57.8,
+  "infectious_phase2_to_3": 38.4,
+  "source": "raw/sources/bio_2011_2020.txt lines 190-271"
+ },
+ "phase1_to_2": {
+  "main": {
+   "advanced": [
+    "REC-3964",
+    "MRT-2359",
+    "NX-5948 (bexobrutideg)",
+    "EVX-01",
+    "ISM001-055 (rentosertib)",
+    "MDR-001",
+    "ADG126 (muzastotug)",
+    "bamlanivimab (LY-CoV555)",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "failed": [
+    "EXS21546",
+    "DSP-1181",
+    "BEN-2293",
+    "ADG106",
+    "TAK-920/DNL919"
+   ],
+   "unresolved_active": [
+    "DSP-0038",
+    "DSP-2342",
+    "GTAEXS617 (REC-617)",
+    "SGR-1505",
+    "NX-2127 (zelebrudomide)",
+    "NX-1607",
+    "AC699",
+    "AC676",
+    "AU-007 (imneskibart)",
+    "ADG116",
+    "ADG206",
+    "PHI-101 (lasmotinib)",
+    "DF-003",
+    "DF-006"
+   ],
+   "excluded_unknown_superseded": [
+    "EXS4318",
+    "EVX-02",
+    "AC0682",
+    "AC176"
+   ],
+   "resolved": 14,
+   "reportable (>=10 resolved)": true,
+   "rate_pct": 64.3,
+   "95ci": [
+    38.8,
+    83.7
+   ]
+  },
+  "a_phase1_2_counts_as_phase2": {
+   "advanced": [
+    "EXS21546",
+    "GTAEXS617 (REC-617)",
+    "REC-3964",
+    "MRT-2359",
+    "NX-5948 (bexobrutideg)",
+    "EVX-01",
+    "EVX-02",
+    "ISM001-055 (rentosertib)",
+    "BEN-2293",
+    "MDR-001",
+    "AU-007 (imneskibart)",
+    "ADG126 (muzastotug)",
+    "ADG106",
+    "bamlanivimab (LY-CoV555)",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "failed": [
+    "DSP-1181",
+    "TAK-920/DNL919"
+   ],
+   "unresolved_active": [
+    "DSP-0038",
+    "DSP-2342",
+    "SGR-1505",
+    "NX-2127 (zelebrudomide)",
+    "NX-1607",
+    "AC699",
+    "AC676",
+    "ADG116",
+    "ADG206",
+    "PHI-101 (lasmotinib)",
+    "DF-003",
+    "DF-006"
+   ],
+   "excluded_unknown_superseded": [
+    "EXS4318",
+    "AC0682",
+    "AC176"
+   ],
+   "resolved": 17,
+   "reportable (>=10 resolved)": true,
+   "rate_pct": 88.2,
+   "95ci": [
+    65.7,
+    96.7
+   ]
+  },
+  "b_unknown_superseded_fail": {
+   "advanced": [
+    "REC-3964",
+    "MRT-2359",
+    "NX-5948 (bexobrutideg)",
+    "EVX-01",
+    "ISM001-055 (rentosertib)",
+    "MDR-001",
+    "ADG126 (muzastotug)",
+    "bamlanivimab (LY-CoV555)",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "failed": [
+    "EXS21546",
+    "DSP-1181",
+    "EXS4318",
+    "EVX-02",
+    "BEN-2293",
+    "AC0682",
+    "AC176",
+    "ADG106",
+    "TAK-920/DNL919"
+   ],
+   "unresolved_active": [
+    "DSP-0038",
+    "DSP-2342",
+    "GTAEXS617 (REC-617)",
+    "SGR-1505",
+    "NX-2127 (zelebrudomide)",
+    "NX-1607",
+    "AC699",
+    "AC676",
+    "AU-007 (imneskibart)",
+    "ADG116",
+    "ADG206",
+    "PHI-101 (lasmotinib)",
+    "DF-003",
+    "DF-006"
+   ],
+   "excluded_unknown_superseded": [],
+   "resolved": 18,
+   "reportable (>=10 resolved)": true,
+   "rate_pct": 50.0,
+   "95ci": [
+    29.0,
+    71.0
+   ]
+  },
+  "c_without_covid_antibodies": {
+   "advanced": [
+    "REC-3964",
+    "MRT-2359",
+    "NX-5948 (bexobrutideg)",
+    "EVX-01",
+    "ISM001-055 (rentosertib)",
+    "MDR-001",
+    "ADG126 (muzastotug)"
+   ],
+   "failed": [
+    "EXS21546",
+    "DSP-1181",
+    "BEN-2293",
+    "ADG106",
+    "TAK-920/DNL919"
+   ],
+   "unresolved_active": [
+    "DSP-0038",
+    "DSP-2342",
+    "GTAEXS617 (REC-617)",
+    "SGR-1505",
+    "NX-2127 (zelebrudomide)",
+    "NX-1607",
+    "AC699",
+    "AC676",
+    "AU-007 (imneskibart)",
+    "ADG116",
+    "ADG206",
+    "PHI-101 (lasmotinib)",
+    "DF-003",
+    "DF-006"
+   ],
+   "excluded_unknown_superseded": [
+    "EXS4318",
+    "EVX-02",
+    "AC0682",
+    "AC176"
+   ],
+   "resolved": 12,
+   "reportable (>=10 resolved)": true,
+   "rate_pct": 58.3,
+   "95ci": [
+    32.0,
+    80.7
+   ]
+  }
+ },
+ "phase2_to_3": {
+  "main": {
+   "advanced": [
+    "NX-5948 (bexobrutideg)",
+    "ISM001-055 (rentosertib)",
+    "bamlanivimab (LY-CoV555)"
+   ],
+   "failed": [
+    "REC-3964",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "unresolved_active": [
+    "MRT-2359",
+    "EVX-01",
+    "MDR-001",
+    "ADG126 (muzastotug)"
+   ],
+   "excluded_unknown_superseded": [],
+   "resolved": 5,
+   "reportable (>=10 resolved)": false,
+   "rate_pct": 60.0,
+   "95ci": [
+    23.1,
+    88.2
+   ]
+  },
+  "a_phase1_2_counts_as_phase2": {
+   "advanced": [
+    "NX-5948 (bexobrutideg)",
+    "ISM001-055 (rentosertib)",
+    "bamlanivimab (LY-CoV555)"
+   ],
+   "failed": [
+    "EXS21546",
+    "REC-3964",
+    "BEN-2293",
+    "ADG106",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "unresolved_active": [
+    "GTAEXS617 (REC-617)",
+    "MRT-2359",
+    "EVX-01",
+    "MDR-001",
+    "AU-007 (imneskibart)",
+    "ADG126 (muzastotug)"
+   ],
+   "excluded_unknown_superseded": [
+    "EVX-02"
+   ],
+   "resolved": 8,
+   "reportable (>=10 resolved)": false,
+   "rate_pct": 37.5,
+   "95ci": [
+    13.7,
+    69.4
+   ]
+  },
+  "b_unknown_superseded_fail": {
+   "advanced": [
+    "NX-5948 (bexobrutideg)",
+    "ISM001-055 (rentosertib)",
+    "bamlanivimab (LY-CoV555)"
+   ],
+   "failed": [
+    "REC-3964",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "unresolved_active": [
+    "MRT-2359",
+    "EVX-01",
+    "MDR-001",
+    "ADG126 (muzastotug)"
+   ],
+   "excluded_unknown_superseded": [],
+   "resolved": 5,
+   "reportable (>=10 resolved)": false,
+   "rate_pct": 60.0,
+   "95ci": [
+    23.1,
+    88.2
+   ]
+  },
+  "c_without_covid_antibodies": {
+   "advanced": [
+    "NX-5948 (bexobrutideg)",
+    "ISM001-055 (rentosertib)"
+   ],
+   "failed": [
+    "REC-3964"
+   ],
+   "unresolved_active": [
+    "MRT-2359",
+    "EVX-01",
+    "MDR-001",
+    "ADG126 (muzastotug)"
+   ],
+   "excluded_unknown_superseded": [],
+   "resolved": 3,
+   "reportable (>=10 resolved)": false,
+   "rate_pct": 66.7,
+   "95ci": [
+    20.8,
+    93.9
+   ]
+  }
+ }
+}

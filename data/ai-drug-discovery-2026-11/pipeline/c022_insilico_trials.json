@@ -1,0 +1,185 @@
+[
+ {
+  "nct": "NCT05154240",
+  "title": "A Phase 1, Evaluate the Safety, Tolerability, and Pharmacokinetics of INS018_055 in Healthy Subjects",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2022-02-21",
+  "status": "COMPLETED",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "INS018_055",
+   "Placebo"
+  ],
+  "started_by_2023": true
+ },
+ {
+  "nct": "NCT05938920",
+  "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis (IPF)",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2023-06-19",
+  "status": "COMPLETED",
+  "phases": [
+   "PHASE2"
+  ],
+  "interventions": [
+   "INS018_055",
+   "Placebo"
+  ],
+  "started_by_2023": true
+ },
+ {
+  "nct": "NCT06012578",
+  "title": "Study Evaluating ISM5411 Administered Orally to Healthy Volunteers",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2023-11-08",
+  "status": "COMPLETED",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "ISM5411",
+   "Placebo"
+  ],
+  "started_by_2023": true
+ },
+ {
+  "nct": "NCT05975983",
+  "title": "Study Evaluating INS018_055 Administered Orally to Subjects With Idiopathic Pulmonary Fibrosis",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2024-02-08",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE2"
+  ],
+  "interventions": [
+   "INS018_055",
+   "Placebo"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT06445517",
+  "title": "Study Evaluating ISM8207 in Participants With Advanced Solid Tumors and Relapsed/Refractory B-Cell Lymphoma",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2024-04-25",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "ISM8207"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT06566079",
+  "title": "Study of ISM6331 in Participants With Advanced/Metastatic Mesothelioma or Other Advanced Solid Tumors",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2024-12-27",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "interventions": [
+   "ISM6331"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT06414460",
+  "title": "Study of ISM3412 in Participants With Locally Advanced/Metastatic Solid Tumors",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2025-04-25",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "interventions": [
+   "ISM3412"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT07265570",
+  "title": "Study Evaluating ISM5411 Administered Orally to Subjects With Active Ulcerative Colitis (BETHESDA)",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2025-12-10",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE2"
+  ],
+  "interventions": [
+   "ISM5411 tablets",
+   "ISM5411 tablets",
+   "ISM5411 tablets",
+   "Placebo"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT07581431",
+  "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM8969",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2026-06-15",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "ISM8969 tablets or placebo",
+   "ISM8969 tablets or placebo",
+   "ISM8969 tablets or placebo"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT07687459",
+  "title": "Study Evaluation Rentosertib (INS018_055) Administered Orally in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2026-09-09",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE3"
+  ],
+  "interventions": [
+   "INS018_055 tablets",
+   "Placebo"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT07932041",
+  "title": "A Phase 1, Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISM9528",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2026-10-29",
+  "status": "RECRUITING",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "ISM9528 capsules"
+  ],
+  "started_by_2023": false
+ },
+ {
+  "nct": "NCT06724042",
+  "title": "Study of ISM5939 in Patients With Advanced and/or Metastatic Solid Tumors",
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "start": "2026-12-30",
+  "status": "NOT_YET_RECRUITING",
+  "phases": [
+   "PHASE1"
+  ],
+  "interventions": [
+   "ISM5939",
+   "Cisplatin",
+   "Docetaxel",
+   "Pembrolizumab"
+  ],
+  "started_by_2023": false
+ }
+]

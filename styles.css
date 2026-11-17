@@ -32,3 +32,16 @@ body {
 
 /* Tables in documents */
 table { font-size: 0.92rem; }
+
+/* Intersection list on the home page */
+.intersection-list { margin: 1rem 0 2rem 0; }
+.intersection-item { display: flex; gap: 1rem; align-items: flex-start; padding: 0.9rem 0; border-bottom: 1px solid #e5e5e5; }
+.intersection-thumb img { display: block; width: 120px; height: 60px; object-fit: cover; border-radius: 3px; }
+.intersection-text { flex: 1; min-width: 0; }
+.intersection-title { margin: 0 0 0.2rem 0; font-size: 1.25rem; }
+.intersection-description { margin: 0 0 0.25rem 0; }
+.intersection-meta { margin: 0; font-size: 0.85rem; color: #555; }
+
+/* Intersection pages */
+.intersection-banner { display: block; width: 100%; height: auto; border-radius: 4px; margin: 0.5rem 0 1.25rem 0; }
+.last-reviewed { font-size: 0.85rem; color: #555; }

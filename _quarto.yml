@@ -9,10 +9,14 @@ project:
     - corrections.qmd
     - disclaimer.qmd
     - research/*.qmd
+    - intersections/*.qmd
   resources:
     - CNAME
     - robots.txt
     - "data/**"
+    - "images/**"
+  pre-render:
+    - scripts/build_pages.py
   post-render:
     - scripts/data_index.py
 

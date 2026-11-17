@@ -1,0 +1,11 @@
+pairing,openalex_count_2019_2025,n,relevant,peripheral,wrong_sense,cannot_judge,peripheral_data_use,strict_precision,strict_ci95_low,strict_ci95_high,lenient_precision,strict_excl_cannot_judge,strict_with_data_use,adjusted_count_strict,adjusted_count_strict_ci_low,adjusted_count_strict_ci_high,adjusted_count_lenient,rank_raw,rank_strict,rank_lenient
+AI x Biotech,458085,30,24,3,2,1,0,0.8,0.627,0.905,0.9,0.828,0.8,366468,287192,414544,412276,1,1,1
+AI x Energy,53535,30,18,10,0,2,0,0.6,0.423,0.754,0.933,0.643,0.6,32121,22656,40371,49966,2,2,2
+AI x Space,40551,30,8,19,0,3,17,0.267,0.142,0.444,0.9,0.296,0.833,10814,5751,18024,36496,3,3,3
+Biotech x Space,11390,30,4,5,16,5,2,0.133,0.053,0.297,0.3,0.16,0.2,1519,605,3381,3417,4,5,7
+AI x Quantum,11134,30,19,8,0,3,0,0.633,0.455,0.781,0.9,0.704,0.633,7052,5067,8699,10021,5,4,4
+Biotech x Energy,9309,30,0,17,12,1,0,0.0,0,0.114,0.567,0.0,0.0,0,0,1057,5275,6,10,5
+Energy x Space,4492,30,5,20,4,1,4,0.167,0.073,0.336,0.833,0.172,0.3,749,330,1508,3743,7,7,6
+Biotech x Quantum,3009,30,10,11,8,1,0,0.333,0.192,0.512,0.7,0.345,0.333,1003,579,1541,2106,8,6,8
+Space x Quantum,1396,30,11,15,4,0,4,0.367,0.219,0.545,0.867,0.367,0.5,512,305,761,1210,9,8,9
+Energy x Quantum,924,30,9,12,7,2,0,0.3,0.167,0.479,0.7,0.321,0.3,277,154,442,647,10,9,10

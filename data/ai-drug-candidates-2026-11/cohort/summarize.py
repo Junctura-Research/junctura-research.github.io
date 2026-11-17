@@ -21,6 +21,17 @@ DOC_START = {"REC-3964": "2023 or earlier (10-K filed 2023-02-27: Phase 1 underw
              "DSP-2342": "2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31)",
              "EXS4318": "2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic)"}
 AS_OF = "2026-11-16"
+# Earlier first dosing found in company documents and the registry after the first build (correction, 2026-11-17;
+# date found 2026-11-16). The intervention searches missed these first trials: EVX-01's first trial is registered
+# under the name "EVAX-01-CAF09b"; rentosertib's
+# first trial was an Australian microdose study not found on ClinicalTrials.gov. A third proposed fix (BEN-2293, from a
+# release whose dateline reads 11 February 2020) was dropped: the page is dated 11 Feb 2021 and the registry start,
+# 2020-10-14, is earlier, so the existing date stands. Each value is the earlier of the
+# documented date and the registry date. No cohort membership changes (membership needs a trial by 2023-12-31).
+DATE_FIX = {
+    "EVX-01": "2019-01-28 (NCT03715985, intervention EVAX-01-CAF09b; Evaxion F-1 filed 2021-01-08: trial commenced January 2019)",
+    "ISM001-055 (rentosertib)": "2021-12 (first volunteer dosed in an Australian microdose trial; Insilico release dated 2021-12-01)",
+}
 
 ct = json.load(open("raw/ctgov_cohort.json"))
 out = []
@@ -34,6 +45,9 @@ for r in csv.DictReader(open("cohort.csv")):
     first = starts[0] if starts else ""
     if r["candidate"] in DOC_START and (not first or first > "2023-12-31"):
         first = DOC_START[r["candidate"]]
+    if r["candidate"] in DATE_FIX:
+        assert DATE_FIX[r["candidate"]][:10] < (first or "9999"), r["candidate"]
+        first = DATE_FIX[r["candidate"]]
     out.append(dict(r, highest_phase=top, phase_source="ClinicalTrials.gov" if labs else "company document",
                     first_trial_start=first, n_trials=c["n_trials"],
                     trial_statuses=";".join(f'{t["nct"]}:{t["status"]}' for t in c["trials"])))

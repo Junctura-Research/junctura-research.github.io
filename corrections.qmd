@@ -6,6 +6,6 @@ toc: false
 
 Every error found in a published document is listed here, newest first, with the date it was found and the fix. The corrected document also records the change in its own changelog. Errors can be reported by opening an issue on the [site's public repository](https://github.com/Junctura-Research/junctura-research.github.io/issues).
 
-| Date found | Document | Error | Fix |
-| --- | --- | --- | --- |
-| — | — | No corrections to date. | — |
+This page covers an Intersection Report from the day it is published, and a Research Note from the day its Intersection Report is published. Until then, changes to a Note are listed in the Note's own Changelog. Each intersection's page also lists the corrections for its documents.
+
+{{< include _generated/corrections-table.md >}}

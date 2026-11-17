@@ -1,0 +1,38 @@
+{
+ "NCT05080842": {
+  "title": "A Study of AC682 for the Treatment of Locally Advanced or Metastatic ER+ Breast Cancer",
+  "overallStatus": "TERMINATED",
+  "whyStopped": "Voluntarily terminate the study since the sponsor's development strategy was adjusted.",
+  "lastUpdate": "2025-02-13",
+  "conditions": [
+   "Breast Cancer"
+  ]
+ },
+ "NCT05489679": {
+  "title": "A Study of AC682 In Chinese Patients With ER+/HER2- Locally Advanced or Metastatic Breast Cancer",
+  "overallStatus": "TERMINATED",
+  "whyStopped": "Voluntarily terminate the study since the sponsor's development strategy was adjusted.",
+  "lastUpdate": "2024-01-25",
+  "conditions": [
+   "Breast Cancer"
+  ]
+ },
+ "NCT05241613": {
+  "title": "A Study of AC176 for the Treatment of Metastatic Castration Resistant Prostate Cancer",
+  "overallStatus": "TERMINATED",
+  "whyStopped": "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study",
+  "lastUpdate": "2025-02-13",
+  "conditions": [
+   "Metastatic Castration Resistant Prostate Cancer"
+  ]
+ },
+ "NCT05673109": {
+  "title": "A Study of AC176 for the Treatment of Metastatic Castration Resistant Prostate Cancer",
+  "overallStatus": "TERMINATED",
+  "whyStopped": "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study",
+  "lastUpdate": "2024-01-25",
+  "conditions": [
+   "Metastatic Castration Resistant Prostate Cancer"
+  ]
+ }
+}

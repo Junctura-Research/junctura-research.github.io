@@ -1,0 +1,37 @@
+{
+ "entered_trials_by_end_2022": 11,
+ "first_trial_year": {
+  "2020": 3,
+  "2020 or earlier": 1,
+  "2021 or earlier": 1,
+  "2023 or earlier": 3,
+  "2023": 2,
+  "2022": 2,
+  "2021": 3,
+  "2019": 1
+ },
+ "followup_years_dated": {
+  "GTAEXS617 (REC-617)": 3.36,
+  "SGR-1505": 3.6,
+  "MRT-2359": 4.1,
+  "NX-5948 (bexobrutideg)": 4.59,
+  "ISM001-055 (rentosertib)": 4.96,
+  "NX-1607": 5.13,
+  "NX-2127 (zelebrudomide)": 5.53,
+  "EXS21546": 5.94,
+  "BEN-2293": 6.09,
+  "EVX-02": 6.34,
+  "EVX-01": 7.8
+ },
+ "followup_min_max_dated": [
+  3.36,
+  7.8
+ ],
+ "start_is_bound_only": {
+  "DSP-1181": "2020-01 or earlier (Sumitomo: Phase 1 as of 2021-01-28)",
+  "DSP-0038": "2021 or earlier (Sumitomo: Phase 1 as of 2022-01-31)",
+  "DSP-2342": "2023 or earlier (Sumitomo: Phase 1 as of 2023-10-31)",
+  "EXS4318": "2023 or earlier (Exscientia 20-F filed 2023-03-23: in the clinic)",
+  "REC-3964": "2023 or earlier (10-K filed 2023-02-27: Phase 1 underway)"
+ }
+}

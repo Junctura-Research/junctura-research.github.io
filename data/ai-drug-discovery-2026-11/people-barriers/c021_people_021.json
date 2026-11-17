@@ -1,0 +1,53 @@
+{
+ "qualifying_people": 40,
+ "by_n_criteria": {
+  "1": 33,
+  "2": 6,
+  "3": 1
+ },
+ "two_or_more": [
+  {
+   "person": "Demis Hassabis",
+   "criteria": "C2,C3,C4",
+   "n_criteria": 3,
+   "rank": 1
+  },
+  {
+   "person": "Alex Zhavoronkov",
+   "criteria": "C1,C4",
+   "n_criteria": 2,
+   "rank": 2
+  },
+  {
+   "person": "Feng Ren",
+   "criteria": "C1,C4",
+   "n_criteria": 2,
+   "rank": 2
+  },
+  {
+   "person": "John Jumper",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "rank": 4
+  },
+  {
+   "person": "Josh Abramson",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "rank": 4
+  },
+  {
+   "person": "Max Jaderberg",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "rank": 4
+  },
+  {
+   "person": "Eric Kelsic",
+   "criteria": "C2,C4",
+   "n_criteria": 2,
+   "rank": 7
+  }
+ ],
+ "single_criterion": 33
+}

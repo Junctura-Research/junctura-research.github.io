@@ -1,0 +1,226 @@
+{
+ "as_of": "2026-11-17",
+ "n": 32,
+ "outcomes": {
+  "discontinued": 11,
+  "active": 19,
+  "unknown": 1,
+  "superseded": 1
+ },
+ "strict": "11/32",
+ "strict_pct": 34.4,
+ "strict_95ci": [
+  20.4,
+  51.7
+ ],
+ "broad": "13/32",
+ "broad_pct": 40.6,
+ "broad_95ci": [
+  25.5,
+  57.7
+ ],
+ "sensitivity": {
+  "accutar_unknown_PR25_reading": {
+   "k": 9,
+   "pct": 28.1
+  },
+  "revoked_antibodies_reverted_only": {
+   "k": 9,
+   "pct": 28.1
+  },
+  "no_precedence_rule_all_six_reverted": {
+   "k": 5,
+   "pct": 15.6,
+   "reverted": [
+    "bamlanivimab (LY-CoV555)",
+    "bebtelovimab (LY-CoV1404)",
+    "ADG106",
+    "NX-2127 (zelebrudomide)",
+    "AC0682",
+    "AC176"
+   ]
+  }
+ },
+ "by_tier": {
+  "explicit": {
+   "n": 12,
+   "discontinued": 3
+  },
+  "platform": {
+   "n": 20,
+   "discontinued": 8
+  }
+ },
+ "recheck_changed": [
+  {
+   "candidate": "AC0682",
+   "outcome_019": "unknown",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_020": "discontinued",
+   "changed": true
+  },
+  {
+   "candidate": "AC176",
+   "outcome_019": "unknown",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_020": "discontinued",
+   "changed": true
+  }
+ ],
+ "recheck_flags_active_but_all_trials_stopped": [
+  {
+   "candidate": "EVX-02",
+   "outcome_019": "superseded",
+   "registry_statuses": [
+    "TERMINATED"
+   ],
+   "all_registry_trials_terminated_or_withdrawn": true,
+   "outcome_020": "superseded",
+   "changed": false
+  }
+ ],
+ "unknown_after_rule": [
+  "EXS4318"
+ ],
+ "phase1_to_2": {
+  "advanced": 9,
+  "resolved": 17,
+  "pct": 52.9,
+  "ci95": [
+   31.0,
+   73.8
+  ],
+  "failed": [
+   "EXS21546",
+   "DSP-1181",
+   "NX-2127 (zelebrudomide)",
+   "BEN-2293",
+   "AC0682",
+   "AC176",
+   "ADG106",
+   "TAK-920/DNL919"
+  ],
+  "matched_expected_advanced": 8.73,
+  "p_one_sided_ge_observed_matched": 0.544,
+  "p_unmatched_baseline_52": 0.566,
+  "accutar_unknown_sensitivity": {
+   "advanced": 9,
+   "resolved": 15,
+   "pct": 60.0
+  },
+  "previous_019": "9/15 = 60.0%"
+ },
+ "stop_reasons_019": {
+  "n_stops": 9,
+  "main_reading_9": {
+   "trial results": 2,
+   "portfolio": 3,
+   "other (regulatory)": 2,
+   "not stated": 2
+  },
+  "sensitivity_ADG106_not_stated_9": {
+   "trial results": 2,
+   "portfolio": 2,
+   "other (regulatory)": 2,
+   "not stated": 3
+  },
+  "main_reading_earlier_8": {
+   "trial results": 2,
+   "portfolio": 2,
+   "other (regulatory)": 2,
+   "not stated": 2
+  },
+  "stops": [
+   {
+    "candidate": "EXS21546",
+    "recorded_reason": "not sufficiently promising (company); therapeutic index (registry)",
+    "class_015": "trial results",
+    "class_main": "trial results"
+   },
+   {
+    "candidate": "DSP-1181",
+    "recorded_reason": "not stated by the company",
+    "class_015": "not stated",
+    "class_main": "not stated"
+   },
+   {
+    "candidate": "REC-3964",
+    "recorded_reason": "strategic / portfolio",
+    "class_015": "portfolio",
+    "class_main": "portfolio"
+   },
+   {
+    "candidate": "BEN-2293",
+    "recorded_reason": "efficacy",
+    "class_015": "trial results",
+    "class_main": "trial results"
+   },
+   {
+    "candidate": "ADG106",
+    "recorded_reason": "not stated by the company (deprioritized)",
+    "class_015": "not stated",
+    "class_main": "portfolio"
+   },
+   {
+    "candidate": "bamlanivimab (LY-CoV555)",
+    "recorded_reason": "authorization withdrawn: resistant variants; partner withdrew the product",
+    "class_015": "other (regulatory)",
+    "class_main": "other (regulatory)"
+   },
+   {
+    "candidate": "bebtelovimab (LY-CoV1404)",
+    "recorded_reason": "authorization withdrawn at partner's request (lots expired; resistant variants)",
+    "class_015": "other (regulatory)",
+    "class_main": "other (regulatory)"
+   },
+   {
+    "candidate": "TAK-920/DNL919",
+    "recorded_reason": "not stated by the company",
+    "class_015": "not stated",
+    "class_main": "not stated"
+   },
+   {
+    "candidate": "NX-2127 (zelebrudomide)",
+    "recorded_reason": "In August 2026, as part of a strategic prioritization of our wholly owned oncology portfolio, we decided to discontinue further clinical development of zelebrudomide.",
+    "class_015": "portfolio",
+    "class_main": "portfolio"
+   }
+  ]
+ },
+ "accutar_stop_class_registry": {
+  "AC0682": [
+   "portfolio",
+   "Voluntarily terminate the study since the sponsor's development strategy was adjusted."
+  ],
+  "AC176": [
+   "trial results",
+   "Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study"
+  ]
+ },
+ "stop_reasons_11": {
+  "main": {
+   "trial results": 3,
+   "portfolio": 4,
+   "other (regulatory)": 2,
+   "not stated": 2
+  },
+  "sensitivity_ADG106_not_stated": {
+   "trial results": 3,
+   "portfolio": 3,
+   "other (regulatory)": 2,
+   "not stated": 3
+  },
+  "accutar_unknown_reading_9": {
+   "trial results": 2,
+   "portfolio": 3,
+   "other (regulatory)": 2,
+   "not stated": 2
+  }
+ }
+}

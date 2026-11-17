@@ -1,0 +1,99 @@
+{
+ "as_of": "2026-11-17",
+ "companies_decided_013": 53,
+ "new_companies_013": 31,
+ "by_r0_013": {
+  "in": 25,
+  "borderline": 17,
+  "out": 8,
+  "computational": 2,
+  "indication": 1
+ },
+ "unverified_resolved": {
+  "Syntekabio": "in",
+  "StoneWise": "in",
+  "Deep Apple Therapeutics": "in",
+  "Drug Farm": "in",
+  "Fauna Bio": "in",
+  "Genetic Leap": "in",
+  "Helixon": "in",
+  "Orakl Oncology": "in",
+  "Receptor.AI": "in",
+  "VantAI": "in",
+  "AstralBio": "borderline",
+  "Sail Biomedicines": "borderline",
+  "Rgenta Therapeutics": "out"
+ },
+ "significant_011": 45,
+ "significant_new": [
+  "Basecamp Research",
+  "Cellarity",
+  "NewLimit",
+  "Rakovina Therapeutics",
+  "Seismic Therapeutic",
+  "Syntekabio",
+  "Veritas In Silico"
+ ],
+ "significant_013": 52,
+ "significant_by_criterion_new": {
+  "S3": 4,
+  "S4": 3
+ },
+ "significant_sensitivity": {
+  "Outpace Bio at 'approximately $200 million' counted": 53
+ },
+ "significant_other_classes_new": {
+  "Sail Biomedicines": "borderline: S1",
+  "Matchpoint Therapeutics": "borderline: S1 S3",
+  "Dewpoint Therapeutics": "borderline: S3",
+  "Treeline Biosciences": "borderline: S3",
+  "TRIANA Biomedicines": "borderline: S3",
+  "Neumora": "borderline: S3 S4",
+  "Ventus Therapeutics": "computational: S3",
+  "Tangram Therapeutics": "borderline: S4",
+  "Chipscreen": "borderline: S4",
+  "Nxera Pharma": "borderline: S4",
+  "PRISM BioLab": "borderline: S4",
+  "Oncodesign Precision Medicine": "borderline: S4",
+  "Poolbeg Pharma": "borderline: S4",
+  "Pharnext": "indication: S2 S4",
+  "Zymeworks": "computational: S4",
+  "Orbital Therapeutics": "borderline: S3",
+  "Lila Sciences": "borderline: S3"
+ },
+ "emerging_013": [
+  "Charm Therapeutics",
+  "Aureka Biotechnologies",
+  "Noetik",
+  "Variational AI",
+  "Deep Apple Therapeutics",
+  "Orbis Medicines",
+  "AI Proteins"
+ ],
+ "emerging_added": [
+  "AI Proteins",
+  "Deep Apple Therapeutics",
+  "Orbis Medicines",
+  "Variational AI"
+ ],
+ "emerging_cannot_be_assessed": [
+  "Drug Farm",
+  "Elsie Biotechnologies",
+  "Genetic Leap",
+  "Helixon",
+  "Inceptive",
+  "Outpace Bio",
+  "Terray Therapeutics",
+  "VantAI"
+ ],
+ "emerging_sensitivity": {
+  "Helixon": "cannot be assessed: the 2022-06 Series A report names earlier angel investors (date unknown)",
+  "Variational AI if the cut-off day itself is excluded": "leaves"
+ },
+ "M1_new": 0,
+ "M2_new_cohort_candidates": 2,
+ "M2_note": "Drug Farm DF-003 and DF-006 enter (platform; 2023 releases tie the IDInVivo platform to AI); no other new 'in' company had a trial by 2023-12-31; cohort 30 -> 32 (cohort_013.json)",
+ "M3_new": 0,
+ "M3_note": "Parabilis-Regeneron (upfront 50) is already in analysis/008/deals_combined.csv as platform-named; no new explicit-AI deal with Amgen, Teva, CSL or Regeneron",
+ "M4_new": "not assessed (Syntekabio, Veritas In Silico, Rakovina revenue not opened)"
+}

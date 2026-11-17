@@ -1,0 +1,11 @@
+rank,doi,on_topic,data,validation,clinical_evidence,regulation,compute_tools,other,abstract_basis
+1,10.1038/s41573-023-00774-7,yes,1,1,0,0,0,,"need for high-quality datasets to train deep learning algorithms and appropriate strategies for algorithm validation"
+2,10.1093/bib/bbae275,yes,0,1,0,0,0,,"careful validation of predictive models"
+3,10.1016/j.jpha.2025.101248,yes,1,1,0,0,0,intellectual property,"robust data-sharing mechanisms ... successful fusion of wet and dry laboratory experiments (coded validation: judgment call)"
+4,10.1093/bib/bbaf533,yes,1,0,0,0,0,interpretability; causal inference,"current challenges, including data quality, model interpretability, and causal inference"
+5,10.3390/clinpract15090169,no (clinical medicine across five domains),,,,,,,"names lack of prospective trials and regulatory hurdles for AI in clinical medicine as a whole; not coded"
+6,10.5599/admet.2772,yes,1,1,0,1,0,transparency,"data imbalance ... model validation strategies ... data quality, algorithm transparency, and regulatory acceptance persist"
+7,10.1016/j.sbi.2024.102842,yes,1,1,0,0,0,,"high-quality data, reproducible experiments, and robust validation"
+8,10.1080/17460441.2024.2403639,yes,1,1,0,0,0,human bias,"data issues ... models excel on retrospective benchmarks unlikely to anticipate their prospective performance"
+9,10.1016/j.arr.2023.102172,yes,0,0,0,0,0,,"'principal challenges and limitations' not named in the abstract"
+10,10.1002/mco2.70317,yes,0,0,0,0,0,,"no barrier named in the abstract"

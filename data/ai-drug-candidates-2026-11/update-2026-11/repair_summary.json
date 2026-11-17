@@ -1,0 +1,693 @@
+{
+ "as_of": "2026-11-17",
+ "headline_16_unchanged": {
+  "n": 16,
+  "by_claim": {
+   "explicit": 8,
+   "platform": 8
+  },
+  "by_outcome": {
+   "discontinued": 4,
+   "active": 10,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict": "4/16 = 25.0%",
+  "strict_95ci": [
+   10.2,
+   49.5
+  ],
+  "broad": "6/16 = 37.5%",
+  "broad_95ci": [
+   18.5,
+   61.4
+  ],
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)"
+  ],
+  "reached_phase3_share": "2/16 = 12.5%",
+  "reached_phase3_95ci": [
+   3.5,
+   36.0
+  ],
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 2,
+   "Phase 1": 1,
+   "Phase 2": 1
+  },
+  "by_highest_phase": {
+   "Phase 1/2": 4,
+   "Phase 1": 7,
+   "Phase 2": 3,
+   "Phase 3": 2
+  },
+  "explicit": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "companies": 11
+ },
+ "variant_18_unchanged": {
+  "n": 18,
+  "by_claim": {
+   "explicit": 8,
+   "platform": 10
+  },
+  "by_outcome": {
+   "discontinued": 5,
+   "active": 11,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict": "5/18 = 27.8%",
+  "strict_95ci": [
+   12.5,
+   50.9
+  ],
+  "broad": "7/18 = 38.9%",
+  "broad_95ci": [
+   20.3,
+   61.4
+  ],
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "GB-0895"
+  ],
+  "reached_phase3_share": "3/18 = 16.7%",
+  "reached_phase3_95ci": [
+   5.8,
+   39.2
+  ],
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ],
+   [
+    "GB-0669",
+    "Phase 1",
+    "strategic / commercial",
+    "2026-02-23"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 2,
+   "Phase 1": 2,
+   "Phase 2": 1
+  },
+  "by_highest_phase": {
+   "Phase 1/2": 4,
+   "Phase 1": 8,
+   "Phase 2": 3,
+   "Phase 3": 3
+  },
+  "explicit": {
+   "n": 8,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 10,
+   "discontinued": 3
+  },
+  "companies": 12
+ },
+ "enlarged_headline": {
+  "n": 30,
+  "by_claim": {
+   "explicit": 12,
+   "platform": 18
+  },
+  "by_outcome": {
+   "discontinued": 8,
+   "active": 20,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict": "8/30 = 26.7%",
+  "strict_95ci": [
+   14.2,
+   44.4
+  ],
+  "broad": "10/30 = 33.3%",
+  "broad_95ci": [
+   19.2,
+   51.2
+  ],
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "bamlanivimab (LY-CoV555)",
+   "bebtelovimab (LY-CoV1404)"
+  ],
+  "reached_phase3_share": "4/30 = 13.3%",
+  "reached_phase3_95ci": [
+   5.3,
+   29.7
+  ],
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ],
+   [
+    "ADG106",
+    "Phase 1/2",
+    "not stated by the company (deprioritized)",
+    "by 2025-03-24"
+   ],
+   [
+    "bamlanivimab (LY-CoV555)",
+    "Phase 4",
+    "authorization withdrawn: resistant variants; partner withdrew the product",
+    "2023-12-14"
+   ],
+   [
+    "bebtelovimab (LY-CoV1404)",
+    "Phase 4",
+    "authorization withdrawn at partner's request (lots expired; resistant variants)",
+    "2024-12-13"
+   ],
+   [
+    "TAK-920/DNL919",
+    "Phase 1",
+    "not stated by the company",
+    "by 2026-02-24"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 3,
+   "Phase 1": 2,
+   "Phase 2": 1,
+   "Phase 4": 2
+  },
+  "by_highest_phase": {
+   "Phase 1/2": 6,
+   "Phase 1": 15,
+   "Phase 2": 5,
+   "Phase 3": 2,
+   "Phase 4": 2
+  },
+  "explicit": {
+   "n": 12,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 18,
+   "discontinued": 6
+  },
+  "companies": 17
+ },
+ "enlarged_variant": {
+  "n": 32,
+  "by_claim": {
+   "explicit": 12,
+   "platform": 20
+  },
+  "by_outcome": {
+   "discontinued": 9,
+   "active": 21,
+   "unknown": 1,
+   "superseded": 1
+  },
+  "strict": "9/32 = 28.1%",
+  "strict_95ci": [
+   15.6,
+   45.4
+  ],
+  "broad": "11/32 = 34.4%",
+  "broad_95ci": [
+   20.4,
+   51.7
+  ],
+  "reached_phase3": [
+   "NX-5948 (bexobrutideg)",
+   "ISM001-055 (rentosertib)",
+   "GB-0895",
+   "bamlanivimab (LY-CoV555)",
+   "bebtelovimab (LY-CoV1404)"
+  ],
+  "reached_phase3_share": "5/32 = 15.6%",
+  "reached_phase3_95ci": [
+   6.9,
+   31.8
+  ],
+  "discontinued": [
+   [
+    "EXS21546",
+    "Phase 1/2",
+    "not sufficiently promising (company); therapeutic index (registry)",
+    "2023"
+   ],
+   [
+    "DSP-1181",
+    "Phase 1",
+    "not stated by the company",
+    "2022-01"
+   ],
+   [
+    "REC-3964",
+    "Phase 2",
+    "strategic / portfolio",
+    "2025-05"
+   ],
+   [
+    "BEN-2293",
+    "Phase 1/2",
+    "efficacy",
+    "2023-05"
+   ],
+   [
+    "GB-0669",
+    "Phase 1",
+    "strategic / commercial",
+    "2026-02-23"
+   ],
+   [
+    "ADG106",
+    "Phase 1/2",
+    "not stated by the company (deprioritized)",
+    "by 2025-03-24"
+   ],
+   [
+    "bamlanivimab (LY-CoV555)",
+    "Phase 4",
+    "authorization withdrawn: resistant variants; partner withdrew the product",
+    "2023-12-14"
+   ],
+   [
+    "bebtelovimab (LY-CoV1404)",
+    "Phase 4",
+    "authorization withdrawn at partner's request (lots expired; resistant variants)",
+    "2024-12-13"
+   ],
+   [
+    "TAK-920/DNL919",
+    "Phase 1",
+    "not stated by the company",
+    "by 2026-02-24"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 3,
+   "Phase 1": 3,
+   "Phase 2": 1,
+   "Phase 4": 2
+  },
+  "by_highest_phase": {
+   "Phase 1/2": 6,
+   "Phase 1": 16,
+   "Phase 2": 5,
+   "Phase 3": 3,
+   "Phase 4": 2
+  },
+  "explicit": {
+   "n": 12,
+   "discontinued": 2
+  },
+  "platform": {
+   "n": 20,
+   "discontinued": 7
+  },
+  "companies": 18
+ },
+ "new_headline_rows": [
+  [
+   "MDR-001",
+   "explicit",
+   "m2",
+   "2023-06-09",
+   "Phase 2",
+   "active"
+  ],
+  [
+   "AC0682",
+   "explicit",
+   "m2",
+   "2021-11-12",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "AC176",
+   "platform",
+   "m2",
+   "2022-03-16",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "AC699",
+   "platform",
+   "m2",
+   "2022-12-29",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "AC676",
+   "platform",
+   "m2",
+   "2023-06-20",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "AU-007 (imneskibart)",
+   "explicit",
+   "m2",
+   "2022-04-04",
+   "Phase 1/2",
+   "active"
+  ],
+  [
+   "ADG126 (muzastotug)",
+   "platform",
+   "m2",
+   "2020-11-01",
+   "Phase 2",
+   "active"
+  ],
+  [
+   "ADG106",
+   "platform",
+   "m2",
+   "2018-09-17",
+   "Phase 1/2",
+   "discontinued"
+  ],
+  [
+   "ADG116",
+   "platform",
+   "m2",
+   "2019-08-29",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "bamlanivimab (LY-CoV555)",
+   "platform",
+   "m2",
+   "2020-05-28",
+   "Phase 4",
+   "discontinued"
+  ],
+  [
+   "bebtelovimab (LY-CoV1404)",
+   "platform",
+   "completeness",
+   "2020-06-17",
+   "Phase 4",
+   "discontinued"
+  ],
+  [
+   "TAK-920/DNL919",
+   "platform",
+   "completeness",
+   "2022-07-14",
+   "Phase 1",
+   "discontinued"
+  ],
+  [
+   "ADG206",
+   "platform",
+   "completeness",
+   "2023-02-13",
+   "Phase 1",
+   "active"
+  ],
+  [
+   "PHI-101 (lasmotinib)",
+   "explicit",
+   "m2 (provisional in the coverage audit)",
+   "2020-06-08",
+   "Phase 1",
+   "active"
+  ]
+ ],
+ "new_rows_alone": {
+  "n": 14,
+  "by_claim": {
+   "explicit": 4,
+   "platform": 10
+  },
+  "by_outcome": {
+   "active": 10,
+   "discontinued": 4
+  },
+  "strict": "4/14 = 28.6%",
+  "strict_95ci": [
+   11.7,
+   54.6
+  ],
+  "broad": "4/14 = 28.6%",
+  "broad_95ci": [
+   11.7,
+   54.6
+  ],
+  "reached_phase3": [
+   "bamlanivimab (LY-CoV555)",
+   "bebtelovimab (LY-CoV1404)"
+  ],
+  "reached_phase3_share": "2/14 = 14.3%",
+  "reached_phase3_95ci": [
+   4.0,
+   39.9
+  ],
+  "discontinued": [
+   [
+    "ADG106",
+    "Phase 1/2",
+    "not stated by the company (deprioritized)",
+    "by 2025-03-24"
+   ],
+   [
+    "bamlanivimab (LY-CoV555)",
+    "Phase 4",
+    "authorization withdrawn: resistant variants; partner withdrew the product",
+    "2023-12-14"
+   ],
+   [
+    "bebtelovimab (LY-CoV1404)",
+    "Phase 4",
+    "authorization withdrawn at partner's request (lots expired; resistant variants)",
+    "2024-12-13"
+   ],
+   [
+    "TAK-920/DNL919",
+    "Phase 1",
+    "not stated by the company",
+    "by 2026-02-24"
+   ]
+  ],
+  "discontinued_by_phase": {
+   "Phase 1/2": 1,
+   "Phase 4": 2,
+   "Phase 1": 1
+  },
+  "by_highest_phase": {
+   "Phase 2": 2,
+   "Phase 1": 8,
+   "Phase 1/2": 2,
+   "Phase 4": 2
+  },
+  "explicit": {
+   "n": 4,
+   "discontinued": 0
+  },
+  "platform": {
+   "n": 10,
+   "discontinued": 4
+  },
+  "companies": 6
+ },
+ "new_companies": [
+  "AbCellera (developed by Denali Therapeutics with Takeda)",
+  "AbCellera (developed by Eli Lilly)",
+  "Accutar Biotechnology",
+  "Adagene",
+  "Aulos Bioscience (designed by Biolojic Design)",
+  "MindRank AI",
+  "Pharos iBio"
+ ],
+ "other_tier_rows": [
+  [
+   "ADG104",
+   "borderline (company-level only)",
+   "active",
+   "Phase 2"
+  ],
+  [
+   "ADG125",
+   "borderline (company-level only)",
+   "active",
+   "Phase 2"
+  ]
+ ],
+ "strict_sensitivities_enlarged": {
+  "audit_ten_plus_PHI101_only (no completeness additions)": {
+   "n": 27,
+   "discontinued": 6,
+   "pct": 22.2,
+   "95ci": [
+    10.6,
+    40.8
+   ]
+  },
+  "audit_ten_only (no PHI-101, no completeness additions)": {
+   "n": 26,
+   "discontinued": 6,
+   "pct": 23.1,
+   "95ci": [
+    11.0,
+    42.1
+   ]
+  },
+  "AC0682_AC176_discontinued (all trials terminated)": {
+   "n": 30,
+   "discontinued": 10,
+   "pct": 33.3,
+   "95ci": [
+    19.2,
+    51.2
+   ]
+  },
+  "bamlanivimab_bebtelovimab_active (AbCellera table 'Marketed, EUA')": {
+   "n": 30,
+   "discontinued": 6,
+   "pct": 20.0,
+   "95ci": [
+    9.5,
+    37.3
+   ]
+  },
+  "ADG106_active (investigator trials recruiting)": {
+   "n": 30,
+   "discontinued": 7,
+   "pct": 23.3,
+   "95ci": [
+    11.8,
+    40.9
+   ]
+  },
+  "without_AbCellera_three (pandemic antibodies and partner program)": {
+   "n": 27,
+   "discontinued": 5,
+   "pct": 18.5,
+   "95ci": [
+    8.2,
+    36.7
+   ]
+  },
+  "without_REC-3964 (the checks sensitivity)": {
+   "n": 29,
+   "discontinued": 7,
+   "pct": 24.1,
+   "95ci": [
+    12.2,
+    42.1
+   ]
+  },
+  "all_flagged_against (AC0682, AC176 discontinued; ADG116 unknown)": {
+   "n": 30,
+   "discontinued": 10,
+   "pct": 33.3,
+   "95ci": [
+    19.2,
+    51.2
+   ]
+  }
+ },
+ "phase3_sensitivity_enlarged": {
+  "bebtelovimab_not_counted (its Phase 4 label is an investigator-led comparison of authorized antibodies)": "3/30",
+  "variant_bebtelovimab_not_counted": "4/32"
+ },
+ "phase3_tier_counts_all_candidates": {
+  "before": {
+   "explicit": 1,
+   "explicit_or_platform": 3,
+   "with_borderline": 5
+  },
+  "after": {
+   "explicit": 1,
+   "explicit_or_platform": 5,
+   "with_borderline": 7,
+   "added": [
+    "bamlanivimab (LY-CoV555)",
+    "bebtelovimab (LY-CoV1404)"
+   ],
+   "note": "bebtelovimab reaches the Phase 3-or-later set only through a Phase 4 investigator-led trial label; without it the counts are 1, 4 and 6. MDR-001 (company-stated Phase 3, registry not yet recruiting) is not counted (registry status rule)."
+  }
+ }
+}

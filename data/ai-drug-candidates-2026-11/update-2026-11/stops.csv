@@ -1,0 +1,9 @@
+candidate,recorded_reason,class,source_file
+EXS21546,not sufficiently promising (company); therapeutic index (registry),efficacy or safety,../cohort/cohort_with_phase.csv
+DSP-1181,not stated by the company,not stated,../cohort/cohort_with_phase.csv
+REC-3964,strategic / portfolio,portfolio or strategic,../cohort/cohort_with_phase.csv
+BEN-2293,efficacy,efficacy or safety,../cohort/cohort_with_phase.csv
+ADG106,not stated by the company (deprioritized),not stated,new_rows_with_phase.csv
+bamlanivimab (LY-CoV555),authorization withdrawn: resistant variants; partner withdrew the product,regulatory,new_rows_with_phase.csv
+bebtelovimab (LY-CoV1404),authorization withdrawn at partner's request (lots expired; resistant variants),regulatory,new_rows_with_phase.csv
+TAK-920/DNL919,not stated by the company,not stated,new_rows_with_phase.csv

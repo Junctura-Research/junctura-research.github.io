@@ -1,0 +1,101 @@
+{
+ "qualifying_people": 40,
+ "by_n_criteria": {
+  "1": 34,
+  "2": 5,
+  "3": 1
+ },
+ "top10": [
+  {
+   "person": "Demis Hassabis",
+   "criteria": "C2,C3,C4",
+   "n_criteria": 3,
+   "strength": 3,
+   "outcomes": 2,
+   "rank": 1
+  },
+  {
+   "person": "Alex Zhavoronkov",
+   "criteria": "C1,C4",
+   "n_criteria": 2,
+   "strength": 3,
+   "outcomes": 3,
+   "rank": 2
+  },
+  {
+   "person": "John Jumper",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "strength": 3,
+   "outcomes": 2,
+   "rank": 3
+  },
+  {
+   "person": "Josh Abramson",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "strength": 3,
+   "outcomes": 2,
+   "rank": 3
+  },
+  {
+   "person": "Max Jaderberg",
+   "criteria": "C2,C3",
+   "n_criteria": 2,
+   "strength": 3,
+   "outcomes": 2,
+   "rank": 3
+  },
+  {
+   "person": "Eric Kelsic",
+   "criteria": "C2,C4",
+   "n_criteria": 2,
+   "strength": 1,
+   "outcomes": 2,
+   "rank": 6
+  },
+  {
+   "person": "Bryan E. Jones",
+   "criteria": "C1",
+   "n_criteria": 1,
+   "strength": 3,
+   "outcomes": 1,
+   "rank": 7
+  },
+  {
+   "person": "Cohen F [10.64898/2026.08.01.740538]",
+   "criteria": "C1",
+   "n_criteria": 1,
+   "strength": 3,
+   "outcomes": 1,
+   "rank": 7
+  },
+  {
+   "person": "Ester Falconer",
+   "criteria": "C1",
+   "n_criteria": 1,
+   "strength": 3,
+   "outcomes": 1,
+   "rank": 7
+  },
+  {
+   "person": "Noviski M [10.64898/2026.08.01.740538]",
+   "criteria": "C1",
+   "n_criteria": 1,
+   "strength": 3,
+   "outcomes": 1,
+   "rank": 7
+  },
+  {
+   "person": "Zuojun Xu",
+   "criteria": "C1",
+   "n_criteria": 1,
+   "strength": 3,
+   "outcomes": 1,
+   "rank": 7
+  }
+ ],
+ "tied_at_cut": 5,
+ "cut_rank": 7,
+ "sensitivity_all_coauthors": 200
+}

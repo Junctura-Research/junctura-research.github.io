@@ -1,0 +1,21 @@
+rank,drugmaker,core_deals_with_terms,core_deals_without_terms,core_without_terms_explicit_ai,core_without_terms_partners,other_deals_without_terms,other_without_terms_partners,meets_strict_cycle008,meets_strict_if_no_terms_counted
+1,Eli Lilly,6,1,1,"OpenAI (discovery collaboration, 2024-06-25)",5,Insilico Medicine (2025-11-10); XtalPi (2026-08-19); Chai Discovery (2026-01-09); insitro (2024-10-09); insitro (2025-09-09),yes,yes
+2,Merck & Co.,3,0,0,,1,Turbine (2025-08-04),yes,yes
+3,Pfizer,3,2,2,"Insilico Medicine (discovery collaboration, 2020-01-14); PostEra (discovery collaboration, 2020-12-07)",3,XtalPi (2018-05-08); XtalPi (2025-06-29); Chai Discovery (2026-06-04),yes,yes
+4,AbbVie,2,0,0,,0,,yes,yes
+5,Johnson & Johnson,1,1,1,"Isomorphic Labs (discovery collaboration, 2026-01-20)",1,Insilico Medicine (2025-12-18),yes,yes
+6,AstraZeneca,6,1,1,"Nabla Bio (discovery collaboration, 2024-05-14)",0,,yes,yes
+7,Roche,7,2,2,"Reverie Labs (discovery collaboration, 2020-07-08); Genesis Therapeutics (discovery collaboration, 2020-10-19)",0,,yes,yes
+8,Novartis,5,1,1,"Isomorphic Labs (discovery collaboration, 2025-02-18)",1,Deciphex (2024-04-23),yes,yes
+9,Sanofi,7,0,0,,1,Formation Bio; OpenAI (2024-05-21),yes,yes
+10,Bristol Myers Squibb,2,3,3,"Nabla Bio (discovery collaboration, 2024-05-14); insitro (discovery collaboration, 2025-10-14); insitro (discovery collaboration, 2026-03-23)",0,,yes,yes
+11,Novo Nordisk,3,1,1,"Insilico Medicine (discovery collaboration, 2025-12-18)",1,OpenAI (2026-04-14),yes,yes
+12,GSK,0,0,0,,0,,yes,yes
+13,Amgen,1,1,1,"PostEra (discovery collaboration, 2023-11-16)",0,,no,yes
+14,Boehringer Ingelheim,1,0,0,,0,,yes,yes
+15,Takeda,3,1,1,"Nabla Bio (discovery collaboration, 2024-05-14)",0,,yes,yes
+16,Gilead,4,1,1,"Terray Therapeutics (discovery collaboration, 2024-12-17)",0,,yes,yes
+17,Bayer,2,1,1,"Aignostics (discovery collaboration, 2024-03-14)",1,Cradle (2026-01-07),yes,yes
+18,Teva,0,2,2,"Insilico Medicine (discovery collaboration, 2021-06-22); Biolojic Design (asset license, 2023-12-14)",1,AION Labs (2021-10-13),no,yes
+19,CSL,0,0,0,,0,,no,no
+20,Regeneron,1,0,0,,0,,no,no

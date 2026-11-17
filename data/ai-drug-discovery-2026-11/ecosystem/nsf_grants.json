@@ -1,0 +1,127 @@
+{
+ "retrieved": "2026-11-15",
+ "source": "https://api.nsf.gov/services/v1/awards.json",
+ "note": "dateStart/dateEnd filter on award date",
+ "pairs": {
+  "AI x Biotech": {
+   "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"neural network\") AND (clinical OR patient OR drug OR therapeutic OR diagnostic OR medical)",
+   "by_award_year": {
+    "2020": 343,
+    "2021": 307,
+    "2022": 352,
+    "2023": 370,
+    "2024": 330,
+    "2025": 364
+   },
+   "method": "single query"
+  },
+  "AI x Energy": {
+   "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"neural network\") AND (photovoltaic OR \"solar cell\" OR \"power generation\" OR \"energy efficiency\" OR \"fusion energy\" OR \"fusion power\" OR \"nuclear reactor\" OR \"wind turbine\" OR \"power grid\")",
+   "by_award_year": {
+    "2020": 72,
+    "2021": 81,
+    "2022": 110,
+    "2023": 131,
+    "2024": 103,
+    "2025": 89
+   },
+   "method": "union of chunked queries"
+  },
+  "AI x Space": {
+   "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"neural network\") AND (satellite OR spacecraft OR \"space station\" OR \"low earth orbit\" OR microgravity)",
+   "by_award_year": {
+    "2020": 34,
+    "2021": 42,
+    "2022": 49,
+    "2023": 47,
+    "2024": 82,
+    "2025": 78
+   },
+   "method": "single query"
+  },
+  "AI x Quantum": {
+   "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"neural network\") AND (\"quantum computing\" OR \"quantum computer\" OR qubit OR \"quantum sensing\" OR \"quantum sensor\" OR \"quantum communication\" OR \"quantum key distribution\")",
+   "by_award_year": {
+    "2020": 31,
+    "2021": 32,
+    "2022": 51,
+    "2023": 42,
+    "2024": 67,
+    "2025": 74
+   },
+   "method": "single query"
+  },
+  "Biotech x Energy": {
+   "query": "(clinical OR patient OR drug OR therapeutic OR diagnostic OR medical) AND (photovoltaic OR \"solar cell\" OR \"power generation\" OR \"energy efficiency\" OR \"fusion energy\" OR \"fusion power\" OR \"nuclear reactor\" OR \"wind turbine\" OR \"power grid\")",
+   "by_award_year": {
+    "2020": 18,
+    "2021": 18,
+    "2022": 20,
+    "2023": 20,
+    "2024": 25,
+    "2025": 18
+   },
+   "method": "single query"
+  },
+  "Biotech x Space": {
+   "query": "(clinical OR patient OR drug OR therapeutic OR diagnostic OR medical) AND (satellite OR spacecraft OR \"space station\" OR \"low earth orbit\" OR microgravity)",
+   "by_award_year": {
+    "2020": 10,
+    "2021": 9,
+    "2022": 13,
+    "2023": 13,
+    "2024": 22,
+    "2025": 12
+   },
+   "method": "single query"
+  },
+  "Biotech x Quantum": {
+   "query": "(clinical OR patient OR drug OR therapeutic OR diagnostic OR medical) AND (\"quantum computing\" OR \"quantum computer\" OR qubit OR \"quantum sensing\" OR \"quantum sensor\" OR \"quantum communication\" OR \"quantum key distribution\")",
+   "by_award_year": {
+    "2020": 14,
+    "2021": 11,
+    "2022": 14,
+    "2023": 12,
+    "2024": 27,
+    "2025": 26
+   },
+   "method": "single query"
+  },
+  "Energy x Space": {
+   "query": "(photovoltaic OR \"solar cell\" OR \"power generation\" OR \"energy efficiency\" OR \"fusion energy\" OR \"fusion power\" OR \"nuclear reactor\" OR \"wind turbine\" OR \"power grid\") AND (satellite OR spacecraft OR \"space station\" OR \"low earth orbit\" OR microgravity)",
+   "by_award_year": {
+    "2020": 2,
+    "2021": 10,
+    "2022": 12,
+    "2023": 7,
+    "2024": 12,
+    "2025": 6
+   },
+   "method": "union of chunked queries"
+  },
+  "Energy x Quantum": {
+   "query": "(photovoltaic OR \"solar cell\" OR \"power generation\" OR \"energy efficiency\" OR \"fusion energy\" OR \"fusion power\" OR \"nuclear reactor\" OR \"wind turbine\" OR \"power grid\") AND (\"quantum computing\" OR \"quantum computer\" OR qubit OR \"quantum sensing\" OR \"quantum sensor\" OR \"quantum communication\" OR \"quantum key distribution\")",
+   "by_award_year": {
+    "2020": 3,
+    "2021": 4,
+    "2022": 14,
+    "2023": 5,
+    "2024": 9,
+    "2025": 4
+   },
+   "method": "union of chunked queries"
+  },
+  "Space x Quantum": {
+   "query": "(satellite OR spacecraft OR \"space station\" OR \"low earth orbit\" OR microgravity) AND (\"quantum computing\" OR \"quantum computer\" OR qubit OR \"quantum sensing\" OR \"quantum sensor\" OR \"quantum communication\" OR \"quantum key distribution\")",
+   "by_award_year": {
+    "2020": 1,
+    "2021": 4,
+    "2022": 0,
+    "2023": 1,
+    "2024": 4,
+    "2025": 1
+   },
+   "method": "single query"
+  }
+ }
+}

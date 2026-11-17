@@ -1,0 +1,14 @@
+{
+ "open_trials": 39,
+ "candidates": 18,
+ "confidence": {
+  "low": 26,
+  "medium": 13
+ },
+ "written_rule": {
+  "low": 21,
+  "medium": 18
+ },
+ "passed_before_2026_11_17": 9,
+ "dates_2025_2026": 10
+}
